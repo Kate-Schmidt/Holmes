@@ -1,0 +1,30 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = book
+
+book = element book {preText, (author | title | tableOfContents)+, story, postText}
+
+preText = element preText{text}
+postText = element postText{text}
+
+author = element author {"Author Conan Doyle"}
+
+title = element title{text}
+
+tableOfContents = element tableOfContents {tocTitle, storyTitle+}
+    tocTitle = element tocTitle{text}
+    
+story = element story {storyTitle, (partNum | p)+}
+    storyTitle = element storyTitle{num, text}
+        num = attribute num {text}
+    partNum = element partNum{section}
+        section = attribute section{text}
+        
+p = element p {(text, person, quote, location)+}
+        person = element person{perName, text}
+            perName = attribute perName{text}
+        quote = element quote{spokeBy, (person | location | text)+}
+            spokeBy = attribute spokeBy{text}
+        location = element location {text}
+
+#This is a rough draft. Will definitely be updated. - AD
