@@ -2,28 +2,28 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = book
 
-book = element book {preText, (title | author | tableOfContents)+, part, postText}
+book = element book {preText, header, (title | author | tableOfContents)+, part+, postText}
 
 preText = element preText{text}
 postText = element postText{text}
 
+header = element header {(text | title | author)+}
+
 title = element title{text}
 
-author = element author{"Author Conan Doyle"}
+author = element author{text}
 
-tableOfContents = element tableOfContents { tocTitle, (part | chapterTitle)+}
+tableOfContents = element tableOfContents {text}
 
-tocTitle = element tocTitle {text}
-
-part = element part {partTitle, chapter}
+part = element part {num, partTitle, chapter+}
 
 partTitle = element partTitle{text}
 
-chapter = element chapter{chapterTitle, p}
-    chapterTitle = element chapterTitle{number, text}
-        number = attribute number{text}
-
-    p = element p{(text, person, quote, location)+}
+chapter = element chapter{num,chapterTitle, p+}
+    num = attribute num{text}
+    chapterTitle = element chapterTitle{text}
+        
+    p = element p{(text | person | quote | location)+}
         person = element person{perName, text}
             perName = attribute perName{text}
         quote = element quote{spokeBy, (person | location | text)+}
@@ -31,3 +31,4 @@ chapter = element chapter{chapterTitle, p}
         location = element location {text}
         
 #This is a rough draft. Will definitely be updated. - AD
+#AD [3/2/23] - Edited
