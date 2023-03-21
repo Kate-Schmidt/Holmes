@@ -4,17 +4,18 @@ declare variable $doubleLine := concat($linefeed,$linefeed);
 declare variable $tab := "&#9;";     (: note: global variables come at top of doc and line ends with semicolon :)
 declare variable $stories := //story;
 
-for $story in $stories
+for $story in $stories (: Iterate through the list of short stories :)
 
-let $title := $story/storyTitle
-let $speakers := $story//quote/@spokeBy => distinct-values()
+let $title := $story/storyTitle (:Get the title of the short story :)
+let $speakers := $story//quote/@spokeBy => distinct-values() (: Get a distinct list of speakers in this short story :)
     
-   for $speaker in $speakers
+   for $speaker in $speakers (: Iterate through the list of speakers for each short story :)
         
-        let $quotes := $story//quote[@spokeBy=$speaker]
-        for $quote in $quotes
+        let $quotes := $story//quote[@spokeBy=$speaker] (: Make a list of all quotes for the speaker in the short story :)
+        for $quote in $quotes (: Iterate through each quote for the speaker :)
         
+        (: Display what story the quote is found in, who spoke the quote, and then the quote itself :)
             return ('Short Story:',$tab,$title, 
             $doubleLine, 'Speaker:', $tab, $speaker,
-            $doubleLine, 'Quote:', $tab, $quote, $doubleLine)
+            $doubleLine, 'Quote:', $tab, $quote, $doubleLine) 
 
