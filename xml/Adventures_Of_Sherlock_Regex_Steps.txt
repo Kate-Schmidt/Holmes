@@ -25,6 +25,28 @@ These are instructions to help markup Sherlock Holmes short story collections us
 	Find: "(.+?)["<] - Turn on dot matches all
 	Replace: <quote spokeBy="">\1</quote>
 
+*** Clean up @spokeBy
+
+	Find: quote spokeBy=""
+	Enter name in quotes:
+
+- Sherlock_Holmes
+- John_Watson
+- Lestrade
+- Irene_Adler
+- Jabez_Wilson
+- Mary_Sutherland
+- Charles_McCarthy
+- James_McCarthy
+- Alice_McCarthy
+- John_Turner
+- John_Openshaw
+- Count_Von_Kramm (Change to Wilhelm_Ormstein)
+- Unknown
+- Jones (Mr. Jones)
+- Merryweather (Mr. Merryweather)
+- John_Clay
+
 *** Clean up broken end </p> tags:
 	
 	Find: /p>
