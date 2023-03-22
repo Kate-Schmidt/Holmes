@@ -1,6 +1,10 @@
-declare default element namespace "http://www.tei-c.org/ns/1.0";  (:needed because our input XML is TEI:)
 declare option saxon:output "method=text";  (:will create a text output stripping out XML element tags etc. :)
+declare variable $linefeed := "&#10;"; 
+declare variable $tab := "&#9;"; 
 
-let $p := /section
-for $p in /section
-return ($p/text)
+let $stories := //story
+for $story in $stories
+    let $title := $story/storyTitle
+    let $p := $story//p
+    let $p-count := $p=>count()
+    return ($title, $tab, $p-count, $linefeed)
