@@ -20,6 +20,6 @@ for $chapter in $chapters
         
         where $charCount > 0
     
-        return ($char, $charCount,$linefeed)
+        return (replace($char, "_", " "), $charCount, $linefeed)
         
         ,$doubleLine)
