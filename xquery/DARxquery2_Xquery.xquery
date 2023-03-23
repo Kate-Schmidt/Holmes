@@ -7,12 +7,11 @@ let $chapters := //book/part/chapter
 for $chapter in $chapters
     (:Initialized chapTitle, chars, char count variables:)
     let $chapTitle := $chapter/chapterTitle
-    let $chars := $chapter/p/person
+    let $chars := ($chapter/p/person)
     let $charCount := $chars=>count()
     (:Ordering the output by character count:)
     order by $charCount descending 
     (:Using where statement to only include character-dense chapters:)
     where $charCount > 15
     (:Looping through and counting number of characters & returning the information per each chapter:)
-    for $char in $chars
-    return ($chapTitle, $charCount, $tab, $char, $tab, $linefeed)
+    return ($chapTitle, $charCount, $tab, $chars, $tab, $linefeed)
