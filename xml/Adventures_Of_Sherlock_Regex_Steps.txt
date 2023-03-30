@@ -30,6 +30,8 @@ These are instructions to help markup Sherlock Holmes short story collections us
 	Find: quote spokeBy=""
 	Enter name in quotes:
 
+**********************************************************************
+
 - Sherlock_Holmes
 - John_Watson
 - Lestrade
@@ -41,11 +43,15 @@ These are instructions to help markup Sherlock Holmes short story collections us
 - Alice_McCarthy
 - John_Turner
 - John_Openshaw
-- Count_Von_Kramm (Change to Wilhelm_Ormstein)
+- Count_Von_Kramm (Change to Wilhelm_Ormstein New <person>) not done
 - Unknown
-- Jones (Mr. Jones)
-- Merryweather (Mr. Merryweather)
-- John_Clay
+- Jones (Mr. Jones New <person>) not done
+- Merryweather (Mr. Merryweather new <person>) not done
+- John_Clay (New <person>) not done
+- Hosmer_Angel (New <person>) not done
+- Mr. Windibank (New <person>) not done
+
+**********************************************************************
 
 *** Clean up broken end </p> tags:
 	
