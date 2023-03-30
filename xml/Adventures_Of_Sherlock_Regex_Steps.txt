@@ -49,7 +49,11 @@ These are instructions to help markup Sherlock Holmes short story collections us
 - Merryweather (Mr. Merryweather new <person>) not done
 - John_Clay (New <person>) not done
 - Hosmer_Angel (New <person>) not done
-- Mr. Windibank (New <person>) not done
+- James_Windibank (New <person>) not done
+- Mary_Watson (New <person>) not done
+- Miss_Turner (Alice Turner New <person>) not done
+- Kate_Whitney (New <person>) not done
+- Isa Whitney (New <person>) not done
 
 **********************************************************************
 
