@@ -702,7 +702,7 @@ processes by which he had arrived at them they might well consider him
 as a necromancer.
 </p>
 
-<p><quote spokeBy="">From a drop of water,</quote> said the writer, <quote spokeBy="">a logician could infer the
+<p><quote spokeBy="Unknown">From a drop of water,</quote> said the writer, <quote spokeBy="Unknown">a logician could infer the
 possibility of an Atlantic or a Niagara without having seen or heard of
 one or the other. So all life is a great chain, the nature of which is
 known whenever we are shown a single link of it. Like all other arts,
@@ -744,19 +744,19 @@ him.</quote>
 the article I wrote it myself.</quote>
 </p>
 
-<p><quote spokeBy="">You!</quote>
+<p><quote spokeBy="John_Watson">You!</quote>
 </p>
 
-<p><quote spokeBy="">Yes, I have a turn both for observation and for deduction. The
+<p><quote spokeBy="Sherlock_Holmes">Yes, I have a turn both for observation and for deduction. The
 theories which I have expressed there, and which appear to you to be so
 chimerical are really extremely practical—so practical that I depend
 upon them for my bread and cheese.</quote>
 </p>
 
-<p><quote spokeBy="">And how?</quote> I asked involuntarily.
+<p><quote spokeBy="John_Watson">And how?</quote> I asked involuntarily.
 </p>
 
-<p><quote spokeBy="">Well, I have a trade of my own. I suppose I am the only one in the
+<p><quote spokeBy="Sherlock_Holmes">Well, I have a trade of my own. I suppose I am the only one in the
 world. I’m a consulting detective, if you can understand what that is.
 Here in London we have lots of Government detectives and lots of
 private ones. When these fellows are at fault they come to me, and I
@@ -769,21 +769,21 @@ finger ends, it is odd if you can’t unravel the thousand and first.
 over a forgery case, and that was what brought him here.</quote>
 </p>
 
-<p><quote spokeBy="">And these other people?</quote>
+<p><quote spokeBy="John_Watson">And these other people?</quote>
 </p>
 
-<p><quote spokeBy="">They are mostly sent on by private inquiry agencies. They are all
+<p><quote spokeBy="Sherlock_Holmes">They are mostly sent on by private inquiry agencies. They are all
 people who are in trouble about something, and want a little
 enlightening. I listen to their story, they listen to my comments, and
 then I pocket my fee.</quote>
 </p>
 
-<p><quote spokeBy="">But do you mean to say,</quote> I said, <quote spokeBy="">that without leaving your room you
+<p><quote spokeBy="John_Watson">But do you mean to say,</quote> I said, <quote spokeBy="John_Watson">that without leaving your room you
 can unravel some knot which other men can make nothing of, although
 they have seen every detail for themselves?</quote>
 </p>
 
-<p><quote spokeBy="">Quite so. I have a kind of intuition that way. Now and again a case
+<p><quote spokeBy="Sherlock_Holmes">Quite so. I have a kind of intuition that way. Now and again a case
 turns up which is a little more complex. Then I have to bustle about
 and see things with my own eyes. You see I have a lot of special
 knowledge which I apply to the problem, and which facilitates matters
@@ -793,10 +793,10 @@ with me is second nature. You appeared to be surprised when I told you,
 on our first meeting, that you had come from Afghanistan.</quote>
 </p>
 
-<p><quote spokeBy="">You were told, no doubt.</quote>
+<p><quote spokeBy="John_Watson">You were told, no doubt.</quote>
 </p>
 
-<p><quote spokeBy="">Nothing of the sort. I _knew_ you came from Afghanistan. From long
+<p><quote spokeBy="Sherlock_Holmes">Nothing of the sort. I _knew_ you came from Afghanistan. From long
 habit the train of thoughts ran so swiftly through my mind, that I
 arrived at the conclusion without being conscious of intermediate
 steps. There were such steps, however. The train of reasoning ran,
@@ -811,13 +811,13 @@ Afghanistan.’ The whole train of thought did not occupy a second. I
 then remarked that you came from Afghanistan, and you were astonished.</quote>
 </p>
 
-<p><quote spokeBy="">It is simple enough as you explain it,</quote> I said, smiling. <quote spokeBy="">You remind
+<p><quote spokeBy="John_Watson">It is simple enough as you explain it,</quote> I said, smiling. <quote spokeBy="">You remind
 me of Edgar Allen Poe’s Dupin. I had no idea that such individuals did
 exist outside of stories.</quote>
 </p>
 
-<p><person perName="Sherlock_Holmes">Sherlock Holmes</person> rose and lit his pipe. <quote spokeBy="">No doubt you think that you are
-complimenting me in comparing me to Dupin,</quote> he observed. <quote spokeBy="">Now, in my
+<p><person perName="Sherlock_Holmes">Sherlock Holmes</person> rose and lit his pipe. <quote spokeBy="Sherlock_Holmes">No doubt you think that you are
+complimenting me in comparing me to Dupin,</quote> he observed. <quote spokeBy="Sherlock_Holmes">Now, in my
 opinion, Dupin was a very inferior fellow. That trick of his of
 breaking in on his friends’ thoughts with an apropos remark after a
 quarter of an hour’s silence is really very showy and superficial. He
@@ -825,12 +825,12 @@ had some analytical genius, no doubt; but he was by no means such a
 phenomenon as Poe appeared to imagine.</quote>
 </p>
 
-<p><quote spokeBy="">Have you read Gaboriau’s works?</quote> I asked. <quote spokeBy="">Does Lecoq come up to your
+<p><quote spokeBy="John_Watson">Have you read Gaboriau’s works?</quote> I asked. <quote spokeBy="John_Watson">Does Lecoq come up to your
 idea of a detective?</quote>
 </p>
 
-<p><person perName="Sherlock_Holmes">Sherlock Holmes</person> sniffed sardonically. <quote spokeBy="">Lecoq was a miserable bungler,</quote>
-he said, in an angry voice; <quote spokeBy="">he had only one thing to recommend him,
+<p><person perName="Sherlock_Holmes">Sherlock Holmes</person> sniffed sardonically. <quote spokeBy="Sherlock_Holmes">Lecoq was a miserable bungler,</quote>
+he said, in an angry voice; <quote spokeBy="Sherlock_Holmes">he had only one thing to recommend him,
 and that was his energy. That book made me positively ill. The question
 was how to identify an unknown prisoner. I could have done it in
 twenty-four hours. Lecoq took six months or so. It might be made a
@@ -839,12 +839,12 @@ text-book for detectives to teach them what to avoid.</quote>
 
 <p>I felt rather indignant at having two characters whom I had admired
 treated in this cavalier style. I walked over to the window, and stood
-looking out into the busy street. <quote spokeBy="">This fellow may be very clever,</quote> I
-said to myself, <quote spokeBy="">but he is certainly very conceited.</quote>
+looking out into the busy street. <quote spokeBy="John_Watson">This fellow may be very clever,</quote> I
+said to myself, <quote spokeBy="John_Watson">but he is certainly very conceited.</quote>
 </p>
 
-<p><quote spokeBy="">There are no crimes and no criminals in these days,</quote> he said,
-querulously. <quote spokeBy="">What is the use of having brains in our profession. I
+<p><quote spokeBy="Sherlock_Holmes">There are no crimes and no criminals in these days,</quote> he said,
+querulously. <quote spokeBy="Sherlock_Holmes">What is the use of having brains in our profession. I
 know well that I have it in me to make my name famous. No man lives or
 has ever lived who has brought the same amount of study and of natural
 talent to the detection of crime which I have done. And what is the
@@ -857,17 +857,17 @@ official can see through it.</quote>
 it best to change the topic.
 </p>
 
-<p><quote spokeBy="">I wonder what that fellow is looking for?</quote> I asked, pointing to a
+<p><quote spokeBy="John_Watson">I wonder what that fellow is looking for?</quote> I asked, pointing to a
 stalwart, plainly-dressed individual who was walking slowly down the
 other side of the street, looking anxiously at the numbers. He had a
 large blue envelope in his hand, and was evidently the bearer of a
 message.
 </p>
 
-<p><quote spokeBy="">You mean the retired sergeant of Marines,</quote> said <person perName="Sherlock_Holmes">Sherlock Holmes</person>.
+<p><quote spokeBy="Sherlock_Holmes">You mean the retired sergeant of Marines,</quote> said <person perName="Sherlock_Holmes">Sherlock Holmes</person>.
 </p>
 
-<p><quote spokeBy="">Brag and bounce!</quote> thought I to myself. <quote spokeBy="">He knows that I cannot verify
+<p><quote spokeBy="John_Watson">Brag and bounce!</quote> thought I to myself. <quote spokeBy="John_Watson">He knows that I cannot verify
 his guess.</quote>
 </p>
 
@@ -877,23 +877,23 @@ the roadway. We heard a loud knock, a deep voice below, and heavy steps
 ascending the stair.
 </p>
 
-<p><quote spokeBy="">For <person perName="Sherlock_Holmes">Mr. Sherlock Holmes</person>,</quote> he said, stepping into the room and handing
+<p><quote spokeBy="Unknown">For <person perName="Sherlock_Holmes">Mr. Sherlock Holmes</person>,</quote> he said, stepping into the room and handing
 my friend the letter.
 </p>
 
 <p>Here was an opportunity of taking the conceit out of him. He little
-thought of this when he made that random shot. <quote spokeBy="">May I ask, my lad,</quote> I
-said, in the blandest voice, <quote spokeBy="">what your trade may be?</quote>
+thought of this when he made that random shot. <quote spokeBy="John_Watson">May I ask, my lad,</quote> I
+said, in the blandest voice, <quote spokeBy="John_Watson">what your trade may be?</quote>
 </p>
 
-<p><quote spokeBy="">Commissionaire, sir,</quote> he said, gruffly. <quote spokeBy="">Uniform away for repairs.</quote>
+<p><quote spokeBy="Unknown">Commissionaire, sir,</quote> he said, gruffly. <quote spokeBy="Unknown">Uniform away for repairs.</quote>
 </p>
 
-<p><quote spokeBy="">And you were?</quote> I asked, with a slightly malicious glance at my
+<p><quote spokeBy="John_Watson">And you were?</quote> I asked, with a slightly malicious glance at my
 companion.
 </p>
 
-<p><quote spokeBy="">A sergeant, sir, Royal Marine Light Infantry, sir. No answer? Right,
+<p><quote spokeBy="Unknown">A sergeant, sir, Royal Marine Light Infantry, sir. No answer? Right,
 sir.</quote>
 </p>
 
@@ -925,25 +925,25 @@ had finished reading the note, and his eyes had assumed the vacant,
 lack-lustre expression which showed mental abstraction.
 </p>
 
-<p><quote spokeBy="">How in the world did you deduce that?</quote> I asked.
+<p><quote spokeBy="John_Watson">How in the world did you deduce that?</quote> I asked.
 </p>
 
-<p><quote spokeBy="">Deduce what?</quote> said he, petulantly.
+<p><quote spokeBy="Sherlock_Holmes">Deduce what?</quote> said he, petulantly.
 </p>
 
-<p><quote spokeBy="">Why, that he was a retired sergeant of Marines.</quote>
+<p><quote spokeBy="John_Watson">Why, that he was a retired sergeant of Marines.</quote>
 </p>
 
-<p><quote spokeBy="">I have no time for trifles,</quote> he answered, brusquely; then with a
-smile, <quote spokeBy="">Excuse my rudeness. You broke the thread of my thoughts; but
+<p><quote spokeBy="Sherlock_Holmes">I have no time for trifles,</quote> he answered, brusquely; then with a
+smile, <quote spokeBy="Sherlock_Holmes">Excuse my rudeness. You broke the thread of my thoughts; but
 perhaps it is as well. So you actually were not able to see that that
 man was a sergeant of Marines?</quote>
 </p>
 
-<p><quote spokeBy="">No, indeed.</quote>
+<p><quote spokeBy="John_Watson">No, indeed.</quote>
 </p>
 
-<p><quote spokeBy="">It was easier to know it than to explain why I knew it. If you were
+<p><quote spokeBy="Sherlock_Holmes">It was easier to know it than to explain why I knew it. If you were
 asked to prove that two and two made four, you might find some
 difficulty, and yet you are quite sure of the fact. Even across the
 street I could see a great blue anchor tattooed on the back of the
@@ -955,29 +955,29 @@ cane. A steady, respectable, middle-aged man, too, on the face of
 him—all facts which led me to believe that he had been a sergeant.</quote>
 </p>
 
-<p><quote spokeBy="">Wonderful!</quote> I ejaculated.
+<p><quote spokeBy="John_Watson">Wonderful!</quote> I ejaculated.
 </p>
 
-<p><quote spokeBy="">Commonplace,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, though I thought from his expression that
-he was pleased at my evident surprise and admiration. <quote spokeBy="">I said just now
+<p><quote spokeBy="Sherlock_Holmes">Commonplace,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, though I thought from his expression that
+he was pleased at my evident surprise and admiration. <quote spokeBy="Sherlock_Holmes">I said just now
 that there were no criminals. It appears that I am wrong—look at this!</quote>
 He threw me over the note which the commissionaire had brought.
 </p>
 
-<p><quote spokeBy="">Why,</quote> I cried, as I cast my eye over it, <quote spokeBy="">this is terrible!</quote>
+<p><quote spokeBy="John_Watson">Why,</quote> I cried, as I cast my eye over it, <quote spokeBy="John_Watson">this is terrible!</quote>
 </p>
 
-<p><quote spokeBy="">It does seem to be a little out of the common,</quote> he remarked, calmly.
-<quote spokeBy="">Would you mind reading it to me aloud?</quote>
+<p><quote spokeBy="Sherlock_Holmes">It does seem to be a little out of the common,</quote> he remarked, calmly.
+<quote spokeBy="Sherlock_Holmes">Would you mind reading it to me aloud?</quote>
 </p>
 
 <p>This is the letter which I read to him—
 </p>
 
-<p><quote spokeBy="">MY DEAR MR. SHERLOCK HOLMES,—
+<p><quote spokeBy="John_Watson">MY DEAR MR. SHERLOCK HOLMES,—
 </quote></p>
 
-<p><quote spokeBy="">There has been a bad business during the night at 3, Lauriston
+<p><quote spokeBy="John_Watson">There has been a bad business during the night at 3, Lauriston
 Gardens, off the Brixton Road. Our man on the beat saw a light there
 about two in the morning, and as the house was an empty one, suspected
 that something was amiss. He found the door open, and in the front
@@ -995,38 +995,38 @@ favour me with your opinion.
 </quote></p>
 
 <p>              Yours faithfully,
-                  <quote spokeBy="">TOBIAS GREGSON.</quote>
+                  <person perName="Tobias_Gregson">TOBIAS GREGSON.</person>
 </p>
 
-<p><quote spokeBy=""><person perName="Tobias_Gregson">Gregson</person> is the smartest of the Scotland Yarders,</quote> my friend remarked;
-<quote spokeBy="">he and <person perName="Lestrade">Lestrade</person> are the pick of a bad lot. They are both quick and
+<p><quote spokeBy="Sherlock_Holmes"><person perName="Tobias_Gregson">Gregson</person> is the smartest of the Scotland Yarders,</quote> my friend remarked;
+<quote spokeBy="Sherlock_Holmes">he and <person perName="Lestrade">Lestrade</person> are the pick of a bad lot. They are both quick and
 energetic, but conventional—shockingly so. They have their knives into
 one another, too. They are as jealous as a pair of professional
 beauties. There will be some fun over this case if they are both put
 upon the scent.</quote>
 </p>
 
-<p>I was amazed at the calm way in which he rippled on. <quote spokeBy="">Surely there is
-not a moment to be lost,</quote> I cried, <quote spokeBy="">shall I go and order you a cab?</quote>
+<p>I was amazed at the calm way in which he rippled on. <quote spokeBy="John_Watson">Surely there is
+not a moment to be lost,</quote> I cried, <quote spokeBy="John_Watson">shall I go and order you a cab?</quote>
 </p>
 
-<p><quote spokeBy="">I’m not sure about whether I shall go. I am the most incurably lazy
+<p><quote spokeBy="Sherlock_Holmes">I’m not sure about whether I shall go. I am the most incurably lazy
 devil that ever stood in shoe leather—that is, when the fit is on me,
 for I can be spry enough at times.</quote>
 </p>
 
-<p><quote spokeBy="">Why, it is just such a chance as you have been longing for.</quote>
+<p><quote spokeBy="John_Watson">Why, it is just such a chance as you have been longing for.</quote>
 </p>
 
-<p><quote spokeBy="">My dear fellow, what does it matter to me. Supposing I unravel the
+<p><quote spokeBy="Sherlock_Holmes">My dear fellow, what does it matter to me. Supposing I unravel the
 whole matter, you may be sure that <person perName="Tobias_Gregson">Gregson</person>, <person perName="Lestrade">Lestrade</person>, and Co. will
 pocket all the credit. That comes of being an unofficial personage.</quote>
 </p>
 
-<p><quote spokeBy="">But he begs you to help him.</quote>
+<p><quote spokeBy="John_Watson">But he begs you to help him.</quote>
 </p>
 
-<p><quote spokeBy="">Yes. He knows that I am his superior, and acknowledges it to me; but
+<p><quote spokeBy="Sherlock_Holmes">Yes. He knows that I am his superior, and acknowledges it to me; but
 he would cut his tongue out before he would own it to any third person.
 However, we may as well go and have a look. I shall work it out on my
 own hook. I may have a laugh at them if I have nothing else. Come on!</quote>
@@ -1036,13 +1036,13 @@ own hook. I may have a laugh at them if I have nothing else. Come on!</quote>
 an energetic fit had superseded the apathetic one.
 </p>
 
-<p><quote spokeBy="">Get your hat,</quote> he said.
+<p><quote spokeBy="Sherlock_Holmes">Get your hat,</quote> he said.
 </p>
 
-<p><quote spokeBy="">You wish me to come?</quote>
+<p><quote spokeBy="John_Watson">You wish me to come?</quote>
 </p>
 
-<p><quote spokeBy="">Yes, if you have nothing better to do.</quote> A minute later we were both in
+<p><quote spokeBy="Sherlock_Holmes">Yes, if you have nothing better to do.</quote> A minute later we were both in
 a hansom, driving furiously for the Brixton Road.
 </p>
 
@@ -1054,20 +1054,20 @@ Amati. As for myself, I was silent, for the dull weather and the
 melancholy business upon which we were engaged, depressed my spirits.
 </p>
 
-<p><quote spokeBy="">You don’t seem to give much thought to the matter in hand,</quote> I said at
+<p><quote spokeBy="John_Watson">You don’t seem to give much thought to the matter in hand,</quote> I said at
 last, interrupting <person perName="Sherlock_Holmes">Holmes</person>’ musical disquisition.
 </p>
 
-<p><quote spokeBy="">No data yet,</quote> he answered. <quote spokeBy="">It is a capital mistake to theorize before
+<p><quote spokeBy="Sherlock_Holmes">No data yet,</quote> he answered. <quote spokeBy="Sherlock_Holmes">It is a capital mistake to theorize before
 you have all the evidence. It biases the judgment.</quote>
 </p>
 
-<p><quote spokeBy="">You will have your data soon,</quote> I remarked, pointing with my finger;
-<quote spokeBy="">this is the Brixton Road, and that is the house, if I am not very much
+<p><quote spokeBy="John_Watson">You will have your data soon,</quote> I remarked, pointing with my finger;
+<quote spokeBy="John_Watson">this is the Brixton Road, and that is the house, if I am not very much
 mistaken.</quote>
 </p>
 
-<p><quote spokeBy="">So it is. Stop, driver, stop!</quote> We were still a hundred yards or so
+<p><quote spokeBy="Sherlock_Holmes">So it is. Stop, driver, stop!</quote> We were still a hundred yards or so
 from it, but he insisted upon our alighting, and we finished our
 journey upon foot.
 </p>
@@ -1076,7 +1076,7 @@ journey upon foot.
 was one of four which stood back some little way from the street, two
 being occupied and two empty. The latter looked out with three tiers of
 vacant melancholy windows, which were blank and dreary, save that here
-and there a <quote spokeBy="">To Let</quote> card had developed like a cataract upon the
+and there a "To Let" card had developed like a cataract upon the
 bleared panes. A small garden sprinkled over with a scattered eruption
 of sickly plants separated each of these houses from the street, and
 was traversed by a narrow pathway, yellowish in colour, and consisting
@@ -1108,35 +1108,35 @@ could see a great deal which was hidden from me.
 
 <p>At the door of the house we were met by a tall, white-faced,
 flaxen-haired man, with a notebook in his hand, who rushed forward and
-wrung my companion’s hand with effusion. <quote spokeBy="">It is indeed kind of you to
-come,</quote> he said, <quote spokeBy="">I have had everything left untouched.</quote>
+wrung my companion’s hand with effusion. <quote spokeBy="Tobias_Gregson">It is indeed kind of you to
+come,</quote> he said, <quote spokeBy="Tobias_Gregson">I have had everything left untouched.</quote>
 </p>
 
-<p><quote spokeBy="">Except that!</quote> my friend answered, pointing at the pathway. <quote spokeBy="">If a herd
+<p><quote spokeBy="Sherlock_Holmes">Except that!</quote> my friend answered, pointing at the pathway. <quote spokeBy="Sherlock_Holmes">If a herd
 of buffaloes had passed along there could not be a greater mess. No
 doubt, however, you had drawn your own conclusions, <person perName="Tobias_Gregson">Gregson</person>, before you
 permitted this.</quote>
 </p>
 
-<p><quote spokeBy="">I have had so much to do inside the house,</quote> the detective said
+<p><quote spokeBy="Tobias_Gregson">I have had so much to do inside the house,</quote> the detective said
 evasively. <quote spokeBy="">My colleague, <person perName="Lestrade">Mr. Lestrade</person>, is here. I had relied upon him
 to look after this.</quote>
 </p>
 
-<p><person perName="Sherlock_Holmes">Holmes</person> glanced at me and raised his eyebrows sardonically. <quote spokeBy="">With two
+<p><person perName="Sherlock_Holmes">Holmes</person> glanced at me and raised his eyebrows sardonically. <quote spokeBy="Sherlock_Holmes">With two
 such men as yourself and <person perName="Lestrade">Lestrade</person> upon the ground, there will not be
 much for a third party to find out,</quote> he said.
 </p>
 
-<p><person perName="Tobias_Gregson">Gregson</person> rubbed his hands in a self-satisfied way. <quote spokeBy="">I think we have done
-all that can be done,</quote> he answered; <quote spokeBy="">it’s a queer case though, and I
+<p><person perName="Tobias_Gregson">Gregson</person> rubbed his hands in a self-satisfied way. <quote spokeBy="Tobias_Gregson">I think we have done
+all that can be done,</quote> he answered; <quote spokeBy="Tobias_Gregson">it’s a queer case though, and I
 knew your taste for such things.</quote>
 </p>
 
-<p><quote spokeBy="">You did not come here in a cab?</quote> asked <person perName="Sherlock_Holmes">Sherlock Holmes</person>.
+<p><quote spokeBy="Sherlock_Holmes">You did not come here in a cab?</quote> asked <person perName="Sherlock_Holmes">Sherlock Holmes</person>.
 </p>
 
-<p><quote spokeBy="">No, sir.</quote>
+<p><quote spokeBy="Tobias_Gregson">No, sir.</quote>
 </p>
 
 <p><quote spokeBy="">Nor <person perName="Lestrade">Lestrade</person>?</quote>
@@ -1145,7 +1145,7 @@ knew your taste for such things.</quote>
 <p><quote spokeBy="">No, sir.</quote>
 </p>
 
-<p><quote spokeBy="">Then let us go and look at the room.</quote> With which inconsequent remark
+<p><quote spokeBy="Sherlock_Holmes">Then let us go and look at the room.</quote> With which inconsequent remark
 he strode on into the house, followed by <person perName="Tobias_Gregson">Gregson</person>, whose features
 expressed his astonishment.
 </p>
@@ -1195,14 +1195,14 @@ London.
 and greeted my companion and myself.
 </p>
 
-<p><quote spokeBy="">This case will make a stir, sir,</quote> he remarked. <quote spokeBy="">It beats anything I
+<p><quote spokeBy="Lestrade">This case will make a stir, sir,</quote> he remarked. <quote spokeBy="Lestrade">It beats anything I
 have seen, and I am no chicken.</quote>
 </p>
 
-<p><quote spokeBy="">There is no clue?</quote> said <person perName="Tobias_Gregson">Gregson</person>.
+<p><quote spokeBy="Tobias_Gregson">There is no clue?</quote> said <person perName="Tobias_Gregson">Gregson</person>.
 </p>
 
-<p><quote spokeBy="">None at all,</quote> chimed in <person perName="Lestrade">Lestrade</person>.
+<p><quote spokeBy="Lestrade">None at all,</quote> chimed in <person perName="Lestrade">Lestrade</person>.
 </p>
 
 <p><person perName="Sherlock_Holmes">Sherlock Holmes</person> approached the body, and, kneeling down, examined it
@@ -1210,19 +1210,19 @@ intently. <quote spokeBy="">You are sure that there is no wound?</quote> he aske
 numerous gouts and splashes of blood which lay all round.
 </p>
 
-<p><quote spokeBy="">Positive!</quote> cried both detectives.
+<p><quote spokeBy="Lestrade">Positive!</quote> cried both detectives.
 </p>
 
-<p><quote spokeBy="">Then, of course, this blood belongs to a second individual—presumably
+<p><quote spokeBy="Sherlock_Holmes">Then, of course, this blood belongs to a second individual—presumably
 the murderer, if murder has been committed. It reminds me of the
 circumstances attendant on the death of Van Jansen, in Utrecht, in the
 year ‘34. Do you remember the case, <person perName="Tobias_Gregson">Gregson</person>?</quote>
 </p>
 
-<p><quote spokeBy="">No, sir.</quote>
+<p><quote spokeBy="Tobias_Gregson">No, sir.</quote>
 </p>
 
-<p><quote spokeBy="">Read it up—you really should. There is nothing new under the sun. It
+<p><quote spokeBy="Sherlock_Holmes">Read it up—you really should. There is nothing new under the sun. It
 has all been done before.</quote>
 </p>
 
@@ -1235,13 +1235,13 @@ dead man’s lips, and then glanced at the soles of his patent leather
 boots.
 </p>
 
-<p><quote spokeBy="">He has not been moved at all?</quote> he asked.
+<p><quote spokeBy="Sherlock_Holmes">He has not been moved at all?</quote> he asked.
 </p>
 
-<p><quote spokeBy="">No more than was necessary for the purposes of our examination.</quote>
+<p><quote spokeBy="Tobias_Gregson">No more than was necessary for the purposes of our examination.</quote>
 </p>
 
-<p><quote spokeBy="">You can take him to the mortuary now,</quote> he said. <quote spokeBy="">There is nothing more
+<p><quote spokeBy="Sherlock_Holmes">You can take him to the mortuary now,</quote> he said. <quote spokeBy="Sherlock_Holmes">There is nothing more
 to be learned.</quote>
 </p>
 
@@ -1251,7 +1251,7 @@ him, a ring tinkled down and rolled across the floor. <person perName="Lestrade"
 it up and stared at it with mystified eyes.
 </p>
 
-<p><quote spokeBy="">There’s been a woman here,</quote> he cried. <quote spokeBy="">It’s a woman’s wedding-ring.</quote>
+<p><quote spokeBy="Lestrade">There’s been a woman here,</quote> he cried. <quote spokeBy="Lestrade">It’s a woman’s wedding-ring.</quote>
 </p>
 
 <p>He held it out, as he spoke, upon the palm of his hand. We all gathered
@@ -1259,17 +1259,17 @@ round him and gazed at it. There could be no doubt that that circlet of
 plain gold had once adorned the finger of a bride.
 </p>
 
-<p><quote spokeBy="">This complicates matters,</quote> said <person perName="Tobias_Gregson">Gregson</person>. <quote spokeBy="">Heaven knows, they were
+<p><quote spokeBy="Tobias_Gregson">This complicates matters,</quote> said <person perName="Tobias_Gregson">Gregson</person>. <quote spokeBy="Tobias_Gregson">Heaven knows, they were
 complicated enough before.</quote>
 </p>
 
-<p><quote spokeBy="">You’re sure it doesn’t simplify them?</quote> observed <person perName="Sherlock_Holmes">Holmes</person>. <quote spokeBy="">There’s
+<p><quote spokeBy="Sherlock_Holmes">You’re sure it doesn’t simplify them?</quote> observed <person perName="Sherlock_Holmes">Holmes</person>. <quote spokeBy="Sherlock_Holmes">There’s
 nothing to be learned by staring at it. What did you find in his
 pockets?</quote>
 </p>
 
-<p><quote spokeBy="">We have it all here,</quote> said <person perName="Tobias_Gregson">Gregson</person>, pointing to a litter of objects
-upon one of the bottom steps of the stairs. <quote spokeBy="">A gold watch, No. 97163,
+<p><quote spokeBy="Tobias_Gregson">We have it all here,</quote> said <person perName="Tobias_Gregson">Gregson</person>, pointing to a litter of objects
+upon one of the bottom steps of the stairs. <quote spokeBy="Tobias_Gregson">A gold watch, No. 97163,
 by Barraud, of London. Gold Albert chain, very heavy and solid. Gold
 ring, with masonic device. Gold pin—bull-dog’s head, with rubies as
 eyes. Russian leather card-case, with cards of <person perName="Enoch_J_Drebber">Enoch J. Drebber</person> of
@@ -1280,48 +1280,48 @@ fly-leaf. Two letters—one addressed to <person perName="Enoch_J_Drebber">E. J.
 Stangerson</person>.</quote>
 </p>
 
-<p><quote spokeBy="">At what address?</quote>
+<p><quote spokeBy="Sherlock_Holmes">At what address?</quote>
 </p>
 
-<p><quote spokeBy="">American Exchange, Strand—to be left till called for. They are both
+<p><quote spokeBy="Tobias_Gregson">American Exchange, Strand—to be left till called for. They are both
 from the Guion Steamship Company, and refer to the sailing of their
 boats from Liverpool. It is clear that this unfortunate man was about
 to return to New York.</quote>
 </p>
 
-<p><quote spokeBy="">Have you made any inquiries as to this man, <person perName="Joseph_Stangerson">Stangerson</person>?</quote>
+<p><quote spokeBy="Sherlock_Holmes">Have you made any inquiries as to this man, <person perName="Joseph_Stangerson">Stangerson</person>?</quote>
 </p>
 
-<p><quote spokeBy="">I did it at once, sir,</quote> said <person perName="Tobias_Gregson">Gregson</person>. <quote spokeBy="">I have had advertisements sent
+<p><quote spokeBy="Tobias_Gregson">I did it at once, sir,</quote> said <person perName="Tobias_Gregson">Gregson</person>. <quote spokeBy="Tobias_Gregson">I have had advertisements sent
 to all the newspapers, and one of my men has gone to the American
 Exchange, but he has not returned yet.</quote>
 </p>
 
-<p><quote spokeBy="">Have you sent to Cleveland?</quote>
+<p><quote spokeBy="Sherlock_Holmes">Have you sent to Cleveland?</quote>
 </p>
 
-<p><quote spokeBy="">We telegraphed this morning.</quote>
+<p><quote spokeBy="Tobias_Gregson">We telegraphed this morning.</quote>
 </p>
 
-<p><quote spokeBy="">How did you word your inquiries?</quote>
+<p><quote spokeBy="Sherlock_Holmes">How did you word your inquiries?</quote>
 </p>
 
-<p><quote spokeBy="">We simply detailed the circumstances, and said that we should be glad
+<p><quote spokeBy="Tobias_Gregson">We simply detailed the circumstances, and said that we should be glad
 of any information which could help us.</quote>
 </p>
 
-<p><quote spokeBy="">You did not ask for particulars on any point which appeared to you to
+<p><quote spokeBy="Sherlock_Holmes">You did not ask for particulars on any point which appeared to you to
 be crucial?</quote>
 </p>
 
-<p><quote spokeBy="">I asked about <person perName="Joseph_Stangerson">Stangerson</person>.</quote>
+<p><quote spokeBy="Tobias_Gregson">I asked about <person perName="Joseph_Stangerson">Stangerson</person>.</quote>
 </p>
 
-<p><quote spokeBy="">Nothing else? Is there no circumstance on which this whole case
+<p><quote spokeBy="Sherlock_Holmes">Nothing else? Is there no circumstance on which this whole case
 appears to hinge? Will you not telegraph again?</quote>
 </p>
 
-<p><quote spokeBy="">I have said all I have to say,</quote> said <person perName="Tobias_Gregson">Gregson</person>, in an offended voice.
+<p><quote spokeBy="Tobias_Gregson">I have said all I have to say,</quote> said <person perName="Tobias_Gregson">Gregson</person>, in an offended voice.
 </p>
 
 <p><person perName="Sherlock_Holmes">Sherlock Holmes</person> chuckled to himself, and appeared to be about to make
