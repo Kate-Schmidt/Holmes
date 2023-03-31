@@ -6754,17 +6754,17 @@ when <person perName="Sherlock_Holmes">Holmes</person> returned with the news th
 horse.
 </p>
 
-<p><quote spokeBy="">I want to test a little theory of mine,</quote> said he, pulling on his
-boots. <quote spokeBy="">I think, <person perName="John_Watson">Watson</person>, that you are now standing in the presence of
+<p><quote spokeBy="Sherlock_Holmes">I want to test a little theory of mine,</quote> said he, pulling on his
+boots. <quote spokeBy="Sherlock_Holmes">I think, <person perName="John_Watson">Watson</person>, that you are now standing in the presence of
 one of the most absolute fools in Europe. I deserve to be kicked from
 here to Charing Cross. But I think I have the key of the affair now.</quote>
 </p>
 
-<p><quote spokeBy="">And where is it?</quote> I asked, smiling.
+<p><quote spokeBy="John_Watson">And where is it?</quote> I asked, smiling.
 </p>
 
-<p><quote spokeBy="">In the bathroom,</quote> he answered. <quote spokeBy="">Oh, yes, I am not joking,</quote> he
-continued, seeing my look of incredulity. <quote spokeBy="">I have just been there, and
+<p><quote spokeBy="Sherlock_Holmes">In the bathroom,</quote> he answered. <quote spokeBy="Sherlock_Holmes">Oh, yes, I am not joking,</quote> he
+continued, seeing my look of incredulity. <quote spokeBy="Sherlock_Holmes">I have just been there, and
 I have taken it out, and I have got it in this Gladstone bag. Come on,
 my boy, and we shall see whether it will not fit the lock.</quote>
 </p>
@@ -6777,8 +6777,8 @@ bearing in vegetables to the metropolis, but the lines of villas on
 either side were as silent and lifeless as some city in a dream.
 </p>
 
-<p><quote spokeBy="">It has been in some points a singular case,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, flicking the
-horse on into a gallop. <quote spokeBy="">I confess that I have been as blind as a mole,
+<p><quote spokeBy="Sherlock_Holmes">It has been in some points a singular case,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, flicking the
+horse on into a gallop. <quote spokeBy="Sherlock_Holmes">I confess that I have been as blind as a mole,
 but it is better to learn wisdom late than never to learn it at all.</quote>
 </p>
 
@@ -6791,18 +6791,18 @@ and the two constables at the door saluted him. One of them held the
 horse’s head while the other led us in.
 </p>
 
-<p><quote spokeBy="">Who is on duty?</quote> asked <person perName="Sherlock_Holmes">Holmes</person>.
+<p><quote spokeBy="Sherlock_Holmes">Who is on duty?</quote> asked <person perName="Sherlock_Holmes">Holmes</person>.
 </p>
 
-<p><quote spokeBy="">Inspector Bradstreet, sir.</quote>
+<p><quote spokeBy="Unknown">Inspector Bradstreet, sir.</quote>
 </p>
 
-<p><quote spokeBy="">Ah, Bradstreet, how are you?</quote> A tall, stout official had come down the
-stone-flagged passage, in a peaked cap and frogged jacket. <quote spokeBy="">I wish to
+<p><quote spokeBy="Sherlock_Holmes">Ah, Bradstreet, how are you?</quote> A tall, stout official had come down the
+stone-flagged passage, in a peaked cap and frogged jacket. <quote spokeBy="Sherlock_Holmes">I wish to
 have a quiet word with you, Bradstreet.</quote>
 </p>
 
-<p><quote spokeBy="">Certainly, <person perName="Sherlock_Holmes">Mr. Holmes</person>. Step into my room here.</quote>
+<p><quote spokeBy="Bradstreet">Certainly, <person perName="Sherlock_Holmes">Mr. Holmes</person>. Step into my room here.</quote>
 </p>
 
 <p>It was a small, office-like room, with a huge ledger upon the table,
@@ -6810,58 +6810,58 @@ and a telephone projecting from the wall. The inspector sat down at his
 desk.
 </p>
 
-<p><quote spokeBy="">What can I do for you, <person perName="Sherlock_Holmes">Mr. Holmes</person>?</quote>
+<p><quote spokeBy="Bradstreet">What can I do for you, <person perName="Sherlock_Holmes">Mr. Holmes</person>?</quote>
 </p>
 
-<p><quote spokeBy="">I called about that beggarman, Boone—the one who was charged with
+<p><quote spokeBy="Sherlock_Holmes">I called about that beggarman, Boone—the one who was charged with
 being concerned in the disappearance of <person perName="Neville_St_Clair">Mr. Neville St. Clair</person>, of Lee.</quote>
 </p>
 
-<p><quote spokeBy="">Yes. He was brought up and remanded for further inquiries.</quote>
+<p><quote spokeBy="Bradstreet">Yes. He was brought up and remanded for further inquiries.</quote>
 </p>
 
-<p><quote spokeBy="">So I heard. You have him here?</quote>
+<p><quote spokeBy="Sherlock_Holmes">So I heard. You have him here?</quote>
 </p>
 
-<p><quote spokeBy="">In the cells.</quote>
+<p><quote spokeBy="Bradstreet">In the cells.</quote>
 </p>
 
-<p><quote spokeBy="">Is he quiet?</quote>
+<p><quote spokeBy="Sherlock_Holmes">Is he quiet?</quote>
 </p>
 
-<p><quote spokeBy="">Oh, he gives no trouble. But he is a dirty scoundrel.</quote>
+<p><quote spokeBy="Bradstreet">Oh, he gives no trouble. But he is a dirty scoundrel.</quote>
 </p>
 
-<p><quote spokeBy="">Dirty?</quote>
+<p><quote spokeBy="Sherlock_Holmes">Dirty?</quote>
 </p>
 
-<p><quote spokeBy="">Yes, it is all we can do to make him wash his hands, and his face is
+<p><quote spokeBy="Bradstreet">Yes, it is all we can do to make him wash his hands, and his face is
 as black as a tinker’s. Well, when once his case has been settled, he
 will have a regular prison bath; and I think, if you saw him, you would
 agree with me that he needed it.</quote>
 </p>
 
-<p><quote spokeBy="">I should like to see him very much.</quote>
+<p><quote spokeBy="Sherlock_Holmes">I should like to see him very much.</quote>
 </p>
 
-<p><quote spokeBy="">Would you? That is easily done. Come this way. You can leave your
+<p><quote spokeBy="Bradstreet">Would you? That is easily done. Come this way. You can leave your
 bag.</quote>
 </p>
 
-<p><quote spokeBy="">No, I think that I’ll take it.</quote>
+<p><quote spokeBy="Sherlock_Holmes">No, I think that I’ll take it.</quote>
 </p>
 
-<p><quote spokeBy="">Very good. Come this way, if you please.</quote> He led us down a passage,
+<p><quote spokeBy="Bradstreet">Very good. Come this way, if you please.</quote> He led us down a passage,
 opened a barred door, passed down a winding stair, and brought us to a
 whitewashed corridor with a line of doors on each side.
 </p>
 
-<p><quote spokeBy="">The third on the right is his,</quote> said the inspector. <quote spokeBy="">Here it is!</quote> He
+<p><quote spokeBy="Bradstreet">The third on the right is his,</quote> said the inspector. <quote spokeBy="Bradstreet">Here it is!</quote> He
 quietly shot back a panel in the upper part of the door and glanced
 through.
 </p>
 
-<p><quote spokeBy="">He is asleep,</quote> said he. <quote spokeBy="">You can see him very well.</quote>
+<p><quote spokeBy="Bradstreet">He is asleep,</quote> said he. <quote spokeBy="Bradstreet">You can see him very well.</quote>
 </p>
 
 <p>We both put our eyes to the grating. The prisoner lay with his face
@@ -6876,23 +6876,23 @@ teeth were exposed in a perpetual snarl. A shock of very bright red
 hair grew low over his eyes and forehead.
 </p>
 
-<p><quote spokeBy="">He’s a beauty, isn’t he?</quote> said the inspector.
+<p><quote spokeBy="Bradstreet">He’s a beauty, isn’t he?</quote> said the inspector.
 </p>
 
-<p><quote spokeBy="">He certainly needs a wash,</quote> remarked <person perName="Sherlock_Holmes">Holmes</person>. <quote spokeBy="">I had an idea that he
+<p><quote spokeBy="Sherlock_Holmes">He certainly needs a wash,</quote> remarked <person perName="Sherlock_Holmes">Holmes</person>. <quote spokeBy="Sherlock_Holmes">I had an idea that he
 might, and I took the liberty of bringing the tools with me.</quote> He opened
 the Gladstone bag as he spoke, and took out, to my astonishment, a very
 large bath-sponge.
 </p>
 
-<p><quote spokeBy="">He! he! You are a funny one,</quote> chuckled the inspector.
+<p><quote spokeBy="Bradstreet">He! he! You are a funny one,</quote> chuckled the inspector.
 </p>
 
-<p><quote spokeBy="">Now, if you will have the great goodness to open that door very
+<p><quote spokeBy="Sherlock_Holmes">Now, if you will have the great goodness to open that door very
 quietly, we will soon make him cut a much more respectable figure.</quote>
 </p>
 
-<p><quote spokeBy="">Well, I don’t know why not,</quote> said the inspector. <quote spokeBy="">He doesn’t look a
+<p><quote spokeBy="Bradstreet">Well, I don’t know why not,</quote> said the inspector. <quote spokeBy="Bradstreet">He doesn’t look a
 credit to the Bow Street cells, does he?</quote> He slipped his key into the
 lock, and we all very quietly entered the cell. The sleeper half
 turned, and then settled down once more into a deep slumber. <person perName="Sherlock_Holmes">Holmes</person>
@@ -6900,7 +6900,7 @@ stooped to the water-jug, moistened his sponge, and then rubbed it
 twice vigorously across and down the prisoner’s face.
 </p>
 
-<p><quote spokeBy="">Let me introduce you,</quote> he shouted, <quote spokeBy="">to <person perName="Neville_St_Clair">Mr. Neville St. Clair</person>, of Lee,
+<p><quote spokeBy="Sherlock_Holmes">Let me introduce you,</quote> he shouted, <quote spokeBy="Sherlock_Holmes">to <person perName="Neville_St_Clair">Mr. Neville St. Clair</person>, of Lee,
 in the county of Kent.</quote>
 </p>
 
@@ -6915,29 +6915,29 @@ bewilderment. Then suddenly realising the exposure, he broke into a
 scream and threw himself down with his face to the pillow.
 </p>
 
-<p><quote spokeBy="">Great heavens!</quote> cried the inspector, <quote spokeBy="">it is, indeed, the missing man.
+<p><quote spokeBy="Bradstreet">Great heavens!</quote> cried the inspector, <quote spokeBy="Bradstreet">it is, indeed, the missing man.
 I know him from the photograph.</quote>
 </p>
 
 <p>The prisoner turned with the reckless air of a man who abandons himself
-to his destiny. <quote spokeBy="">Be it so,</quote> said he. <quote spokeBy="">And pray what am I charged with?</quote>
+    to his destiny. <quote spokeBy="Neville_St_Clair">Be it so,</quote> said he. <quote spokeBy="Neville_St_Clair">And pray what am I charged with?</quote>
 </p>
 
-<p><quote spokeBy="">With making away with Mr. Neville St.— Oh, come, you can’t be charged
+<p><quote spokeBy="Bradstreet">With making away with Mr. Neville St.— Oh, come, you can’t be charged
 with that unless they make a case of attempted suicide of it,</quote> said the
-inspector with a grin. <quote spokeBy="">Well, I have been twenty-seven years in the
+inspector with a grin. <quote spokeBy="Bradstreet">Well, I have been twenty-seven years in the
 force, but this really takes the cake.</quote>
 </p>
 
-<p><quote spokeBy="">If I am <person perName="Neville_St_Clair">Mr. Neville St. Clair</person>, then it is obvious that no crime has
+    <p><quote spokeBy="Neville_St_Clair">If I am <person perName="Neville_St_Clair">Mr. Neville St. Clair</person>, then it is obvious that no crime has
 been committed, and that, therefore, I am illegally detained.</quote>
 </p>
 
-<p><quote spokeBy="">No crime, but a very great error has been committed,</quote> said <person perName="Sherlock_Holmes">Holmes</person>.
-<quote spokeBy="">You would have done better to have trusted your wife.</quote>
+<p><quote spokeBy="Sherlock_Holmes">No crime, but a very great error has been committed,</quote> said <person perName="Sherlock_Holmes">Holmes</person>.
+<quote spokeBy="Sherlock_Holmes">You would have done better to have trusted your wife.</quote>
 </p>
 
-<p><quote spokeBy="">It was not the wife; it was the children,</quote> groaned the prisoner. <quote spokeBy="">God
+    <p><quote spokeBy="Neville_St_Clair">It was not the wife; it was the children,</quote> groaned the prisoner. <quote spokeBy="Neville_St_Clair">God
 help me, I would not have them ashamed of their father. My God! What an
 exposure! What can I do?</quote>
 </p>
@@ -6946,8 +6946,8 @@ exposure! What can I do?</quote>
 on the shoulder.
 </p>
 
-<p><quote spokeBy="">If you leave it to a court of law to clear the matter up,</quote> said he,
-<quote spokeBy="">of course you can hardly avoid publicity. On the other hand, if you
+<p><quote spokeBy="Sherlock_Holmes">If you leave it to a court of law to clear the matter up,</quote> said he,
+<quote spokeBy="Sherlock_Holmes">of course you can hardly avoid publicity. On the other hand, if you
 convince the police authorities that there is no possible case against
 you, I do not know that there is any reason that the details should
 find their way into the papers. Inspector Bradstreet would, I am sure,
@@ -6955,12 +6955,12 @@ make notes upon anything which you might tell us and submit it to the
 proper authorities. The case would then never go into court at all.</quote>
 </p>
 
-<p><quote spokeBy="">God bless you!</quote> cried the prisoner passionately. <quote spokeBy="">I would have endured
+    <p><quote spokeBy="Neville_St_Clair">God bless you!</quote> cried the prisoner passionately. <quote spokeBy="Neville_St_Clair">I would have endured
 imprisonment, ay, even execution, rather than have left my miserable
 secret as a family blot to my children.
 </quote></p>
 
-<p><quote spokeBy="">You are the first who have ever heard my story. My father was a
+    <p><quote spokeBy="Neville_St_Clair">You are the first who have ever heard my story. My father was a
 schoolmaster in Chesterfield, where I received an excellent education.
 I travelled in my youth, took to the stage, and finally became a
 reporter on an evening paper in London. One day my editor wished to
@@ -6980,7 +6980,7 @@ evening I found to my surprise that I had received no less than 26_s_.
 4_d_.
 </quote></p>
 
-<p><quote spokeBy="">I wrote my articles and thought little more of the matter until, some
+    <p><quote spokeBy="Neville_St_Clair">I wrote my articles and thought little more of the matter until, some
 time later, I backed a bill for a friend and had a writ served upon me
 for £ 25. I was at my wit’s end where to get the money, but a sudden
 idea came to me. I begged a fortnight’s grace from the creditor, asked
@@ -6989,7 +6989,7 @@ City under my disguise. In ten days I had the money and had paid the
 debt.
 </quote></p>
 
-<p><quote spokeBy="">Well, you can imagine how hard it was to settle down to arduous work
+    <p><quote spokeBy="Neville_St_Clair">Well, you can imagine how hard it was to settle down to arduous work
 at £ 2 a week when I knew that I could earn as much in a day by
 smearing my face with a little paint, laying my cap on the ground, and
 sitting still. It was a long fight between my pride and the money, but
@@ -7003,7 +7003,7 @@ fellow, a Lascar, was well paid by me for his rooms, so that I knew
 that my secret was safe in his possession.
 </quote></p>
 
-<p><quote spokeBy="">Well, very soon I found that I was saving considerable sums of money.
+    <p><quote spokeBy="Neville_St_Clair">Well, very soon I found that I was saving considerable sums of money.
 I do not mean that any beggar in the streets of London could earn £ 700
 a year—which is less than my average takings—but I had exceptional
 advantages in my power of making up, and also in a facility of
@@ -7013,13 +7013,13 @@ poured in upon me, and it was a very bad day in which I failed to take
 £ 2.
 </quote></p>
 
-<p><quote spokeBy="">As I grew richer I grew more ambitious, took a house in the country,
+    <p><quote spokeBy="Neville_St_Clair">As I grew richer I grew more ambitious, took a house in the country,
 and eventually married, without anyone having a suspicion as to my real
 occupation. My dear wife knew that I had business in the City. She
 little knew what.
 </quote></p>
 
-<p><quote spokeBy="">Last Monday I had finished for the day and was dressing in my room
+    <p><quote spokeBy="Neville_St_Clair">Last Monday I had finished for the day and was dressing in my room
 above the opium den when I looked out of my window and saw, to my
 horror and astonishment, that my wife was standing in the street, with
 her eyes fixed full upon me. I gave a cry of surprise, threw up my arms
@@ -7041,7 +7041,7 @@ being identified as <person perName="Neville_St_Clair">Mr. Neville St. Clair</pe
 murderer.
 </quote></p>
 
-<p><quote spokeBy="">I do not know that there is anything else for me to explain. I was
+    <p><quote spokeBy="Neville_St_Clair">I do not know that there is anything else for me to explain. I was
 determined to preserve my disguise as long as possible, and hence my
 preference for a dirty face. Knowing that my wife would be terribly
 anxious, I slipped off my ring and confided it to the Lascar at a
@@ -7049,46 +7049,42 @@ moment when no constable was watching me, together with a hurried
 scrawl, telling her that she had no cause to fear.</quote>
 </p>
 
-<p><quote spokeBy="">That note only reached her yesterday,</quote> said <person perName="Sherlock_Holmes">Holmes</person>.
+<p><quote spokeBy="Sherlock_Holmes">That note only reached her yesterday,</quote> said <person perName="Sherlock_Holmes">Holmes</person>.
 </p>
 
-<p><quote spokeBy="">Good God! What a week she must have spent!</quote>
+    <p><quote spokeBy="Neville_St_Clair">Good God! What a week she must have spent!</quote>
 </p>
 
-<p><quote spokeBy="">The police have watched this Lascar,</quote> said Inspector Bradstreet, <quote spokeBy="">and
+<p><quote spokeBy="Bradstreet">The police have watched this Lascar,</quote> said Inspector Bradstreet, <quote spokeBy="Bradstreet">and
 I can quite understand that he might find it difficult to post a letter
 unobserved. Probably he handed it to some sailor customer of his, who
 forgot all about it for some days.</quote>
 </p>
 
-<p><quote spokeBy="">That was it,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, nodding approvingly; <quote spokeBy="">I have no doubt of
+<p><quote spokeBy="Sherlock_Holmes">That was it,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, nodding approvingly; <quote spokeBy="Sherlock_Holmes">I have no doubt of
 it. But have you never been prosecuted for begging?</quote>
 </p>
 
-<p><quote spokeBy="">Many times; but what was a fine to me?</quote>
+    <p><quote spokeBy="Neville_St_Clair">Many times; but what was a fine to me?</quote>
 </p>
 
-<p><quote spokeBy="">It must stop here, however,</quote> said Bradstreet. <quote spokeBy="">If the police are to
+<p><quote spokeBy="Bradstreet">It must stop here, however,</quote> said Bradstreet. <quote spokeBy="Bradstreet">If the police are to
 hush this thing up, there must be no more of Hugh Boone.</quote>
 </p>
 
-<p><quote spokeBy="">I have sworn it by the most solemn oaths which a man can take.</quote>
+    <p><quote spokeBy="Neville_St_Clair">I have sworn it by the most solemn oaths which a man can take.</quote>
 </p>
 
-<p><quote spokeBy="">In that case I think that it is probable that no further steps may be
+<p><quote spokeBy="Bradstreet">In that case I think that it is probable that no further steps may be
 taken. But if you are found again, then all must come out. I am sure,
 <person perName="Sherlock_Holmes">Mr. Holmes</person>, that we are very much indebted to you for having cleared
 the matter up. I wish I knew how you reach your results.</quote>
 </p>
 
-<p><quote spokeBy="">I reached this one,</quote> said my friend, <quote spokeBy="">by sitting upon five pillows and
+<p><quote spokeBy="Sherlock_Holmes">I reached this one,</quote> said my friend, <quote spokeBy="Sherlock_Holmes">by sitting upon five pillows and
 consuming an ounce of shag. I think, <person perName="John_Watson">Watson</person>, that if we drive to Baker
 Street we shall just be in time for breakfast.</quote>
 </p>
-
-
-
-
 
 
 
@@ -7111,24 +7107,24 @@ suggested that the hat had been suspended in this manner for the
 purpose of examination.
 </p>
 
-<p><quote spokeBy="">You are engaged,</quote> said I; <quote spokeBy="">perhaps I interrupt you.</quote>
+<p><quote spokeBy="John_Watson">You are engaged,</quote> said I; <quote spokeBy="John_Watson">perhaps I interrupt you.</quote>
 </p>
 
-<p><quote spokeBy="">Not at all. I am glad to have a friend with whom I can discuss my
+<p><quote spokeBy="Sherlock_Holmes">Not at all. I am glad to have a friend with whom I can discuss my
 results. The matter is a perfectly trivial one</quote>—he jerked his thumb in
-the direction of the old hat—<quote spokeBy="">but there are points in connection with
+the direction of the old hat—<quote spokeBy="Sherlock_Holmes">but there are points in connection with
 it which are not entirely devoid of interest and even of instruction.</quote>
 </p>
 
 <p>I seated myself in his armchair and warmed my hands before his
 crackling fire, for a sharp frost had set in, and the windows were
-thick with the ice crystals. <quote spokeBy="">I suppose,</quote> I remarked, <quote spokeBy="">that, homely as
+thick with the ice crystals. <quote spokeBy="John_Watson">I suppose,</quote> I remarked, <quote spokeBy="John_Watson">that, homely as
 it looks, this thing has some deadly story linked on to it—that it is
 the clue which will guide you in the solution of some mystery and the
 punishment of some crime.</quote>
 </p>
 
-<p><quote spokeBy="">No, no. No crime,</quote> said <person perName="Sherlock_Holmes">Sherlock Holmes</person>, laughing. <quote spokeBy="">Only one of those
+<p><quote spokeBy="Sherlock_Holmes">No, no. No crime,</quote> said <person perName="Sherlock_Holmes">Sherlock Holmes</person>, laughing. <quote spokeBy="Sherlock_Holmes">Only one of those
 whimsical little incidents which will happen when you have four million
 human beings all jostling each other within the space of a few square
 miles. Amid the action and reaction of so dense a swarm of humanity,
@@ -7138,27 +7134,27 @@ bizarre without being criminal. We have already had experience of
 such.</quote>
 </p>
 
-<p><quote spokeBy="">So much so,</quote> I remarked, <quote spokeBy="">that of the last six cases which I have
+<p><quote spokeBy="John_Watson">So much so,</quote> I remarked, <quote spokeBy="John_Watson">that of the last six cases which I have
 added to my notes, three have been entirely free of any legal crime.</quote>
 </p>
 
-<p><quote spokeBy="">Precisely. You allude to my attempt to recover the <person perName="Irene_Adler">Irene Adler</person> papers,
+<p><quote spokeBy="Sherlock_Holmes">Precisely. You allude to my attempt to recover the <person perName="Irene_Adler">Irene Adler</person> papers,
 to the singular case of <person perName="Mary_Sutherland">Miss Mary Sutherland</person>, and to the adventure of
 the man with the twisted lip. Well, I have no doubt that this small
 matter will fall into the same innocent category. You know Peterson,
 the commissionaire?</quote>
 </p>
 
-<p><quote spokeBy="">Yes.</quote>
+<p><quote spokeBy="John_Watson">Yes.</quote>
 </p>
 
-<p><quote spokeBy="">It is to him that this trophy belongs.</quote>
+<p><quote spokeBy="Sherlock_Holmes">It is to him that this trophy belongs.</quote>
 </p>
 
-<p><quote spokeBy="">It is his hat.</quote>
+<p><quote spokeBy="John_Watson">It is his hat.</quote>
 </p>
 
-<p><quote spokeBy="">No, no, he found it. Its owner is unknown. I beg that you will look
+<p><quote spokeBy="Sherlock_Holmes">No, no, he found it. Its owner is unknown. I beg that you will look
 upon it not as a battered billycock but as an intellectual problem.
 And, first, as to how it came here. It arrived upon Christmas morning,
 in company with a good fat goose, which is, I have no doubt, roasting
@@ -7182,10 +7178,10 @@ also of the spoils of victory in the shape of this battered hat and a
 most unimpeachable Christmas goose.</quote>
 </p>
 
-<p><quote spokeBy="">Which surely he restored to their owner?</quote>
+<p><quote spokeBy="John_Watson">Which surely he restored to their owner?</quote>
 </p>
 
-<p><quote spokeBy="">My dear fellow, there lies the problem. It is true that ‘For Mrs.
+<p><quote spokeBy="Sherlock_Holmes">My dear fellow, there lies the problem. It is true that ‘For Mrs.
 Henry Baker’ was printed upon a small card which was tied to the bird’s
 left leg, and it is also true that the initials ‘H. B.’ are legible
 upon the lining of this hat, but as there are some thousands of Bakers,
@@ -7193,10 +7189,10 @@ and some hundreds of Henry Bakers in this city of ours, it is not easy
 to restore lost property to any one of them.</quote>
 </p>
 
-<p><quote spokeBy="">What, then, did Peterson do?</quote>
+<p><quote spokeBy="John_Watson">What, then, did Peterson do?</quote>
 </p>
 
-<p><quote spokeBy="">He brought round both hat and goose to me on Christmas morning,
+<p><quote spokeBy="Sherlock_Holmes">He brought round both hat and goose to me on Christmas morning,
 knowing that even the smallest problems are of interest to me. The
 goose we retained until this morning, when there were signs that, in
 spite of the slight frost, it would be well that it should be eaten
@@ -7205,28 +7201,28 @@ fulfil the ultimate destiny of a goose, while I continue to retain the
 hat of the unknown gentleman who lost his Christmas dinner.</quote>
 </p>
 
-<p><quote spokeBy="">Did he not advertise?</quote>
+<p><quote spokeBy="John_Watson">Did he not advertise?</quote>
 </p>
 
-<p><quote spokeBy="">No.</quote>
+<p><quote spokeBy="Sherlock_Holmes">No.</quote>
 </p>
 
-<p><quote spokeBy="">Then, what clue could you have as to his identity?</quote>
+<p><quote spokeBy="John_Watson">Then, what clue could you have as to his identity?</quote>
 </p>
 
-<p><quote spokeBy="">Only as much as we can deduce.</quote>
+<p><quote spokeBy="Sherlock_Holmes">Only as much as we can deduce.</quote>
 </p>
 
-<p><quote spokeBy="">From his hat?</quote>
+<p><quote spokeBy="John_Watson">From his hat?</quote>
 </p>
 
-<p><quote spokeBy="">Precisely.</quote>
+<p><quote spokeBy="Sherlock_Holmes">Precisely.</quote>
 </p>
 
-<p><quote spokeBy="">But you are joking. What can you gather from this old battered felt?</quote>
+<p><quote spokeBy="John_Watson">But you are joking. What can you gather from this old battered felt?</quote>
 </p>
 
-<p><quote spokeBy="">Here is my lens. You know my methods. What can you gather yourself as
+<p><quote spokeBy="Sherlock_Holmes">Here is my lens. You know my methods. What can you gather yourself as
 to the individuality of the man who has worn this article?</quote>
 </p>
 
@@ -7234,27 +7230,27 @@ to the individuality of the man who has worn this article?</quote>
 ruefully. It was a very ordinary black hat of the usual round shape,
 hard and much the worse for wear. The lining had been of red silk, but
 was a good deal discoloured. There was no maker’s name; but, as <person perName="Sherlock_Holmes">Holmes</person>
-had remarked, the initials <quote spokeBy="">H. B.</quote> were scrawled upon one side. It was
+had remarked, the initials "H. B." were scrawled upon one side. It was
 pierced in the brim for a hat-securer, but the elastic was missing. For
 the rest, it was cracked, exceedingly dusty, and spotted in several
 places, although there seemed to have been some attempt to hide the
 discoloured patches by smearing them with ink.
 </p>
 
-<p><quote spokeBy="">I can see nothing,</quote> said I, handing it back to my friend.
+<p><quote spokeBy="John_Watson">I can see nothing,</quote> said I, handing it back to my friend.
 </p>
 
-<p><quote spokeBy="">On the contrary, <person perName="John_Watson">Watson</person>, you can see everything. You fail, however, to
+<p><quote spokeBy="Sherlock_Holmes">On the contrary, <person perName="John_Watson">Watson</person>, you can see everything. You fail, however, to
 reason from what you see. You are too timid in drawing your
 inferences.</quote>
 </p>
 
-<p><quote spokeBy="">Then, pray tell me what it is that you can infer from this hat?</quote>
+<p><quote spokeBy="John_Watson">Then, pray tell me what it is that you can infer from this hat?</quote>
 </p>
 
 <p>He picked it up and gazed at it in the peculiar introspective fashion
-which was characteristic of him. <quote spokeBy="">It is perhaps less suggestive than it
-might have been,</quote> he remarked, <quote spokeBy="">and yet there are a few inferences
+which was characteristic of him. <quote spokeBy="Sherlock_Holmes">It is perhaps less suggestive than it
+might have been,</quote> he remarked, <quote spokeBy="Sherlock_Holmes">and yet there are a few inferences
 which are very distinct, and a few others which represent at least a
 strong balance of probability. That the man was highly intellectual is
 of course obvious upon the face of it, and also that he was fairly
@@ -7266,11 +7262,11 @@ work upon him. This may account also for the obvious fact that his wife
 has ceased to love him.</quote>
 </p>
 
-<p><quote spokeBy="">My dear <person perName="Sherlock_Holmes">Holmes</person>!</quote>
+<p><quote spokeBy="John_Watson">My dear <person perName="Sherlock_Holmes">Holmes</person>!</quote>
 </p>
 
-<p><quote spokeBy="">He has, however, retained some degree of self-respect,</quote> he continued,
-disregarding my remonstrance. <quote spokeBy="">He is a man who leads a sedentary life,
+<p><quote spokeBy="Sherlock_Holmes">He has, however, retained some degree of self-respect,</quote> he continued,
+disregarding my remonstrance. <quote spokeBy="Sherlock_Holmes">He is a man who leads a sedentary life,
 goes out little, is out of training entirely, is middle-aged, has
 grizzled hair which he has had cut within the last few days, and which
 he anoints with lime-cream. These are the more patent facts which are
@@ -7278,40 +7274,40 @@ to be deduced from his hat. Also, by the way, that it is extremely
 improbable that he has gas laid on in his house.</quote>
 </p>
 
-<p><quote spokeBy="">You are certainly joking, <person perName="Sherlock_Holmes">Holmes</person>.</quote>
+<p><quote spokeBy="John_Watson">You are certainly joking, <person perName="Sherlock_Holmes">Holmes</person>.</quote>
 </p>
 
-<p><quote spokeBy="">Not in the least. Is it possible that even now, when I give you these
+<p><quote spokeBy="Sherlock_Holmes">Not in the least. Is it possible that even now, when I give you these
 results, you are unable to see how they are attained?</quote>
 </p>
 
-<p><quote spokeBy="">I have no doubt that I am very stupid, but I must confess that I am
+<p><quote spokeBy="John_Watson">I have no doubt that I am very stupid, but I must confess that I am
 unable to follow you. For example, how did you deduce that this man was
 intellectual?</quote>
 </p>
 
 <p>For answer <person perName="Sherlock_Holmes">Holmes</person> clapped the hat upon his head. It came right over the
-forehead and settled upon the bridge of his nose. <quote spokeBy="">It is a question of
-cubic capacity,</quote> said he; <quote spokeBy="">a man with so large a brain must have
+forehead and settled upon the bridge of his nose. <quote spokeBy="Sherlock_Holmes">It is a question of
+cubic capacity,</quote> said he; <quote spokeBy="Sherlock_Holmes">a man with so large a brain must have
 something in it.</quote>
 </p>
 
-<p><quote spokeBy="">The decline of his fortunes, then?</quote>
+<p><quote spokeBy="John_Watson">The decline of his fortunes, then?</quote>
 </p>
 
-<p><quote spokeBy="">This hat is three years old. These flat brims curled at the edge came
+<p><quote spokeBy="Sherlock_Holmes">This hat is three years old. These flat brims curled at the edge came
 in then. It is a hat of the very best quality. Look at the band of
 ribbed silk and the excellent lining. If this man could afford to buy
 so expensive a hat three years ago, and has had no hat since, then he
 has assuredly gone down in the world.</quote>
 </p>
 
-<p><quote spokeBy="">Well, that is clear enough, certainly. But how about the foresight and
+<p><quote spokeBy="John_Watson">Well, that is clear enough, certainly. But how about the foresight and
 the moral retrogression?</quote>
 </p>
 
-<p><person perName="Sherlock_Holmes">Sherlock Holmes</person> laughed. <quote spokeBy="">Here is the foresight,</quote> said he putting his
-finger upon the little disc and loop of the hat-securer. <quote spokeBy="">They are
+<p><person perName="Sherlock_Holmes">Sherlock Holmes</person> laughed. <quote spokeBy="Sherlock_Holmes">Here is the foresight,</quote> said he putting his
+finger upon the little disc and loop of the hat-securer. <quote spokeBy="Sherlock_Holmes">They are
 never sold upon hats. If this man ordered one, it is a sign of a
 certain amount of foresight, since he went out of his way to take this
 precaution against the wind. But since we see that he has broken the
@@ -7322,10 +7318,10 @@ of these stains upon the felt by daubing them with ink, which is a sign
 that he has not entirely lost his self-respect.</quote>
 </p>
 
-<p><quote spokeBy="">Your reasoning is certainly plausible.</quote>
+<p><quote spokeBy="John_Watson">Your reasoning is certainly plausible.</quote>
 </p>
 
-<p><quote spokeBy="">The further points, that he is middle-aged, that his hair is grizzled,
+<p><quote spokeBy="Sherlock_Holmes">The further points, that he is middle-aged, that his hair is grizzled,
 that it has been recently cut, and that he uses lime-cream, are all to
 be gathered from a close examination of the lower part of the lining.
 The lens discloses a large number of hair-ends, clean cut by the
@@ -7338,27 +7334,27 @@ perspired very freely, and could therefore, hardly be in the best of
 training.</quote>
 </p>
 
-<p><quote spokeBy="">But his wife—you said that she had ceased to love him.</quote>
+<p><quote spokeBy="John_Watson">But his wife—you said that she had ceased to love him.</quote>
 </p>
 
-<p><quote spokeBy="">This hat has not been brushed for weeks. When I see you, my dear
+<p><quote spokeBy="Sherlock_Holmes">This hat has not been brushed for weeks. When I see you, my dear
 <person perName="John_Watson">Watson</person>, with a week’s accumulation of dust upon your hat, and when your
 wife allows you to go out in such a state, I shall fear that you also
 have been unfortunate enough to lose your wife’s affection.</quote>
 </p>
 
-<p><quote spokeBy="">But he might be a bachelor.</quote>
+<p><quote spokeBy="John_Watson">But he might be a bachelor.</quote>
 </p>
 
-<p><quote spokeBy="">Nay, he was bringing home the goose as a peace-offering to his wife.
+<p><quote spokeBy="Sherlock_Holmes">Nay, he was bringing home the goose as a peace-offering to his wife.
 Remember the card upon the bird’s leg.</quote>
 </p>
 
-<p><quote spokeBy="">You have an answer to everything. But how on earth do you deduce that
+<p><quote spokeBy="John_Watson">You have an answer to everything. But how on earth do you deduce that
 the gas is not laid on in his house?</quote>
 </p>
 
-<p><quote spokeBy="">One tallow stain, or even two, might come by chance; but when I see no
+<p><quote spokeBy="Sherlock_Holmes">One tallow stain, or even two, might come by chance; but when I see no
 less than five, I think that there can be little doubt that the
 individual must be brought into frequent contact with burning
 tallow—walks upstairs at night probably with his hat in one hand and a
@@ -7366,7 +7362,7 @@ guttering candle in the other. Anyhow, he never got tallow-stains from
 a gas-jet. Are you satisfied?</quote>
 </p>
 
-<p><quote spokeBy="">Well, it is very ingenious,</quote> said I, laughing; <quote spokeBy="">but since, as you said
+<p><quote spokeBy="John_Watson">Well, it is very ingenious,</quote> said I, laughing; <quote spokeBy="John_Watson">but since, as you said
 just now, there has been no crime committed, and no harm done save the
 loss of a goose, all this seems to be rather a waste of energy.</quote>
 </p>
@@ -7376,57 +7372,57 @@ and Peterson, the commissionaire, rushed into the apartment with
 flushed cheeks and the face of a man who is dazed with astonishment.
 </p>
 
-<p><quote spokeBy="">The goose, <person perName="Sherlock_Holmes">Mr. Holmes</person>! The goose, sir!</quote> he gasped.
+<p><quote spokeBy="Peterson">The goose, <person perName="Sherlock_Holmes">Mr. Holmes</person>! The goose, sir!</quote> he gasped.
 </p>
 
-<p><quote spokeBy="">Eh? What of it, then? Has it returned to life and flapped off through
+<p><quote spokeBy="Sherlock_Holmes">Eh? What of it, then? Has it returned to life and flapped off through
 the kitchen window?</quote> <person perName="Sherlock_Holmes">Holmes</person> twisted himself round upon the sofa to get
 a fairer view of the man’s excited face.
 </p>
 
-<p><quote spokeBy="">See here, sir! See what my wife found in its crop!</quote> He held out his
+<p><quote spokeBy="Peterson">See here, sir! See what my wife found in its crop!</quote> He held out his
 hand and displayed upon the centre of the palm a brilliantly
 scintillating blue stone, rather smaller than a bean in size, but of
 such purity and radiance that it twinkled like an electric point in the
 dark hollow of his hand.
 </p>
 
-<p><person perName="Sherlock_Holmes">Sherlock Holmes</person> sat up with a whistle. <quote spokeBy="">By Jove, Peterson!</quote> said he,
-<quote spokeBy="">this is treasure trove indeed. I suppose you know what you have got?</quote>
+<p><person perName="Sherlock_Holmes">Sherlock Holmes</person> sat up with a whistle. <quote spokeBy="Sherlock_Holmes">By Jove, Peterson!</quote> said he,
+<quote spokeBy="Sherlock_Holmes">this is treasure trove indeed. I suppose you know what you have got?</quote>
 </p>
 
-<p><quote spokeBy="">A diamond, sir? A precious stone. It cuts into glass as though it were
+<p><quote spokeBy="Peterson">A diamond, sir? A precious stone. It cuts into glass as though it were
 putty.</quote>
 </p>
 
-<p><quote spokeBy="">It’s more than a precious stone. It is _the_ precious stone.</quote>
+    <p><quote spokeBy="Sherlock_Holmes">It’s more than a precious stone. It is _the_ precious stone.</quote>
 </p>
 
-<p><quote spokeBy="">Not the Countess of Morcar’s blue carbuncle!</quote> I ejaculated.
+<p><quote spokeBy="John_Watson">Not the Countess of Morcar’s blue carbuncle!</quote> I ejaculated.
 </p>
 
-<p><quote spokeBy="">Precisely so. I ought to know its size and shape, seeing that I have
+<p><quote spokeBy="Sherlock_Holmes">Precisely so. I ought to know its size and shape, seeing that I have
 read the advertisement about it in _The Times_ every day lately. It is
 absolutely unique, and its value can only be conjectured, but the
 reward offered of £ 1000 is certainly not within a twentieth part of
 the market price.</quote>
 </p>
 
-<p><quote spokeBy="">A thousand pounds! Great Lord of mercy!</quote> The commissionaire plumped
+<p><quote spokeBy="Peterson">A thousand pounds! Great Lord of mercy!</quote> The commissionaire plumped
 down into a chair and stared from one to the other of us.
 </p>
 
-<p><quote spokeBy="">That is the reward, and I have reason to know that there are
+<p><quote spokeBy="Sherlock_Holmes">That is the reward, and I have reason to know that there are
 sentimental considerations in the background which would induce the
 Countess to part with half her fortune if she could but recover the
 gem.</quote>
 </p>
 
-<p><quote spokeBy="">It was lost, if I remember aright, at the Hotel Cosmopolitan,</quote> I
+<p><quote spokeBy="John_Watson">It was lost, if I remember aright, at the Hotel Cosmopolitan,</quote> I
 remarked.
 </p>
 
-<p><quote spokeBy="">Precisely so, on December 22nd, just five days ago. John Horner, a
+<p><quote spokeBy="Sherlock_Holmes">Precisely so, on December 22nd, just five days ago. John Horner, a
 plumber, was accused of having abstracted it from the lady’s
 jewel-case. The evidence against him was so strong that the case has
 been referred to the Assizes. I have some account of the matter here, I
@@ -7435,7 +7431,7 @@ until at last he smoothed one out, doubled it over, and read the
 following paragraph:
 </p>
 
-<p><quote spokeBy="">Hotel Cosmopolitan Jewel Robbery. John Horner, 26, plumber, was
+<p><quote spokeBy="Sherlock_Holmes">Hotel Cosmopolitan Jewel Robbery. John Horner, 26, plumber, was
 brought up upon the charge of having upon the 22nd inst., abstracted
 from the jewel-case of the Countess of Morcar the valuable gem known as
 the blue carbuncle. James Ryder, upper-attendant at the hotel, gave his
@@ -7461,8 +7457,8 @@ intense emotion during the proceedings, fainted away at the conclusion
 and was carried out of court.</quote>
 </p>
 
-<p><quote spokeBy="">Hum! So much for the police-court,</quote> said <person perName="Sherlock_Holmes">Holmes</person> thoughtfully, tossing
-aside the paper. <quote spokeBy="">The question for us now to solve is the sequence of
+<p><quote spokeBy="Sherlock_Holmes">Hum! So much for the police-court,</quote> said <person perName="Sherlock_Holmes">Holmes</person> thoughtfully, tossing
+aside the paper. <quote spokeBy="Sherlock_Holmes">The question for us now to solve is the sequence of
 events leading from a rifled jewel-case at one end to the crop of a
 goose in Tottenham Court Road at the other. You see, <person perName="John_Watson">Watson</person>, our little
 deductions have suddenly assumed a much more important and less
@@ -7476,19 +7472,19 @@ in an advertisement in all the evening papers. If this fail, I shall
 have recourse to other methods.</quote>
 </p>
 
-<p><quote spokeBy="">What will you say?</quote>
+<p><quote spokeBy="John_Watson">What will you say?</quote>
 </p>
 
-<p><quote spokeBy="">Give me a pencil and that slip of paper. Now, then: ‘Found at the
+<p><quote spokeBy="Sherlock_Holmes">Give me a pencil and that slip of paper. Now, then: ‘Found at the
 corner of Goodge Street, a goose and a black felt hat. Mr. Henry Baker
 can have the same by applying at 6:30 this evening at 221B, Baker
 Street.’ That is clear and concise.</quote>
 </p>
 
-<p><quote spokeBy="">Very. But will he see it?</quote>
+<p><quote spokeBy="John_Watson">Very. But will he see it?</quote>
 </p>
 
-<p><quote spokeBy="">Well, he is sure to keep an eye on the papers, since, to a poor man,
+<p><quote spokeBy="Sherlock_Holmes">Well, he is sure to keep an eye on the papers, since, to a poor man,
 the loss was a heavy one. He was clearly so scared by his mischance in
 breaking the window and by the approach of Peterson that he thought of
 nothing but flight, but since then he must have bitterly regretted the
@@ -7499,24 +7495,24 @@ down to the advertising agency and have this put in the evening
 papers.</quote>
 </p>
 
-<p><quote spokeBy="">In which, sir?</quote>
+<p><quote spokeBy="Peterson">In which, sir?</quote>
 </p>
 
-<p><quote spokeBy="">Oh, in the _Globe_, _Star_, _Pall Mall_, _St. James’s Gazette_,
+<p><quote spokeBy="Sherlock_Holmes">Oh, in the _Globe_, _Star_, _Pall Mall_, _St. James’s Gazette_,
 _Evening News_, _Standard_, _Echo_, and any others that occur to you.</quote>
 </p>
 
-<p><quote spokeBy="">Very well, sir. And this stone?</quote>
+<p><quote spokeBy="Peterson">Very well, sir. And this stone?</quote>
 </p>
 
-<p><quote spokeBy="">Ah, yes, I shall keep the stone. Thank you. And, I say, Peterson, just
+<p><quote spokeBy="Sherlock_Holmes">Ah, yes, I shall keep the stone. Thank you. And, I say, Peterson, just
 buy a goose on your way back and leave it here with me, for we must
 have one to give to this gentleman in place of the one which your
 family is now devouring.</quote>
 </p>
 
 <p>When the commissionaire had gone, <person perName="Sherlock_Holmes">Holmes</person> took up the stone and held it
-against the light. <quote spokeBy="">It’s a bonny thing,</quote> said he. <quote spokeBy="">Just see how it
+against the light. <quote spokeBy="Sherlock_Holmes">It’s a bonny thing,</quote> said he. <quote spokeBy="Sherlock_Holmes">Just see how it
 glints and sparkles. Of course it is a nucleus and focus of crime.
 Every good stone is. They are the devil’s pet baits. In the larger and
 older jewels every facet may stand for a bloody deed. This stone is not
@@ -7531,35 +7527,35 @@ and the prison? I’ll lock it up in my strong box now and drop a line to
 the Countess to say that we have it.</quote>
 </p>
 
-<p><quote spokeBy="">Do you think that this man Horner is innocent?</quote>
+<p><quote spokeBy="John_Watson">Do you think that this man Horner is innocent?</quote>
 </p>
 
-<p><quote spokeBy="">I cannot tell.</quote>
+<p><quote spokeBy="Sherlock_Holmes">I cannot tell.</quote>
 </p>
 
-<p><quote spokeBy="">Well, then, do you imagine that this other one, Henry Baker, had
+<p><quote spokeBy="John_Watson">Well, then, do you imagine that this other one, Henry Baker, had
 anything to do with the matter?</quote>
 </p>
 
-<p><quote spokeBy="">It is, I think, much more likely that Henry Baker is an absolutely
+<p><quote spokeBy="Sherlock_Holmes">It is, I think, much more likely that Henry Baker is an absolutely
 innocent man, who had no idea that the bird which he was carrying was
 of considerably more value than if it were made of solid gold. That,
 however, I shall determine by a very simple test if we have an answer
 to our advertisement.</quote>
 </p>
 
-<p><quote spokeBy="">And you can do nothing until then?</quote>
+<p><quote spokeBy="John_Watson">And you can do nothing until then?</quote>
 </p>
 
-<p><quote spokeBy="">Nothing.</quote>
+<p><quote spokeBy="Sherlock_Holmes">Nothing.</quote>
 </p>
 
-<p><quote spokeBy="">In that case I shall continue my professional round. But I shall come
+<p><quote spokeBy="John_Watson">In that case I shall continue my professional round. But I shall come
 back in the evening at the hour you have mentioned, for I should like
 to see the solution of so tangled a business.</quote>
 </p>
 
-<p><quote spokeBy="">Very glad to see you. I dine at seven. There is a woodcock, I believe.
+<p><quote spokeBy="Sherlock_Holmes">Very glad to see you. I dine at seven. There is a woodcock, I believe.
 By the way, in view of recent occurrences, perhaps I ought to ask Mrs.
 Hudson to examine its crop.</quote>
 </p>
@@ -7572,15 +7568,15 @@ was thrown from the fanlight. Just as I arrived the door was opened,
 and we were shown up together to <person perName="Sherlock_Holmes">Holmes</person>’ room.
 </p>
 
-<p><quote spokeBy="">Mr. Henry Baker, I believe,</quote> said he, rising from his armchair and
+<p><quote spokeBy="Sherlock_Holmes">Mr. Henry Baker, I believe,</quote> said he, rising from his armchair and
 greeting his visitor with the easy air of geniality which he could so
-readily assume. <quote spokeBy="">Pray take this chair by the fire, Mr. Baker. It is a
+readily assume. <quote spokeBy="Sherlock_Holmes">Pray take this chair by the fire, Mr. Baker. It is a
 cold night, and I observe that your circulation is more adapted for
 summer than for winter. Ah, <person perName="John_Watson">Watson</person>, you have just come at the right
 time. Is that your hat, Mr. Baker?</quote>
 </p>
 
-<p><quote spokeBy="">Yes, sir, that is undoubtedly my hat.</quote>
+<p><quote spokeBy="Henry_Baker">Yes, sir, that is undoubtedly my hat.</quote>
 </p>
 
 <p>He was a large man with rounded shoulders, a massive head, and a broad,
@@ -7594,40 +7590,40 @@ care, and gave the impression generally of a man of learning and
 letters who had had ill-usage at the hands of fortune.
 </p>
 
-<p><quote spokeBy="">We have retained these things for some days,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, <quote spokeBy="">because we
+<p><quote spokeBy="Sherlock_Holmes">We have retained these things for some days,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, <quote spokeBy="Sherlock_Holmes">because we
 expected to see an advertisement from you giving your address. I am at
 a loss to know now why you did not advertise.</quote>
 </p>
 
-<p>Our visitor gave a rather shamefaced laugh. <quote spokeBy="">Shillings have not been so
-plentiful with me as they once were,</quote> he remarked. <quote spokeBy="">I had no doubt that
+    <p>Our visitor gave a rather shamefaced laugh. <quote spokeBy="Henry_Baker">Shillings have not been so
+        plentiful with me as they once were,</quote> he remarked. <quote spokeBy="Henry_Baker">I had no doubt that
 the gang of roughs who assaulted me had carried off both my hat and the
 bird. I did not care to spend more money in a hopeless attempt at
 recovering them.</quote>
 </p>
 
-<p><quote spokeBy="">Very naturally. By the way, about the bird, we were compelled to eat
+<p><quote spokeBy="Sherlock_Holmes">Very naturally. By the way, about the bird, we were compelled to eat
 it.</quote>
 </p>
 
-<p><quote spokeBy="">To eat it!</quote> Our visitor half rose from his chair in his excitement.
+    <p><quote spokeBy="Henry_Baker">To eat it!</quote> Our visitor half rose from his chair in his excitement.
 </p>
 
-<p><quote spokeBy="">Yes, it would have been of no use to anyone had we not done so. But I
+<p><quote spokeBy="Sherlock_Holmes">Yes, it would have been of no use to anyone had we not done so. But I
 presume that this other goose upon the sideboard, which is about the
 same weight and perfectly fresh, will answer your purpose equally
 well?</quote>
 </p>
 
-<p><quote spokeBy="">Oh, certainly, certainly,</quote> answered Mr. Baker with a sigh of relief.
+    <p><quote spokeBy="Henry_Baker">Oh, certainly, certainly,</quote> answered Mr. Baker with a sigh of relief.
 </p>
 
-<p><quote spokeBy="">Of course, we still have the feathers, legs, crop, and so on of your
+<p><quote spokeBy="Sherlock_Holmes">Of course, we still have the feathers, legs, crop, and so on of your
 own bird, so if you wish—</quote>
 </p>
 
-<p>The man burst into a hearty laugh. <quote spokeBy="">They might be useful to me as
-relics of my adventure,</quote> said he, <quote spokeBy="">but beyond that I can hardly see
+    <p>The man burst into a hearty laugh. <quote spokeBy="Henry_Baker">They might be useful to me as
+        relics of my adventure,</quote> said he, <quote spokeBy="Henry_Baker">but beyond that I can hardly see
 what use the _disjecta membra_ of my late acquaintance are going to be
 to me. No, sir, I think that, with your permission, I will confine my
 attentions to the excellent bird which I perceive upon the sideboard.</quote>
@@ -7637,14 +7633,14 @@ attentions to the excellent bird which I perceive upon the sideboard.</quote>
 shoulders.
 </p>
 
-<p><quote spokeBy="">There is your hat, then, and there your bird,</quote> said he. <quote spokeBy="">By the way,
+<p><quote spokeBy="Sherlock_Holmes">There is your hat, then, and there your bird,</quote> said he. <quote spokeBy="Sherlock_Holmes">By the way,
 would it bore you to tell me where you got the other one from? I am
 somewhat of a fowl fancier, and I have seldom seen a better grown
 goose.</quote>
 </p>
 
-<p><quote spokeBy="">Certainly, sir,</quote> said Baker, who had risen and tucked his newly gained
-property under his arm. <quote spokeBy="">There are a few of us who frequent the Alpha
+    <p><quote spokeBy="Henry_Baker">Certainly, sir,</quote> said Baker, who had risen and tucked his newly gained
+        property under his arm. <quote spokeBy="Henry_Baker">There are a few of us who frequent the Alpha
 Inn, near the Museum—we are to be found in the Museum itself during the
 day, you understand. This year our good host, Windigate by name,
 instituted a goose club, by which, on consideration of some few pence
@@ -7655,19 +7651,19 @@ With a comical pomposity of manner he bowed solemnly to both of us and
 strode off upon his way.
 </p>
 
-<p><quote spokeBy="">So much for Mr. Henry Baker,</quote> said <person perName="Sherlock_Holmes">Holmes</person> when he had closed the door
-behind him. <quote spokeBy="">It is quite certain that he knows nothing whatever about
+<p><quote spokeBy="Sherlock_Holmes">So much for Mr. Henry Baker,</quote> said <person perName="Sherlock_Holmes">Holmes</person> when he had closed the door
+behind him. <quote spokeBy="Sherlock_Holmes">It is quite certain that he knows nothing whatever about
 the matter. Are you hungry, <person perName="John_Watson">Watson</person>?</quote>
 </p>
 
-<p><quote spokeBy="">Not particularly.</quote>
+<p><quote spokeBy="John_Watson">Not particularly.</quote>
 </p>
 
-<p><quote spokeBy="">Then I suggest that we turn our dinner into a supper and follow up
+<p><quote spokeBy="Sherlock_Holmes">Then I suggest that we turn our dinner into a supper and follow up
 this clue while it is still hot.</quote>
 </p>
 
-<p><quote spokeBy="">By all means.</quote>
+<p><quote spokeBy="John_Watson">By all means.</quote>
 </p>
 
 <p>It was a bitter night, so we drew on our ulsters and wrapped cravats
@@ -7682,38 +7678,38 @@ Holborn. <person perName="Sherlock_Holmes">Holmes</person> pushed open the door 
 glasses of beer from the ruddy-faced, white-aproned landlord.
 </p>
 
-<p><quote spokeBy="">Your beer should be excellent if it is as good as your geese,</quote> said
+<p><quote spokeBy="Sherlock_Holmes">Your beer should be excellent if it is as good as your geese,</quote> said
 he.
 </p>
 
-<p><quote spokeBy="">My geese!</quote> The man seemed surprised.
+    <p><quote spokeBy="Unknown">My geese!</quote> The man seemed surprised.
 </p>
 
-<p><quote spokeBy="">Yes. I was speaking only half an hour ago to Mr. Henry Baker, who was
+<p><quote spokeBy="Sherlock_Holmes">Yes. I was speaking only half an hour ago to Mr. Henry Baker, who was
 a member of your goose club.</quote>
 </p>
 
-<p><quote spokeBy="">Ah! yes, I see. But you see, sir, them’s not _our_ geese.</quote>
+    <p><quote spokeBy="Unknown">Ah! yes, I see. But you see, sir, them’s not _our_ geese.</quote>
 </p>
 
-<p><quote spokeBy="">Indeed! Whose, then?</quote>
+<p><quote spokeBy="Sherlock_Holmes">Indeed! Whose, then?</quote>
 </p>
 
-<p><quote spokeBy="">Well, I got the two dozen from a salesman in Covent Garden.</quote>
+    <p><quote spokeBy="Unknown">Well, I got the two dozen from a salesman in Covent Garden.</quote>
 </p>
 
-<p><quote spokeBy="">Indeed? I know some of them. Which was it?</quote>
+<p><quote spokeBy="Sherlock_Holmes">Indeed? I know some of them. Which was it?</quote>
 </p>
 
-<p><quote spokeBy="">Breckinridge is his name.</quote>
+<p><quote spokeBy="Unknown">Breckinridge is his name.</quote>
 </p>
 
-<p><quote spokeBy="">Ah! I don’t know him. Well, here’s your good health landlord, and
+<p><quote spokeBy="Sherlock_Holmes">Ah! I don’t know him. Well, here’s your good health landlord, and
 prosperity to your house. Good-night.</quote>
 </p>
 
-<p><quote spokeBy="">Now for Mr. Breckinridge,</quote> he continued, buttoning up his coat as we
-came out into the frosty air. <quote spokeBy="">Remember, <person perName="John_Watson">Watson</person> that though we have so
+<p><quote spokeBy="Sherlock_Holmes">Now for Mr. Breckinridge,</quote> he continued, buttoning up his coat as we
+came out into the frosty air. <quote spokeBy="Sherlock_Holmes">Remember, <person perName="John_Watson">Watson</person> that though we have so
 homely a thing as a goose at one end of this chain, we have at the
 other a man who will certainly get seven years’ penal servitude unless
 we can establish his innocence. It is possible that our inquiry may but
@@ -7730,60 +7726,60 @@ with a sharp face and trim side-whiskers was helping a boy to put up
 the shutters.
 </p>
 
-<p><quote spokeBy="">Good-evening. It’s a cold night,</quote> said <person perName="Sherlock_Holmes">Holmes</person>.
+<p><quote spokeBy="Sherlock_Holmes">Good-evening. It’s a cold night,</quote> said <person perName="Sherlock_Holmes">Holmes</person>.
 </p>
 
 <p>The salesman nodded and shot a questioning glance at my companion.
 </p>
 
-<p><quote spokeBy="">Sold out of geese, I see,</quote> continued <person perName="Sherlock_Holmes">Holmes</person>, pointing at the bare
+<p><quote spokeBy="Sherlock_Holmes">Sold out of geese, I see,</quote> continued <person perName="Sherlock_Holmes">Holmes</person>, pointing at the bare
 slabs of marble.
 </p>
 
-<p><quote spokeBy="">Let you have five hundred to-morrow morning.</quote>
+    <p><quote spokeBy="Breckinridge">Let you have five hundred to-morrow morning.</quote>
 </p>
 
-<p><quote spokeBy="">That’s no good.</quote>
+<p><quote spokeBy="Sherlock_Holmes">That’s no good.</quote>
 </p>
 
-<p><quote spokeBy="">Well, there are some on the stall with the gas-flare.</quote>
+    <p><quote spokeBy="Breckinridge">Well, there are some on the stall with the gas-flare.</quote>
 </p>
 
-<p><quote spokeBy="">Ah, but I was recommended to you.</quote>
+<p><quote spokeBy="Sherlock_Holmes">Ah, but I was recommended to you.</quote>
 </p>
 
-<p><quote spokeBy="">Who by?</quote>
+    <p><quote spokeBy="Breckinridge">Who by?</quote>
 </p>
 
-<p><quote spokeBy="">The landlord of the Alpha.</quote>
+<p><quote spokeBy="Sherlock_Holmes">The landlord of the Alpha.</quote>
 </p>
 
-<p><quote spokeBy="">Oh, yes; I sent him a couple of dozen.</quote>
+    <p><quote spokeBy="Breckinridge">Oh, yes; I sent him a couple of dozen.</quote>
 </p>
 
-<p><quote spokeBy="">Fine birds they were, too. Now where did you get them from?</quote>
+<p><quote spokeBy="Sherlock_Holmes">Fine birds they were, too. Now where did you get them from?</quote>
 </p>
 
 <p>To my surprise the question provoked a burst of anger from the
 salesman.
 </p>
 
-<p><quote spokeBy="">Now, then, mister,</quote> said he, with his head cocked and his arms akimbo,
-<quote spokeBy="">what are you driving at? Let’s have it straight, now.</quote>
+    <p><quote spokeBy="Breckinridge">Now, then, mister,</quote> said he, with his head cocked and his arms akimbo,
+        <quote spokeBy="Breckinridge">what are you driving at? Let’s have it straight, now.</quote>
 </p>
 
-<p><quote spokeBy="">It is straight enough. I should like to know who sold you the geese
+<p><quote spokeBy="Sherlock_Holmes">It is straight enough. I should like to know who sold you the geese
 which you supplied to the Alpha.</quote>
 </p>
 
-<p><quote spokeBy="">Well then, I shan’t tell you. So now!</quote>
+    <p><quote spokeBy="Breckinridge">Well then, I shan’t tell you. So now!</quote>
 </p>
 
-<p><quote spokeBy="">Oh, it is a matter of no importance; but I don’t know why you should
+<p><quote spokeBy="Sherlock_Holmes">Oh, it is a matter of no importance; but I don’t know why you should
 be so warm over such a trifle.</quote>
 </p>
 
-<p><quote spokeBy="">Warm! You’d be as warm, maybe, if you were as pestered as I am. When I
+    <p><quote spokeBy="Breckinridge">Warm! You’d be as warm, maybe, if you were as pestered as I am. When I
 pay good money for a good article there should be an end of the
 business; but it’s ‘Where are the geese?’ and ‘Who did you sell the
 geese to?’ and ‘What will you take for the geese?’ One would think they
@@ -7791,86 +7787,86 @@ were the only geese in the world, to hear the fuss that is made over
 them.</quote>
 </p>
 
-<p><quote spokeBy="">Well, I have no connection with any other people who have been making
-inquiries,</quote> said <person perName="Sherlock_Holmes">Holmes</person> carelessly. <quote spokeBy="">If you won’t tell us the bet is
+<p><quote spokeBy="Sherlock_Holmes">Well, I have no connection with any other people who have been making
+inquiries,</quote> said <person perName="Sherlock_Holmes">Holmes</person> carelessly. <quote spokeBy="Sherlock_Holmes">If you won’t tell us the bet is
 off, that is all. But I’m always ready to back my opinion on a matter
 of fowls, and I have a fiver on it that the bird I ate is country
 bred.</quote>
 </p>
 
-<p><quote spokeBy="">Well, then, you’ve lost your fiver, for it’s town bred,</quote> snapped the
+    <p><quote spokeBy="Breckinridge">Well, then, you’ve lost your fiver, for it’s town bred,</quote> snapped the
 salesman.
 </p>
 
-<p><quote spokeBy="">It’s nothing of the kind.</quote>
+<p><quote spokeBy="Sherlock_Holmes">It’s nothing of the kind.</quote>
 </p>
 
-<p><quote spokeBy="">I say it is.</quote>
+    <p><quote spokeBy="Breckinridge">I say it is.</quote>
 </p>
 
-<p><quote spokeBy="">I don’t believe it.</quote>
+<p><quote spokeBy="Sherlock_Holmes">I don’t believe it.</quote>
 </p>
 
-<p><quote spokeBy="">D’you think you know more about fowls than I, who have handled them
+    <p><quote spokeBy="Breckinridge">D’you think you know more about fowls than I, who have handled them
 ever since I was a nipper? I tell you, all those birds that went to the
 Alpha were town bred.</quote>
 </p>
 
-<p><quote spokeBy="">You’ll never persuade me to believe that.</quote>
+<p><quote spokeBy="Sherlock_Holmes">You’ll never persuade me to believe that.</quote>
 </p>
 
-<p><quote spokeBy="">Will you bet, then?</quote>
+    <p><quote spokeBy="Breckinridge">Will you bet, then?</quote>
 </p>
 
-<p><quote spokeBy="">It’s merely taking your money, for I know that I am right. But I’ll
+<p><quote spokeBy="Sherlock_Holmes">It’s merely taking your money, for I know that I am right. But I’ll
 have a sovereign on with you, just to teach you not to be obstinate.</quote>
 </p>
 
-<p>The salesman chuckled grimly. <quote spokeBy="">Bring me the books, Bill,</quote> said he.
+    <p>The salesman chuckled grimly. <quote spokeBy="Breckinridge">Bring me the books, Bill,</quote> said he.
 </p>
 
 <p>The small boy brought round a small thin volume and a great
 greasy-backed one, laying them out together beneath the hanging lamp.
 </p>
 
-<p><quote spokeBy="">Now then, Mr. Cocksure,</quote> said the salesman, <quote spokeBy="">I thought that I was out
+    <p><quote spokeBy="Breckinridge">Now then, Mr. Cocksure,</quote> said the salesman, <quote spokeBy="Breckinridge">I thought that I was out
 of geese, but before I finish you’ll find that there is still one left
 in my shop. You see this little book?</quote>
 </p>
 
-<p><quote spokeBy="">Well?</quote>
+<p><quote spokeBy="Sherlock_Holmes">Well?</quote>
 </p>
 
-<p><quote spokeBy="">That’s the list of the folk from whom I buy. D’you see? Well, then,
+    <p><quote spokeBy="Breckinridge">That’s the list of the folk from whom I buy. D’you see? Well, then,
 here on this page are the country folk, and the numbers after their
 names are where their accounts are in the big ledger. Now, then! You
 see this other page in red ink? Well, that is a list of my town
 suppliers. Now, look at that third name. Just read it out to me.</quote>
 </p>
 
-<p><quote spokeBy="">Mrs. Oakshott, 117, Brixton Road—249,</quote> read <person perName="Sherlock_Holmes">Holmes</person>.
+<p><quote spokeBy="Sherlock_Holmes">Mrs. Oakshott, 117, Brixton Road—249,</quote> read <person perName="Sherlock_Holmes">Holmes</person>.
 </p>
 
-<p><quote spokeBy="">Quite so. Now turn that up in the ledger.</quote>
+    <p><quote spokeBy="Breckinridge">Quite so. Now turn that up in the ledger.</quote>
 </p>
 
-<p><person perName="Sherlock_Holmes">Holmes</person> turned to the page indicated. <quote spokeBy="">Here you are, ‘Mrs. Oakshott,
+<p><person perName="Sherlock_Holmes">Holmes</person> turned to the page indicated. <quote spokeBy="Sherlock_Holmes">Here you are, ‘Mrs. Oakshott,
 117, Brixton Road, egg and poultry supplier.’</quote>
 </p>
 
-<p><quote spokeBy="">Now, then, what’s the last entry?</quote>
+    <p><quote spokeBy="Breckinridge">Now, then, what’s the last entry?</quote>
 </p>
 
-<p><quote spokeBy="">‘December 22nd. Twenty-four geese at 7_s_. 6_d_.’</quote>
+<p><quote spokeBy="Sherlock_Holmes">‘December 22nd. Twenty-four geese at 7_s_. 6_d_.’</quote>
 </p>
 
-<p><quote spokeBy="">Quite so. There you are. And underneath?</quote>
+    <p><quote spokeBy="Breckinridge">Quite so. There you are. And underneath?</quote>
 </p>
 
-<p><quote spokeBy="">‘Sold to Mr. Windigate of the Alpha, at 12_s_.’</quote>
+<p><quote spokeBy="Sherlock_Holmes">‘Sold to Mr. Windigate of the Alpha, at 12_s_.’</quote>
 </p>
 
-<p><quote spokeBy="">What have you to say now?</quote>
+    <p><quote spokeBy="Breckinridge">What have you to say now?</quote>
 </p>
 
 <p><person perName="Sherlock_Holmes">Sherlock Holmes</person> looked deeply chagrined. He drew a sovereign from his
@@ -7880,9 +7876,9 @@ under a lamp-post and laughed in the hearty, noiseless fashion which
 was peculiar to him.
 </p>
 
-<p><quote spokeBy="">When you see a man with whiskers of that cut and the ‘Pink ’un’
+<p><quote spokeBy="Sherlock_Holmes">When you see a man with whiskers of that cut and the ‘Pink ’un’
 protruding out of his pocket, you can always draw him by a bet,</quote> said
-he. <quote spokeBy="">I daresay that if I had put £ 100 down in front of him, that man
+he. <quote spokeBy="Sherlock_Holmes">I daresay that if I had put £ 100 down in front of him, that man
 would not have given me such complete information as was drawn from him
 by the idea that he was doing me on a wager. Well, <person perName="John_Watson">Watson</person>, we are, I
 fancy, nearing the end of our quest, and the only point which remains
@@ -7900,28 +7896,28 @@ salesman, framed in the door of his stall, was shaking his fists
 fiercely at the cringing figure.
 </p>
 
-<p><quote spokeBy="">I’ve had enough of you and your geese,</quote> he shouted. <quote spokeBy="">I wish you were
+    <p><quote spokeBy="Breckinridge">I’ve had enough of you and your geese,</quote> he shouted. <quote spokeBy="Breckinridge">I wish you were
 all at the devil together. If you come pestering me any more with your
 silly talk I’ll set the dog at you. You bring Mrs. Oakshott here and
 I’ll answer her, but what have you to do with it? Did I buy the geese
 off you?</quote>
 </p>
 
-<p><quote spokeBy="">No; but one of them was mine all the same,</quote> whined the little man.
+    <p><quote spokeBy="James_Ryder">No; but one of them was mine all the same,</quote> whined the little man.
 </p>
 
-<p><quote spokeBy="">Well, then, ask Mrs. Oakshott for it.</quote>
+    <p><quote spokeBy="Breckinridge">Well, then, ask Mrs. Oakshott for it.</quote>
 </p>
 
-<p><quote spokeBy="">She told me to ask you.</quote>
+    <p><quote spokeBy="James_Ryder">She told me to ask you.</quote>
 </p>
 
-<p><quote spokeBy="">Well, you can ask the King of Proosia, for all I care. I’ve had enough
+    <p><quote spokeBy="Breckinridge">Well, you can ask the King of Proosia, for all I care. I’ve had enough
 of it. Get out of this!</quote> He rushed fiercely forward, and the inquirer
 flitted away into the darkness.
 </p>
 
-<p><quote spokeBy="">Ha! this may save us a visit to Brixton Road,</quote> whispered <person perName="Sherlock_Holmes">Holmes</person>. <quote spokeBy="">Come
+<p><quote spokeBy="Sherlock_Holmes">Ha! this may save us a visit to Brixton Road,</quote> whispered <person perName="Sherlock_Holmes">Holmes</person>. <quote spokeBy="Sherlock_Holmes">Come
 with me, and we will see what is to be made of this fellow.</quote> Striding
 through the scattered knots of people who lounged round the flaring
 stalls, my companion speedily overtook the little man and touched him
@@ -7929,54 +7925,54 @@ upon the shoulder. He sprang round, and I could see in the gas-light
 that every vestige of colour had been driven from his face.
 </p>
 
-<p><quote spokeBy="">Who are you, then? What do you want?</quote> he asked in a quavering voice.
+    <p><quote spokeBy="James_Ryder">Who are you, then? What do you want?</quote> he asked in a quavering voice.
 </p>
 
-<p><quote spokeBy="">You will excuse me,</quote> said <person perName="Sherlock_Holmes">Holmes</person> blandly, <quote spokeBy="">but I could not help
+<p><quote spokeBy="Sherlock_Holmes">You will excuse me,</quote> said <person perName="Sherlock_Holmes">Holmes</person> blandly, <quote spokeBy="Sherlock_Holmes">but I could not help
 overhearing the questions which you put to the salesman just now. I
 think that I could be of assistance to you.</quote>
 </p>
 
-<p><quote spokeBy="">You? Who are you? How could you know anything of the matter?</quote>
+    <p><quote spokeBy="James_Ryder">You? Who are you? How could you know anything of the matter?</quote>
 </p>
 
-<p><quote spokeBy="">My name is <person perName="Sherlock_Holmes">Sherlock Holmes</person>. It is my business to know what other
+<p><quote spokeBy="Sherlock_Holmes">My name is <person perName="Sherlock_Holmes">Sherlock Holmes</person>. It is my business to know what other
 people don’t know.</quote>
 </p>
 
-<p><quote spokeBy="">But you can know nothing of this?</quote>
+    <p><quote spokeBy="James_Ryder">But you can know nothing of this?</quote>
 </p>
 
-<p><quote spokeBy="">Excuse me, I know everything of it. You are endeavouring to trace some
+<p><quote spokeBy="Sherlock_Holmes">Excuse me, I know everything of it. You are endeavouring to trace some
 geese which were sold by Mrs. Oakshott, of Brixton Road, to a salesman
 named Breckinridge, by him in turn to Mr. Windigate, of the Alpha, and
 by him to his club, of which Mr. Henry Baker is a member.</quote>
 </p>
 
-<p><quote spokeBy="">Oh, sir, you are the very man whom I have longed to meet,</quote> cried the
-little fellow with outstretched hands and quivering fingers. <quote spokeBy="">I can
+    <p><quote spokeBy="James_Ryder">Oh, sir, you are the very man whom I have longed to meet,</quote> cried the
+        little fellow with outstretched hands and quivering fingers. <quote spokeBy="James_Ryder">I can
 hardly explain to you how interested I am in this matter.</quote>
 </p>
 
-<p><person perName="Sherlock_Holmes">Sherlock Holmes</person> hailed a four-wheeler which was passing. <quote spokeBy="">In that case
+<p><person perName="Sherlock_Holmes">Sherlock Holmes</person> hailed a four-wheeler which was passing. <quote spokeBy="Sherlock_Holmes">In that case
 we had better discuss it in a cosy room rather than in this wind-swept
-market-place,</quote> said he. <quote spokeBy="">But pray tell me, before we go farther, who it
+market-place,</quote> said he. <quote spokeBy="Sherlock_Holmes">But pray tell me, before we go farther, who it
 is that I have the pleasure of assisting.</quote>
 </p>
 
-<p>The man hesitated for an instant. <quote spokeBy="">My name is John Robinson,</quote> he
+<p>The man hesitated for an instant. <quote spokeBy="James_Ryder">My name is John Robinson,</quote> he
 answered with a sidelong glance.
 </p>
 
-<p><quote spokeBy="">No, no; the real name,</quote> said <person perName="Sherlock_Holmes">Holmes</person> sweetly. <quote spokeBy="">It is always awkward
+    <p><quote spokeBy="Sherlock_Holmes">No, no; the real name,</quote> said <person perName="Sherlock_Holmes">Holmes</person> sweetly. <quote spokeBy="">It is always awkward
 doing business with an alias.</quote>
 </p>
 
-<p>A flush sprang to the white cheeks of the stranger. <quote spokeBy="">Well then,</quote> said
-he, <quote spokeBy="">my real name is James Ryder.</quote>
+<p>A flush sprang to the white cheeks of the stranger. <quote spokeBy="James_Ryder">Well then,</quote> said
+he, <quote spokeBy="James_Ryder">my real name is James Ryder.</quote>
 </p>
 
-<p><quote spokeBy="">Precisely so. Head attendant at the Hotel Cosmopolitan. Pray step into
+<p><quote spokeBy="Sherlock_Holmes">Precisely so. Head attendant at the Hotel Cosmopolitan. Pray step into
 the cab, and I shall soon be able to tell you everything which you
 would wish to know.</quote>
 </p>
@@ -7990,31 +7986,31 @@ breathing of our new companion, and the claspings and unclaspings of
 his hands, spoke of the nervous tension within him.
 </p>
 
-<p><quote spokeBy="">Here we are!</quote> said <person perName="Sherlock_Holmes">Holmes</person> cheerily as we filed into the room. <quote spokeBy="">The
+<p><quote spokeBy="Sherlock_Holmes">Here we are!</quote> said <person perName="Sherlock_Holmes">Holmes</person> cheerily as we filed into the room. <quote spokeBy="Sherlock_Holmes">The
 fire looks very seasonable in this weather. You look cold, Mr. Ryder.
 Pray take the basket-chair. I will just put on my slippers before we
 settle this little matter of yours. Now, then! You want to know what
 became of those geese?</quote>
 </p>
 
-<p><quote spokeBy="">Yes, sir.</quote>
+    <p><quote spokeBy="James_Ryder">Yes, sir.</quote>
 </p>
 
-<p><quote spokeBy="">Or rather, I fancy, of that goose. It was one bird, I imagine in which
+<p><quote spokeBy="Sherlock_Holmes">Or rather, I fancy, of that goose. It was one bird, I imagine in which
 you were interested—white, with a black bar across the tail.</quote>
 </p>
 
-<p>Ryder quivered with emotion. <quote spokeBy="">Oh, sir,</quote> he cried, <quote spokeBy="">can you tell me
+    <p>Ryder quivered with emotion. <quote spokeBy="James_Ryder">Oh, sir,</quote> he cried, <quote spokeBy="James_Ryder">can you tell me
 where it went to?</quote>
 </p>
 
-<p><quote spokeBy="">It came here.</quote>
+<p><quote spokeBy="Sherlock_Holmes">It came here.</quote>
 </p>
 
-<p><quote spokeBy="">Here?</quote>
+    <p><quote spokeBy="James_Ryder">Here?</quote>
 </p>
 
-<p><quote spokeBy="">Yes, and a most remarkable bird it proved. I don’t wonder that you
+<p><quote spokeBy="Sherlock_Holmes">Yes, and a most remarkable bird it proved. I don’t wonder that you
 should take an interest in it. It laid an egg after it was dead—the
 bonniest, brightest little blue egg that ever was seen. I have it here
 in my museum.</quote>
@@ -8027,7 +8023,7 @@ many-pointed radiance. Ryder stood glaring with a drawn face, uncertain
 whether to claim or to disown it.
 </p>
 
-<p><quote spokeBy="">The game’s up, Ryder,</quote> said <person perName="Sherlock_Holmes">Holmes</person> quietly. <quote spokeBy="">Hold up, man, or you’ll
+<p><quote spokeBy="Sherlock_Holmes">The game’s up, Ryder,</quote> said <person perName="Sherlock_Holmes">Holmes</person> quietly. <quote spokeBy="Sherlock_Holmes">Hold up, man, or you’ll
 be into the fire! Give him an arm back into his chair, <person perName="John_Watson">Watson</person>. He’s not
 got blood enough to go in for felony with impunity. Give him a dash of
 brandy. So! Now he looks a little more human. What a shrimp it is, to
@@ -8039,17 +8035,17 @@ a tinge of colour into his cheeks, and he sat staring with frightened
 eyes at his accuser.
 </p>
 
-<p><quote spokeBy="">I have almost every link in my hands, and all the proofs which I could
+<p><quote spokeBy="Sherlock_Holmes">I have almost every link in my hands, and all the proofs which I could
 possibly need, so there is little which you need tell me. Still, that
 little may as well be cleared up to make the case complete. You had
 heard, Ryder, of this blue stone of the Countess of Morcar’s?</quote>
 </p>
 
-<p><quote spokeBy="">It was Catherine Cusack who told me of it,</quote> said he in a crackling
+    <p><quote spokeBy="James_Ryder">It was Catherine Cusack who told me of it,</quote> said he in a crackling
 voice.
 </p>
 
-<p><quote spokeBy="">I see—her ladyship’s waiting-maid. Well, the temptation of sudden
+<p><quote spokeBy="Sherlock_Holmes">I see—her ladyship’s waiting-maid. Well, the temptation of sudden
 wealth so easily acquired was too much for you, as it has been for
 better men before you; but you were not very scrupulous in the means
 you used. It seems to me, Ryder, that there is the making of a very
@@ -8063,29 +8059,29 @@ arrested. You then—</quote>
 </p>
 
 <p>Ryder threw himself down suddenly upon the rug and clutched at my
-companion’s knees. <quote spokeBy="">For God’s sake, have mercy!</quote> he shrieked. <quote spokeBy="">Think of
+    companion’s knees. <quote spokeBy="James_Ryder">For God’s sake, have mercy!</quote> he shrieked. <quote spokeBy="James_Ryder">Think of
 my father! Of my mother! It would break their hearts. I never went
 wrong before! I never will again. I swear it. I’ll swear it on a Bible.
 Oh, don’t bring it into court! For Christ’s sake, don’t!</quote>
 </p>
 
-<p><quote spokeBy="">Get back into your chair!</quote> said <person perName="Sherlock_Holmes">Holmes</person> sternly. <quote spokeBy="">It is very well to
+<p><quote spokeBy="Sherlock_Holmes">Get back into your chair!</quote> said <person perName="Sherlock_Holmes">Holmes</person> sternly. <quote spokeBy="Sherlock_Holmes">It is very well to
 cringe and crawl now, but you thought little enough of this poor Horner
 in the dock for a crime of which he knew nothing.</quote>
 </p>
 
-<p><quote spokeBy="">I will fly, <person perName="Sherlock_Holmes">Mr. Holmes</person>. I will leave the country, sir. Then the charge
+    <p><quote spokeBy="James_Ryder">I will fly, <person perName="Sherlock_Holmes">Mr. Holmes</person>. I will leave the country, sir. Then the charge
 against him will break down.</quote>
 </p>
 
-<p><quote spokeBy="">Hum! We will talk about that. And now let us hear a true account of
+<p><quote spokeBy="Sherlock_Holmes">Hum! We will talk about that. And now let us hear a true account of
 the next act. How came the stone into the goose, and how came the goose
 into the open market? Tell us the truth, for there lies your only hope
 of safety.</quote>
 </p>
 
-<p>Ryder passed his tongue over his parched lips. <quote spokeBy="">I will tell you it just
-as it happened, sir,</quote> said he. <quote spokeBy="">When Horner had been arrested, it
+    <p>Ryder passed his tongue over his parched lips. <quote spokeBy="James_Ryder">I will tell you it just
+        as it happened, sir,</quote> said he. <quote spokeBy="James_Ryder">When Horner had been arrested, it
 seemed to me that it would be best for me to get away with the stone at
 once, for I did not know at what moment the police might not take it
 into their heads to search me and my room. There was no place about the
@@ -8100,7 +8096,7 @@ upset by the jewel robbery at the hotel. Then I went into the back yard
 and smoked a pipe and wondered what it would be best to do.
 </quote></p>
 
-<p><quote spokeBy="">I had a friend once called Maudsley, who went to the bad, and has just
+    <p><quote spokeBy="James_Ryder">I had a friend once called Maudsley, who went to the bad, and has just
 been serving his time in Pentonville. One day he had met me, and fell
 into talk about the ways of thieves, and how they could get rid of what
 they stole. I knew that he would be true to me, for I knew one or two
@@ -8115,7 +8111,7 @@ suddenly an idea came into my head which showed me how I could beat the
 best detective that ever lived.
 </quote></p>
 
-<p><quote spokeBy="">My sister had told me some weeks before that I might have the pick of
+    <p><quote spokeBy="James_Ryder">My sister had told me some weeks before that I might have the pick of
 her geese for a Christmas present, and I knew that she was always as
 good as her word. I would take my goose now, and in it I would carry my
 stone to Kilburn. There was a little shed in the yard, and behind this
@@ -8128,41 +8124,41 @@ matter. As I turned to speak to her the brute broke loose and fluttered
 off among the others.
 </quote></p>
 
-<p><quote spokeBy="">‘Whatever were you doing with that bird, Jem?’ says she.
+    <p><quote spokeBy="James_Ryder">‘Whatever were you doing with that bird, Jem?’ says she.
 </quote></p>
 
-<p><quote spokeBy="">‘Well,’ said I, ‘you said you’d give me one for Christmas, and I was
+    <p><quote spokeBy="James_Ryder">‘Well,’ said I, ‘you said you’d give me one for Christmas, and I was
 feeling which was the fattest.’
 </quote></p>
 
-<p><quote spokeBy="">‘Oh,’ says she, ‘we’ve set yours aside for you—Jem’s bird, we call it.
+    <p><quote spokeBy="James_Ryder">‘Oh,’ says she, ‘we’ve set yours aside for you—Jem’s bird, we call it.
 It’s the big white one over yonder. There’s twenty-six of them, which
 makes one for you, and one for us, and two dozen for the market.’
 </quote></p>
 
-<p><quote spokeBy="">‘Thank you, Maggie,’ says I; ‘but if it is all the same to you, I’d
+    <p><quote spokeBy="James_Ryder">‘Thank you, Maggie,’ says I; ‘but if it is all the same to you, I’d
 rather have that one I was handling just now.’
 </quote></p>
 
-<p><quote spokeBy="">‘The other is a good three pound heavier,’ said she, ‘and we fattened
+    <p><quote spokeBy="James_Ryder">‘The other is a good three pound heavier,’ said she, ‘and we fattened
 it expressly for you.’
 </quote></p>
 
-<p><quote spokeBy="">‘Never mind. I’ll have the other, and I’ll take it now,’ said I.
+    <p><quote spokeBy="James_Ryder">‘Never mind. I’ll have the other, and I’ll take it now,’ said I.
 </quote></p>
 
-<p><quote spokeBy="">‘Oh, just as you like,’ said she, a little huffed. ‘Which is it you
+    <p><quote spokeBy="James_Ryder">‘Oh, just as you like,’ said she, a little huffed. ‘Which is it you
 want, then?’
 </quote></p>
 
-<p><quote spokeBy="">‘That white one with the barred tail, right in the middle of the
+    <p><quote spokeBy="James_Ryder">‘That white one with the barred tail, right in the middle of the
 flock.’
 </quote></p>
 
-<p><quote spokeBy="">‘Oh, very well. Kill it and take it with you.’
+    <p><quote spokeBy="James_Ryder">‘Oh, very well. Kill it and take it with you.’
 </quote></p>
 
-<p><quote spokeBy="">Well, I did what she said, <person perName="Sherlock_Holmes">Mr. Holmes</person>, and I carried the bird all the
+    <p><quote spokeBy="James_Ryder">Well, I did what she said, <person perName="Sherlock_Holmes">Mr. Holmes</person>, and I carried the bird all the
 way to Kilburn. I told my pal what I had done, for he was a man that it
 was easy to tell a thing like that to. He laughed until he choked, and
 we got a knife and opened the goose. My heart turned to water, for
@@ -8171,27 +8167,27 @@ had occurred. I left the bird, rushed back to my sister’s, and hurried
 into the back yard. There was not a bird to be seen there.
 </quote></p>
 
-<p><quote spokeBy="">‘Where are they all, Maggie?’ I cried.
+    <p><quote spokeBy="James_Ryder">‘Where are they all, Maggie?’ I cried.
 </quote></p>
 
-<p><quote spokeBy="">‘Gone to the dealer’s, Jem.’
+    <p><quote spokeBy="James_Ryder">‘Gone to the dealer’s, Jem.’
 </quote></p>
 
-<p><quote spokeBy="">‘Which dealer’s?’
+    <p><quote spokeBy="James_Ryder">‘Which dealer’s?’
 </quote></p>
 
-<p><quote spokeBy="">‘Breckinridge, of Covent Garden.’
+    <p><quote spokeBy="James_Ryder">‘Breckinridge, of Covent Garden.’
 </quote></p>
 
-<p><quote spokeBy="">‘But was there another with a barred tail?’ I asked, ‘the same as the
+    <p><quote spokeBy="James_Ryder">‘But was there another with a barred tail?’ I asked, ‘the same as the
 one I chose?’
 </quote></p>
 
-<p><quote spokeBy="">‘Yes, Jem; there were two barred-tailed ones, and I could never tell
+    <p><quote spokeBy="James_Ryder">‘Yes, Jem; there were two barred-tailed ones, and I could never tell
 them apart.’
 </quote></p>
 
-<p><quote spokeBy="">Well, then, of course I saw it all, and I ran off as hard as my feet
+    <p><quote spokeBy="James_Ryder">Well, then, of course I saw it all, and I ran off as hard as my feet
 would carry me to this man Breckinridge; but he had sold the lot at
 once, and not one word would he tell me as to where they had gone. You
 heard him yourselves to-night. Well, he has always answered me like
@@ -8207,13 +8203,13 @@ measured tapping of <person perName="Sherlock_Holmes">Sherlock Holmes</person>�
 table. Then my friend rose and threw open the door.
 </p>
 
-<p><quote spokeBy="">Get out!</quote> said he.
+<p><quote spokeBy="Sherlock_Holmes">Get out!</quote> said he.
 </p>
 
-<p><quote spokeBy="">What, sir! Oh, Heaven bless you!</quote>
+    <p><quote spokeBy="James_Ryder">What, sir! Oh, Heaven bless you!</quote>
 </p>
 
-<p><quote spokeBy="">No more words. Get out!</quote>
+<p><quote spokeBy="Sherlock_Holmes">No more words. Get out!</quote>
 </p>
 
 <p>And no more words were needed. There was a rush, a clatter upon the
@@ -8221,8 +8217,8 @@ stairs, the bang of a door, and the crisp rattle of running footfalls
 from the street.
 </p>
 
-<p><quote spokeBy="">After all, <person perName="John_Watson">Watson</person>,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, reaching up his hand for his clay
-pipe, <quote spokeBy="">I am not retained by the police to supply their deficiencies. If
+<p><quote spokeBy="Sherlock_Holmes">After all, <person perName="John_Watson">Watson</person>,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, reaching up his hand for his clay
+pipe, <quote spokeBy="Sherlock_Holmes">I am not retained by the police to supply their deficiencies. If
 Horner were in danger it would be another thing; but this fellow will
 not appear against him, and the case must collapse. I suppose that I am
 commuting a felony, but it is just possible that I am saving a soul.
@@ -8234,11 +8230,6 @@ you will have the goodness to touch the bell, Doctor, we will begin
 another investigation, in which, also a bird will be the chief
 feature.</quote>
 </p>
-
-
-
-
-
 
 
 </story>

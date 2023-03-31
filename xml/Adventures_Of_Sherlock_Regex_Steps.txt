@@ -54,6 +54,14 @@ These are instructions to help markup Sherlock Holmes short story collections us
 - Miss_Turner (Alice Turner New <person>) not done
 - Kate_Whitney (New <person>) not done
 - Isa Whitney (New <person>) not done
+- Bradstreet (New <person>) not done
+- Peterson (commissionaire New <person>) not done
+- Henry_Baker (New <person>) not done
+- Mrs. Hudson (New <person>) not done
+- Breckinridge (New <person>) not done
+- Mrs. Oakshott (New <person>) not done
+- John_Robinson (New <person>) not done
+- Catherine Cusack (New <person>) not done
 
 **********************************************************************
 
