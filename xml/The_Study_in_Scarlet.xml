@@ -1763,7 +1763,7 @@ an aggrieved voice. <quote spokeBy="John_Rance">I’ll wager he found his way ho
 <p><quote spokeBy="John_Rance">A brown overcoat.</quote>
 </p>
 
-<p><quote spokeBy="Sherlrock_Holmes">Had he a whip in his hand?</quote>
+<p><quote spokeBy="Sherlock_Holmes">Had he a whip in his hand?</quote>
 </p>
 
 <p><quote spokeBy="John_Rance">A whip—no.</quote>
@@ -2433,7 +2433,7 @@ frank with this gentleman. We _did_ see <person perName="Enoch_J_Drebber">Mr. Dr
 </quote></p>
 
 <p><quote spokeBy="Madame_Charpentier">God forgive you!</quote> cried Madame Charpentier, throwing up her hands and
-  sinking back in her chair. <quote spokeBy="Madame Charpentier">You have murdered your brother.
+  sinking back in her chair. <quote spokeBy="Madame_Charpentier">You have murdered your brother.
 </quote></p>
 
   <p><quote spokeBy="Unknown">Arthur would rather that we spoke the truth</quote>, the girl answered
@@ -2539,43 +2539,43 @@ which I always found effective with women, I asked her at what hour her
 son returned.
 </quote></p>
 
-<p><quote spokeBy="Madame_Carpentier">‘I do not know,’ she answered.
+<p><quote spokeBy="Madame_Charpentier">‘I do not know,’ she answered.
 </quote></p>
 
   <p><quote spokeBy="Tobias_Gregson">‘Not know?’
 </quote></p>
 
-  <p><quote spokeBy="Madame_Carpentier">‘No; he has a latch-key, and he let himself in.’
+  <p><quote spokeBy="Madame_Charpentier">‘No; he has a latch-key, and he let himself in.’
 </quote></p>
 
   <p><quote spokeBy="Tobias_Gregson">‘After you went to bed?’
 </quote></p>
 
-  <p><quote spokeBy="Madame_Carpentier">‘Yes.’
+  <p><quote spokeBy="Madame_Charpentier">‘Yes.’
 </quote></p>
 
   <p><quote spokeBy="Tobias_Gregson">‘When did you go to bed?’
 </quote></p>
 
-  <p><quote spokeBy="Madame_Carpentier">‘About eleven.’
+  <p><quote spokeBy="Madame_Charpentier">‘About eleven.’
 </quote></p>
 
   <p><quote spokeBy="Tobias_Gregson">‘So your son was gone at least two hours?’
 </quote></p>
 
-  <p><quote spokeBy="Madame_Carpentier">‘Yes.’
+  <p><quote spokeBy="Madame_Charpentier">‘Yes.’
 </quote></p>
 
   <p><quote spokeBy="Tobias_Gregson">‘Possibly four or five?’
 </quote></p>
 
-  <p><quote spokeBy="Madame_Carpentier">‘Yes.’
+  <p><quote spokeBy="Madame_Charpentier">‘Yes.’
 </quote></p>
 
   <p><quote spokeBy="Tobias_Gregson">‘What was he doing during that time?’
 </quote></p>
 
-  <p><quote spokeBy="Madame_Carpentier">‘I do not know,’ she answered, turning white to her very lips.
+  <p><quote spokeBy="Madame_Charpentier">‘I do not know,’ she answered, turning white to her very lips.
 </quote></p>
 
   <p><quote spokeBy="Tobias_Gregson">Of course after that there was nothing more to be done. I found out
@@ -3001,15 +3001,15 @@ downstairs.</quote>
 
 <p><quote spokeBy="Sherlock_Holmes">Good boy,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, blandly. <quote spokeBy="Sherlock_Holmes">Why don’t you introduce this pattern
 at Scotland Yard?</quote> he continued, taking a pair of steel handcuffs from
-a drawer. <quote spokeBy="">See how beautifully the spring works. They fasten in an
+a drawer. <quote spokeBy="Sherlock_Holmes">See how beautifully the spring works. They fasten in an
 instant.</quote>
 </p>
 
-<p><quote spokeBy="">The old pattern is good enough,</quote> remarked <person perName="Lestrade">Lestrade</person>, <quote spokeBy="">if we can only
+<p><quote spokeBy="Lestrade">The old pattern is good enough,</quote> remarked <person perName="Lestrade">Lestrade</person>, <quote spokeBy="Lestrade">if we can only
 find the man to put them on.</quote>
 </p>
 
-<p><quote spokeBy="">Very good, very good,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, smiling. <quote spokeBy="">The cabman may as well
+<p><quote spokeBy="Sherlock_Holmes">Very good, very good,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, smiling. <quote spokeBy="Sherlock_Holmes">The cabman may as well
 help me with my boxes. Just ask him to step up, Wiggins.</quote>
 </p>
 
@@ -3020,7 +3020,7 @@ began to strap. He was busily engaged at it when the cabman entered the
 room.
 </p>
 
-<p><quote spokeBy="">Just give me a help with this buckle, cabman,</quote> he said, kneeling over
+<p><quote spokeBy="Sherlock_Holmes">Just give me a help with this buckle, cabman,</quote> he said, kneeling over
 his task, and never turning his head.
 </p>
 
@@ -3029,7 +3029,7 @@ down his hands to assist. At that instant there was a sharp click, the
 jangling of metal, and <person perName="Sherlock_Holmes">Sherlock Holmes</person> sprang to his feet again.
 </p>
 
-<p><quote spokeBy="">Gentlemen,</quote> he cried, with flashing eyes, <quote spokeBy="">let me introduce you to <person perName="Jefferson_Hope">Mr.
+<p><quote spokeBy="Sherlock_Holmes">Gentlemen,</quote> he cried, with flashing eyes, <quote spokeBy="Sherlock_Holmes">let me introduce you to <person perName="Jefferson_Hope">Mr.
 Jefferson Hope</person>, the murderer of <person perName="Enoch_J_Drebber">Enoch Drebber</person> and of <person perName="Joseph_Stangerson">Joseph
 Stangerson</person>.</quote>
 </p>
@@ -3056,9 +3056,9 @@ feet as well as his hands. That done, we rose to our feet breathless
 and panting.
 </p>
 
-<p><quote spokeBy="">We have his cab,</quote> said <person perName="Sherlock_Holmes">Sherlock Holmes</person>. <quote spokeBy="">It will serve to take him to
+<p><quote spokeBy="Sherlock_Holmes">We have his cab,</quote> said <person perName="Sherlock_Holmes">Sherlock Holmes</person>. <quote spokeBy="Sherlock_Holmes">It will serve to take him to
 Scotland Yard. And now, gentlemen,</quote> he continued, with a pleasant
-smile, <quote spokeBy="">we have reached the end of our little mystery. You are very
+smile, <quote spokeBy="Sherlock_Holmes">we have reached the end of our little mystery. You are very
 welcome to put any questions that you like to me now, and there is no
 danger that I will refuse to answer them.</quote>
 </p>
@@ -3154,7 +3154,7 @@ savage mountains, without a sign anywhere of plant or tree, which might
 indicate the presence of moisture. In all that broad landscape there
 was no gleam of hope. North, and east, and west he looked with wild
 questioning eyes, and then he realised that his wanderings had come to
-an end, and that there, on that barren crag, he was about to die. <quote spokeBy="">Why
+an end, and that there, on that barren crag, he was about to die. <quote spokeBy="Unknown">Why
 not here, as well as in a feather bed, twenty years hence,</quote> he
 muttered, as he seated himself in the shelter of a boulder.
 </p>
@@ -3168,10 +3168,10 @@ little moaning cry, and from it there protruded a small, scared face,
 with very bright brown eyes, and two little speckled, dimpled fists.
 </p>
 
-<p><quote spokeBy="">You’ve hurt me!</quote> said a childish voice reproachfully.
+<p><quote spokeBy="Unknown">You’ve hurt me!</quote> said a childish voice reproachfully.
 </p>
 
-<p><quote spokeBy="">Have I though,</quote> the man answered penitently, <quote spokeBy="">I didn’t go for to do
+<p><quote spokeBy="Unknown">Have I though,</quote> the man answered penitently, <quote spokeBy="Unknown">I didn’t go for to do
 it.</quote> As he spoke he unwrapped the grey shawl and extricated a pretty
 little girl of about five years of age, whose dainty shoes and smart
 pink frock with its little linen apron all bespoke a mother’s care. The
@@ -3179,91 +3179,91 @@ child was pale and wan, but her healthy arms and legs showed that she
 had suffered less than her companion.
 </p>
 
-<p><quote spokeBy="">How is it now?</quote> he answered anxiously, for she was still rubbing the
+<p><quote spokeBy="Unknown">How is it now?</quote> he answered anxiously, for she was still rubbing the
 towsy golden curls which covered the back of her head.
 </p>
 
-<p><quote spokeBy="">Kiss it and make it well,</quote> she said, with perfect gravity, showing the
-injured part up to him. <quote spokeBy="">That’s what mother used to do. Where’s
+<p><quote spokeBy="Unknown">Kiss it and make it well,</quote> she said, with perfect gravity, showing the
+injured part up to him. <quote spokeBy="Unkonwn">That’s what mother used to do. Where’s
 mother?</quote>
 </p>
 
-<p><quote spokeBy="">Mother’s gone. I guess you’ll see her before long.</quote>
+<p><quote spokeBy="Unknown">Mother’s gone. I guess you’ll see her before long.</quote>
 </p>
 
-<p><quote spokeBy="">Gone, eh!</quote> said the little girl. <quote spokeBy="">Funny, she didn’t say good-bye; she
+<p><quote spokeBy="Unknown">Gone, eh!</quote> said the little girl. <quote spokeBy="Unknown">Funny, she didn’t say good-bye; she
 ‘most always did if she was just goin’ over to Auntie’s for tea, and
 now she’s been away three days. Say, it’s awful dry, ain’t it? Ain’t
 there no water, nor nothing to eat?</quote>
 </p>
 
-<p><quote spokeBy="">No, there ain’t nothing, dearie. You’ll just need to be patient
+<p><quote spokeBy="Unknown">No, there ain’t nothing, dearie. You’ll just need to be patient
 awhile, and then you’ll be all right. Put your head up agin me like
 that, and then you’ll feel bullier. It ain’t easy to talk when your
 lips is like leather, but I guess I’d best let you know how the cards
 lie. What’s that you’ve got?</quote>
 </p>
 
-<p><quote spokeBy="">Pretty things! fine things!</quote> cried the little girl enthusiastically,
-holding up two glittering fragments of mica. <quote spokeBy="">When we goes back to home
+<p><quote spokeBy="Unknown">Pretty things! fine things!</quote> cried the little girl enthusiastically,
+holding up two glittering fragments of mica. <quote spokeBy="Unknown">When we goes back to home
 I’ll give them to brother Bob.</quote>
 </p>
 
-<p><quote spokeBy="">You’ll see prettier things than them soon,</quote> said the man confidently.
-<quote spokeBy="">You just wait a bit. I was going to tell you though—you remember when
+<p><quote spokeBy="Unknown">You’ll see prettier things than them soon,</quote> said the man confidently.
+<quote spokeBy="Unknown">You just wait a bit. I was going to tell you though—you remember when
 we left the river?</quote>
 </p>
 
-<p><quote spokeBy="">Oh, yes.</quote>
+<p><quote spokeBy="Unknown">Oh, yes.</quote>
 </p>
 
-<p><quote spokeBy="">Well, we reckoned we’d strike another river soon, d’ye see. But there
+<p><quote spokeBy="Unknown">Well, we reckoned we’d strike another river soon, d’ye see. But there
 was somethin’ wrong; compasses, or map, or somethin’, and it didn’t
 turn up. Water ran out. Just except a little drop for the likes of you
 and—and——</quote>
 </p>
 
-<p><quote spokeBy="">And you couldn’t wash yourself,</quote> interrupted his companion gravely,
+<p><quote spokeBy="Unknown">And you couldn’t wash yourself,</quote> interrupted his companion gravely,
 staring up at his grimy visage.
 </p>
 
-<p><quote spokeBy="">No, nor drink. And Mr. Bender, he was the fust to go, and then Indian
+<p><quote spokeBy="Unknown">No, nor drink. And Mr. Bender, he was the fust to go, and then Indian
 Pete, and then Mrs. McGregor, and then Johnny Hones, and then, dearie,
 your mother.</quote>
 </p>
 
-<p><quote spokeBy="">Then mother’s a deader too,</quote> cried the little girl dropping her face
+<p><quote spokeBy="Unknown">Then mother’s a deader too,</quote> cried the little girl dropping her face
 in her pinafore and sobbing bitterly.
 </p>
 
-<p><quote spokeBy="">Yes, they all went except you and me. Then I thought there was some
+<p><quote spokeBy="Unknown">Yes, they all went except you and me. Then I thought there was some
 chance of water in this direction, so I heaved you over my shoulder and
 we tramped it together. It don’t seem as though we’ve improved matters.
 There’s an almighty small chance for us now!</quote>
 </p>
 
-<p><quote spokeBy="">Do you mean that we are going to die too?</quote> asked the child, checking
+<p><quote spokeBy="Unknown">Do you mean that we are going to die too?</quote> asked the child, checking
 her sobs, and raising her tear-stained face.
 </p>
 
-<p><quote spokeBy="">I guess that’s about the size of it.</quote>
+<p><quote spokeBy="Unknown">I guess that’s about the size of it.</quote>
 </p>
 
-<p><quote spokeBy="">Why didn’t you say so before?</quote> she said, laughing gleefully. <quote spokeBy="">You gave
+<p><quote spokeBy="Unknown">Why didn’t you say so before?</quote> she said, laughing gleefully. <quote spokeBy="Unknown">You gave
 me such a fright. Why, of course, now as long as we die we’ll be with
 mother again.</quote>
 </p>
 
-<p><quote spokeBy="">Yes, you will, dearie.</quote>
+<p><quote spokeBy="Unknown">Yes, you will, dearie.</quote>
 </p>
 
-<p><quote spokeBy="">And you too. I’ll tell her how awful good you’ve been. I’ll bet she
+  <p><quote spokeBy="Unknown">And you too. I’ll tell her how awful good you’ve been. I’ll bet she
 meets us at the door of Heaven with a big pitcher of water, and a lot
 of buckwheat cakes, hot, and toasted on both sides, like Bob and me was
 fond of. How long will it be first?</quote>
 </p>
 
-<p><quote spokeBy="">I don’t know—not very long.</quote> The man’s eyes were fixed upon the
+  <p><quote spokeBy="Unknown">I don’t know—not very long.</quote> The man’s eyes were fixed upon the
 northern horizon. In the blue vault of the heaven there had appeared
 three little specks which increased in size every moment, so rapidly
 did they approach. They speedily resolved themselves into three large
@@ -3272,43 +3272,43 @@ then settled upon some rocks which overlooked them. They were buzzards,
 the vultures of the west, whose coming is the forerunner of death.
 </p>
 
-<p><quote spokeBy="">Cocks and hens,</quote> cried the little girl gleefully, pointing at their
-ill-omened forms, and clapping her hands to make them rise. <quote spokeBy="">Say, did
+  <p><quote spokeBy="Unknown">Cocks and hens,</quote> cried the little girl gleefully, pointing at their
+    ill-omened forms, and clapping her hands to make them rise. <quote spokeBy="Unknown">Say, did
 God make this country?</quote>
 </p>
 
-<p><quote spokeBy="">In course He did,</quote> said her companion, rather startled by this
+  <p><quote spokeBy="Unknown">In course He did,</quote> said her companion, rather startled by this
 unexpected question.
 </p>
 
-<p><quote spokeBy="">He made the country down in Illinois, and He made the Missouri,</quote> the
-little girl continued. <quote spokeBy="">I guess somebody else made the country in these
+  <p><quote spokeBy="Unknown">He made the country down in Illinois, and He made the Missouri,</quote> the
+    little girl continued. <quote spokeBy="Unknown">I guess somebody else made the country in these
 parts. It’s not nearly so well done. They forgot the water and the
 trees.</quote>
 </p>
 
-<p><quote spokeBy="">What would ye think of offering up prayer?</quote> the man asked diffidently.
+  <p><quote spokeBy="Unknown">What would ye think of offering up prayer?</quote> the man asked diffidently.
 </p>
 
-<p><quote spokeBy="">It ain’t night yet,</quote> she answered.
+  <p><quote spokeBy="Unknown">It ain’t night yet,</quote> she answered.
 </p>
 
-<p><quote spokeBy="">It don’t matter. It ain’t quite regular, but He won’t mind that, you
+  <p><quote spokeBy="Unknown">It don’t matter. It ain’t quite regular, but He won’t mind that, you
 bet. You say over them ones that you used to say every night in the
 waggon when we was on the Plains.</quote>
 </p>
 
-<p><quote spokeBy="">Why don’t you say some yourself?</quote> the child asked, with wondering
+  <p><quote spokeBy="Unknown">Why don’t you say some yourself?</quote> the child asked, with wondering
 eyes.
 </p>
 
-<p><quote spokeBy="">I disremember them,</quote> he answered. <quote spokeBy="">I hain’t said none since I was half
+  <p><quote spokeBy="Unknown">I disremember them,</quote> he answered. <quote spokeBy="Unknown">I hain’t said none since I was half
 the height o’ that gun. I guess it’s never too late. You say them out,
 and I’ll stand by and come in on the choruses.</quote>
 </p>
 
-<p><quote spokeBy="">Then you’ll need to kneel down, and me too,</quote> she said, laying the
-shawl out for that purpose. <quote spokeBy="">You’ve got to put your hands up like this.
+  <p><quote spokeBy="Unknown">Then you’ll need to kneel down, and me too,</quote> she said, laying the
+    shawl out for that purpose. <quote spokeBy="Unknown">You’ve got to put your hands up like this.
 It makes you feel kind o’ good.</quote>
 </p>
 
@@ -3364,19 +3364,19 @@ reaching the base of the bluff they halted, and held a short council
 among themselves.
 </p>
 
-<p><quote spokeBy="">The wells are to the right, my brothers,</quote> said one, a hard-lipped,
+  <p><quote spokeBy="Unknown">The wells are to the right, my brothers,</quote> said one, a hard-lipped,
 clean-shaven man with grizzly hair.
 </p>
 
-<p><quote spokeBy="">To the right of the Sierra Blanco—so we shall reach the Rio Grande,</quote>
+  <p><quote spokeBy="Unknown">To the right of the Sierra Blanco—so we shall reach the Rio Grande,</quote>
 said another.
 </p>
 
-<p><quote spokeBy="">Fear not for water,</quote> cried a third. <quote spokeBy="">He who could draw it from the
+  <p><quote spokeBy="Unknown">Fear not for water,</quote> cried a third. <quote spokeBy="Unknown">He who could draw it from the
 rocks will not now abandon His own chosen people.</quote>
 </p>
 
-<p><quote spokeBy="">Amen! Amen!</quote> responded the whole party.
+  <p><quote spokeBy="Unknown">Amen! Amen!</quote> responded the whole party.
 </p>
 
 <p>They were about to resume their journey when one of the youngest and
@@ -3388,19 +3388,19 @@ fresh horsemen came galloping up to reinforce the vanguard. The word
 ‘Redskins’ was on every lip.
 </p>
 
-<p><quote spokeBy="">There can’t be any number of Injuns here,</quote> said the elderly man who
-appeared to be in command. <quote spokeBy="">We have passed the Pawnees, and there are
+  <p><quote spokeBy="Unknown">There can’t be any number of Injuns here,</quote> said the elderly man who
+    appeared to be in command. <quote spokeBy="Unknown">We have passed the Pawnees, and there are
 no other tribes until we cross the great mountains.</quote>
 </p>
 
-<p><quote spokeBy="">Shall I go forward and see, Brother <person perName="Joseph_Stangerson">Stangerson</person>,</quote> asked one of the
+  <p><quote spokeBy="Unknown">Shall I go forward and see, Brother <person perName="Joseph_Stangerson">Stangerson</person>,</quote> asked one of the
 band.
 </p>
 
-<p><quote spokeBy="">And I,</quote> <quote spokeBy="">and I,</quote> cried a dozen voices.
+  <p><quote spokeBy="Unknown">And I,</quote> <quote spokeBy="Unknown">and I,</quote> cried a dozen voices.
 </p>
 
-<p><quote spokeBy="">Leave your horses below and we will await you here,</quote> the Elder
+  <p><quote spokeBy="Unknown">Leave your horses below and we will await you here,</quote> the Elder
 answered. In a moment the young fellows had dismounted, fastened their
 horses, and were ascending the precipitous slope which led up to the
 object which had excited their curiosity. They advanced rapidly and
@@ -3478,11 +3478,11 @@ refuge from the violent man and from the godless, even though it be the
 heart of the desert.</quote>
 </p>
 
-<p>The name of Nauvoo evidently recalled recollections to <person perName="John_Ferrier">John Ferrier</person>. <quote spokeBy="Unknown">I
+<p>The name of Nauvoo evidently recalled recollections to <person perName=S"John_Ferrier">John Ferrier</person>. <quote spokeBy="Unknown">I
 see,</quote> he said, <quote spokeBy="Unknown">you are the Mormons.</quote>
 </p>
 
-<p><quote spokeBy="Unkown">We are the Mormons,</quote> answered his companions with one voice.
+<p><quote spokeBy="Unknown">We are the Mormons,</quote> answered his companions with one voice.
 </p>
 
 <p><quote spokeBy="Unknown">And where are you going?</quote>
