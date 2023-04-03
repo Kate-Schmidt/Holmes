@@ -2432,7 +2432,7 @@ clear voice.
 frank with this gentleman. We _did_ see <person perName="Enoch_J_Drebber">Mr. Drebber</person> again.’
 </quote></p>
 
-<p><quote spokeBy="Madame Charpentier">God forgive you!</quote> cried Madame Charpentier, throwing up her hands and
+<p><quote spokeBy="Madame_Charpentier">God forgive you!</quote> cried Madame Charpentier, throwing up her hands and
   sinking back in her chair. <quote spokeBy="Madame Charpentier">You have murdered your brother.
 </quote></p>
 
@@ -2440,11 +2440,11 @@ frank with this gentleman. We _did_ see <person perName="Enoch_J_Drebber">Mr. Dr
 firmly.
 </p>
 
-<p><quote spokeBy="">‘You had best tell me all about it now,’ I said. ‘Half-confidences are
+<p><quote spokeBy="Madame_Charpentier">‘You had best tell me all about it now,’ I said. ‘Half-confidences are
 worse than none. Besides, you do not know how much we know of it.’
 </quote></p>
 
-<p><quote spokeBy="">‘On your head be it, Alice!’ cried her mother; and then, turning to
+<p><quote spokeBy="Unknown">‘On your head be it, Alice!’ cried her mother; and then, turning to
 me, ‘I will tell you all, sir. Do not imagine that my agitation on
 behalf of my son arises from any fear lest he should have had a hand in
 this terrible affair. He is utterly innocent of it. My dread is,
@@ -2469,7 +2469,7 @@ without omitting any particular.’
 
 <p><quote spokeBy="">‘<person perName="Enoch_J_Drebber">Mr. Drebber</person> has been with us nearly three weeks. He and his
 secretary, <person perName="Joseph_Stangerson">Mr. Stangerson</person>, had been travelling on the Continent. I
-noticed a </quote>Copenhagen<quote spokeBy=""> label upon each of their trunks, showing that
+noticed a "Copenhagen" label upon each of their trunks, showing that
 that had been their last stopping place. <person perName="Joseph_Stangerson">Stangerson</person> was a quiet
 reserved man, but his employer, I am sorry to say, was far otherwise.
 He was coarse in his habits and brutish in his ways. The very night of
@@ -2529,56 +2529,56 @@ I made shorthand notes of all that she said, however, so that there
 should be no possibility of a mistake.</quote>
 </p>
 
-<p><quote spokeBy="">It’s quite exciting,</quote> said <person perName="Sherlock_Holmes">Sherlock Holmes</person>, with a yawn. <quote spokeBy="">What
+<p><quote spokeBy="Sherlock_Holmes">It’s quite exciting,</quote> said <person perName="Sherlock_Holmes">Sherlock Holmes</person>, with a yawn. <quote spokeBy="Sherlock_Holmes">What
 happened next?</quote>
 </p>
 
-<p><quote spokeBy="">When Mrs. Charpentier paused,</quote> the detective continued, <quote spokeBy="">I saw that
+<p><quote spokeBy="Tobias_Gregson">When Mrs. Charpentier paused,</quote> the detective continued, <quote spokeBy="Tobias_Gregson">I saw that
 the whole case hung upon one point. Fixing her with my eye in a way
 which I always found effective with women, I asked her at what hour her
 son returned.
 </quote></p>
 
-<p><quote spokeBy="">‘I do not know,’ she answered.
+<p><quote spokeBy="Madame_Carpentier">‘I do not know,’ she answered.
 </quote></p>
 
-<p><quote spokeBy="">‘Not know?’
+  <p><quote spokeBy="Tobias_Gregson">‘Not know?’
 </quote></p>
 
-<p><quote spokeBy="">‘No; he has a latch-key, and he let himself in.’
+  <p><quote spokeBy="Madame_Carpentier">‘No; he has a latch-key, and he let himself in.’
 </quote></p>
 
-<p><quote spokeBy="">‘After you went to bed?’
+  <p><quote spokeBy="Tobias_Gregson">‘After you went to bed?’
 </quote></p>
 
-<p><quote spokeBy="">‘Yes.’
+  <p><quote spokeBy="Madame_Carpentier">‘Yes.’
 </quote></p>
 
-<p><quote spokeBy="">‘When did you go to bed?’
+  <p><quote spokeBy="Tobias_Gregson">‘When did you go to bed?’
 </quote></p>
 
-<p><quote spokeBy="">‘About eleven.’
+  <p><quote spokeBy="Madame_Carpentier">‘About eleven.’
 </quote></p>
 
-<p><quote spokeBy="">‘So your son was gone at least two hours?’
+  <p><quote spokeBy="Tobias_Gregson">‘So your son was gone at least two hours?’
 </quote></p>
 
-<p><quote spokeBy="">‘Yes.’
+  <p><quote spokeBy="Madame_Carpentier">‘Yes.’
 </quote></p>
 
-<p><quote spokeBy="">‘Possibly four or five?’
+  <p><quote spokeBy="Tobias_Gregson">‘Possibly four or five?’
 </quote></p>
 
-<p><quote spokeBy="">‘Yes.’
+  <p><quote spokeBy="Madame_Carpentier">‘Yes.’
 </quote></p>
 
-<p><quote spokeBy="">‘What was he doing during that time?’
+  <p><quote spokeBy="Tobias_Gregson">‘What was he doing during that time?’
 </quote></p>
 
-<p><quote spokeBy="">‘I do not know,’ she answered, turning white to her very lips.
+  <p><quote spokeBy="Madame_Carpentier">‘I do not know,’ she answered, turning white to her very lips.
 </quote></p>
 
-<p><quote spokeBy="">Of course after that there was nothing more to be done. I found out
+  <p><quote spokeBy="Tobias_Gregson">Of course after that there was nothing more to be done. I found out
 where Lieutenant Charpentier was, took two officers with me, and
 arrested him. When I touched him on the shoulder and warned him to come
 quietly with us, he answered us as bold as brass, ‘I suppose you are
@@ -2587,17 +2587,17 @@ arresting me for being concerned in the death of that scoundrel
 alluding to it had a most suspicious aspect.</quote>
 </p>
 
-<p><quote spokeBy="">Very,</quote> said <person perName="Sherlock_Holmes">Holmes</person>.
+<p><quote spokeBy="Sherlock_Holmes">Very,</quote> said <person perName="Sherlock_Holmes">Holmes</person>.
 </p>
 
-<p><quote spokeBy="">He still carried the heavy stick which the mother described him as
+  <p><quote spokeBy="Tobias_Gregson">He still carried the heavy stick which the mother described him as
 having with him when he followed <person perName="Enoch_J_Drebber">Drebber</person>. It was a stout oak cudgel.</quote>
 </p>
 
-<p><quote spokeBy="">What is your theory, then?</quote>
+<p><quote spokeBy="Sherlock_Holmes">What is your theory, then?</quote>
 </p>
 
-<p><quote spokeBy="">Well, my theory is that he followed <person perName="Enoch_J_Drebber">Drebber</person> as far as the Brixton
+  <p><quote spokeBy="Tobias_Gregson">Well, my theory is that he followed <person perName="Enoch_J_Drebber">Drebber</person> as far as the Brixton
 Road. When there, a fresh altercation arose between them, in the course
 of which <person perName="Enoch_J_Drebber">Drebber</person> received a blow from the stick, in the pit of the
 stomach, perhaps, which killed him without leaving any mark. The night
@@ -2607,12 +2607,12 @@ the writing on the wall, and the ring, they may all be so many tricks
 to throw the police on to the wrong scent.</quote>
 </p>
 
-<p><quote spokeBy="">Well done!</quote> said <person perName="Sherlock_Holmes">Holmes</person> in an encouraging voice. <quote spokeBy="">Really, <person perName="Tobias_Gregson">Gregson</person>, you
+<p><quote spokeBy="Sherlock_Holmes">Well done!</quote> said <person perName="Sherlock_Holmes">Holmes</person> in an encouraging voice. <quote spokeBy="Sherlock_Holmes">Really, <person perName="Tobias_Gregson">Gregson</person>, you
 are getting along. We shall make something of you yet.</quote>
 </p>
 
-<p><quote spokeBy="">I flatter myself that I have managed it rather neatly,</quote> the detective
-answered proudly. <quote spokeBy="">The young man volunteered a statement, in which he
+<p><quote spokeBy="Tobias_Gregson">I flatter myself that I have managed it rather neatly,</quote> the detective
+answered proudly. <quote spokeBy="Tobias_Gregson">The young man volunteered a statement, in which he
 said that after following <person perName="Enoch_J_Drebber">Drebber</person> some time, the latter perceived him,
 and took a cab in order to get away from him. On his way home he met an
 old shipmate, and took a long walk with him. On being asked where this
@@ -2630,16 +2630,16 @@ His face was disturbed and troubled, while his clothes were disarranged
 and untidy. He had evidently come with the intention of consulting with
 <person perName="Sherlock_Holmes">Sherlock Holmes</person>, for on perceiving his colleague he appeared to be
 embarrassed and put out. He stood in the centre of the room, fumbling
-nervously with his hat and uncertain what to do. <quote spokeBy="">This is a most
-extraordinary case,</quote> he said at last—<quote spokeBy="">a most incomprehensible affair.</quote>
+nervously with his hat and uncertain what to do. <quote spokeBy="Lestrade">This is a most
+extraordinary case,</quote> he said at last—<quote spokeBy="Lestrade">a most incomprehensible affair.</quote>
 </p>
 
-<p><quote spokeBy="">Ah, you find it so, <person perName="Lestrade">Mr. Lestrade</person>!</quote> cried <person perName="Tobias_Gregson">Gregson</person>, triumphantly. <quote spokeBy="">I
+<p><quote spokeBy="Tobias_Gregson">Ah, you find it so, <person perName="Lestrade">Mr. Lestrade</person>!</quote> cried <person perName="Tobias_Gregson">Gregson</person>, triumphantly. <quote spokeBy="Tobias_Gregson">I
 thought you would come to that conclusion. Have you managed to find the
 Secretary, <person perName="Joseph_Stangerson">Mr. Joseph Stangerson</person>?</quote>
 </p>
 
-<p><quote spokeBy="">The Secretary, <person perName="Joseph_Stangerson">Mr. Joseph Stangerson</person>,</quote> said <person perName="Lestrade">Lestrade</person> gravely, <quote spokeBy="">was
+<p><quote spokeBy="Lestrade">The Secretary, <person perName="Joseph_Stangerson">Mr. Joseph Stangerson</person>,</quote> said <person perName="Lestrade">Lestrade</person> gravely, <quote spokeBy="Lestrade">was
 murdered at Halliday’s Private Hotel about six o’clock this morning.</quote>
 </p>
 
@@ -2664,26 +2664,26 @@ stared in silence at <person perName="Sherlock_Holmes">Sherlock Holmes</person>,
 his brows drawn down over his eyes.
 </p>
 
-<p><quote spokeBy=""><person perName="Joseph_Stangerson">Stangerson</person> too!</quote> he muttered. <quote spokeBy="">The plot thickens.</quote>
+<p><quote spokeBy="Sherlock_Holmes"><person perName="Joseph_Stangerson">Stangerson</person> too!</quote> he muttered. <quote spokeBy="Sherlock_Holmes">The plot thickens.</quote>
 </p>
 
-<p><quote spokeBy="">It was quite thick enough before,</quote> grumbled <person perName="Lestrade">Lestrade</person>, taking a chair.
-<quote spokeBy="">I seem to have dropped into a sort of council of war.</quote>
+<p><quote spokeBy="Lestrade">It was quite thick enough before,</quote> grumbled <person perName="Lestrade">Lestrade</person>, taking a chair.
+<quote spokeBy="Lestrade">I seem to have dropped into a sort of council of war.</quote>
 </p>
 
-<p><quote spokeBy="">Are you—are you sure of this piece of intelligence?</quote> stammered
+<p><quote spokeBy="Tobias_Gregson">Are you—are you sure of this piece of intelligence?</quote> stammered
 <person perName="Tobias_Gregson">Gregson</person>.
 </p>
 
-<p><quote spokeBy="">I have just come from his room,</quote> said <person perName="Lestrade">Lestrade</person>. <quote spokeBy="">I was the first to
+<p><quote spokeBy="Lestrade">I have just come from his room,</quote> said <person perName="Lestrade">Lestrade</person>. <quote spokeBy="Lestrade">I was the first to
 discover what had occurred.</quote>
 </p>
 
-<p><quote spokeBy="">We have been hearing <person perName="Tobias_Gregson">Gregson</person>’s view of the matter,</quote> <person perName="Sherlock_Holmes">Holmes</person> observed.
-<quote spokeBy="">Would you mind letting us know what you have seen and done?</quote>
+<p><quote spokeBy="Sherlock_Holmes">We have been hearing <person perName="Tobias_Gregson">Gregson</person>’s view of the matter,</quote> <person perName="Sherlock_Holmes">Holmes</person> observed.
+<quote spokeBy="Sherlock_Holmes">Would you mind letting us know what you have seen and done?</quote>
 </p>
 
-<p><quote spokeBy="">I have no objection,</quote> <person perName="Lestrade">Lestrade</person> answered, seating himself. <quote spokeBy="">I freely
+<p><quote spokeBy="Lestrade">I have no objection,</quote> <person perName="Lestrade">Lestrade</person> answered, seating himself. <quote spokeBy="Lestrade">I freely
 confess that I was of the opinion that <person perName="Joseph_Stangerson">Stangerson</person> was concerned in the
 death of <person perName="Enoch_J_Drebber">Drebber</person>. This fresh development has shown me that I was
 completely mistaken. Full of the one idea, I set myself to find out
@@ -2701,31 +2701,31 @@ up somewhere in the vicinity for the night, and then to hang about the
 station again next morning.</quote>
 </p>
 
-<p><quote spokeBy="">They would be likely to agree on some meeting-place beforehand,</quote>
+<p><quote spokeBy="Sherlock_Holmes">They would be likely to agree on some meeting-place beforehand,</quote>
 remarked <person perName="Sherlock_Holmes">Holmes</person>.
 </p>
 
-<p><quote spokeBy="">So it proved. I spent the whole of yesterday evening in making
+<p><quote spokeBy="Lestrade">So it proved. I spent the whole of yesterday evening in making
 enquiries entirely without avail. This morning I began very early, and
 at eight o’clock I reached Halliday’s Private Hotel, in Little George
 Street. On my enquiry as to whether a <person perName="Joseph_Stangerson">Mr. Stangerson</person> was living there,
 they at once answered me in the affirmative.
 </quote></p>
 
-<p><quote spokeBy="">‘No doubt you are the gentleman whom he was expecting,’ they said. ‘He
+<p><quote spokeBy="Lestrade">‘No doubt you are the gentleman whom he was expecting,’ they said. ‘He
 has been waiting for a gentleman for two days.’
 </quote></p>
 
-<p><quote spokeBy="">‘Where is he now?’ I asked.
+<p><quote spokeBy="Lestrade">‘Where is he now?’ I asked.
 </quote></p>
 
-<p><quote spokeBy="">‘He is upstairs in bed. He wished to be called at nine.’
+<p><quote spokeBy="Lestrade">‘He is upstairs in bed. He wished to be called at nine.’
 </quote></p>
 
-<p><quote spokeBy="">‘I will go up and see him at once,’ I said.
+<p><quote spokeBy="Lestrade">‘I will go up and see him at once,’ I said.
 </quote></p>
 
-<p><quote spokeBy="">It seemed to me that my sudden appearance might shake his nerves and
+<p><quote spokeBy="Lestrade">It seemed to me that my sudden appearance might shake his nerves and
 lead him to say something unguarded. The Boots volunteered to show me
 the room: it was on the second floor, and there was a small corridor
 leading up to it. The Boots pointed out the door to me, and was about
@@ -2749,10 +2749,10 @@ of the affair. What do you suppose was above the murdered man?</quote>
 even before <person perName="Sherlock_Holmes">Sherlock Holmes</person> answered.
 </p>
 
-<p><quote spokeBy="">The word RACHE, written in letters of blood,</quote> he said.
+<p><quote spokeBy="Lestrade">The word RACHE, written in letters of blood,</quote> he said.
 </p>
 
-<p><quote spokeBy="">That was it,</quote> said <person perName="Lestrade">Lestrade</person>, in an awe-struck voice; and we were all
+<p><quote spokeBy="Lestrade">That was it,</quote> said <person perName="Lestrade">Lestrade</person>, in an awe-struck voice; and we were all
 silent for a while.
 </p>
 
@@ -2762,7 +2762,7 @@ his crimes. My nerves, which were steady enough on the field of battle
 tingled as I thought of it.
 </p>
 
-<p><quote spokeBy="">The man was seen,</quote> continued <person perName="Lestrade">Lestrade</person>. <quote spokeBy="">A milk boy, passing on his way
+<p><quote spokeBy="Lestrade">The man was seen,</quote> continued <person perName="Lestrade">Lestrade</person>. <quote spokeBy="Lestrade">A milk boy, passing on his way
 to the dairy, happened to walk down the lane which leads from the mews
 at the back of the hotel. He noticed that a ladder, which usually lay
 there, was raised against one of the windows of the second floor, which
@@ -2782,11 +2782,11 @@ tallied so exactly with his own. There was, however, no trace of
 exultation or satisfaction upon his face.
 </p>
 
-<p><quote spokeBy="">Did you find nothing in the room which could furnish a clue to the
+<p><quote spokeBy="Sherlock_Holmes">Did you find nothing in the room which could furnish a clue to the
 murderer?</quote> he asked.
 </p>
 
-<p><quote spokeBy="">Nothing. <person perName="Joseph_Stangerson">Stangerson</person> had <person perName="Enoch_J_Drebber">Drebber</person>’s purse in his pocket, but it seems
+<p><quote spokeBy="Lestrade">Nothing. <person perName="Joseph_Stangerson">Stangerson</person> had <person perName="Enoch_J_Drebber">Drebber</person>’s purse in his pocket, but it seems
 that this was usual, as he did all the paying. There was eighty odd
 pounds in it, but nothing had been taken. Whatever the motives of these
 extraordinary crimes, robbery is certainly not one of them. There were
@@ -2796,10 +2796,10 @@ words, ‘J. H. is in Europe.’ There was no name appended to this
 message.</quote>
 </p>
 
-<p><quote spokeBy="">And there was nothing else?</quote> <person perName="Sherlock_Holmes">Holmes</person> asked.
+<p><quote spokeBy="Sherlock_Holmes">And there was nothing else?</quote> <person perName="Sherlock_Holmes">Holmes</person> asked.
 </p>
 
-<p><quote spokeBy="">Nothing of any importance. The man’s novel, with which he had read
+<p><quote spokeBy="Lestrade">Nothing of any importance. The man’s novel, with which he had read
 himself to sleep was lying upon the bed, and his pipe was on a chair
 beside him. There was a glass of water on the table, and on the
 window-sill a small chip ointment box containing a couple of pills.</quote>
@@ -2808,13 +2808,13 @@ window-sill a small chip ointment box containing a couple of pills.</quote>
 <p><person perName="Sherlock_Holmes">Sherlock Holmes</person> sprang from his chair with an exclamation of delight.
 </p>
 
-<p><quote spokeBy="">The last link,</quote> he cried, exultantly. <quote spokeBy="">My case is complete.</quote>
+<p><quote spokeBy="Sherlock_Holmes">The last link,</quote> he cried, exultantly. <quote spokeBy="Sherlock_Holmes">My case is complete.</quote>
 </p>
 
 <p>The two detectives stared at him in amazement.
 </p>
 
-<p><quote spokeBy="">I have now in my hands,</quote> my companion said, confidently, <quote spokeBy="">all the
+<p><quote spokeBy="Sherlock_Holmes">I have now in my hands,</quote> my companion said, confidently, <quote spokeBy="Sherlock_Holmes">all the
 threads which have formed such a tangle. There are, of course, details
 to be filled in, but I am as certain of all the main facts, from the
 time that <person perName="Enoch_J_Drebber">Drebber</person> parted from <person perName="Joseph_Stangerson">Stangerson</person> at the station, up to the
@@ -2823,24 +2823,24 @@ eyes. I will give you a proof of my knowledge. Could you lay your hand
 upon those pills?</quote>
 </p>
 
-<p><quote spokeBy="">I have them,</quote> said <person perName="Lestrade">Lestrade</person>, producing a small white box; <quote spokeBy="">I took them
+<p><quote spokeBy="Lestrade">I have them,</quote> said <person perName="Lestrade">Lestrade</person>, producing a small white box; <quote spokeBy="Lestrade">I took them
 and the purse and the telegram, intending to have them put in a place
 of safety at the Police Station. It was the merest chance my taking
 these pills, for I am bound to say that I do not attach any importance
 to them.</quote>
 </p>
 
-<p><quote spokeBy="">Give them here,</quote> said <person perName="Sherlock_Holmes">Holmes</person>. <quote spokeBy="">Now, Doctor,</quote> turning to me, <quote spokeBy="">are those
+<p><quote spokeBy="Sherlock_Holmes">Give them here,</quote> said <person perName="Sherlock_Holmes">Holmes</person>. <quote spokeBy="Sherlock_Holmes">Now, Doctor,</quote> turning to me, <quote spokeBy="">are those
 ordinary pills?</quote>
 </p>
 
 <p>They certainly were not. They were of a pearly grey colour, small,
-round, and almost transparent against the light. <quote spokeBy="">From their lightness
+round, and almost transparent against the light. <quote spokeBy="John_Watson">From their lightness
 and transparency, I should imagine that they are soluble in water,</quote> I
 remarked.
 </p>
 
-<p><quote spokeBy="">Precisely so,</quote> answered <person perName="Sherlock_Holmes">Holmes</person>. <quote spokeBy="">Now would you mind going down and
+<p><quote spokeBy="Sherlock_Holmes">Precisely so,</quote> answered <person perName="Sherlock_Holmes">Holmes</person>. <quote spokeBy="Sherlock_Holmes">Now would you mind going down and
 fetching that poor little devil of a terrier which has been bad so
 long, and which the landlady wanted you to put out of its pain
 yesterday.</quote>
@@ -2853,19 +2853,19 @@ the usual term of canine existence. I placed it upon a cushion on the
 rug.
 </p>
 
-<p><quote spokeBy="">I will now cut one of these pills in two,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, and drawing
-his penknife he suited the action to the word. <quote spokeBy="">One half we return into
+<p><quote spokeBy="Sherlock_Holmes">I will now cut one of these pills in two,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, and drawing
+his penknife he suited the action to the word. <quote spokeBy="Sherlock_Holmes">One half we return into
 the box for future purposes. The other half I will place in this wine
 glass, in which is a teaspoonful of water. You perceive that our
 friend, the Doctor, is right, and that it readily dissolves.</quote>
 </p>
 
-<p><quote spokeBy="">This may be very interesting,</quote> said <person perName="Lestrade">Lestrade</person>, in the injured tone of
-one who suspects that he is being laughed at, <quote spokeBy="">I cannot see, however,
+<p><quote spokeBy="Lestrade">This may be very interesting,</quote> said <person perName="Lestrade">Lestrade</person>, in the injured tone of
+one who suspects that he is being laughed at, <quote spokeBy="Lestrade">I cannot see, however,
 what it has to do with the death of <person perName="Joseph_Stangerson">Mr. Joseph Stangerson</person>.</quote>
 </p>
 
-<p><quote spokeBy="">Patience, my friend, patience! You will find in time that it has
+<p><quote spokeBy="Sherlock_Holmes">Patience, my friend, patience! You will find in time that it has
 everything to do with it. I shall now add a little milk to make the
 mixture palatable, and on presenting it to the dog we find that he laps
 it up readily enough.</quote>
@@ -2889,8 +2889,8 @@ detectives smiled derisively, by no means displeased at this check
 which he had met.
 </p>
 
-<p><quote spokeBy="">It can’t be a coincidence,</quote> he cried, at last springing from his chair
-and pacing wildly up and down the room; <quote spokeBy="">it is impossible that it
+<p><quote spokeBy="Sherlock_Holmes">It can’t be a coincidence,</quote> he cried, at last springing from his chair
+and pacing wildly up and down the room; <quote spokeBy="Sherlock_Holmes">it is impossible that it
 should be a mere coincidence. The very pills which I suspected in the
 case of <person perName="Enoch_J_Drebber">Drebber</person> are actually found after the death of <person perName="Joseph_Stangerson">Stangerson</person>. And
 yet they are inert. What can it mean? Surely my whole chain of
@@ -2904,7 +2904,7 @@ and lifeless as if it had been struck by lightning.
 </p>
 
 <p><person perName="Sherlock_Holmes">Sherlock Holmes</person> drew a long breath, and wiped the perspiration from his
-forehead. <quote spokeBy="">I should have more faith,</quote> he said; <quote spokeBy="">I ought to know by this
+forehead. <quote spokeBy="Sherlock_Holmes">I should have more faith,</quote> he said; <quote spokeBy="Sherlock_Holmes">I ought to know by this
 time that when a fact appears to be opposed to a long train of
 deductions, it invariably proves to be capable of bearing some other
 interpretation. Of the two pills in that box one was of the most deadly
@@ -2919,7 +2919,7 @@ that the mists in my own mind were gradually clearing away, and I began
 to have a dim, vague perception of the truth.
 </p>
 
-<p><quote spokeBy="">All this seems strange to you,</quote> continued <person perName="Sherlock_Holmes">Holmes</person>, <quote spokeBy="">because you failed
+<p><quote spokeBy="Sherlock_Holmes">All this seems strange to you,</quote> continued <person perName="Sherlock_Holmes">Holmes</person>, <quote spokeBy="Sherlock_Holmes">because you failed
 at the beginning of the inquiry to grasp the importance of the single
 real clue which was presented to you. I had the good fortune to seize
 upon that, and everything which has occurred since then has served to
@@ -2937,8 +2937,8 @@ difficult, have really had the effect of making it less so.</quote>
 </p>
 
 <p>Mr. <person perName="Tobias_Gregson">Gregson</person>, who had listened to this address with considerable
-impatience, could contain himself no longer. <quote spokeBy="">Look here, <person perName="Sherlock_Holmes">Mr. Sherlock
-Holmes</person>,</quote> he said, <quote spokeBy="">we are all ready to acknowledge that you are a smart
+impatience, could contain himself no longer. <quote spokeBy="Tobias_Gregson">Look here, <person perName="Sherlock_Holmes">Mr. Sherlock
+Holmes</person>,</quote> he said, <quote spokeBy="Tobias_Gregson">we are all ready to acknowledge that you are a smart
 man, and that you have your own methods of working. We want something
 more than mere theory and preaching now, though. It is a case of taking
 the man. I have made my case out, and it seems I was wrong. Young
@@ -2950,13 +2950,13 @@ ask you straight how much you do know of the business. Can you name the
 man who did it?</quote>
 </p>
 
-<p><quote spokeBy="">I cannot help feeling that <person perName="Tobias_Gregson">Gregson</person> is right, sir,</quote> remarked <person perName="Lestrade">Lestrade</person>.
-<quote spokeBy="">We have both tried, and we have both failed. You have remarked more
+<p><quote spokeBy="Lestrade">I cannot help feeling that <person perName="Tobias_Gregson">Gregson</person> is right, sir,</quote> remarked <person perName="Lestrade">Lestrade</person>.
+<quote spokeBy="Lestrade">We have both tried, and we have both failed. You have remarked more
 than once since I have been in the room that you had all the evidence
 which you require. Surely you will not withhold it any longer.</quote>
 </p>
 
-<p><quote spokeBy="">Any delay in arresting the assassin,</quote> I observed, <quote spokeBy="">might give him time
+<p><quote spokeBy="John_Watson">Any delay in arresting the assassin,</quote> I observed, <quote spokeBy="John_Watson">might give him time
 to perpetrate some fresh atrocity.</quote>
 </p>
 
@@ -2965,8 +2965,8 @@ continued to walk up and down the room with his head sunk on his chest
 and his brows drawn down, as was his habit when lost in thought.
 </p>
 
-<p><quote spokeBy="">There will be no more murders,</quote> he said at last, stopping abruptly and
-facing us. <quote spokeBy="">You can put that consideration out of the question. You
+<p><quote spokeBy="Sherlock_Holmes">There will be no more murders,</quote> he said at last, stopping abruptly and
+facing us. <quote spokeBy="Sherlock_Holmes">You can put that consideration out of the question. You
 have asked me if I know the name of the assassin. I do. The mere
 knowing of his name is a small thing, however, compared with the power
 of laying our hands upon him. This I expect very shortly to do. I have
@@ -2995,11 +2995,11 @@ spokesman of the street Arabs, young Wiggins, introduced his
 insignificant and unsavoury person.
 </p>
 
-<p><quote spokeBy="">Please, sir,</quote> he said, touching his forelock, <quote spokeBy="">I have the cab
+<p><quote spokeBy="Wiggins">Please, sir,</quote> he said, touching his forelock, <quote spokeBy="Wiggins">I have the cab
 downstairs.</quote>
 </p>
 
-<p><quote spokeBy="">Good boy,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, blandly. <quote spokeBy="">Why don’t you introduce this pattern
+<p><quote spokeBy="Sherlock_Holmes">Good boy,</quote> said <person perName="Sherlock_Holmes">Holmes</person>, blandly. <quote spokeBy="Sherlock_Holmes">Why don’t you introduce this pattern
 at Scotland Yard?</quote> he continued, taking a pair of steel handcuffs from
 a drawer. <quote spokeBy="">See how beautifully the spring works. They fasten in an
 instant.</quote>
@@ -3446,49 +3446,49 @@ girl, and hoisted her upon his shoulder, while two others supported her
 gaunt companion, and assisted him towards the waggons.
 </p>
 
-<p><quote spokeBy="">My name is <person perName="John_Ferrier">John Ferrier</person>,</quote> the wanderer explained; <quote spokeBy="">me and that little
+<p><quote spokeBy="John_Ferrier">My name is <person perName="John_Ferrier">John Ferrier</person>,</quote> the wanderer explained; <quote spokeBy="John_Ferrier">me and that little
 un are all that’s left o’ twenty-one people. The rest is all dead o’
 thirst and hunger away down in the south.</quote>
 </p>
 
-<p><quote spokeBy="">Is she your child?</quote> asked someone.
+<p><quote spokeBy="Unknown">Is she your child?</quote> asked someone.
 </p>
 
-<p><quote spokeBy="">I guess she is now,</quote> the other cried, defiantly; <quote spokeBy="">she’s mine ‘cause I
+<p><quote spokeBy="Unknown">I guess she is now,</quote> the other cried, defiantly; <quote spokeBy="Unknown">she’s mine ‘cause I
 saved her. No man will take her from me. She’s <person perName="Lucy_Ferrier">Lucy Ferrier</person> from this
 day on. Who are you, though?</quote> he continued, glancing with curiosity at
-his stalwart, sunburned rescuers; <quote spokeBy="">there seems to be a powerful lot of
+his stalwart, sunburned rescuers; <quote spokeBy="Unknown">there seems to be a powerful lot of
 ye.</quote>
 </p>
 
-<p><quote spokeBy="">Nigh upon ten thousand,</quote> said one of the young men; <quote spokeBy="">we are the
+<p><quote spokeBy="Unknown">Nigh upon ten thousand,</quote> said one of the young men; <quote spokeBy="Unknown">we are the
 persecuted children of God—the chosen of the Angel Merona.</quote>
 </p>
 
-<p><quote spokeBy="">I never heard tell on him,</quote> said the wanderer. <quote spokeBy="">He appears to have
+<p><quote spokeBy="John_Ferrier">I never heard tell on him,</quote> said the wanderer. <quote spokeBy="John_Ferrier">He appears to have
 chosen a fair crowd of ye.</quote>
 </p>
 
-<p><quote spokeBy="">Do not jest at that which is sacred,</quote> said the other sternly. <quote spokeBy="">We are
+<p><quote spokeBy="Unknown">Do not jest at that which is sacred,</quote> said the other sternly. <quote spokeBy="Unknown">We are
 of those who believe in those sacred writings, drawn in Egyptian
 letters on plates of beaten gold, which were handed unto the holy
-<person perName="Joseph_Stangerson">Joseph</person> Smith at Palmyra. We have come from Nauvoo, in the State of
+<person perName="Joseph_Smith">Joseph</person> Smith at Palmyra. We have come from Nauvoo, in the State of
 Illinois, where we had founded our temple. We have come to seek a
 refuge from the violent man and from the godless, even though it be the
 heart of the desert.</quote>
 </p>
 
-<p>The name of Nauvoo evidently recalled recollections to <person perName="John_Ferrier">John Ferrier</person>. <quote spokeBy="">I
-see,</quote> he said, <quote spokeBy="">you are the Mormons.</quote>
+<p>The name of Nauvoo evidently recalled recollections to <person perName="John_Ferrier">John Ferrier</person>. <quote spokeBy="Unknown">I
+see,</quote> he said, <quote spokeBy="Unknown">you are the Mormons.</quote>
 </p>
 
-<p><quote spokeBy="">We are the Mormons,</quote> answered his companions with one voice.
+<p><quote spokeBy="Unkown">We are the Mormons,</quote> answered his companions with one voice.
 </p>
 
-<p><quote spokeBy="">And where are you going?</quote>
+<p><quote spokeBy="Unknown">And where are you going?</quote>
 </p>
 
-<p><quote spokeBy="">We do not know. The hand of God is leading us under the person of our
+<p><quote spokeBy="Unknown">We do not know. The hand of God is leading us under the person of our
 Prophet. You must come before him. He shall say what is to be done with
 you.</quote>
 </p>
@@ -3510,24 +3510,24 @@ it aside, and listened attentively to an account of the episode. Then
 he turned to the two castaways.
 </p>
 
-<p><quote spokeBy="">If we take you with us,</quote> he said, in solemn words, <quote spokeBy="">it can only be as
+<p><quote spokeBy="Unknown">If we take you with us,</quote> he said, in solemn words, <quote spokeBy="Unknown">it can only be as
 believers in our own creed. We shall have no wolves in our fold. Better
 far that your bones should bleach in this wilderness than that you
 should prove to be that little speck of decay which in time corrupts
 the whole fruit. Will you come with us on these terms?</quote>
 </p>
 
-<p><quote spokeBy="">Guess I’ll come with you on any terms,</quote> said Ferrier, with such
+<p><quote spokeBy="John_Ferrier">Guess I’ll come with you on any terms,</quote> said Ferrier, with such
 emphasis that the grave Elders could not restrain a smile. The leader
 alone retained his stern, impressive expression.
 </p>
 
-<p><quote spokeBy="">Take him, Brother <person perName="Joseph_Stangerson">Stangerson</person>,</quote> he said, <quote spokeBy="">give him food and drink, and
+<p><quote spokeBy="John_Ferrier">Take him, Brother <person perName="Joseph_Stangerson">Stangerson</person>,</quote> he said, <quote spokeBy="John_Ferrier">give him food and drink, and
 the child likewise. Let it be your task also to teach him our holy
 creed. We have delayed long enough. Forward! On, on to Zion!</quote>
 </p>
 
-<p><quote spokeBy="">On, on to Zion!</quote> cried the crowd of Mormons, and the words rippled
+<p><quote spokeBy="Unknown">On, on to Zion!</quote> cried the crowd of Mormons, and the words rippled
 down the long caravan, passing from mouth to mouth until they died away
 in a dull murmur in the far distance. With a cracking of whips and a
 creaking of wheels the great waggons got into motion, and soon the
@@ -3536,7 +3536,7 @@ two waifs had been committed, led them to his waggon, where a meal was
 already awaiting them.
 </p>
 
-<p><quote spokeBy="">You shall remain here,</quote> he said. <quote spokeBy="">In a few days you will have
+<p><quote spokeBy="John_Ferrier">You shall remain here,</quote> he said. <quote spokeBy="John_Ferrier">In a few days you will have
 recovered from your fatigues. In the meantime, remember that now and
 for ever you are of our religion. <person perName="Brigham_Young">Brigham Young</person> has said it, and he has
 spoken with the voice of <person perName="Joseph_Stangerson">Joseph</person> Smith, which is the voice of God.</quote>
