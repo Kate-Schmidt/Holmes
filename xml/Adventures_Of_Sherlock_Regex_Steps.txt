@@ -62,6 +62,7 @@ These are instructions to help markup Sherlock Holmes short story collections us
 - Mrs. Oakshott (New <person>) not done
 - John_Robinson (New <person>) not done
 - Catherine Cusack (New <person>) not done
+- Grimesby_Roylott [Dr.] (new <person>) not done
 
 **********************************************************************
 
