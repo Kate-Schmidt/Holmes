@@ -63,6 +63,11 @@ These are instructions to help markup Sherlock Holmes short story collections us
 - John_Robinson (New <person>) not done
 - Catherine Cusack (New <person>) not done
 - Grimesby_Roylott [Dr.] (new <person>) not done
+- Flora_Millar (New <person>) DONE *
+- Robert_St_Simon (New <person>) DONE *
+- Lady_St_Simon (New <person>) DONE *
+- Mrs. Moulton (New <person>) DONE *
+- Francis_Moulton (New <person>) DONE *
 
 **********************************************************************
 
