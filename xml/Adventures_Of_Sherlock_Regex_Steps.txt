@@ -45,8 +45,8 @@ These are instructions to help markup Sherlock Holmes short story collections us
 - John_Openshaw
 - Count_Von_Kramm (Change to Wilhelm_Ormstein New <person>) not done
 - Unknown
-- Jones (Mr. Jones New <person>) not done
-- Merryweather (Mr. Merryweather new <person>) not done
+- Jones (Mr. Jones New <person>) DONE *
+- Merryweather (Mr. Merryweather new <person>) DONE *
 - John_Clay (New <person>) not done
 - Hosmer_Angel (New <person>) not done
 - James_Windibank (New <person>) not done
@@ -54,7 +54,7 @@ These are instructions to help markup Sherlock Holmes short story collections us
 - Miss_Turner (Alice Turner New <person>) not done
 - Kate_Whitney (New <person>) not done
 - Isa Whitney (New <person>) not done
-- Bradstreet (New <person>) not done
+- Bradstreet (New <person>) DONE *
 - Peterson (commissionaire New <person>) not done
 - Henry_Baker (New <person>) not done
 - Mrs. Hudson (New <person>) not done
