@@ -1,4 +1,4 @@
-Pages URL: https://sherlock-holm.es/
+Pages URL: https://kate-schmidt.github.io/Holmes/
 
          -Team Roles-
 Team Co-Ordinator: Danny Rodgers
