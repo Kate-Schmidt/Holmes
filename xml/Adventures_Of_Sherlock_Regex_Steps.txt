@@ -68,6 +68,12 @@ These are instructions to help markup Sherlock Holmes short story collections us
 - Lady_St_Simon (New <person>) DONE *
 - Mrs. Moulton (New <person>) DONE *
 - Francis_Moulton (New <person>) DONE *
+- Alexander_Holder (New <person>) DONE *
+- Mary_Holder (New <person>) DONE *
+- Arthur_Holder (New <person>) DONE *
+- George_Burnwell (New <person>) DONE *
+- Jephro_Rucastle (New <person>) DONE *
+- Mrs_Toller (New <person>) DONE *
 
 **********************************************************************
 
