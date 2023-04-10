@@ -69,11 +69,6 @@ These are instructions to help markup Sherlock Holmes novels using RegEx.
 	Find: Lucy Ferrier|Lucy\nFerrier
 	Replace: <person perName="Lucy_Ferrier">\0</person>
 
-*** Ferrier - Will have to clean this up manually
-
-	Find: ' (Ferrier) ' The spaces on each side just find the last name references
-	Replace: ' <person perName="Ferrier">\1</person> ' - Gotta put spaces back in
-
 - Enoch Drebber
 
 	Find: Enoch Drebber|Mr. Enoch J. Drebber|Enoch J. Drebber|Enoch\nJ. Drebber|Enoch J.\nDrebber|E. J. Drebber|E.\nJ. Drebber|E. J.\nDrebber|Enoch|Mr. Drebber|Drebber
@@ -101,6 +96,15 @@ These are instructions to help markup Sherlock Holmes novels using RegEx.
 	Find: Stamford
 	Replace: <person perName="Stamford">\0</person>
 
+-Orentes
+	
+	Find: Orentes
+	Replace: <person perName="Orentes">\0</person>
+
+-Joseph Smith
+
+	Find: Joseph Smith, Smith
+	Replace:  <person perName="Joseph_Smith">\0</person>
 
 6. Find all Chapters in the book and wrap them & also wrap the chapter titles
 

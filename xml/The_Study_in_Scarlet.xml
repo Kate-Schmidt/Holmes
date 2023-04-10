@@ -811,7 +811,7 @@ Afghanistan.’ The whole train of thought did not occupy a second. I
 then remarked that you came from Afghanistan, and you were astonished.</quote>
 </p>
 
-<p><quote spokeBy="John_Watson">It is simple enough as you explain it,</quote> I said, smiling. <quote spokeBy="">You remind
+<p><quote spokeBy="John_Watson">It is simple enough as you explain it,</quote> I said, smiling. <quote spokeBy="John_Watson">You remind
 me of Edgar Allen Poe’s Dupin. I had no idea that such individuals did
 exist outside of stories.</quote>
 </p>
@@ -1119,7 +1119,7 @@ permitted this.</quote>
 </p>
 
 <p><quote spokeBy="Tobias_Gregson">I have had so much to do inside the house,</quote> the detective said
-evasively. <quote spokeBy="">My colleague, <person perName="Lestrade">Mr. Lestrade</person>, is here. I had relied upon him
+evasively. <quote spokeBy="Tobias_Gregson">My colleague, <person perName="Lestrade">Mr. Lestrade</person>, is here. I had relied upon him
 to look after this.</quote>
 </p>
 
@@ -1139,10 +1139,10 @@ knew your taste for such things.</quote>
 <p><quote spokeBy="Tobias_Gregson">No, sir.</quote>
 </p>
 
-<p><quote spokeBy="">Nor <person perName="Lestrade">Lestrade</person>?</quote>
+<p><quote spokeBy="Sherlock_Holmes">Nor <person perName="Lestrade">Lestrade</person>?</quote>
 </p>
 
-<p><quote spokeBy="">No, sir.</quote>
+<p><quote spokeBy="Tobias_Gregson">No, sir.</quote>
 </p>
 
 <p><quote spokeBy="Sherlock_Holmes">Then let us go and look at the room.</quote> With which inconsequent remark
@@ -1206,7 +1206,7 @@ have seen, and I am no chicken.</quote>
 </p>
 
 <p><person perName="Sherlock_Holmes">Sherlock Holmes</person> approached the body, and, kneeling down, examined it
-intently. <quote spokeBy="">You are sure that there is no wound?</quote> he asked, pointing to
+intently. <quote spokeBy="Sherlock_Holmes">You are sure that there is no wound?</quote> he asked, pointing to
 numerous gouts and splashes of blood which lay all round.
 </p>
 
@@ -1379,7 +1379,7 @@ of the wall.</quote>
 a depreciatory voice.
 </p>
 
-<p><quote spokeBy="">Mean? Why, it means that the writer was going to put the female name
+<p><quote spokeBy="Sherlock_Holmes">Mean? Why, it means that the writer was going to put the female name
 Rachel, but was disturbed before he or she had time to finish. You mark
 my words, when this case comes to be cleared up you will find that a
 woman named Rachel has something to do with it. It’s all very well for
@@ -2012,7 +2012,7 @@ servant pass along the hall, and the sharp click of the latch as she
 opened it.
 </p>
 
-<p><quote spokeBy="Mrs._Sawyer">Does <person perName="John_Watson">Dr. Watson</person> live here?</quote> asked a clear but rather harsh voice. We
+<p><quote spokeBy="Mrs_Sawyer">Does <person perName="John_Watson">Dr. Watson</person> live here?</quote> asked a clear but rather harsh voice. We
 could not hear the servant’s reply, but the door closed, and some one
 began to ascend the stairs. The footfall was an uncertain and shuffling
 one. A look of surprise passed over the face of my companion as he
@@ -2033,8 +2033,8 @@ to keep my countenance.
 </p>
 
 <p>The old crone drew out an evening paper, and pointed at our
-advertisement. <quote spokeBy="Mrs._Sawyer">It’s this as has brought me, good gentlemen,</quote> she said,
-dropping another curtsey; <quote spokeBy="Mrs._Sawyer">a gold wedding ring in the Brixton Road. It
+advertisement. <quote spokeBy="Mrs_Sawyer">It’s this as has brought me, good gentlemen,</quote> she said,
+dropping another curtsey; <quote spokeBy="Mrs_Sawyer">a gold wedding ring in the Brixton Road. It
 belongs to my girl Sally, as was married only this time twelvemonth,
 which her husband is steward aboard a Union boat, and what he’d say if
 he come ‘ome and found her without her ring is more than I can think,
@@ -2046,14 +2046,14 @@ along with——</quote>
 <p><quote spokeBy="John_Watson">Is that her ring?</quote> I asked.
 </p>
 
-<p><quote spokeBy="Mrs._Sawyer">The Lord be thanked!</quote> cried the old woman; <quote spokeBy="Mrs._Sawyer">Sally will be a glad woman
+<p><quote spokeBy="Mrs_Sawyer">The Lord be thanked!</quote> cried the old woman; <quote spokeBy="Mrs_Sawyer">Sally will be a glad woman
 this night. That’s the ring.</quote>
 </p>
 
 <p><quote spokeBy="John_Watson">And what may your address be?</quote> I inquired, taking up a pencil.
 </p>
 
-<p><quote spokeBy="Mrs._Sawyer">13, Duncan Street, Houndsditch. A weary way from here.</quote>
+<p><quote spokeBy="Mrs_Sawyer">13, Duncan Street, Houndsditch. A weary way from here.</quote>
 </p>
 
 <p><quote spokeBy="Sherlock_Holmes">The Brixton Road does not lie between any circus and Houndsditch,</quote>
@@ -2061,14 +2061,14 @@ said <person perName="Sherlock_Holmes">Sherlock Holmes</person> sharply.
 </p>
 
 <p>The old woman faced round and looked keenly at him from her little
-red-rimmed eyes. <quote spokeBy="Mrs._Sawyer">The gentleman asked me for _my_ address,</quote> she said.
-<quote spokeBy="Mrs._Sawyer">Sally lives in lodgings at 3, Mayfield Place, Peckham.</quote>
+red-rimmed eyes. <quote spokeBy="Mrs_Sawyer">The gentleman asked me for _my_ address,</quote> she said.
+<quote spokeBy="Mrs_Sawyer">Sally lives in lodgings at 3, Mayfield Place, Peckham.</quote>
 </p>
 
-<p><quote spokeBy="Mrs._Sawyer">And your name is——?</quote>
+<p><quote spokeBy="Mrs_Sawyer">And your name is——?</quote>
 </p>
 
-<p><quote spokeBy="Mrs._Sawyer">My name is Sawyer—her’s is Dennis, which Tom Dennis married her—and a
+<p><quote spokeBy="Mrs_Sawyer">My name is Sawyer—her’s is Dennis, which Tom Dennis married her—and a
 smart, clean lad, too, as long as he’s at sea, and no steward in the
 company more thought of; but when on shore, what with the women and
 what with liquor shops——</quote>
@@ -2428,7 +2428,7 @@ husky unnatural tone.
 clear voice.
 </p>
 
-<p><quote spokeBy="Unknown">‘No good can ever come of falsehood, mother,’ she said. ‘Let us be
+<p><quote spokeBy="Alice">‘No good can ever come of falsehood, mother,’ she said. ‘Let us be
 frank with this gentleman. We _did_ see <person perName="Enoch_J_Drebber">Mr. Drebber</person> again.’
 </quote></p>
 
@@ -2444,7 +2444,7 @@ firmly.
 worse than none. Besides, you do not know how much we know of it.’
 </quote></p>
 
-<p><quote spokeBy="Unknown">‘On your head be it, Alice!’ cried her mother; and then, turning to
+<p><quote spokeBy="Unknown">‘On your head be it, Alice!’ cried her mother; and then, turning to <!-- CJK: this is labled as unknow but it is spoken by the mom of alice, with another quote coming after it. Do you want to me to mark it up or not, we can talk about this at our meeting. -->
 me, ‘I will tell you all, sir. Do not imagine that my agitation on
 behalf of my son arises from any fear lest he should have had a hand in
 this terrible affair. He is utterly innocent of it. My dread is,
@@ -2453,21 +2453,21 @@ be compromised. That however is surely impossible. His high character,
 his profession, his antecedents would all forbid it.’
 </quote></p>
 
-<p><quote spokeBy="">‘Your best way is to make a clean breast of the facts,’ I answered.
+<p><quote spokeBy="John_Watson">‘Your best way is to make a clean breast of the facts,’ I answered.
 ‘Depend upon it, if your son is innocent he will be none the worse.’
 </quote></p>
 
-<p><quote spokeBy="">‘Perhaps, Alice, you had better leave us together,’ she said, and her
+<p><quote spokeBy="Madame_Charpentier">‘Perhaps, Alice, you had better leave us together,’ she said, and her
 daughter withdrew. ‘Now, sir,’ she continued, ‘I had no intention of
 telling you all this, but since my poor daughter has disclosed it I
 have no alternative. Having once decided to speak, I will tell you all
 without omitting any particular.’
 </quote></p>
 
-<p><quote spokeBy="">‘It is your wisest course,’ said I.
+<p><quote spokeBy="John_Watson">‘It is your wisest course,’ said I.
 </quote></p>
 
-<p><quote spokeBy="">‘<person perName="Enoch_J_Drebber">Mr. Drebber</person> has been with us nearly three weeks. He and his
+<p><quote spokeBy="Sherlock_Holmes">‘<person perName="Enoch_J_Drebber">Mr. Drebber</person> has been with us nearly three weeks. He and his
 secretary, <person perName="Joseph_Stangerson">Mr. Stangerson</person>, had been travelling on the Continent. I
 noticed a "Copenhagen" label upon each of their trunks, showing that
 that had been their last stopping place. <person perName="Joseph_Stangerson">Stangerson</person> was a quiet
@@ -2483,11 +2483,11 @@ actually seized her in his arms and embraced her—an outrage which
 caused his own secretary to reproach him for his unmanly conduct.’
 </quote></p>
 
-<p><quote spokeBy="">‘But why did you stand all this,’ I asked. ‘I suppose that you can get
+<p><quote spokeBy="John_Watson">‘But why did you stand all this,’ I asked. ‘I suppose that you can get
 rid of your boarders when you wish.’
 </quote></p>
 
-<p><quote spokeBy="">Mrs. Charpentier blushed at my pertinent question. ‘Would to God that
+<p><quote spokeBy="Madame_Charpentier">Mrs. Charpentier blushed at my pertinent question. ‘Would to God that
 I had given him notice on the very day that he came,’ she said. ‘But it
 was a sore temptation. They were paying a pound a day each—fourteen
 pounds a week, and this is the slack season. I am a widow, and my boy
@@ -2496,10 +2496,10 @@ the best. This last was too much, however, and I gave him notice to
 leave on account of it. That was the reason of his going.’
 </quote></p>
 
-<p><quote spokeBy="">‘Well?’
+<p><quote spokeBy="John_Watson">‘Well?’
 </quote></p>
 
-<p><quote spokeBy="">‘My heart grew light when I saw him drive away. My son is on leave
+  <p><quote spokeBy="Madame_Charpentier">‘My heart grew light when I saw him drive away. My son is on leave
 just now, but I did not tell him anything of all this, for his temper
 is violent, and he is passionately fond of his sister. When I closed
 the door behind them a load seemed to be lifted from my mind. Alas, in
@@ -2508,22 +2508,22 @@ less than an hour there was a ring at the bell, and I learned that Mr.
 drink. He forced his way into the room, where I was sitting with my
 daughter, and made some incoherent remark about having missed his
 train. He then turned to Alice, and before my very face, proposed to
-her that she should fly with him. </quote>You are of age,<quote spokeBy=""> he said, </quote>and there
+her that she should fly with him. </quote>You are of age,<quote spokeBy="Enoch_J_Drebber"> he said, </quote>and there
 is no law to stop you. I have money enough and to spare. Never mind the
 old girl here, but come along with me now straight away. You shall live
-like a princess.<quote spokeBy=""> Poor Alice was so frightened that she shrunk away
+like a princess.<quote spokeBy="Enoch_J_Drebber"> Poor Alice was so frightened that she shrunk away
 from him, but he caught her by the wrist and endeavoured to draw her
 towards the door. I screamed, and at that moment my son Arthur came
 into the room. What happened then I do not know. I heard oaths and the
 confused sounds of a scuffle. I was too terrified to raise my head.
 When I did look up I saw Arthur standing in the doorway laughing, with
 a stick in his hand. </quote>I don’t think that fine fellow will trouble us
-again,<quote spokeBy=""> he said. </quote>I will just go after him and see what he does with
-himself.<quote spokeBy=""> With those words he took his hat and started off down the
+again,<quote spokeBy="Arthur"> he said. </quote>I will just go after him and see what he does with
+himself.<quote spokeBy="Arthur"> With those words he took his hat and started off down the
 street. The next morning we heard of <person perName="Enoch_J_Drebber">Mr. Drebber</person>’s mysterious death.’
 </quote></p>
 
-<p><quote spokeBy="">This statement came from Mrs. Charpentier’s lips with many gasps and
+<p><quote spokeBy="John_Watson">This statement came from Mrs. Charpentier’s lips with many gasps and
 pauses. At times she spoke so low that I could hardly catch the words.
 I made shorthand notes of all that she said, however, so that there
 should be no possibility of a mistake.</quote>
@@ -2830,7 +2830,7 @@ these pills, for I am bound to say that I do not attach any importance
 to them.</quote>
 </p>
 
-<p><quote spokeBy="Sherlock_Holmes">Give them here,</quote> said <person perName="Sherlock_Holmes">Holmes</person>. <quote spokeBy="Sherlock_Holmes">Now, Doctor,</quote> turning to me, <quote spokeBy="">are those
+<p><quote spokeBy="Sherlock_Holmes">Give them here,</quote> said <person perName="Sherlock_Holmes">Holmes</person>. <quote spokeBy="Sherlock_Holmes">Now, Doctor,</quote> turning to me, <quote spokeBy="Sherlock_Holmes">are those
 ordinary pills?</quote>
 </p>
 
@@ -3184,7 +3184,7 @@ towsy golden curls which covered the back of her head.
 </p>
 
 <p><quote spokeBy="Unknown">Kiss it and make it well,</quote> she said, with perfect gravity, showing the
-injured part up to him. <quote spokeBy="Unkonwn">That’s what mother used to do. Where’s
+injured part up to him. <quote spokeBy="Unknown">That’s what mother used to do. Where’s
 mother?</quote>
 </p>
 
@@ -3434,7 +3434,7 @@ them in bewilderment. The man staggered to his feet and looked down
 upon the plain which had been so desolate when sleep had overtaken him,
 and which was now traversed by this enormous body of men and of beasts.
 His face assumed an expression of incredulity as he gazed, and he
-passed his boney hand over his eyes. <quote spokeBy="">This is what they call delirium,
+passed his boney hand over his eyes. <quote spokeBy="John_Watson">This is what they call delirium,
 I guess,</quote> he muttered. The child stood beside him, holding on to the
 skirt of his coat, and said nothing but looked all round her with the
 wondering questioning gaze of childhood.
@@ -3708,41 +3708,41 @@ brown hand caught the frightened horse by the curb, and forcing a way
 through the drove, soon brought her to the outskirts.
 </p>
 
-<p><quote spokeBy="">You’re not hurt, I hope, miss,</quote> said her preserver, respectfully.
+<p><quote spokeBy="Jefferson_Hope">You’re not hurt, I hope, miss,</quote> said her preserver, respectfully.
 </p>
 
-<p>She looked up at his dark, fierce face, and laughed saucily. <quote spokeBy="">I’m awful
-frightened,</quote> she said, naively; <quote spokeBy="">whoever would have thought that Poncho
+  <p>She looked up at his dark, fierce face, and laughed saucily. <quote spokeBy="Lucy_Ferrier">I’m awful
+    frightened,</quote> she said, naively; <quote spokeBy="Lucy_Ferrier">whoever would have thought that Poncho
 would have been so scared by a lot of cows?</quote>
 </p>
 
-<p><quote spokeBy="">Thank God you kept your seat,</quote> the other said earnestly. He was a
+  <p><quote spokeBy="Jefferson_Hope">Thank God you kept your seat,</quote> the other said earnestly. He was a<!-- CJK: I put the guys name in as JH but I am not sure, this goes down till John Ferrier is mentioned, about 20 lines -->
 tall, savage-looking young fellow, mounted on a powerful roan horse,
 and clad in the rough dress of a hunter, with a long rifle slung over
-his shoulders. <quote spokeBy="">I guess you are the daughter of <person perName="John_Ferrier">John Ferrier</person>,</quote> he
-remarked, <quote spokeBy="">I saw you ride down from his house. When you see him, ask
+his shoulders. <quote spokeBy="Jefferson_Hope">I guess you are the daughter of <person perName="John_Ferrier">John Ferrier</person>,</quote> he
+    remarked, <quote spokeBy="Jefferson_Hope">I saw you ride down from his house. When you see him, ask
 him if he remembers the <person perName="Jefferson_Hope">Jefferson Hope</person>s of St. Louis. If he’s the same
 Ferrier, my father and he were pretty thick.</quote>
 </p>
 
-<p><quote spokeBy="">Hadn’t you better come and ask yourself?</quote> she asked, demurely.
+  <p><quote spokeBy="Lucy_Ferrier">Hadn’t you better come and ask yourself?</quote> she asked, demurely.
 </p>
 
 <p>The young fellow seemed pleased at the suggestion, and his dark eyes
-sparkled with pleasure. <quote spokeBy="">I’ll do so,</quote> he said, <quote spokeBy="">we’ve been in the
+  sparkled with pleasure. <quote spokeBy="Jefferson_Hope">I’ll do so,</quote> he said, <quote spokeBy="Jefferson_Hope">we’ve been in the
 mountains for two months, and are not over and above in visiting
 condition. He must take us as he finds us.</quote>
 </p>
 
-<p><quote spokeBy="">He has a good deal to thank you for, and so have I,</quote> she answered,
-<quote spokeBy="">he’s awful fond of me. If those cows had jumped on me he’d have never
+  <p><quote spokeBy="Lucy_Ferrier">He has a good deal to thank you for, and so have I,</quote> she answered,
+    <quote spokeBy="Lucy_Ferrier">he’s awful fond of me. If those cows had jumped on me he’d have never
 got over it.</quote>
 </p>
 
-<p><quote spokeBy="">Neither would I,</quote> said her companion.
+  <p><quote spokeBy="Jefferson_Hope">Neither would I,</quote> said her companion.
 </p>
 
-<p><quote spokeBy="">You! Well, I don’t see that it would make much matter to you, anyhow.
+  <p><quote spokeBy="Jefferson_Hope">You! Well, I don’t see that it would make much matter to you, anyhow.
 You ain’t even a friend of ours.</quote>
 </p>
 
@@ -3750,12 +3750,12 @@ You ain’t even a friend of ours.</quote>
 Ferrier</person> laughed aloud.
 </p>
 
-<p><quote spokeBy="">There, I didn’t mean that,</quote> she said; <quote spokeBy="">of course, you are a friend
+  <p><quote spokeBy="Lucy_Ferrier">There, I didn’t mean that,</quote> she said; <quote spokeBy="Lucy_Ferrier">of course, you are a friend
 now. You must come and see us. Now I must push along, or father won’t
 trust me with his business any more. Good-bye!</quote>
 </p>
 
-<p><quote spokeBy="">Good-bye,</quote> he answered, raising his broad sombrero, and bending over
+  <p><quote spokeBy="Jefferson_Hope">Good-bye,</quote> he answered, raising his broad sombrero, and bending over
 her little hand. She wheeled her mustang round, gave it a cut with her
 riding-whip, and darted away down the broad road in a rolling cloud of
 dust.
@@ -3802,31 +3802,31 @@ up at the gate. She was at the doorway, and came down to meet him. He
 threw the bridle over the fence and strode up the pathway.
 </p>
 
-<p><quote spokeBy="">I am off, Lucy,</quote> he said, taking her two hands in his, and gazing
-tenderly down into her face; <quote spokeBy="">I won’t ask you to come with me now, but
+  <p><quote spokeBy="Jefferson_Hope">I am off, Lucy,</quote> he said, taking her two hands in his, and gazing
+    tenderly down into her face; <quote spokeBy="Jefferson_Hope">I won’t ask you to come with me now, but
 will you be ready to come when I am here again?</quote>
 </p>
 
-<p><quote spokeBy="">And when will that be?</quote> she asked, blushing and laughing.
+<p><quote spokeBy="Lucy_Ferrier">And when will that be?</quote> she asked, blushing and laughing.
 </p>
 
-<p><quote spokeBy="">A couple of months at the outside. I will come and claim you then, my
+  <p><quote spokeBy="Jefferson_Hope">A couple of months at the outside. I will come and claim you then, my
 darling. There’s no one who can stand between us.</quote>
 </p>
 
-<p><quote spokeBy="">And how about father?</quote> she asked.
+<p><quote spokeBy="Lucy_Ferrier">And how about father?</quote> she asked.
 </p>
 
-<p><quote spokeBy="">He has given his consent, provided we get these mines working all
+  <p><quote spokeBy="Jefferson_Hope">He has given his consent, provided we get these mines working all
 right. I have no fear on that head.</quote>
 </p>
 
-<p><quote spokeBy="">Oh, well; of course, if you and father have arranged it all, there’s
+<p><quote spokeBy="Lucy_Ferrier">Oh, well; of course, if you and father have arranged it all, there’s
 no more to be said,</quote> she whispered, with her cheek against his broad
 breast.
 </p>
 
-<p><quote spokeBy="">Thank God!</quote> he said, hoarsely, stooping and kissing her. <quote spokeBy="">It is
+  <p><quote spokeBy="Jefferson_Hope">Thank God!</quote> he said, hoarsely, stooping and kissing her. <quote spokeBy="Jefferson_Hope">It is
 settled, then. The longer I stay, the harder it will be to go. They are
 waiting for me at the cañon. Good-bye, my own darling—good-bye. In two
 months you shall see me.</quote>
@@ -3931,46 +3931,46 @@ chief. The latter, however, received his salutations coldly, and
 followed him with a stern face into the sitting-room.
 </p>
 
-<p><quote spokeBy="">Brother Ferrier,</quote> he said, taking a seat, and eyeing the farmer keenly
-from under his light-coloured eyelashes, <quote spokeBy="">the true believers have been
+  <p><quote spokeBy="Brigham_Young">Brother Ferrier,</quote> he said, taking a seat, and eyeing the farmer keenly
+    from under his light-coloured eyelashes, <quote spokeBy="Brigham_Young">the true believers have been
 good friends to you. We picked you up when you were starving in the
 desert, we shared our food with you, led you safe to the Chosen Valley,
 gave you a goodly share of land, and allowed you to wax rich under our
 protection. Is not this so?</quote>
 </p>
 
-<p><quote spokeBy="">It is so,</quote> answered <person perName="John_Ferrier">John Ferrier</person>.
+<p><quote spokeBy="John_Ferrier">It is so,</quote> answered <person perName="John_Ferrier">John Ferrier</person>.
 </p>
 
-<p><quote spokeBy="">In return for all this we asked but one condition: that was, that you
+  <p><quote spokeBy="Brigham_Young">In return for all this we asked but one condition: that was, that you
 should embrace the true faith, and conform in every way to its usages.
 This you promised to do, and this, if common report says truly, you
 have neglected.</quote>
 </p>
 
-<p><quote spokeBy="">And how have I neglected it?</quote> asked Ferrier, throwing out his hands in
-expostulation. <quote spokeBy="">Have I not given to the common fund? Have I not
+<p><quote spokeBy="John_Ferrier">And how have I neglected it?</quote> asked Ferrier, throwing out his hands in
+expostulation. <quote spokeBy="John_Ferrier">Have I not given to the common fund? Have I not
 attended at the Temple? Have I not——?</quote>
 </p>
 
-<p><quote spokeBy="">Where are your wives?</quote> asked <person perName="Brigham_Young">Young</person>, looking round him. <quote spokeBy="">Call them in,
+  <p><quote spokeBy="Brigham_Young">Where are your wives?</quote> asked <person perName="Brigham_Young">Young</person>, looking round him. <quote spokeBy="Brigham_Young">Call them in,
 that I may greet them.</quote>
 </p>
 
-<p><quote spokeBy="">It is true that I have not married,</quote> <person perName="Ferrier">Ferrier</person> answered. <quote spokeBy="">But women were
+<p><quote spokeBy="John_Ferrier">It is true that I have not married,</quote> <person perName="Ferrier">Ferrier</person> answered. <quote spokeBy="John_Ferrier">But women were
 few, and there were many who had better claims than I. I was not a
 lonely man: I had my daughter to attend to my wants.</quote>
 </p>
 
-<p><quote spokeBy="">It is of that daughter that I would speak to you,</quote> said the leader of
-the Mormons. <quote spokeBy="">She has grown to be the flower of Utah, and has found
+  <p><quote spokeBy="Brigham_Young">It is of that daughter that I would speak to you,</quote> said the leader of
+    the Mormons. <quote spokeBy="Brigham_Young">She has grown to be the flower of Utah, and has found
 favour in the eyes of many who are high in the land.</quote>
 </p>
 
 <p><person perName="John_Ferrier">John Ferrier</person> groaned internally.
 </p>
 
-<p><quote spokeBy="">There are stories of her which I would fain disbelieve—stories that
+<p><quote spokeBy="John_Ferrier">There are stories of her which I would fain disbelieve—stories that
 she is sealed to some Gentile. This must be the gossip of idle tongues.
 What is the thirteenth rule in the code of the sainted <person perName="Joseph_Stangerson">Joseph</person> Smith?
 ‘Let every maiden of the true faith marry one of the elect; for if she
@@ -3983,7 +3983,7 @@ daughter to violate it.</quote>
 riding-whip.
 </p>
 
-<p><quote spokeBy="">Upon this one point your whole faith shall be tested—so it has been
+  <p><quote spokeBy="Brigham_Young">Upon this one point your whole faith shall be tested—so it has been
 decided in the Sacred Council of Four. The girl is young, and we would
 not have her wed grey hairs, neither would we deprive her of all
 choice. We Elders have many heifers,[1] but our children must also be
@@ -4000,17 +4000,17 @@ you to that?</quote>
 <p>Ferrier remained silent for some little time with his brows knitted.
 </p>
 
-<p><quote spokeBy="">You will give us time,</quote> he said at last. <quote spokeBy="">My daughter is very
+<p><quote spokeBy="John_Ferrier">You will give us time,</quote> he said at last. <quote spokeBy="John_Ferrier">My daughter is very <!-- CJK: Would not hurt for someone to check my work here, just to make sure I am not confusing the names -->
 young—she is scarce of an age to marry.</quote>
 </p>
 
-<p><quote spokeBy="">She shall have a month to choose,</quote> said <person perName="Brigham_Young">Young</person>, rising from his seat.
-<quote spokeBy="">At the end of that time she shall give her answer.</quote>
+  <p><quote spokeBy="Brigham_Young">She shall have a month to choose,</quote> said <person perName="Brigham_Young">Young</person>, rising from his seat.
+    <quote spokeBy="Brigham_Young">At the end of that time she shall give her answer.</quote>
 </p>
 
 <p>He was passing through the door, when he turned, with flushed face and
-flashing eyes. <quote spokeBy="">It were better for you, <person perName="John_Ferrier">John Ferrier</person>,</quote> he thundered,
-<quote spokeBy="">that you and she were now lying blanched skeletons upon the Sierra
+  flashing eyes. <quote spokeBy="Brigham_Young">It were better for you, <person perName="John_Ferrier">John Ferrier</person>,</quote> he thundered,
+  <quote spokeBy="Brigham_Young">that you and she were now lying blanched skeletons upon the Sierra
 Blanco, than that you should put your weak wills against the orders of
 the Holy Four!</quote>
 </p>
@@ -4025,20 +4025,20 @@ his, and looking up, he saw her standing beside him. One glance at her
 pale, frightened face showed him that she had heard what had passed.
 </p>
 
-<p><quote spokeBy="">I could not help it,</quote> she said, in answer to his look. <quote spokeBy="">His voice rang
+<p><quote spokeBy="Lucy_Ferrier">I could not help it,</quote> she said, in answer to his look. <quote spokeBy="John_Ferrier">His voice rang
 through the house. Oh, father, father, what shall we do?</quote>
 </p>
 
-<p><quote spokeBy="">Don’t you scare yourself,</quote> he answered, drawing her to him, and
+<p><quote spokeBy="John_Ferrier">Don’t you scare yourself,</quote> he answered, drawing her to him, and
 passing his broad, rough hand caressingly over her chestnut hair.
-<quote spokeBy="">We’ll fix it up somehow or another. You don’t find your fancy kind o’
+<quote spokeBy="John_Ferrier">We’ll fix it up somehow or another. You don’t find your fancy kind o’
 lessening for this chap, do you?</quote>
 </p>
 
 <p>A sob and a squeeze of his hand was her only answer.
 </p>
 
-<p><quote spokeBy="">No; of course not. I shouldn’t care to hear you say you did. He’s a
+<p><quote spokeBy="John_Ferrier">No; of course not. I shouldn’t care to hear you say you did. He’s a
 likely lad, and he’s a Christian, which is more than these folk here,
 in spite o’ all their praying and preaching. There’s a party starting
 for Nevada to-morrow, and I’ll manage to send him a message letting him
@@ -4049,27 +4049,27 @@ back here with a speed that would whip electro-telegraphs.</quote>
 <p>Lucy laughed through her tears at her father’s description.
 </p>
 
-<p><quote spokeBy="">When he comes, he will advise us for the best. But it is for you that
+<p><quote spokeBy="Lucy_Ferrier">When he comes, he will advise us for the best. But it is for you that
 I am frightened, dear. One hears—one hears such dreadful stories about
 those who oppose the Prophet: something terrible always happens to
 them.</quote>
 </p>
 
-<p><quote spokeBy="">But we haven’t opposed him yet,</quote> her father answered. <quote spokeBy="">It will be time
+<p><quote spokeBy="John_Ferrier">But we haven’t opposed him yet,</quote> her father answered. <quote spokeBy="John_Ferrier">It will be time
 to look out for squalls when we do. We have a clear month before us; at
 the end of that, I guess we had best shin out of Utah.</quote>
 </p>
 
-<p><quote spokeBy="">Leave Utah!</quote>
+<p><quote spokeBy="Lucy_Ferrier">Leave Utah!</quote>
 </p>
 
-<p><quote spokeBy="">That’s about the size of it.</quote>
+<p><quote spokeBy="John_Ferrier">That’s about the size of it.</quote>
 </p>
 
-<p><quote spokeBy="">But the farm?</quote>
+<p><quote spokeBy="Lucy_Ferrier">But the farm?</quote>
 </p>
 
-<p><quote spokeBy="">We will raise as much as we can in money, and let the rest go. To tell
+<p><quote spokeBy="John_Ferrier">We will raise as much as we can in money, and let the rest go. To tell
 the truth, Lucy, it isn’t the first time I have thought of doing it. I
 don’t care about knuckling under to any man, as these folk do to their
 darned prophet. I’m a free-born American, and it’s all new to me. Guess
@@ -4078,10 +4078,10 @@ chance to run up against a charge of buckshot travelling in the
 opposite direction.</quote>
 </p>
 
-<p><quote spokeBy="">But they won’t let us leave,</quote> his daughter objected.
+<p><quote spokeBy="Lucy_Ferrier">But they won’t let us leave,</quote> his daughter objected.
 </p>
 
-<p><quote spokeBy="">Wait till <person perName="Jefferson_Hope">Jefferson</person> comes, and we’ll soon manage that. In the
+<p><quote spokeBy="John_Ferrier">Wait till <person perName="Jefferson_Hope">Jefferson</person> comes, and we’ll soon manage that. In the
 meantime, don’t you fret yourself, my dearie, and don’t get your eyes
 swelled up, else he’ll be walking into me when he sees you. There’s
 nothing to be afeared about, and there’s no danger at all.</quote>
@@ -4127,37 +4127,37 @@ he entered, and the one in the rocking-chair commenced the
 conversation.
 </p>
 
-<p><quote spokeBy="">Maybe you don’t know us,</quote> he said. <quote spokeBy="">This here is the son of Elder
+<p><quote spokeBy="Jefferson_Hope">Maybe you don’t know us,</quote> he said. <quote spokeBy="Jefferson_Hope">This here is the son of Elder
 <person perName="Enoch_J_Drebber">Drebber</person>, and I’m <person perName="Joseph_Stangerson">Joseph Stangerson</person>, who travelled with you in the
 desert when the Lord stretched out His hand and gathered you into the
 true fold.</quote>
 </p>
 
-<p><quote spokeBy="">As He will all the nations in His own good time,</quote> said the other in a
-nasal voice; <quote spokeBy="">He grindeth slowly but exceeding small.</quote>
+<p><quote spokeBy="Joseph_Stangerson">As He will all the nations in His own good time,</quote> said the other in a
+  nasal voice; <quote spokeBy="Enoch_J_Drebber">He grindeth slowly but exceeding small.</quote>
 </p>
 
 <p><person perName="John_Ferrier">John Ferrier</person> bowed coldly. He had guessed who his visitors were.
 </p>
 
-<p><quote spokeBy="">We have come,</quote> continued <person perName="Joseph_Stangerson">Stangerson</person>, <quote spokeBy="">at the advice of our fathers to
+<p><quote spokeBy="Joseph_Stangerson">We have come,</quote> continued <person perName="Joseph_Stangerson">Stangerson</person>, <quote spokeBy="Joseph_Stangerson">at the advice of our fathers to
 solicit the hand of your daughter for whichever of us may seem good to
 you and to her. As I have but four wives and Brother <person perName="Enoch_J_Drebber">Drebber</person> here has
 seven, it appears to me that my claim is the stronger one.</quote>
 </p>
 
-<p><quote spokeBy="">Nay, nay, Brother <person perName="Joseph_Stangerson">Stangerson</person>,</quote> cried the other; <quote spokeBy="">the question is not
+  <p><quote spokeBy="Enoch_J_Drebber">Nay, nay, Brother <person perName="Joseph_Stangerson">Stangerson</person>,</quote> cried the other; <quote spokeBy="Enoch_J_Drebber">the question is not
 how many wives we have, but how many we can keep. My father has now
 given over his mills to me, and I am the richer man.</quote>
 </p>
 
-<p><quote spokeBy="">But my prospects are better,</quote> said the other, warmly. <quote spokeBy="">When the Lord
+<p><quote spokeBy="Joseph_Stangerson">But my prospects are better,</quote> said the other, warmly. <quote spokeBy="Joseph_Stangerson">When the Lord
 removes my father, I shall have his tanning yard and his leather
 factory. Then I am your elder, and am higher in the Church.</quote>
 </p>
 
-<p><quote spokeBy="">It will be for the maiden to decide,</quote> rejoined young <person perName="Enoch_J_Drebber">Drebber</person>, smirking
-at his own reflection in the glass. <quote spokeBy="">We will leave it all to her
+  <p><quote spokeBy="Enoch_J_Drebber">It will be for the maiden to decide,</quote> rejoined young <person perName="Enoch_J_Drebber">Drebber</person>, smirking
+    at his own reflection in the glass. <quote spokeBy="Enoch_J_Drebber">We will leave it all to her
 decision.</quote>
 </p>
 
@@ -4165,7 +4165,7 @@ decision.</quote>
 hardly able to keep his riding-whip from the backs of his two visitors.
 </p>
 
-<p><quote spokeBy="">Look here,</quote> he said at last, striding up to them, <quote spokeBy="">when my daughter
+<p><quote spokeBy="John_Ferrier">Look here,</quote> he said at last, striding up to them, <quote spokeBy="John_Ferrier">when my daughter
 summons you, you can come, but until then I don’t want to see your
 faces again.</quote>
 </p>
@@ -4175,7 +4175,7 @@ competition between them for the maiden’s hand was the highest of
 honours both to her and her father.
 </p>
 
-<p><quote spokeBy="">There are two ways out of the room,</quote> cried Ferrier; <quote spokeBy="">there is the
+<p><quote spokeBy="John_Ferrier">There are two ways out of the room,</quote> cried Ferrier; <quote spokeBy="John_Ferrier">there is the
 door, and there is the window. Which do you care to use?</quote>
 </p>
 
@@ -4184,35 +4184,35 @@ that his visitors sprang to their feet and beat a hurried retreat. The
 old farmer followed them to the door.
 </p>
 
-<p><quote spokeBy="">Let me know when you have settled which it is to be,</quote> he said,
+<p><quote spokeBy="John_Ferrier">Let me know when you have settled which it is to be,</quote> he said,
 sardonically.
 </p>
 
-<p><quote spokeBy="">You shall smart for this!</quote> <person perName="Joseph_Stangerson">Stangerson</person> cried, white with rage. <quote spokeBy="">You
+<p><quote spokeBy="Joseph_Stangerson">You shall smart for this!</quote> <person perName="Joseph_Stangerson">Stangerson</person> cried, white with rage. <quote spokeBy="Joseph_Stangerson">You
 have defied the Prophet and the Council of Four. You shall rue it to
 the end of your days.</quote>
 </p>
 
-<p><quote spokeBy="">The hand of the Lord shall be heavy upon you,</quote> cried young <person perName="Enoch_J_Drebber">Drebber</person>;
-<quote spokeBy="">He will arise and smite you!</quote>
+  <p><quote spokeBy="Enoch_J_Drebber">The hand of the Lord shall be heavy upon you,</quote> cried young <person perName="Enoch_J_Drebber">Drebber</person>;
+    <quote spokeBy="Enoch_J_Drebber">He will arise and smite you!</quote>
 </p>
 
-<p><quote spokeBy="">Then I’ll start the smiting,</quote> exclaimed <person perName="Ferrier">Ferrier</person> furiously, and would
+<p><quote spokeBy="John_Ferrier">Then I’ll start the smiting,</quote> exclaimed <person perName="Ferrier">Ferrier</person> furiously, and would
 have rushed upstairs for his gun had not Lucy seized him by the arm and
 restrained him. Before he could escape from her, the clatter of horses’
 hoofs told him that they were beyond his reach.
 </p>
 
-<p><quote spokeBy="">The young canting rascals!</quote> he exclaimed, wiping the perspiration from
-his forehead; <quote spokeBy="">I would sooner see you in your grave, my girl, than the
+<p><quote spokeBy="John_Ferrier">The young canting rascals!</quote> he exclaimed, wiping the perspiration from
+his forehead; <quote spokeBy="John_Ferrier">I would sooner see you in your grave, my girl, than the
 wife of either of them.</quote>
 </p>
 
-<p><quote spokeBy="">And so should I, father,</quote> she answered, with spirit; <quote spokeBy="">but <person perName="Jefferson_Hope">Jefferson</person>
+<p><quote spokeBy="Lucy_Ferrier">And so should I, father,</quote> she answered, with spirit; <quote spokeBy="Lucy_Ferrier">but <person perName="Jefferson_Hope">Jefferson</person>
 will soon be here.</quote>
 </p>
 
-<p><quote spokeBy="">Yes. It will not be long before he comes. The sooner the better, for
+<p><quote spokeBy="John_Ferrier">Yes. It will not be long before he comes. The sooner the better, for
 we do not know what their next move may be.</quote>
 </p>
 
@@ -4238,7 +4238,7 @@ surprise, a small square of paper pinned on to the coverlet of his bed
 just over his chest. On it was printed, in bold straggling letters:—
 </p>
 
-<p><quote spokeBy="">Twenty-nine days are given you for amendment, and then——</quote>
+<p>"Twenty-nine days are given you for amendment, and then——"
 </p>
 
 <p>The dash was more fear-inspiring than any threat could have been. How
@@ -4332,50 +4332,50 @@ the astonished farmer the fierce face and resolute expression of
 <person perName="Jefferson_Hope">Jefferson Hope</person>.
 </p>
 
-<p><quote spokeBy="">Good God!</quote> gasped <person perName="John_Ferrier">John Ferrier</person>. <quote spokeBy="">How you scared me! Whatever made you
+<p><quote spokeBy="John_Ferrier">Good God!</quote> gasped <person perName="John_Ferrier">John Ferrier</person>. <quote spokeBy="John_Ferrier">How you scared me! Whatever made you
 come in like that.</quote>
 </p>
 
-<p><quote spokeBy="">Give me food,</quote> the other said, hoarsely. <quote spokeBy="">I have had no time for bite
+<p><quote spokeBy="Jefferson_Hope">Give me food,</quote> the other said, hoarsely. <quote spokeBy="Jefferson_Hope">I have had no time for bite
 or sup for eight-and-forty hours.</quote> He flung himself upon the cold meat
 and bread which were still lying upon the table from his host’s supper,
-and devoured it voraciously. <quote spokeBy="">Does Lucy bear up well?</quote> he asked, when
+and devoured it voraciously. <quote spokeBy="Jefferson_Hope">Does Lucy bear up well?</quote> he asked, when
 he had satisfied his hunger.
 </p>
 
-<p><quote spokeBy="">Yes. She does not know the danger,</quote> her father answered.
+<p><quote spokeBy="John_Ferrier">Yes. She does not know the danger,</quote> her father answered.
 </p>
 
-<p><quote spokeBy="">That is well. The house is watched on every side. That is why I
+<p><quote spokeBy="Jefferson_Hope">That is well. The house is watched on every side. That is why I
 crawled my way up to it. They may be darned sharp, but they’re not
 quite sharp enough to catch a Washoe hunter.</quote>
 </p>
 
 <p><person perName="John_Ferrier">John Ferrier</person> felt a different man now that he realized that he had a
 devoted ally. He seized the young man’s leathery hand and wrung it
-cordially. <quote spokeBy="">You’re a man to be proud of,</quote> he said. <quote spokeBy="">There are not many
+cordially. <quote spokeBy="John_Ferrier">You’re a man to be proud of,</quote> he said. <quote spokeBy="John_Ferrier">There are not many
 who would come to share our danger and our troubles.</quote>
 </p>
 
-<p><quote spokeBy="">You’ve hit it there, pard,</quote> the young hunter answered. <quote spokeBy="">I have a
+<p><quote spokeBy="Jefferson_Hope">You’ve hit it there, pard,</quote> the young hunter answered. <quote spokeBy="Jefferson_Hope">I have a
 respect for you, but if you were alone in this business I’d think twice
 before I put my head into such a hornet’s nest. It’s Lucy that brings
 me here, and before harm comes on her I guess there will be one less o’
 the <person perName="Jefferson_Hope">Hope</person> family in Utah.</quote>
 </p>
 
-<p><quote spokeBy="">What are we to do?</quote>
+<p><quote spokeBy="John_Ferrier">What are we to do?</quote>
 </p>
 
-<p><quote spokeBy="">To-morrow is your last day, and unless you act to-night you are lost.
+<p><quote spokeBy="Jefferson_Hope">To-morrow is your last day, and unless you act to-night you are lost.
 I have a mule and two horses waiting in the Eagle Ravine. How much
 money have you?</quote>
 </p>
 
-<p><quote spokeBy="">Two thousand dollars in gold, and five in notes.</quote>
+<p><quote spokeBy="John_Ferrier">Two thousand dollars in gold, and five in notes.</quote>
 </p>
 
-<p><quote spokeBy="">That will do. I have as much more to add to it. We must push for
+<p><quote spokeBy="Jefferson_Hope">That will do. I have as much more to add to it. We must push for
 Carson City through the mountains. You had best wake Lucy. It is as
 well that the servants do not sleep in the house.</quote>
 </p>
@@ -4390,20 +4390,20 @@ lovers was warm, but brief, for minutes were precious, and there was
 much to be done.
 </p>
 
-<p><quote spokeBy="">We must make our start at once,</quote> said <person perName="Jefferson_Hope">Jefferson Hope</person>, speaking in a
+<p><quote spokeBy="Jefferson_Hope">We must make our start at once,</quote> said <person perName="Jefferson_Hope">Jefferson Hope</person>, speaking in a
 low but resolute voice, like one who realizes the greatness of the
-peril, but has steeled his heart to meet it. <quote spokeBy="">The front and back
+peril, but has steeled his heart to meet it. <quote spokeBy="Jefferson_Hope">The front and back
 entrances are watched, but with caution we may get away through the
 side window and across the fields. Once on the road we are only two
 miles from the Ravine where the horses are waiting. By daybreak we
 should be half-way through the mountains.</quote>
 </p>
 
-<p><quote spokeBy="">What if we are stopped,</quote> asked Ferrier.
+<p><quote spokeBy="John_Ferrier">What if we are stopped,</quote> asked Ferrier.
 </p>
 
 <p><person perName="Jefferson_Hope">Hope</person> slapped the revolver butt which protruded from the front of his
-tunic. <quote spokeBy="">If they are too many for us we shall take two or three of them
+tunic. <quote spokeBy="Jefferson_Hope">If they are too many for us we shall take two or three of them
 with us,</quote> he said with a sinister smile.
 </p>
 
@@ -4440,17 +4440,17 @@ gap for which they had been making, and uttered the plaintive signal
 cry again, on which a second man appeared out of the obscurity.
 </p>
 
-<p><quote spokeBy="">To-morrow at midnight,</quote> said the first who appeared to be in
-authority. <quote spokeBy="">When the Whip-poor-Will calls three times.</quote>
+<p><quote spokeBy="Unknown">To-morrow at midnight,</quote> said the first who appeared to be in
+authority. <quote spokeBy="Unknown">When the Whip-poor-Will calls three times.</quote>
 </p>
 
-<p><quote spokeBy="">It is well,</quote> returned the other. <quote spokeBy="">Shall I tell Brother <person perName="Enoch_J_Drebber">Drebber</person>?</quote>
+<p><quote spokeBy="Unknown">It is well,</quote> returned the other. <quote spokeBy="Unknown">Shall I tell Brother <person perName="Enoch_J_Drebber">Drebber</person>?</quote>
 </p>
 
-<p><quote spokeBy="">Pass it on to him, and from him to the others. Nine to seven!</quote>
+<p><quote spokeBy="Unknown">Pass it on to him, and from him to the others. Nine to seven!</quote>
 </p>
 
-<p><quote spokeBy="">Seven to five!</quote> repeated the other, and the two figures flitted away
+<p><quote spokeBy="Unknown">Seven to five!</quote> repeated the other, and the two figures flitted away
 in different directions. Their concluding words had evidently been some
 form of sign and countersign. The instant that their footsteps had died
 away in the distance, <person perName="Jefferson_Hope">Jefferson Hope</person> sprang to his feet, and helping
@@ -4459,7 +4459,7 @@ top of his speed, supporting and half-carrying the girl when her
 strength appeared to fail her.
 </p>
 
-<p><quote spokeBy="">Hurry on! hurry on!</quote> he gasped from time to time. <quote spokeBy="">We are through the
+<p><quote spokeBy="Jefferson_Hope">Hurry on! hurry on!</quote> he gasped from time to time. <quote spokeBy="Jefferson_Hope">We are through the
 line of sentinels. Everything depends on speed. Hurry on!</quote>
 </p>
 
@@ -4495,11 +4495,11 @@ jurisdiction of the Saints. They had reached the very wildest and most
 desolate portion of the pass when the girl gave a startled cry, and
 pointed upwards. On a rock which overlooked the track, showing out dark
 and plain against the sky, there stood a solitary sentinel. He saw them
-as soon as they perceived him, and his military challenge of <quote spokeBy="">Who goes
+as soon as they perceived him, and his military challenge of <quote spokeBy="Unknown">Who goes
 there?</quote> rang through the silent ravine.
 </p>
 
-<p><quote spokeBy="">Travellers for Nevada,</quote> said <person perName="Jefferson_Hope">Jefferson Hope</person>, with his hand upon the
+<p><quote spokeBy="Jefferson_Hope">Travellers for Nevada,</quote> said <person perName="Jefferson_Hope">Jefferson Hope</person>, with his hand upon the
 rifle which hung by his saddle.
 </p>
 
@@ -4507,21 +4507,21 @@ rifle which hung by his saddle.
 at them as if dissatisfied at their reply.
 </p>
 
-<p><quote spokeBy="">By whose permission?</quote> he asked.
+<p><quote spokeBy="Unknown">By whose permission?</quote> he asked.
 </p>
 
-<p><quote spokeBy="">The Holy Four,</quote> answered Ferrier. His Mormon experiences had taught
+<p><quote spokeBy="John_Ferrier">The Holy Four,</quote> answered Ferrier. His Mormon experiences had taught
 him that that was the highest authority to which he could refer.
 </p>
 
-<p><quote spokeBy="">Nine from seven,</quote> cried the sentinel.
+<p><quote spokeBy="Unknown">Nine from seven,</quote> cried the sentinel.
 </p>
 
-<p><quote spokeBy="">Seven from five,</quote> returned <person perName="Jefferson_Hope">Jefferson Hope</person> promptly, remembering the
+<p><quote spokeBy="Jefferson_Hope">Seven from five,</quote> returned <person perName="Jefferson_Hope">Jefferson Hope</person> promptly, remembering the
 countersign which he had heard in the garden.
 </p>
 
-<p><quote spokeBy="">Pass, and the Lord go with you,</quote> said the voice from above. Beyond his
+<p><quote spokeBy="Unknown">Pass, and the Lord go with you,</quote> said the voice from above. Beyond his
 post the path broadened out, and the horses were able to break into a
 trot. Looking back, they could see the solitary watcher leaning upon
 his gun, and knew that they had passed the outlying post of the chosen
@@ -4565,8 +4565,8 @@ hearts of the three fugitives and gave them fresh energy. At a wild
 torrent which swept out of a ravine they called a halt and watered
 their horses, while they partook of a hasty breakfast. Lucy and her
 father would fain have rested longer, but <person perName="Jefferson_Hope">Jefferson Hope</person> was
-inexorable. <quote spokeBy="">They will be upon our track by this time,</quote> he said.
-<quote spokeBy="">Everything depends upon our speed. Once safe in Carson we may rest for
+inexorable. <quote spokeBy="Jefferson_Hope">They will be upon our track by this time,</quote> he said.
+<quote spokeBy="Jefferson_Hope">Everything depends upon our speed. Once safe in Carson we may rest for
 the remainder of our lives.</quote>
 </p>
 
@@ -4734,7 +4734,7 @@ therefore accosted him when he got up to him, with the object of
 finding out what <person perName="Lucy_Ferrier">Lucy Ferrier</person>’s fate had been.
 </p>
 
-<p><quote spokeBy="">I am <person perName="Jefferson_Hope">Jefferson Hope</person>,</quote> he said. <quote spokeBy="">You remember me.</quote>
+<p><quote spokeBy="Jefferson_Hope">I am <person perName="Jefferson_Hope">Jefferson Hope</person>,</quote> he said. <quote spokeBy="Jefferson_Hope">You remember me.</quote>
 </p>
 
 <p>The Mormon looked at him with undisguised astonishment—indeed, it was
@@ -4744,34 +4744,34 @@ days. Having, however, at last, satisfied himself as to his identity,
 the man’s surprise changed to consternation.
 </p>
 
-<p><quote spokeBy="">You are mad to come here,</quote> he cried. <quote spokeBy="">It is as much as my own life is
+<p><quote spokeBy="Cowper">You are mad to come here,</quote> he cried. <quote spokeBy="Cowper">It is as much as my own life is
 worth to be seen talking with you. There is a warrant against you from
 the Holy Four for assisting the Ferriers away.</quote>
 </p>
 
-<p><quote spokeBy="">I don’t fear them, or their warrant,</quote> <person perName="Jefferson_Hope">Hope</person> said, earnestly. <quote spokeBy="">You must
+<p><quote spokeBy="Jefferson_Hope">I don’t fear them, or their warrant,</quote> <person perName="Jefferson_Hope">Hope</person> said, earnestly. <quote spokeBy="Jefferson_Hope">You must
 know something of this matter, Cowper. I conjure you by everything you
 hold dear to answer a few questions. We have always been friends. For
 God’s sake, don’t refuse to answer me.</quote>
 </p>
 
-<p><quote spokeBy="">What is it?</quote> the Mormon asked uneasily. <quote spokeBy="">Be quick. The very rocks have
+<p><quote spokeBy="Cowper">What is it?</quote> the Mormon asked uneasily. <quote spokeBy="Cowper">Be quick. The very rocks have
 ears and the trees eyes.</quote>
 </p>
 
-<p><quote spokeBy="">What has become of <person perName="Lucy_Ferrier">Lucy Ferrier</person>?</quote>
+<p><quote spokeBy="Jefferson_Hope">What has become of <person perName="Lucy_Ferrier">Lucy Ferrier</person>?</quote>
 </p>
 
-<p><quote spokeBy="">She was married yesterday to young <person perName="Enoch_J_Drebber">Drebber</person>. Hold up, man, hold up, you
+<p><quote spokeBy="Cowper">She was married yesterday to young <person perName="Enoch_J_Drebber">Drebber</person>. Hold up, man, hold up, you
 have no life left in you.</quote>
 </p>
 
-<p><quote spokeBy="">Don’t mind me,</quote> said <person perName="Jefferson_Hope">Hope</person> faintly. He was white to the very lips, and
-had sunk down on the stone against which he had been leaning. <quote spokeBy="">Married,
+<p><quote spokeBy="Jefferson_Hope">Don’t mind me,</quote> said <person perName="Jefferson_Hope">Hope</person> faintly. He was white to the very lips, and
+had sunk down on the stone against which he had been leaning. <quote spokeBy="Jefferson_Hope">Married,
 you say?</quote>
 </p>
 
-<p><quote spokeBy="">Married yesterday—that’s what those flags are for on the Endowment
+<p><quote spokeBy="Cowper">Married yesterday—that’s what those flags are for on the Endowment
 House. There was some words between young <person perName="Enoch_J_Drebber">Drebber</person> and young <person perName="Joseph_Stangerson">Stangerson</person>
 as to which was to have her. They’d both been in the party that
 followed them, and <person perName="Joseph_Stangerson">Stangerson</person> had shot her father, which seemed to give
@@ -4781,15 +4781,15 @@ won’t have her very long though, for I saw death in her face yesterday.
 She is more like a ghost than a woman. Are you off, then?</quote>
 </p>
 
-<p><quote spokeBy="">Yes, I am off,</quote> said <person perName="Jefferson_Hope">Jefferson Hope</person>, who had risen from his seat. His
+<p><quote spokeBy="Jefferson_Hope">Yes, I am off,</quote> said <person perName="Jefferson_Hope">Jefferson Hope</person>, who had risen from his seat. His
 face might have been chiselled out of marble, so hard and set was its
 expression, while its eyes glowed with a baleful light.
 </p>
 
-<p><quote spokeBy="">Where are you going?</quote>
+<p><quote spokeBy="Cowper">Where are you going?</quote>
 </p>
 
-<p><quote spokeBy="">Never mind,</quote> he answered; and, slinging his weapon over his shoulder,
+<p><quote spokeBy="Jefferson_Hope">Never mind,</quote> he answered; and, slinging his weapon over his shoulder,
 strode off down the gorge and so away into the heart of the mountains
 to the haunts of the wild beasts. Amongst them all there was none so
 fierce and so dangerous as himself.
@@ -4810,7 +4810,7 @@ glance or a word to the cowering women, he walked up to the white
 silent figure which had once contained the pure soul of <person perName="Lucy_Ferrier">Lucy Ferrier</person>.
 Stooping over her, he pressed his lips reverently to her cold forehead,
 and then, snatching up her hand, he took the wedding-ring from her
-finger. <quote spokeBy="">She shall not be buried in that,</quote> he cried with a fierce
+finger. <quote spokeBy="Jefferson_Hope">She shall not be buried in that,</quote> he cried with a fierce
 snarl, and before an alarm could be raised sprang down the stairs and
 was gone. So strange and so brief was the episode, that the watchers
 might have found it hard to believe it themselves or persuade other
@@ -4924,8 +4924,8 @@ Journal, to which we are already under such obligations.
 <p>Our prisoner’s furious resistance did not apparently indicate any
 ferocity in his disposition towards ourselves, for on finding himself
 powerless, he smiled in an affable manner, and expressed his hopes that
-he had not hurt any of us in the scuffle. <quote spokeBy="">I guess you’re going to take
-me to the police-station,</quote> he remarked to <person perName="Sherlock_Holmes">Sherlock Holmes</person>. <quote spokeBy="">My cab’s at
+he had not hurt any of us in the scuffle. <quote spokeBy="Jefferson_Hope">I guess you’re going to take
+me to the police-station,</quote> he remarked to <person perName="Sherlock_Holmes">Sherlock Holmes</person>. <quote spokeBy="Jefferson_Hope">My cab’s at
 the door. If you’ll loose my legs I’ll walk down to it. I’m not so
 light to lift as I used to be.</quote>
 </p>
@@ -4940,18 +4940,18 @@ sunburned face bore an expression of determination and energy which was
 as formidable as his personal strength.
 </p>
 
-<p><quote spokeBy="">If there’s a vacant place for a chief of the police, I reckon you are
+<p><quote spokeBy="Jefferson_Hope">If there’s a vacant place for a chief of the police, I reckon you are
 the man for it,</quote> he said, gazing with undisguised admiration at my
-fellow-lodger. <quote spokeBy="">The way you kept on my trail was a caution.</quote>
+fellow-lodger. <quote spokeBy="Jefferson_Hope">The way you kept on my trail was a caution.</quote>
 </p>
 
-<p><quote spokeBy="">You had better come with me,</quote> said <person perName="Sherlock_Holmes">Holmes</person> to the two detectives.
+<p><quote spokeBy="Sherlock_Holmes">You had better come with me,</quote> said <person perName="Sherlock_Holmes">Holmes</person> to the two detectives.
 </p>
 
-<p><quote spokeBy="">I can drive you,</quote> said <person perName="Lestrade">Lestrade</person>.
+<p><quote spokeBy="Lestrade">I can drive you,</quote> said <person perName="Lestrade">Lestrade</person>.
 </p>
 
-<p><quote spokeBy="">Good! and <person perName="Tobias_Gregson">Gregson</person> can come inside with me. You too, Doctor, you have
+<p><quote spokeBy="Sherlock_Holmes">Good! and <person perName="Tobias_Gregson">Gregson</person> can come inside with me. You too, Doctor, you have
 taken an interest in the case and may as well stick to us.</quote>
 </p>
 
@@ -4962,28 +4962,28 @@ and brought us in a very short time to our destination. We were ushered
 into a small chamber where a police Inspector noted down our prisoner’s
 name and the names of the men with whose murder he had been charged.
 The official was a white-faced unemotional man, who went through his
-duties in a dull mechanical way. <quote spokeBy="">The prisoner will be put before the
-magistrates in the course of the week,</quote> he said; <quote spokeBy="">in the mean time, <person perName="Jefferson_Hope">Mr.
+duties in a dull mechanical way. <quote spokeBy="Unknown">The prisoner will be put before the
+magistrates in the course of the week,</quote> he said; <quote spokeBy="Unknown">in the mean time, <person perName="Jefferson_Hope">Mr.
 Jefferson Hope</person>, have you anything that you wish to say? I must warn you
 that your words will be taken down, and may be used against you.</quote>
 </p>
 
-<p><quote spokeBy="">I’ve got a good deal to say,</quote> our prisoner said slowly. <quote spokeBy="">I want to
+<p><quote spokeBy="Jefferson_Hope">I’ve got a good deal to say,</quote> our prisoner said slowly. <quote spokeBy="Jefferson_Hope">I want to
 tell you gentlemen all about it.</quote>
 </p>
 
-<p><quote spokeBy="">Hadn’t you better reserve that for your trial?</quote> asked the Inspector.
+<p><quote spokeBy="Sherlock_Holmes">Hadn’t you better reserve that for your trial?</quote> asked the Inspector.
 </p>
 
-<p><quote spokeBy="">I may never be tried,</quote> he answered. <quote spokeBy="">You needn’t look startled. It
+<p><quote spokeBy="Jefferson_Hope">I may never be tried,</quote> he answered. <quote spokeBy="Jefferson_Hope">You needn’t look startled. It
 isn’t suicide I am thinking of. Are you a Doctor?</quote> He turned his fierce
 dark eyes upon me as he asked this last question.
 </p>
 
-<p><quote spokeBy="">Yes; I am,</quote> I answered.
+<p><quote spokeBy="John_Watson">Yes; I am,</quote> I answered.
 </p>
 
-<p><quote spokeBy="">Then put your hand here,</quote> he said, with a smile, motioning with his
+<p><quote spokeBy="Jefferson_Hope">Then put your hand here,</quote> he said, with a smile, motioning with his
 manacled wrists towards his chest.
 </p>
 
@@ -4994,10 +4994,10 @@ powerful engine was at work. In the silence of the room I could hear a
 dull humming and buzzing noise which proceeded from the same source.
 </p>
 
-<p><quote spokeBy="">Why,</quote> I cried, <quote spokeBy="">you have an aortic aneurism!</quote>
+<p><quote spokeBy="John_Watson">Why,</quote> I cried, <quote spokeBy="John_Watson">you have an aortic aneurism!</quote>
 </p>
 
-<p><quote spokeBy="">That’s what they call it,</quote> he said, placidly. <quote spokeBy="">I went to a Doctor last
+<p><quote spokeBy="Jefferson_Hope">That’s what they call it,</quote> he said, placidly. <quote spokeBy="Jefferson_Hope">I went to a Doctor last
 week about it, and he told me that it is bound to burst before many
 days passed. It has been getting worse for years. I got it from
 over-exposure and under-feeding among the Salt Lake Mountains. I’ve
@@ -5010,20 +5010,20 @@ remembered as a common cut-throat.</quote>
 advisability of allowing him to tell his story.
 </p>
 
-<p><quote spokeBy="">Do you consider, Doctor, that there is immediate danger?</quote> the former
+<p><quote spokeBy="Jefferson_Hope">Do you consider, Doctor, that there is immediate danger?</quote> the former
 asked.
 </p>
 
-<p><quote spokeBy="">Most certainly there is,</quote> I answered.
+<p><quote spokeBy="John_Watson">Most certainly there is,</quote> I answered.
 </p>
 
-<p><quote spokeBy="">In that case it is clearly our duty, in the interests of justice, to
-take his statement,</quote> said the Inspector. <quote spokeBy="">You are at liberty, sir, to
+<p><quote spokeBy="Sherlock_Holmes">In that case it is clearly our duty, in the interests of justice, to
+take his statement,</quote> said the Inspector. <quote spokeBy="Sherlock_Holmes">You are at liberty, sir, to
 give your account, which I again warn you will be taken down.</quote>
 </p>
 
-<p><quote spokeBy="">I’ll sit down, with your leave,</quote> the prisoner said, suiting the action
-to the word. <quote spokeBy="">This aneurism of mine makes me easily tired, and the
+<p><quote spokeBy="Jefferson_Hope">I’ll sit down, with your leave,</quote> the prisoner said, suiting the action
+to the word. <quote spokeBy="Jefferson_Hope">This aneurism of mine makes me easily tired, and the
 tussle we had half an hour ago has not mended matters. I’m on the brink
 of the grave, and I am not likely to lie to you. Every word I say is
 the absolute truth, and how you use it is a matter of no consequence to
@@ -5038,7 +5038,7 @@ access to <person perName="Lestrade">Lestrade</person>’s note-book, in which t
 taken down exactly as they were uttered.
 </p>
 
-<p><quote spokeBy="">It don’t much matter to you why I hated these men,</quote> he said; <quote spokeBy="">it’s
+<p><quote spokeBy="Jefferson_Hope">It don’t much matter to you why I hated these men,</quote> he said; <quote spokeBy="Jefferson_Hope">it’s
 enough that they were guilty of the death of two human beings—a father
 and a daughter—and that they had, therefore, forfeited their own lives.
 After the lapse of time that has passed since their crime, it was
@@ -5048,7 +5048,7 @@ jury, and executioner all rolled into one. You’d have done the same, if
 you have any manhood in you, if you had been in my place.
 </quote></p>
 
-<p><quote spokeBy="">That girl that I spoke of was to have married me twenty years ago. She
+<p><quote spokeBy="Jefferson_Hope">That girl that I spoke of was to have married me twenty years ago. She
 was forced into marrying that same <person perName="Enoch_J_Drebber">Drebber</person>, and broke her heart over
 it. I took the marriage ring from her dead finger, and I vowed that his
 dying eyes should rest upon that very ring, and that his last thoughts
@@ -5060,7 +5060,7 @@ that my work in this world is done, and well done. They have perished,
 and by my hand. There is nothing left for me to hope for, or to desire.
 </quote></p>
 
-<p><quote spokeBy="">They were rich and I was poor, so that it was no easy matter for me to
+<p><quote spokeBy="Jefferson_Hope">They were rich and I was poor, so that it was no easy matter for me to
 follow them. When I got to London my pocket was about empty, and I
 found that I must turn my hand to something for my living. Driving and
 riding are as natural to me as walking, so I applied at a cabowner’s
@@ -5073,7 +5073,7 @@ a map beside me though, and when once I had spotted the principal
 hotels and stations, I got on pretty well.
 </quote></p>
 
-<p><quote spokeBy="">It was some time before I found out where my two gentlemen were
+<p><quote spokeBy="Jefferson_Hope">It was some time before I found out where my two gentlemen were
 living; but I inquired and inquired until at last I dropped across
 them. They were at a boarding-house at Camberwell, over on the other
 side of the river. When once I found them out I knew that I had them at
@@ -5082,7 +5082,7 @@ recognizing me. I would dog them and follow them until I saw my
 opportunity. I was determined that they should not escape me again.
 </quote></p>
 
-<p><quote spokeBy="">They were very near doing it for all that. Go where they would about
+<p><quote spokeBy="Jefferson_Hope">They were very near doing it for all that. Go where they would about
 London, I was always at their heels. Sometimes I followed them on my
 cab, and sometimes on foot, but the former was the best, for then they
 could not get away from me. It was only early in the morning or late at
@@ -5091,7 +5091,7 @@ with my employer. I did not mind that, however, as long as I could lay
 my hand upon the men I wanted.
 </quote></p>
 
-<p><quote spokeBy="">They were very cunning, though. They must have thought that there was
+<p><quote spokeBy="Jefferson_Hope">They were very cunning, though. They must have thought that there was
 some chance of their being followed, for they would never go out alone,
 and never after nightfall. During two weeks I drove behind them every
 day, and never once saw them separate. <person perName="Enoch_J_Drebber">Drebber</person> himself was drunk half
@@ -5102,7 +5102,7 @@ only fear was that this thing in my chest might burst a little too soon
 and leave my work undone.
 </quote></p>
 
-<p><quote spokeBy="">At last, one evening I was driving up and down Torquay Terrace, as the
+<p><quote spokeBy="Jefferson_Hope">At last, one evening I was driving up and down Torquay Terrace, as the
 street was called in which they boarded, when I saw a cab drive up to
 their door. Presently some luggage was brought out, and after a time
 <person perName="Enoch_J_Drebber">Drebber</person> and <person perName="Joseph_Stangerson">Stangerson</person> followed it, and drove off. I whipped up my
@@ -5127,7 +5127,7 @@ Private Hotel; to which <person perName="Enoch_J_Drebber">Drebber</person> answe
 platform before eleven, and made his way out of the station.
 </quote></p>
 
-<p><quote spokeBy="">The moment for which I had waited so long had at last come. I had my
+<p><quote spokeBy="Jefferson_Hope">The moment for which I had waited so long had at last come. I had my
 enemies within my power. Together they could protect each other, but
 singly they were at my mercy. I did not act, however, with undue
 precipitation. My plans were already formed. There is no satisfaction
@@ -5145,7 +5145,7 @@ get <person perName="Enoch_J_Drebber">Drebber</person> to that house was the dif
 solve.
 </quote></p>
 
-<p><quote spokeBy="">He walked down the road and went into one or two liquor shops, staying
+<p><quote spokeBy="Jefferson_Hope">He walked down the road and went into one or two liquor shops, staying
 for nearly half-an-hour in the last of them. When he came out he
 staggered in his walk, and was evidently pretty well on. There was a
 hansom just in front of me, and he hailed it. I followed it so close
@@ -5161,7 +5161,7 @@ glass of water, if you please. My mouth gets dry with the talking.</quote>
 <p>I handed him the glass, and he drank it down.
 </p>
 
-<p><quote spokeBy="">That’s better,</quote> he said. <quote spokeBy="">Well, I waited for a quarter of an hour, or
+<p><quote spokeBy="Jefferson_Hope">That’s better,</quote> he said. <quote spokeBy="Jefferson_Hope">Well, I waited for a quarter of an hour, or
 more, when suddenly there came a noise like people struggling inside
 the house. Next moment the door was flung open and two men appeared,
 one of whom was <person perName="Enoch_J_Drebber">Drebber</person>, and the other was a young chap whom I had
@@ -5175,7 +5175,7 @@ ran as far as the corner, and then, seeing my cab, he hailed me and
 jumped in. ‘Drive me to Halliday’s Private Hotel,’ said he.
 </quote></p>
 
-<p><quote spokeBy="">When I had him fairly inside my cab, my heart jumped so with joy that
+<p><quote spokeBy="Jefferson_Hope">When I had him fairly inside my cab, my heart jumped so with joy that
 I feared lest at this last moment my aneurism might go wrong. I drove
 along slowly, weighing in my own mind what it was best to do. I might
 take him right out into the country, and there in some deserted lane
@@ -5187,7 +5187,7 @@ and when he came out he was so far gone that I knew the game was in my
 own hands.
 </quote></p>
 
-<p><quote spokeBy="">Don’t imagine that I intended to kill him in cold blood. It would only
+<p><quote spokeBy="Jefferson_Hope">Don’t imagine that I intended to kill him in cold blood. It would only
 have been rigid justice if I had done so, but I could not bring myself
 to do it. I had long determined that he should have a show for his life
 if he chose to take advantage of it. Among the many billets which I
@@ -5208,7 +5208,7 @@ always my pill boxes about with me, and the time had now come when I
 was to use them.
 </quote></p>
 
-<p><quote spokeBy="">It was nearer one than twelve, and a wild, bleak night, blowing hard
+<p><quote spokeBy="Jefferson_Hope">It was nearer one than twelve, and a wild, bleak night, blowing hard
 and raining in torrents. Dismal as it was outside, I was glad within—so
 glad that I could have shouted out from pure exultation. If any of you
 gentlemen have ever pined for a thing, and longed for it during twenty
@@ -5222,16 +5222,16 @@ each side of the horse until I pulled up at the house in the Brixton
 Road.
 </quote></p>
 
-<p><quote spokeBy="">There was not a soul to be seen, nor a sound to be heard, except the
+<p><quote spokeBy="Jefferson_Hope">There was not a soul to be seen, nor a sound to be heard, except the
 dripping of the rain. When I looked in at the window, I found <person perName="Enoch_J_Drebber">Drebber</person>
 all huddled together in a drunken sleep. I shook him by the arm, ‘It’s
 time to get out,’ I said.
 </quote></p>
 
-<p><quote spokeBy="">‘All right, cabby,’ said he.
+  <p><quote spokeBy="Enoch_J_Drebber">‘All right, cabby,’ said he.
 </quote></p>
 
-<p><quote spokeBy="">I suppose he thought we had come to the hotel that he had mentioned,
+<p><quote spokeBy="Jefferson_Hope">I suppose he thought we had come to the hotel that he had mentioned,
 for he got out without another word, and followed me down the garden. I
 had to walk beside him to keep him steady, for he was still a little
 top-heavy. When we came to the door, I opened it, and led him into the
@@ -5239,16 +5239,16 @@ front room. I give you my word that all the way, the father and the
 daughter were walking in front of us.
 </quote></p>
 
-<p><quote spokeBy="">‘It’s infernally dark,’ said he, stamping about.
+  <p><quote spokeBy="Enoch_J_Drebber">‘It’s infernally dark,’ said he, stamping about.
 </quote></p>
 
-<p><quote spokeBy="">‘We’ll soon have a light,’ I said, striking a match and putting it to
+  <p><quote spokeBy="Jefferson_Hope">‘We’ll soon have a light,’ I said, striking a match and putting it to
 a wax candle which I had brought with me. ‘Now, <person perName="Enoch_J_Drebber">Enoch Drebber</person>,’ I
 continued, turning to him, and holding the light to my own face, ‘who
 am I?’
 </quote></p>
 
-<p><quote spokeBy="">He gazed at me with bleared, drunken eyes for a moment, and then I saw
+  <p><quote spokeBy="Jefferson_Hope">He gazed at me with bleared, drunken eyes for a moment, and then I saw
 a horror spring up in them, and convulse his whole features, which
 showed me that he knew me. He staggered back with a livid face, and I
 saw the perspiration break out upon his brow, while his teeth chattered
@@ -5258,7 +5258,7 @@ sweet, but I had never hoped for the contentment of soul which now
 possessed me.
 </quote></p>
 
-<p><quote spokeBy="">‘You dog!’ I said; ‘I have hunted you from Salt Lake City to St.
+  <p><quote spokeBy="Jefferson_Hope">‘You dog!’ I said; ‘I have hunted you from Salt Lake City to St.
 Petersburg, and you have always escaped me. Now, at last your
 wanderings have come to an end, for either you or I shall never see
 to-morrow’s sun rise.’ He shrunk still further away as I spoke, and I
@@ -5268,33 +5268,33 @@ would have had a fit of some sort if the blood had not gushed from my
 nose and relieved me.
 </quote></p>
 
-<p><quote spokeBy="">‘What do you think of <person perName="Lucy_Ferrier">Lucy Ferrier</person> now?’ I cried, locking the door,
+  <p><quote spokeBy="Jefferson_Hope">‘What do you think of <person perName="Lucy_Ferrier">Lucy Ferrier</person> now?’ I cried, locking the door,
 and shaking the key in his face. ‘Punishment has been slow in coming,
 but it has overtaken you at last.’ I saw his coward lips tremble as I
 spoke. He would have begged for his life, but he knew well that it was
 useless.
 </quote></p>
 
-<p><quote spokeBy="">‘Would you murder me?’ he stammered.
+  <p><quote spokeBy="Enoch_J_Drebber">‘Would you murder me?’ he stammered.
 </quote></p>
 
-<p><quote spokeBy="">‘There is no murder,’ I answered. ‘Who talks of murdering a mad dog?
+  <p><quote spokeBy="Jefferson_Hope">‘There is no murder,’ I answered. ‘Who talks of murdering a mad dog?
 What mercy had you upon my poor darling, when you dragged her from her
 slaughtered father, and bore her away to your accursed and shameless
 harem.’
 </quote></p>
 
-<p><quote spokeBy="">‘It was not I who killed her father,’ he cried.
+  <p><quote spokeBy="Enoch_J_Drebber">‘It was not I who killed her father,’ he cried.
 </quote></p>
 
-<p><quote spokeBy="">‘But it was you who broke her innocent heart,’ I shrieked, thrusting
+  <p><quote spokeBy="Jefferson_Hope">‘But it was you who broke her innocent heart,’ I shrieked, thrusting
 the box before him. ‘Let the high God judge between us. Choose and eat.
 There is death in one and life in the other. I shall take what you
 leave. Let us see if there is justice upon the earth, or if we are
 ruled by chance.’
 </quote></p>
 
-<p><quote spokeBy="">He cowered away with wild cries and prayers for mercy, but I drew my
+  <p><quote spokeBy="Jefferson_Hope">He cowered away with wild cries and prayers for mercy, but I drew my
 knife and held it to his throat until he had obeyed me. Then I
 swallowed the other, and we stood facing one another in silence for a
 minute or more, waiting to see which was to live and which was to die.
@@ -5308,7 +5308,7 @@ turned him over with my foot, and placed my hand upon his heart. There
 was no movement. He was dead!
 </quote></p>
 
-<p><quote spokeBy="">The blood had been streaming from my nose, but I had taken no notice
+  <p><quote spokeBy="Jefferson_Hope">The blood had been streaming from my nose, but I had taken no notice
 of it. I don’t know what it was that put it into my head to write upon
 the wall with it. Perhaps it was some mischievous idea of setting the
 police upon a wrong track, for I felt light-hearted and cheerful. I
@@ -5329,7 +5329,7 @@ the arms of a police-officer who was coming out, and only managed to
 disarm his suspicions by pretending to be hopelessly drunk.
 </quote></p>
 
-<p><quote spokeBy="">That was how <person perName="Enoch_J_Drebber">Enoch Drebber</person> came to his end. All I had to do then was
+  <p><quote spokeBy="Jefferson_Hope">That was how <person perName="Enoch_J_Drebber">Enoch Drebber</person> came to his end. All I had to do then was
 to do as much for <person perName="Joseph_Stangerson">Stangerson</person>, and so pay off <person perName="John_Ferrier">John Ferrier</person>’s debt. I
 knew that he was staying at Halliday’s Private Hotel, and I hung about
 all day, but he never came out. I fancy that he suspected something
@@ -5348,7 +5348,7 @@ have been the same in any case, for Providence would never have allowed
 his guilty hand to pick out anything but the poison.
 </quote></p>
 
-<p><quote spokeBy="">I have little more to say, and it’s as well, for I am about done up. I
+  <p><quote spokeBy="Jefferson_Hope">I have little more to say, and it’s as well, for I am about done up. I
 went on cabbing it for a day or so, intending to keep at it until I
 could save enough to take me back to America. I was standing in the
 yard when a ragged youngster asked if there was a cabby there called
@@ -5369,22 +5369,22 @@ some minutes in a stillness which was only broken by the scratching of
 account.
 </p>
 
-<p><quote spokeBy="">There is only one point on which I should like a little more
-information,</quote> <person perName="Sherlock_Holmes">Sherlock Holmes</person> said at last. <quote spokeBy="">Who was your accomplice
+<p><quote spokeBy="Sherlock_Holmes">There is only one point on which I should like a little more
+information,</quote> <person perName="Sherlock_Holmes">Sherlock Holmes</person> said at last. <quote spokeBy="Sherlock_Holmes">Who was your accomplice
 who came for the ring which I advertised?</quote>
 </p>
 
-<p>The prisoner winked at my friend jocosely. <quote spokeBy="">I can tell my own secrets,</quote>
-he said, <quote spokeBy="">but I don’t get other people into trouble. I saw your
+  <p>The prisoner winked at my friend jocosely. <quote spokeBy="Jefferson_Hope">I can tell my own secrets,</quote>
+    he said, <quote spokeBy="Jefferson_Hope">but I don’t get other people into trouble. I saw your
 advertisement, and I thought it might be a plant, or it might be the
 ring which I wanted. My friend volunteered to go and see. I think
 you’ll own he did it smartly.</quote>
 </p>
 
-<p><quote spokeBy="">Not a doubt of that,</quote> said <person perName="Sherlock_Holmes">Holmes</person> heartily.
+<p><quote spokeBy="Sherlock_Holmes">Not a doubt of that,</quote> said <person perName="Sherlock_Holmes">Holmes</person> heartily.
 </p>
 
-<p><quote spokeBy="">Now, gentlemen,</quote> the Inspector remarked gravely, <quote spokeBy="">the forms of the law
+<p><quote spokeBy="Sherlock_Holmes">Now, gentlemen,</quote> the Inspector remarked gravely, <quote spokeBy="Sherlock_Holmes">the forms of the law
 must be complied with. On Thursday the prisoner will be brought before
 the magistrates, and your attendance will be required. Until then I
 will be responsible for him.</quote> He rang the bell as he spoke, and
@@ -5417,36 +5417,36 @@ his dying moments to look back upon a useful life, and on work well
 done.
 </p>
 
-<p><quote spokeBy=""><person perName="Tobias_Gregson">Gregson</person> and <person perName="Lestrade">Lestrade</person> will be wild about his death,</quote> <person perName="Sherlock_Holmes">Holmes</person> remarked,
-as we chatted it over next evening. <quote spokeBy="">Where will their grand
+<p><quote spokeBy="Sherlock_Holmes"><person perName="Tobias_Gregson">Gregson</person> and <person perName="Lestrade">Lestrade</person> will be wild about his death,</quote> <person perName="Sherlock_Holmes">Holmes</person> remarked,
+as we chatted it over next evening. <quote spokeBy="Sherlock_Holmes">Where will their grand
 advertisement be now?</quote>
 </p>
 
-<p><quote spokeBy="">I don’t see that they had very much to do with his capture,</quote> I
+<p><quote spokeBy="John_Watson">I don’t see that they had very much to do with his capture,</quote> I
 answered.
 </p>
 
-<p><quote spokeBy="">What you do in this world is a matter of no consequence,</quote> returned my
-companion, bitterly. <quote spokeBy="">The question is, what can you make people believe
+<p><quote spokeBy="Sherlock_Holmes">What you do in this world is a matter of no consequence,</quote> returned my
+companion, bitterly. <quote spokeBy="Sherlock_Holmes">The question is, what can you make people believe
 that you have done. Never mind,</quote> he continued, more brightly, after a
-pause. <quote spokeBy="">I would not have missed the investigation for anything. There
+pause. <quote spokeBy="Sherlock_Holmes">I would not have missed the investigation for anything. There
 has been no better case within my recollection. Simple as it was, there
 were several most instructive points about it.</quote>
 </p>
 
-<p><quote spokeBy="">Simple!</quote> I ejaculated.
+<p><quote spokeBy="John_Watson">Simple!</quote> I ejaculated.
 </p>
 
-<p><quote spokeBy="">Well, really, it can hardly be described as otherwise,</quote> said <person perName="Sherlock_Holmes">Sherlock
-Holmes</person>, smiling at my surprise. <quote spokeBy="">The proof of its intrinsic simplicity
+<p><quote spokeBy="Sherlock_Holmes">Well, really, it can hardly be described as otherwise,</quote> said <person perName="Sherlock_Holmes">Sherlock
+Holmes</person>, smiling at my surprise. <quote spokeBy="Sherlock_Holmes">The proof of its intrinsic simplicity
 is, that without any help save a few very ordinary deductions I was
 able to lay my hand upon the criminal within three days.</quote>
 </p>
 
-<p><quote spokeBy="">That is true,</quote> said I.
+<p><quote spokeBy="John_Watson">That is true,</quote> said I.
 </p>
 
-<p><quote spokeBy="">I have already explained to you that what is out of the common is
+<p><quote spokeBy="Sherlock_Holmes">I have already explained to you that what is out of the common is
 usually a guide rather than a hindrance. In solving a problem of this
 sort, the grand thing is to be able to reason backwards. That is a very
 useful accomplishment, and a very easy one, but people do not practise
@@ -5455,10 +5455,10 @@ forwards, and so the other comes to be neglected. There are fifty who
 can reason synthetically for one who can reason analytically.</quote>
 </p>
 
-<p><quote spokeBy="">I confess,</quote> said I, <quote spokeBy="">that I do not quite follow you.</quote>
+<p><quote spokeBy="John_Watson">I confess,</quote> said I, <quote spokeBy="John_Watson">that I do not quite follow you.</quote>
 </p>
 
-<p><quote spokeBy="">I hardly expected that you would. Let me see if I can make it clearer.
+<p><quote spokeBy="Sherlock_Holmes">I hardly expected that you would. Let me see if I can make it clearer.
 Most people, if you describe a train of events to them, will tell you
 what the result would be. They can put those events together in their
 minds, and argue from them that something will come to pass. There are
@@ -5468,10 +5468,10 @@ up to that result. This power is what I mean when I talk of reasoning
 backwards, or analytically.</quote>
 </p>
 
-<p><quote spokeBy="">I understand,</quote> said I.
+<p><quote spokeBy="John_Watson">I understand,</quote> said I.
 </p>
 
-<p><quote spokeBy="">Now this was a case in which you were given the result and had to find
+<p><quote spokeBy="Sherlock_Holmes">Now this was a case in which you were given the result and had to find
 everything else for yourself. Now let me endeavour to show you the
 different steps in my reasoning. To begin at the beginning. I
 approached the house, as you know, on foot, and with my mind entirely
@@ -5483,7 +5483,7 @@ carriage by the narrow gauge of the wheels. The ordinary London growler
 is considerably less wide than a gentleman’s brougham.
 </quote></p>
 
-<p><quote spokeBy="">This was the first point gained. I then walked slowly down the garden
+<p><quote spokeBy="Sherlock_Holmes">This was the first point gained. I then walked slowly down the garden
 path, which happened to be composed of a clay soil, peculiarly suitable
 for taking impressions. No doubt it appeared to you to be a mere
 trampled line of slush, but to my trained eyes every mark upon its
@@ -5501,7 +5501,7 @@ length of his stride), and the other fashionably dressed, to judge from
 the small and elegant impression left by his boots.
 </quote></p>
 
-<p><quote spokeBy="">On entering the house this last inference was confirmed. My
+<p><quote spokeBy="Sherlock_Holmes">On entering the house this last inference was confirmed. My
 well-booted man lay before me. The tall one, then, had done the murder,
 if murder there was. There was no wound upon the dead man’s person, but
 the agitated expression upon his face assured me that he had foreseen
@@ -5518,7 +5518,7 @@ criminal annals. The cases of Dolsky in Odessa, and of Leturier in
 Montpellier, will occur at once to any toxicologist.
 </quote></p>
 
-<p><quote spokeBy="">And now came the great question as to the reason why. Robbery had not
+<p><quote spokeBy="Sherlock_Holmes">And now came the great question as to the reason why. Robbery had not
 been the object of the murder, for nothing was taken. Was it politics,
 then, or was it a woman? That was the question which confronted me. I
 was inclined from the first to the latter supposition. Political
@@ -5536,7 +5536,7 @@ Cleveland as to any particular point in <person perName="Enoch_J_Drebber">Mr. Dr
 answered, you remember, in the negative.
 </quote></p>
 
-<p><quote spokeBy="">I then proceeded to make a careful examination of the room, which
+<p><quote spokeBy="Sherlock_Holmes">I then proceeded to make a careful examination of the room, which
 confirmed me in my opinion as to the murderer’s height, and furnished
 me with the additional details as to the Trichinopoly cigar and the
 length of his nails. I had already come to the conclusion, since there
@@ -5549,7 +5549,7 @@ probably a robust and ruddy-faced man. Events proved that I had judged
 correctly.
 </quote></p>
 
-<p><quote spokeBy="">Having left the house, I proceeded to do what <person perName="Tobias_Gregson">Gregson</person> had neglected. I
+<p><quote spokeBy="Sherlock_Holmes">Having left the house, I proceeded to do what <person perName="Tobias_Gregson">Gregson</person> had neglected. I
 telegraphed to the head of the police at Cleveland, limiting my enquiry
 to the circumstances connected with the marriage of <person perName="Enoch_J_Drebber">Enoch Drebber</person>. The
 answer was conclusive. It told me that <person perName="Enoch_J_Drebber">Drebber</person> had already applied for
@@ -5559,7 +5559,7 @@ I held the clue to the mystery in my hand, and all that remained was to
 secure the murderer.
 </quote></p>
 
-<p><quote spokeBy="">I had already determined in my own mind that the man who had walked
+<p><quote spokeBy="Sherlock_Holmes">I had already determined in my own mind that the man who had walked
 into the house with <person perName="Enoch_J_Drebber">Drebber</person>, was none other than the man who had driven
 the cab. The marks in the road showed me that the horse had wandered on
 in a way which would have been impossible had there been anyone in
@@ -5573,7 +5573,7 @@ conclusion that <person perName="Jefferson_Hope">Jefferson Hope</person> was to 
 Metropolis.
 </quote></p>
 
-<p><quote spokeBy="">If he had been one there was no reason to believe that he had ceased
+<p><quote spokeBy="Sherlock_Holmes">If he had been one there was no reason to believe that he had ceased
 to be. On the contrary, from his point of view, any sudden change would
 be likely to draw attention to himself. He would, probably, for a time
 at least, continue to perform his duties. There was no reason to
@@ -5590,20 +5590,20 @@ You see the whole thing is a chain of logical sequences without a break
 or flaw.</quote>
 </p>
 
-<p><quote spokeBy="">It is wonderful!</quote> I cried. <quote spokeBy="">Your merits should be publicly recognized.
+<p><quote spokeBy="John_Watson">It is wonderful!</quote> I cried. <quote spokeBy="John_Watson">Your merits should be publicly recognized.
 You should publish an account of the case. If you won’t, I will for
 you.</quote>
 </p>
 
-<p><quote spokeBy="">You may do what you like, Doctor,</quote> he answered. <quote spokeBy="">See here!</quote> he
-continued, handing a paper over to me, <quote spokeBy="">look at this!</quote>
+<p><quote spokeBy="Sherlock_Holmes">You may do what you like, Doctor,</quote> he answered. <quote spokeBy="Sherlock_Holmes">See here!</quote> he
+continued, handing a paper over to me, <quote spokeBy="Sherlock_Holmes">look at this!</quote>
 </p>
 
 <p>It was the _Echo_ for the day, and the paragraph to which he pointed
 was devoted to the case in question.
 </p>
 
-<p><quote spokeBy="">The public,</quote> it said, <quote spokeBy="">have lost a sensational treat through the
+<p><quote spokeBy="Unknown">The public,</quote> it said, <quote spokeBy="Unknown">have lost a sensational treat through the
 sudden death of the man <person perName="Jefferson_Hope">Hope</person>, who was suspected of the murder of Mr.
 <person perName="Enoch_J_Drebber">Enoch Drebber</person> and of <person perName="Joseph_Stangerson">Mr. Joseph Stangerson</person>. The details of the case
 will probably be never known now, though we are informed upon good
@@ -5625,20 +5625,20 @@ of some sort will be presented to the two officers as a fitting
 recognition of their services.</quote>
 </p>
 
-<p><quote spokeBy="">Didn’t I tell you so when we started?</quote> cried <person perName="Sherlock_Holmes">Sherlock Holmes</person> with a
-laugh. <quote spokeBy="">That’s the result of all our Study in Scarlet: to get them a
+<p><quote spokeBy="Sherlock_Holmes">Didn’t I tell you so when we started?</quote> cried <person perName="Sherlock_Holmes">Sherlock Holmes</person> with a
+laugh. <quote spokeBy="Sherlock_Holmes">That’s the result of all our Study in Scarlet: to get them a
 testimonial!</quote>
 </p>
 
-<p><quote spokeBy="">Never mind,</quote> I answered, <quote spokeBy="">I have all the facts in my journal, and the
+<p><quote spokeBy="John_Watson">Never mind,</quote> I answered, <quote spokeBy="John_Watson">I have all the facts in my journal, and the
 public shall know them. In the meantime you must make yourself
 contented by the consciousness of success, like the Roman miser—
 </quote></p>
 
 
 
-<p><quote spokeBy="">‘Populus me sibilat, at mihi plaudo
-Ipse domi simul ac nummos contemplor in arca.’</quote></p>
+<p>"‘Populus me sibilat, at mihi plaudo
+Ipse domi simul ac nummos contemplor in arca.’"</p>
 </chapter>
 </part>
     <postText>
