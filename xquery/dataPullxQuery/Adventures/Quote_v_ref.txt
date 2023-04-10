@@ -1,0 +1,336 @@
+	 	 1 - A SCANDAL IN BOHEMIA
+ Total Characters = 7 | Total Quotes = 278 | Total Refs = 72 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 145 	 # of Refs = 47 
+
+ 2 - Irene Adler 
+ 	 # of Quotes = 7 	 # of Refs = 14 
+
+ 3 - John Watson 
+ 	 # of Quotes = 54 	 # of Refs = 6 
+
+ 4 - Wilhelm Ormstein 
+ 	 # of Quotes = 59 	 # of Refs = 3 
+
+ 5 - Clotilde Lothman 
+ 	 # of Quotes = 0 	 # of Refs = 1 
+
+ 6 - Mrs Turner 
+ 	 # of Quotes = 0 	 # of Refs = 1 
+
+ 7 - Unknown 
+ 	 # of Quotes = 13 	 # of Refs = 0 
+
+ 
+
+ 	 	 2 - THE RED-HEADED LEAGUE
+ Total Characters = 8 | Total Quotes = 244 | Total Refs = 114 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 102 	 # of Refs = 53 
+
+ 2 - John Watson 
+ 	 # of Quotes = 24 	 # of Refs = 10 
+
+ 3 - Jabez Wilson 
+ 	 # of Quotes = 87 	 # of Refs = 21 
+
+ 4 - Mary Sutherland 
+ 	 # of Quotes = 0 	 # of Refs = 1 
+
+ 5 - Jones 
+ 	 # of Quotes = 9 	 # of Refs = 10 
+
+ 6 - Merryweather 
+ 	 # of Quotes = 11 	 # of Refs = 12 
+
+ 7 - John Clay 
+ 	 # of Quotes = 8 	 # of Refs = 7 
+
+ 8 - Unknown 
+ 	 # of Quotes = 3 	 # of Refs = 0 
+
+ 
+
+ 	 	 3 - A CASE OF IDENTITY
+ Total Characters = 7 | Total Quotes = 164 | Total Refs = 106 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 92 	 # of Refs = 46 
+
+ 2 - Irene Adler 
+ 	 # of Quotes = 0 	 # of Refs = 2 
+
+ 3 - Mary Sutherland 
+ 	 # of Quotes = 39 	 # of Refs = 8 
+
+ 4 - Hosmer Angel 
+ 	 # of Quotes = 0 	 # of Refs = 27 
+
+ 5 - James Windibank 
+ 	 # of Quotes = 11 	 # of Refs = 19 
+
+ 6 - John Watson 
+ 	 # of Quotes = 20 	 # of Refs = 4 
+
+ 7 - Unknown 
+ 	 # of Quotes = 2 	 # of Refs = 0 
+
+ 
+
+ 	 	 4 - THE BOSCOMBE VALLEY MYSTERY
+ Total Characters = 9 | Total Quotes = 244 | Total Refs = 129 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 108 	 # of Refs = 47 
+
+ 2 - John Watson 
+ 	 # of Quotes = 38 	 # of Refs = 4 
+
+ 3 - John Turner 
+ 	 # of Quotes = 21 	 # of Refs = 13 
+
+ 4 - Charles McCarthy 
+ 	 # of Quotes = 0 	 # of Refs = 16 
+
+ 5 - James McCarthy 
+ 	 # of Quotes = 0 	 # of Refs = 15 
+
+ 6 - Alice Turner 
+ 	 # of Quotes = 14 	 # of Refs = 10 
+
+ 7 - Lestrade 
+ 	 # of Quotes = 31 	 # of Refs = 24 
+
+ 8 - Mary Watson 
+ 	 # of Quotes = 3 	 # of Refs = 0 
+
+ 9 - Unknown 
+ 	 # of Quotes = 29 	 # of Refs = 0 
+
+ 
+
+ 	 	 5 - THE FIVE ORANGE PIPS
+ Total Characters = 3 | Total Quotes = 186 | Total Refs = 42 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 83 	 # of Refs = 25 
+
+ 2 - John Openshaw 
+ 	 # of Quotes = 66 	 # of Refs = 13 
+
+ 3 - John Watson 
+ 	 # of Quotes = 37 	 # of Refs = 4 
+
+ 
+
+ 	 	 6 - THE MAN WITH THE TWISTED LIP
+ Total Characters = 9 | Total Quotes = 236 | Total Refs = 91 
+
+ 1 - Isa Whitney 
+ 	 # of Quotes = 6 	 # of Refs = 6 
+
+ 2 - Kate Whitney 
+ 	 # of Quotes = 5 	 # of Refs = 4 
+
+ 3 - John Watson 
+ 	 # of Quotes = 32 	 # of Refs = 18 
+
+ 4 - Sherlock Holmes 
+ 	 # of Quotes = 104 	 # of Refs = 29 
+
+ 5 - Neville St Clair 
+ 	 # of Quotes = 17 	 # of Refs = 20 
+
+ 6 - Mrs St Clair 
+ 	 # of Quotes = 41 	 # of Refs = 8 
+
+ 7 - Bradstreet 
+ 	 # of Quotes = 25 	 # of Refs = 6 
+
+ 8 - Mary Watson 
+ 	 # of Quotes = 5 	 # of Refs = 0 
+
+ 9 - Unknown 
+ 	 # of Quotes = 1 	 # of Refs = 0 
+
+ 
+
+ 	 	 7 - THE ADVENTURE OF THE BLUE CARBUNCLE
+ Total Characters = 12 | Total Quotes = 235 | Total Refs = 101 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 115 	 # of Refs = 38 
+
+ 2 - Irene Adler 
+ 	 # of Quotes = 0 	 # of Refs = 1 
+
+ 3 - Mary Sutherland 
+ 	 # of Quotes = 0 	 # of Refs = 1 
+
+ 4 - Peterson 
+ 	 # of Quotes = 6 	 # of Refs = 14 
+
+ 5 - Henry Baker 
+ 	 # of Quotes = 9 	 # of Refs = 13 
+
+ 6 - John Watson 
+ 	 # of Quotes = 37 	 # of Refs = 9 
+
+ 7 - James Ryder 
+ 	 # of Quotes = 40 	 # of Refs = 10 
+
+ 8 - Catherine Cusack 
+ 	 # of Quotes = 0 	 # of Refs = 3 
+
+ 9 - Mrs Hudson 
+ 	 # of Quotes = 0 	 # of Refs = 1 
+
+ 10 - Breckinridge 
+ 	 # of Quotes = 24 	 # of Refs = 5 
+
+ 11 - Mrs Oakshott 
+ 	 # of Quotes = 0 	 # of Refs = 6 
+
+ 12 - Unknown 
+ 	 # of Quotes = 4 	 # of Refs = 0 
+
+ 
+
+ 	 	 8 - THE ADVENTURE OF THE SPECKLED BAND
+ Total Characters = 6 | Total Quotes = 247 | Total Refs = 107 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 139 	 # of Refs = 56 
+
+ 2 - Grimesby Roylott 
+ 	 # of Quotes = 10 	 # of Refs = 19 
+
+ 3 - John Watson 
+ 	 # of Quotes = 24 	 # of Refs = 12 
+
+ 4 - Mrs Hudson 
+ 	 # of Quotes = 0 	 # of Refs = 2 
+
+ 5 - Helen Stoner 
+ 	 # of Quotes = 71 	 # of Refs = 18 
+
+ 6 - Unknown 
+ 	 # of Quotes = 3 	 # of Refs = 0 
+
+ 
+
+ 	 	 9 - THE ADVENTURE OF THE ENGINEER’S THUMB
+ Total Characters = 5 | Total Quotes = 191 | Total Refs = 27 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 20 	 # of Refs = 14 
+
+ 2 - Victor Hatherley 
+ 	 # of Quotes = 119 	 # of Refs = 8 
+
+ 3 - Bradstreet 
+ 	 # of Quotes = 17 	 # of Refs = 5 
+
+ 4 - Unknown 
+ 	 # of Quotes = 10 	 # of Refs = 0 
+
+ 5 - John Watson 
+ 	 # of Quotes = 25 	 # of Refs = 0 
+
+ 
+
+ 	 	 10 - THE ADVENTURE OF THE NOBLE BACHELOR
+ Total Characters = 9 | Total Quotes = 255 | Total Refs = 119 
+
+ 1 - Robert St Simon 
+ 	 # of Quotes = 59 	 # of Refs = 34 
+
+ 2 - Sherlock Holmes 
+ 	 # of Quotes = 126 	 # of Refs = 34 
+
+ 3 - John Watson 
+ 	 # of Quotes = 31 	 # of Refs = 7 
+
+ 4 - Lestrade 
+ 	 # of Quotes = 24 	 # of Refs = 14 
+
+ 5 - Flora Millar 
+ 	 # of Quotes = 0 	 # of Refs = 8 
+
+ 6 - Lady St Simon 
+ 	 # of Quotes = 0 	 # of Refs = 5 
+
+ 7 - Francis Moulton 
+ 	 # of Quotes = 4 	 # of Refs = 16 
+
+ 8 - Mrs Moulton 
+ 	 # of Quotes = 10 	 # of Refs = 1 
+
+ 9 - Unknown 
+ 	 # of Quotes = 1 	 # of Refs = 0 
+
+ 
+
+ 	 	 11 - THE ADVENTURE OF THE BERYL CORONET
+ Total Characters = 6 | Total Quotes = 234 | Total Refs = 82 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 87 	 # of Refs = 28 
+
+ 2 - Alexander Holder 
+ 	 # of Quotes = 120 	 # of Refs = 14 
+
+ 3 - Arthur Holder 
+ 	 # of Quotes = 0 	 # of Refs = 20 
+
+ 4 - George Burnwell 
+ 	 # of Quotes = 0 	 # of Refs = 9 
+
+ 5 - Mary Holder 
+ 	 # of Quotes = 18 	 # of Refs = 9 
+
+ 6 - John Watson 
+ 	 # of Quotes = 9 	 # of Refs = 2 
+
+ 
+
+ 	 	 12 - THE ADVENTURE OF THE COPPER BEECHES
+ Total Characters = 11 | Total Quotes = 225 | Total Refs = 128 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 74 	 # of Refs = 43 
+
+ 2 - John Watson 
+ 	 # of Quotes = 21 	 # of Refs = 7 
+
+ 3 - Mary Sutherland 
+ 	 # of Quotes = 0 	 # of Refs = 1 
+
+ 4 - Violet Hunter 
+ 	 # of Quotes = 117 	 # of Refs = 22 
+
+ 5 - Miss Stoper 
+ 	 # of Quotes = 0 	 # of Refs = 6 
+
+ 6 - Jephro Rucastle 
+ 	 # of Quotes = 0 	 # of Refs = 20 
+
+ 7 - Mrs Rucastle 
+ 	 # of Quotes = 0 	 # of Refs = 13 
+
+ 8 - Mrs Toller 
+ 	 # of Quotes = 9 	 # of Refs = 5 
+
+ 9 - Alice Rucastle 
+ 	 # of Quotes = 0 	 # of Refs = 6 
+
+ 10 - Mr Fowler 
+ 	 # of Quotes = 0 	 # of Refs = 5 
+
+ 11 - Unknown 
+ 	 # of Quotes = 4 	 # of Refs = 0 
+
+ 
+

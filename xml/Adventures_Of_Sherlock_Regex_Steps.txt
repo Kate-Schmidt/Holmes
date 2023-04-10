@@ -45,35 +45,35 @@ These are instructions to help markup Sherlock Holmes short story collections us
 - John_Openshaw
 - Count_Von_Kramm (Change to Wilhelm_Ormstein New <person>) not done
 - Unknown
-- Jones (Mr. Jones New <person>) DONE *
-- Merryweather (Mr. Merryweather new <person>) DONE *
-- John_Clay (New <person>) not done
-- Hosmer_Angel (New <person>) not done
-- James_Windibank (New <person>) not done
+- Jones (Mr. Jones New <person>) DONE ✅ 
+- Merryweather (Mr. Merryweather new <person>) DONE ✅ 
+- John_Clay (New <person>) DONE ✅ 
+- Hosmer_Angel (New <person>) DONE ✅ 
+- James_Windibank (New <person>) DONE ✅ 
 - Mary_Watson (New <person>) not done
-- Miss_Turner (Alice Turner New <person>) not done
-- Kate_Whitney (New <person>) not done
-- Isa Whitney (New <person>) not done
-- Bradstreet (New <person>) DONE *
-- Peterson (commissionaire New <person>) not done
-- Henry_Baker (New <person>) not done
-- Mrs. Hudson (New <person>) not done
-- Breckinridge (New <person>) not done
-- Mrs. Oakshott (New <person>) not done
-- John_Robinson (New <person>) not done
-- Catherine Cusack (New <person>) not done
-- Grimesby_Roylott [Dr.] (new <person>) not done
-- Flora_Millar (New <person>) DONE *
-- Robert_St_Simon (New <person>) DONE *
-- Lady_St_Simon (New <person>) DONE *
-- Mrs. Moulton (New <person>) DONE *
-- Francis_Moulton (New <person>) DONE *
-- Alexander_Holder (New <person>) DONE *
-- Mary_Holder (New <person>) DONE *
-- Arthur_Holder (New <person>) DONE *
-- George_Burnwell (New <person>) DONE *
-- Jephro_Rucastle (New <person>) DONE *
-- Mrs_Toller (New <person>) DONE *
+- Miss_Turner (Alice Turner New <person>) DONE ✅ 
+- Kate_Whitney (New <person>) DONE ✅ 
+- Isa Whitney (New <person>) DONE ✅ 
+- Bradstreet (New <person>) DONE ✅ 
+- Peterson (commissionaire New <person>) DONE ✅ 
+- Henry_Baker (New <person>) DONE ✅ 
+- Mrs. Hudson (New <person>) DONE ✅ 
+- Breckinridge (New <person>) DONE ✅ 
+- Mrs. Oakshott (New <person>) DONE ✅ 
+- John_Robinson (New <person>) DONE ✅ 
+- Catherine Cusack (New <person>) DONE ✅ 
+- Grimesby_Roylott [Dr.] (new <person>) DONE ✅ 
+- Flora_Millar (New <person>) DONE ✅ 
+- Robert_St_Simon (New <person>) DONE ✅ 
+- Lady_St_Simon (New <person>) DONE ✅ 
+- Mrs. Moulton (New <person>) DONE ✅ 
+- Francis_Moulton (New <person>) DONE ✅ 
+- Alexander_Holder (New <person>) DONE ✅ 
+- Mary_Holder (New <person>) DONE ✅ 
+- Arthur_Holder (New <person>) DONE ✅ 
+- George_Burnwell (New <person>) DONE ✅ 
+- Jephro_Rucastle (New <person>) DONE ✅ 
+- Mrs_Toller (New <person>) DONE ✅ 
 
 **********************************************************************
 
