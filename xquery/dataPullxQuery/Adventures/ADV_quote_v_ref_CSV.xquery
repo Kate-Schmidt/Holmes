@@ -27,7 +27,7 @@ for $story at $index in $stories
     let $charCount := count(distinct-values($finalList))
 
     (: Return & format data :)
-    return ($tab,$tab,$index, '- ', $storyName, $linefeed, 'Total Characters =', $charCount, '| Total Quotes =',$numQuotes,'| Total Refs =', $numRefs, $doubleLine,
+    return ($index,',', $storyName, $linefeed, 'Total Characters,', $charCount, ',Total Quotes,',$numQuotes,',Total Refs,', $numRefs, $linefeed,
         
         (: Step through each person in list :)
         for $person at $pos in distinct-values($finalList)
@@ -42,5 +42,4 @@ for $story at $index in $stories
         order by ($quoteCount + $refCount) descending
     
         (: Return & format data :)
-        return ($pos,'-', replace($person,'_',' '), $linefeed, $tab, '# of Quotes =', $quoteCount, $tab,'# of Refs =', $refCount,
-        $tab, '% of quotes =', concat(round(($quoteCount div $numQuotes),2) * 100,'%'),$tab, 'Total String Length =', $quoteLength,$doubleLine), $doubleLine)
+        return ($pos,',',replace($person,'_',' '),$linefeed,'# of Quotes,',$quoteCount,',# of Refs,',$refCount,',% of quotes,', concat(round(($quoteCount div $numQuotes),2) * 100,'%'),',Total String Length,', $quoteLength,$linefeed), $linefeed)
