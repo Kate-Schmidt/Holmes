@@ -1,22 +1,11 @@
-1 Orentes 
- 2 Stamford 
- 3 John_Watson 
- 4 Sherlock_Holmes 
- 5 Unknown 
- 6 Tobias_Gregson 
- 7 Lestrade 
- 8 John_Rance 
- 9 Mrs_Sawyer 
- 10 Alice 
- 11 Madame_Charpentier 
- 12 Enoch_J_Drebber 
- 13 Arthur 
- 14 Wiggins 
- 15 John_Ferrier 
- 16 Jefferson_Hope 
- 17 Lucy_Ferrier 
- 18 Brigham_Young 
- 19 Joseph_Stangerson 
- 20 Cowper 
- 21 Joseph_Smith 
- 22 Ferrier 
+The Adventures of Sherlock Holmes
+ Total length =  562514 
+ # of Characters =  51 
+ # of Quotes =  2739 
+ # of References =  1118 
+ 
+A STUDY IN SCARLET
+ Total length =  237927 
+ # of Characters =  21 
+ # of Quotes =  878 
+ # of References =  415
