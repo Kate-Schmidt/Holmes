@@ -6,6 +6,8 @@ declare variable $doubleLine := concat($linefeed,$linefeed);
 (: Get a collection of stories :)
 let $stories := //story
 
+
+return('From,To,Quantity',$linefeed,
 (: Step through the list of stories :)
 for $story at $index in $stories
 
@@ -27,7 +29,7 @@ for $story at $index in $stories
     let $charCount := count(distinct-values($finalList))
 
     (: Return & format data :)
-    return ($index,',', $storyName, $linefeed, 'Total Characters,', $charCount, ',Total Quotes,',$numQuotes,',Total Refs,', $numRefs, $linefeed,
+    (:return ('From',$storyName, $linefeed, 'Total Characters,', $charCount, ',Total Quotes,',$numQuotes,',Total Refs,', $numRefs, $linefeed,:)
         
         (: Step through each person in list :)
         for $person at $pos in distinct-values($finalList)
@@ -42,4 +44,4 @@ for $story at $index in $stories
         order by ($quoteCount + $refCount) descending
     
         (: Return & format data :)
-        return ($pos,',',replace($person,'_',' '),$linefeed,'# of Quotes,',$quoteCount,',# of Refs,',$refCount,',% of quotes,', concat(round(($quoteCount div $numQuotes),2) * 100,'%'),',Total String Length,', $quoteLength,$linefeed), $linefeed)
+        return ($storyName,',',replace($person,'_',' '),',',$quoteCount,$linefeed))
