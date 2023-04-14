@@ -13,13 +13,13 @@ declare variable $ad:= doc('../xml/The_Adventures_of_Sherlock_Holmes.xml');
     <g transform="translate(0,0)">
     
     <g transform="translate(150,150)">
-    <circle stroke="blue" stroke-with="5" fill="white"
+    <circle stroke="blue" stroke-width="5" fill="white"
     cx="150" cy="150" r="{
           let $length:= $ad/string-length()
           return math:sqrt($length) div 3.3
         }"/>
         <!--whc: put your other circles for Adventures here, inside this <g> element, like so:-->
-        <circle stroke="green" stroke-with="5" fill="white"
+        <circle stroke="green" stroke-width="5" fill="white"
         cx="150" cy="100" r="{
           let $quote_length:= $ad//Q{}quote=>string-join()=>string-length()
           return math:sqrt($quote_length) div 3.3
