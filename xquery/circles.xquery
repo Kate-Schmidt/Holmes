@@ -17,12 +17,17 @@ declare variable $ad:= doc('../xml/The_Adventures_of_Sherlock_Holmes.xml');
           let $length:= $ad/string-length()
           return math:sqrt($length) div 3.3
         }"/>
-        <!--whc: put your other circles for Adventures here, inside this <g> element.-->
+        <!--whc: put your other circles for Adventures here, inside this <g> element, like so:-->
         <circle stroke="green" stroke-with="5" fill="white"
         cx="150" cy="100" r="{
           let $quote_length:= $ad//Q{}quote=>string-join()=>string-length()
           return math:sqrt($quote_length) div 3.3
         }"/>
+        <!--whc: the circle above assumes that you want to show the proportion of the story that is quotes, 
+        which turns out to be a lot. The original plan instead was just to count the number of the quotes, so 
+        if you want to do that, change it so it's counting quotes instead of doing string-join and string-length.
+        Once you've got that, you can use similar code to count the number of characters and the number of refs.-->
+        
         </g>
     </g>
 </svg>
