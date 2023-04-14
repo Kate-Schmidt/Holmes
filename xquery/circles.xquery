@@ -3,6 +3,7 @@ declare namespace math = "http://www.w3.org/2005/xpath-functions/math";
 declare option saxon:output "method=html";
 declare option saxon:output "doctype-public=-//W3C//DTD XHTML 1.0 Strict//EN";
 declare variable $ad:= doc('../xml/The_Adventures_of_Sherlock_Holmes.xml');
+(:whc: you'll want to declare a similar global variable here for Scarlet:)
 <html>
 <head></head>
 <body>
