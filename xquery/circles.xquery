@@ -13,7 +13,7 @@ declare namespace math = "http://www.w3.org/2005/xpath-functions/math";
         {
           let $ad:= doc('../xml/The_Adventures_of_Sherlock_Holmes.xml')/string()
           let $lenght:= $ad!string-length()
-          return math:sqrt($lenght) div 5
+          return math:sqrt($lenght) div 1000
         }"/>
         </g>
     </g>
