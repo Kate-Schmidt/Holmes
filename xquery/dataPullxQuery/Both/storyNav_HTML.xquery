@@ -26,7 +26,7 @@ return (
     
         return(
         
-        <div><input type="checkbox" id="{$per}" value="{$per}"/>
+        <div><input type="checkbox" id="{$per}" value="{$per}" onclick="highlight(this)"/>
         <label for="{$per}">{replace($per,"_"," ")}</label></div>)}
     </div>
 </details>)
