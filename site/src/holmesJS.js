@@ -28,16 +28,16 @@ const changeTab = (button, editorNum) => {
         codeTab[i].className = "codeTab";
     }
 
-    //Set clicked tab's class to "active"
+    // Set clicked tab's class to "active"
     button.className += " active";
 
-    //Check if editor is populated already. If yes, delete it & set object to null
+    // Check if editor is populated already. If yes, delete it & set object to null
     if(editor != null){
         deleteEditor();
         console.log("Destroyed editor");
     }
 
-    //Create editor for tab with proper code file
+    // Create editor for tab with proper code file
     createEditor(editorNum);
 }
 
@@ -62,4 +62,25 @@ const changeProject = (section, file) => {
             projects[i].open = false;
         }
     }
+}
+
+// Get button element
+var button = document.querySelector(".top");
+
+// Scroll window to top of the page
+const scrollToTop = () => {
+    window.scrollTo({top: 0,behavior: 'smooth'});
+}
+
+// On scroll do something
+window.onscroll = function () {handleScroll()};
+
+const handleScroll = () => {
+  if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+    // Show button
+    button.classList.add("showBtn");
+  } else {
+    // Hide button
+    button.classList.remove("showBtn");
+  }
 }

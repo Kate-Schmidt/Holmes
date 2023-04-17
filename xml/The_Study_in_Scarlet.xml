@@ -66,7 +66,7 @@ By <author>A. Conan Doyle</author>
 
 
 
-<chapter num="I">
+<chapter id="1" num="I">
 <chapterTitle>MR. SHERLOCK HOLMES</chapterTitle>
 
 
@@ -467,7 +467,7 @@ interested in my new acquaintance.
 
 </chapter>
 
-<chapter num="II">
+<chapter id="2" num="II">
 <chapterTitle>THE SCIENCE OF DEDUCTION</chapterTitle>
 
 
@@ -907,7 +907,7 @@ gone.
 
 </chapter>
 
-<chapter num="III">
+<chapter id="3" num="III">
 <chapterTitle>THE LAURISTON GARDENS MYSTERY</chapterTitle>
 
 
@@ -1474,7 +1474,7 @@ open-mouthed behind him.
 
 </chapter>
 
-<chapter num="IV">
+<chapter id="4" num="IV">
 <chapterTitle>WHAT JOHN RANCE HAD TO TELL</chapterTitle>
 
 
@@ -1821,7 +1821,7 @@ lark while I meditated upon the many-sidedness of the human mind.
 
 </chapter>
 
-<chapter num="V">
+<chapter id="5" num="V">
 <chapterTitle>OUR ADVERTISEMENT BRINGS A VISITOR</chapterTitle>
 
 
@@ -2162,7 +2162,7 @@ which he had set himself to unravel.
 
 </chapter>
 
-<chapter num="VI">
+<chapter id="6" num="VI">
 <chapterTitle>TOBIAS GREGSON SHOWS WHAT HE CAN DO</chapterTitle>
 
 
@@ -2645,7 +2645,7 @@ murdered at Halliday’s Private Hotel about six o’clock this morning.</quote>
 
 </chapter>
 
-<chapter num="VII">
+<chapter id="7" num="VII">
 <chapterTitle>LIGHT IN THE DARKNESS</chapterTitle>
 
 
@@ -3068,7 +3068,7 @@ danger that I will refuse to answer them.</quote>
 <partTitle>The Country of the Saints.
 </partTitle>
 
-<chapter num="I">
+<chapter id="8" num="I">
 <chapterTitle>ON THE GREAT ALKALI PLAIN</chapterTitle>
 
 
@@ -3542,7 +3542,7 @@ spoken with the voice of <person perName="Joseph_Stangerson">Joseph</person> Smi
 
 </chapter>
 
-<chapter num="II">
+<chapter id="9" num="II">
 <chapterTitle>THE FLOWER OF UTAH</chapterTitle>
 
 
@@ -3839,7 +3839,7 @@ happiest girl in all Utah.
 
 </chapter>
 
-<chapter num="III">
+<chapter id="10" num="III">
 <chapterTitle>JOHN FERRIER TALKS WITH THE PROPHET</chapterTitle>
 
 
@@ -4091,7 +4091,7 @@ loaded the rusty old shotgun which hung upon the wall of his bedroom.
 
 </chapter>
 
-<chapter num="IV">
+<chapter id="11" num="IV">
 <chapterTitle>A FLIGHT FOR LIFE</chapterTitle>
 
 
@@ -4525,7 +4525,7 @@ people, and that freedom lay before them.
 
 </chapter>
 
-<chapter num="V">
+<chapter id="12" num="V">
 <chapterTitle>THE AVENGING ANGELS</chapterTitle>
 
 
@@ -4903,7 +4903,7 @@ Journal, to which we are already under such obligations.
 
 </chapter>
 
-<chapter num="VI">
+<chapter id="13" num="VI">
 <chapterTitle>A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.</chapterTitle>
 
 
@@ -5387,7 +5387,7 @@ I made our way out of the Station and took a cab back to Baker Street.
 
 </chapter>
 
-<chapter num="VII">
+<chapter id="14" num="VII">
 <chapterTitle>THE CONCLUSION</chapterTitle>
 
 

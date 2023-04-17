@@ -41,7 +41,6 @@ let $stories := //story
 return($linefeed,'"connections": [',$linefeed,
 (: Step through the list of stories :)
 
-
     let $numQuotes := //quote => count()
     let $numRefs := //person => count()
     

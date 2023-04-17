@@ -19,7 +19,8 @@ part = element part {num, partTitle, chapter+}
 
 partTitle = element partTitle{text}
 
-chapter = element chapter{num,chapterTitle, p+}
+chapter = element chapter{id,num,chapterTitle, p+}
+    id = attribute id{text}
     num = attribute num{text}
     chapterTitle = element chapterTitle{text}
         
