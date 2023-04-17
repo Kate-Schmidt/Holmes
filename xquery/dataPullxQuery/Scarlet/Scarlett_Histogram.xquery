@@ -1,6 +1,6 @@
 declare variable $xspacer := 1;
 declare variable $yspacer := 25;
-declare variable $stories := //Q{}story;
+declare variable $chapters := //Q{}chapter;
 <html>
 <head></head>
    <body>
@@ -20,56 +20,61 @@ declare variable $stories := //Q{}story;
                 </g>
                 <g>
                     {
-                        for $story at $pos in $stories
-                        let $quotes := $stories//Q{}quote
-                        let $storyName :=$story/Q{}storyTitle/string()
+                        for $chapter at $pos in $chapters
+                        let $quotes := $chapters//Q{}quote
+                        let $chapterTitle := $chapter/Q{}chapterTitle/string()
                         let $barSize := 800
                             
-                            let $count := $story//Q{}p/Q{}quote => count()
+                            let $count := $chapter//Q{}p/Q{}quote => count()
                             
-                            let $SherlockCount := $story//Q{}p/Q{}quote[data(@spokeBy) =  'Sherlock_Holmes'] => count()                                        
+                            let $SherlockCount := $chapter//Q{}p/Q{}quote[data(@spokeBy) =  'Sherlock_Holmes'] => count()                                        
                             let $SherlockPercent := $SherlockCount div $count
                             let $SherlockBar := $SherlockPercent * $barSize
                             
-                            let $WatsonCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'John_Watson')]  => count()
+                            let $WatsonCount := $chapter//Q{}p/Q{}quote[data(@spokeBy = 'John_Watson')]  => count()
                             let $WatsonPercent := $WatsonCount div $count
                             let $WatsonBar := $WatsonPercent *$barSize
                             let $WatsonBarStart := $SherlockBar
                             
-                            let $LestradeCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Lestrade')] => count()
+                            let $LestradeCount := $chapter//Q{}p/Q{}quote[data(@spokeBy = 'Lestrade')] => count()
                             let $LestradePercent := $LestradeCount div $count
                             let $LestradeBar := $LestradePercent *$barSize
                             let $LestradeBarStart := $WatsonBarStart + $WatsonBar
                             
-                            let $MarySutherlandCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Mary_Sutherland')] => count()
-                            let $MarySutherlandPercent := $MarySutherlandCount div $count
-                            let $MarySutherlandBar := $MarySutherlandPercent *$barSize
-                            let $MarySutherlandBarStart := $LestradeBarStart + $LestradeBar
+                            let $TobiasGregsonCount := $chapter//Q{}p/Q{}quote[data(@spokeBy = 'Tobias_Gregson')] => count()
+                            let $TobiasGregsonPercent := $TobiasGregsonCount div $count
+                            let $TobiasGregsonBar := $TobiasGregsonPercent *$barSize
+                            let $TobiasGregsonBarStart := $LestradeBarStart + $LestradeBar
                             
-                            let $IreneAdlerCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Irene_Adler')] => count()
-                            let $IreneAdlerPercent := $IreneAdlerCount div $count
-                            let $IreneAdlerBar := $IreneAdlerPercent *$barSize
-                            let $IreneAdlerBarStart := $MarySutherlandBarStart + $MarySutherlandBar
+                            let $JohnFerrierCount := $chapter//Q{}p/Q{}quote[data(@spokeBy = 'John_Ferrier')] => count()
+                            let $JohnFerrierPercent := $JohnFerrierCount div $count
+                            let $JohnFerrierBar := $JohnFerrierPercent *$barSize
+                            let $JohnFerrierBarStart := $TobiasGregsonBarStart + $TobiasGregsonBar
                             
-                            let $MaryWatsonCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Mary_Watson')] => count()
-                            let $MaryWatsonPercent := $MaryWatsonCount div $count
-                            let $MaryWatsonBar := $MaryWatsonPercent *$barSize
-                            let $MaryWatsonBarStart := $IreneAdlerBarStart + $IreneAdlerBar
+                            let $LucyFerrierCount := $chapter//Q{}p/Q{}quote[data(@spokeBy = 'Lucy_Ferrier')] => count()
+                            let $LucyFerrierPercent := $LucyFerrierCount div $count
+                            let $LucyFerrierBar := $LucyFerrierPercent *$barSize
+                            let $LucyFerrierBarStart := $JohnFerrierBarStart + $JohnFerrierBar
                             
-                            let $BradstreetCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Bradstreet')] => count()
-                            let $BradstreetPercent := $BradstreetCount div $count
-                            let $BradstreetBar := $BradstreetPercent *$barSize
-                            let $BradstreetBarStart := $MaryWatsonBarStart + $MaryWatsonBar
+                            let $JeffersonHopeCount := $chapter//Q{}p/Q{}quote[data(@spokeBy = 'Jefferson_Hope')] => count()
+                            let $JeffersonHopePercent := $JeffersonHopeCount div $count
+                            let $JeffersonHopeBar := $JeffersonHopePercent *$barSize
+                            let $JeffersonHopeBarStart := $LucyFerrierBarStart + $LucyFerrierBar
                             
-                            let $AliceTurnerCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Alice_Turner')] => count()
-                            let $AliceTurnerPercent := $AliceTurnerCount div $count
-                            let $AliceTurnerBar := $AliceTurnerPercent *$barSize
-                            let $AliceTurnerBarStart := $BradstreetBarStart + $BradstreetBar
+                            let $EnochJDrebberCount := $chapter//Q{}p/Q{}quote[data(@spokeBy = 'Enoch_J_Drebber')] => count()
+                            let $EnochJDrebberPercent := $EnochJDrebberCount div $count
+                            let $EnochJDrebberBar := $EnochJDrebberPercent *$barSize
+                            let $EnochJDrebberBarStart := $JeffersonHopeBarStart + $JeffersonHopeBar
                             
-                            let $otherCount := $story//Q{}p/Q{}quote[not(contains(@spokeBy, 'Sherlock_Holmes')) and not(contains(@spokeBy, 'John_Watson')) and not(contains(@spokeBy, 'Mary_Sutherland')) and not(contains(@spokeBy, 'Irene_Adler')) and not(contains(@spokeBy, 'Mary_Watson')) and not(contains(@spokeBy, 'Lestrade')) and not(contains(@spokeBy, 'Bradstreet')) and not(contains(@spokeBy, 'Alice_Turner')) ] => count()
+                            let $JosephStrangersonCount := $chapter//Q{}p/Q{}quote[data(@spokeBy = 'Joseph_Strangerson')] => count()
+                            let $JosephStrangersonPercent := $JosephStrangersonCount div $count
+                            let $JosephStrangersonBar := $JosephStrangersonPercent *$barSize
+                            let $JosephStrangersonBarStart := $EnochJDrebberBarStart + $EnochJDrebberBar
+                            
+                            let $otherCount := $chapter//Q{}p/Q{}quote[not(contains(@spokeBy, 'Sherlock_Holmes')) and not(contains(@spokeBy, 'John_Watson')) and not(contains(@spokeBy, 'Mary_Sutherland')) and not(contains(@spokeBy, 'Irene_Adler')) and not(contains(@spokeBy, 'Mary_Watson')) and not(contains(@spokeBy, 'Lestrade')) and not(contains(@spokeBy, 'Bradstreet')) and not(contains(@spokeBy, 'Alice_Turner')) ] => count()
                             let $otherPercent := $otherCount div $count
                             let $otherBar := $otherPercent *$barSize
-                            let $otherBarStart := $AliceTurnerBarStart + $AliceTurnerBar
+                            let $otherBarStart := $JosephStrangersonBarStart + $JosephStrangersonBar
                             return
                             <g>
                                 <text
@@ -78,7 +83,7 @@ declare variable $stories := //Q{}story;
                                     y="{$pos * $yspacer + 5}"
                                     font-family="sans-serif"
                                     font-size="12px"
-                                    fill="black">{$storyName}</text>
+                                    fill="black">{$chapterTitle}</text>
                                     <g transform="translate(100,0)">
                                         <line 
                                             x1="0"
@@ -102,41 +107,48 @@ declare variable $stories := //Q{}story;
                                             stroke="gray"
                                             stroke-width="15"/>
                                                                         <line 
-                                            x1="{$MarySutherlandBarStart * $xspacer}"
+                                            x1="{$TobiasGregsonBarStart * $xspacer}"
                                             y1="{$pos * $yspacer}"
-                                            x2="{$MarySutherlandBar * $xspacer +$MarySutherlandBarStart* $xspacer}"
+                                            x2="{$TobiasGregsonBar * $xspacer +$TobiasGregsonBarStart* $xspacer}"
                                             y2="{$pos * $yspacer}"
                                             stroke="green"
                                             stroke-width="15"/>
                                                                         <line 
-                                            x1="{$IreneAdlerBarStart * $xspacer}"
+                                            x1="{$LucyFerrierBarStart * $xspacer}"
                                             y1="{$pos * $yspacer}"
-                                            x2="{$IreneAdlerBar * $xspacer + $IreneAdlerBarStart* $xspacer}"
+                                            x2="{$LucyFerrierBar * $xspacer + $LucyFerrierBarStart* $xspacer}"
                                             y2="{$pos * $yspacer}"
                                             stroke="orange"
                                             stroke-width="15"/>
                                                                         <line 
-                                            x1="{$MaryWatsonBarStart * $xspacer}"
+                                            x1="{$JohnFerrierBarStart * $xspacer}"
                                             y1="{$pos * $yspacer}"
-                                            x2="{$MaryWatsonBar * $xspacer +$MaryWatsonBarStart * $xspacer}"
+                                            x2="{$JohnFerrierBar * $xspacer +$JohnFerrierBarStart * $xspacer}"
                                             y2="{$pos * $yspacer}"
                                             stroke="red"
                                             stroke-width="15"/>                          
                                             <line 
-                                            x1="{$BradstreetBarStart * $xspacer}"
+                                            x1="{$JeffersonHopeBarStart * $xspacer}"
                                             y1="{$pos * $yspacer}"
-                                            x2="{$BradstreetBar * $xspacer + $BradstreetBarStart * $xspacer}"
+                                            x2="{$JeffersonHopeBar * $xspacer + $JeffersonHopeBarStart * $xspacer}"
                                             y2="{$pos * $yspacer}"
                                             stroke="yellow"
                                             stroke-width="15"/>
                                                                         <line 
-                                            x1="{$AliceTurnerBarStart * $xspacer}"
+                                            x1="{$EnochJDrebberBarStart * $xspacer}"
                                             y1="{$pos * $yspacer}"
-                                            x2="{$AliceTurnerBar * $xspacer + $AliceTurnerBarStart * $xspacer}"
+                                            x2="{$EnochJDrebberBar * $xspacer + $EnochJDrebberBarStart * $xspacer}"
                                             y2="{$pos * $yspacer}"
                                             stroke="pink"
                                             stroke-width="15"/>
-                                                                                                            <line 
+                                                                 <line 
+                                            x1="{$JosephStrangersonBarStart * $xspacer}"
+                                            y1="{$pos * $yspacer}"
+                                            x2="{$JosephStrangersonBar * $xspacer + $JosephStrangersonBarStart * $xspacer}"
+                                            y2="{$pos * $yspacer}"
+                                            stroke="purple"
+                                            stroke-width="15"/>
+                                                                 <line 
                                             x1="{$otherBarStart * $xspacer}"
                                             y1="{$pos * $yspacer}"
                                             x2="{$otherBar * $xspacer + $otherBarStart * $xspacer}"
@@ -150,6 +162,8 @@ declare variable $stories := //Q{}story;
                 </g>
             </g>
         </svg>  
-        <p>Sherlock Holmes is Cyan, John Watson is Black, Lestrade is Gray, Mary Sutherland is Green, Irene Adler is Orange, Mary Watson is Red, Bradstreet is Yellow, Alice Turner is Pink, Other Characters are Blue</p>
+        <center>Sherlock Holmes is Cyan, John Watson is Black, Lestrade is Gray, Tobias Gregson is Green, </center>
+        <center>Lucy Ferrier is Orange, John Ferrier is Red, Jefferson Hope is Yellow, Enoch J Drebber is Pink, </center>
+        <center>Joseph Strangerson is Purple, Other Characters are Blue</center>
     </body>
 </html>
