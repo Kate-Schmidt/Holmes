@@ -11,4 +11,6 @@ let $fPeople := ($qPeople, $rPeople)
 
 for $per at $index in distinct-values($fPeople)
 
-return ($index, $per,$linefeed)
+order by $per
+
+return (concat("'",$per,"',"))
