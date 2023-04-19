@@ -16,7 +16,7 @@ declare variable $ad:= doc('../xml/The_Study_in_Scarlet.xml');
     <circle stroke="blue" stroke-width="5" fill="blue"
     cx="150" cy="150" r="{
           let $length:= $ad=>string-join()=>string-length()
-          return math:sqrt($length) div 5.5
+          return math:sqrt($length) div 2.5
         }"/>
        
         <circle stroke="green" stroke-width="5" fill="yellow"
