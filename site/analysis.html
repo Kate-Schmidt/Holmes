@@ -10,8 +10,8 @@
         <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="src/HolmesCSS.css">
     </head>
-    <body>
-        <nav>
+<body>
+    <nav>
             <div class="dropDown">
                 <a href="../index.html">Home</a>
             </div>
@@ -34,12 +34,64 @@
         <h1>Analysis</h1>
         
         <p>As of 2023 all Sherlock Stories had entered the public domain. Knowing this we decided that it would be fun to analyze such a well-known piece of media especially since it was newly released. We decided to look at the first novel A Study in Scarlet, and at the first collection of short stories The Adventures of Sherlock Holmes. We choose to analyze how much each character spoke and was referenced, the different types of mysteries, and the length difference between each story.</p>
-        
+        <button class="top" onclick="scrollToTop()">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V6M5 12l7-7 7 7"/></svg>
+        </button>
+    <section id="both" class="section-analysis">
+        <div class="svg-container">
+        <div class="svg">
+            <h2>ADVENTURES</h2>
+        <a href="#adventure">
+            <svg width="568px" height="568px">
+            <g transform="translate(0,0)">
+               <circle stroke="rgba(37,37,37,.8)" stroke-width=".5" fill="rgba(95, 146, 222, .8)" cx="283.422780213613" cy="283.422780213613" r="258.422780213613"/>
+               <circle stroke="rgba(37,37,37,.8)" stroke-width=".5" fill="rgba(67, 240, 73, .8)" cx="283.422780213613" cy="283.422780213613" r="213.75167315784404"/>
+               <circle stroke="rgba(37,37,37,.8)" stroke-width=".5" fill="rgba(242, 123, 31, .8)" cx="283.422780213613" cy="283.422780213613" r="66.87301398920195"/>
+               <circle stroke="rgba(37,37,37,.8)" stroke-width=".5" fill="rgba(37,37,37, .8)" cx="283.422780213613" cy="283.422780213613" r="14.422205101855956"/>
+            </g>
+            </svg>
+        </a>
+        </div>
+        <div class="svg">
+        <h2>SCARLET</h2>
+        <a href="#scarlet">
+            <svg width="388.67191596981684" height="388.67191596981684">
+                <g transform="translate(0,0)">
+                    <circle stroke="rgba(37,37,37,.8)" stroke-width=".5" fill="rgba(95, 146, 222, .8)" cx="194.33595798490842" cy="194.33595798490842" r="169.33595798490842"></circle>
+                    <circle stroke="rgba(37,37,37,.8)" stroke-width=".5" fill="rgba(67, 240, 73, .8)" cx="194.33595798490842" cy="194.33595798490842" r="112.08231102383839"></circle>
+                    <circle stroke="rgba(37,37,37,.8)" stroke-width=".5" fill="rgba(242, 123, 31, .8)" cx="194.33595798490842" cy="194.33595798490842" r="40.74309757492672"></circle>
+                    <circle stroke="rgba(37,37,37,.8)" stroke-width=".5" fill="rgba(37,37,37, .8)" cx="194.33595798490842" cy="194.33595798490842" r="8.48528137423857"></circle>
+                </g>
+            </svg>
+        </a>
+        </div>
+        </div>
+        <div class="legend">
+            <div class="legend-element">
+               <h4>Total Text</h4><svg width="40" height="40">
+                  <rect width="40" height="40" style="fill:rgba(95, 146, 222, .8)"></rect></svg></div>
+            <div class="legend-element">
+               <h4>Total Quotes</h4><svg width="40" height="40">
+                  <rect width="40" height="40" style="fill:rgba(67, 240, 73, .8)"></rect></svg></div>
+            <div class="legend-element">
+               <h4>Total References</h4><svg width="40" height="40">
+                  <rect width="40" height="40" style="fill:rgba(242, 123, 31, .8)"></rect></svg></div>
+            <div class="legend-element">
+               <h4>Total Characters</h4><svg width="40" height="40">
+                  <rect width="40" height="40" style="fill:rgba(37,37,37, .8)"></rect></svg></div>
+         </div>
+    </section>
 
+
+                <section id="scarlet" class="section-analysis">
+                    <h2>A Study in Scarlet</h2>
+                    <iframe src="https://embed.kumu.io/810643a161f96f60728a64c383726388" width="940" height="600" frameborder="0"></iframe>
+                </section>
+
+    <section id="adventure" class="section-analysis">
+        <h2>Adventures of Sherlock Holmes</h2>
         <iframe src="https://embed.kumu.io/d97843a55c81d80033544693cd6fa19b" width="940" height="600" frameborder="0"></iframe>
-        
-        
-        <iframe src="https://embed.kumu.io/810643a161f96f60728a64c383726388" width="940" height="600" frameborder="0"></iframe>
-        
-    </body>
+    </section>
+</body>
+<script src="src/holmesJS.js"></script>
 </html>
