@@ -2,7 +2,12 @@
 <!--whc: This is the basic starter index page to be used when creating students' first home pages.-->
 <html>
     <head>
-        <title>My webpage</title>
+        <title>Sherlock | The Study in Scarlet</title>
+        <link rel="apple-touch-icon" sizes="180x180" href="src/favicon_io/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="src/favicon_io/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="src/favicon_io/favicon-16x16.png">
+        <link rel="manifest" href="src/favicon_io/site.webmanifest">
+        <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="src/HolmesCSS.css">
     </head>
     <body id="body">
@@ -15,11 +20,11 @@
             </div>
 
             <div class="dropDown">
-                <a href="scarlet.html">Scarlet</a>
+                <a href="scarlet.html">A Study in Scarlet</a>
             </div>
 
             <div class="dropDown">
-                <a href="adventures.html">Adventures of Sherlock</a>
+                <a href="adventures.html">Adventures of Sherlock Holmes</a>
             </div>
 
             <div class="dropDown">
@@ -34,125 +39,282 @@
         <button class="top" onclick="scrollToTop()">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V6M5 12l7-7 7 7"/></svg>
         </button>
-        <section>
+<section class="novel">
         <div class="story-nav">
           <details>
             <summary>All Characters</summary>
-            <div><input type="checkbox" value="Brigham_Young" onclick="highlight(this)"><label for="Brigham_Young">Brigham Young<div class="color" style="background:rgba(45, 128, 121, .3)"></div></label></div>
-            <div><input type="checkbox" value="Cowper" onclick="highlight(this)"><label for="Cowper">Cowper</label></div>
-            <div><input type="checkbox" value="Enoch_J_Drebber" onclick="highlight(this)"><label for="Enoch_J_Drebber">Enoch J Drebber</label></div>
-            <div><input type="checkbox" value="Jefferson_Hope" onclick="highlight(this)"><label for="Jefferson_Hope">Jefferson Hope</label></div>
-            <div><input type="checkbox" value="John_Ferrier" onclick="highlight(this)"><label for="John_Ferrier">John Ferrier</label></div>
-            <div><input type="checkbox" value="John_Rance" onclick="highlight(this)"><label for="John_Rance">John Rance</label></div>
-            <div><input type="checkbox" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div>
-            <div><input type="checkbox" value="Joseph_Stangerson" onclick="highlight(this)"><label for="Joseph_Stangerson">Joseph Stangerson</label></div>
-            <div><input type="checkbox" value="Lestrade" onclick="highlight(this)"><label for="Lestrade">Lestrade</label></div>
-            <div><input type="checkbox" value="Lucy_Ferrier" onclick="highlight(this)"><label for="Lucy_Ferrier">Lucy Ferrier</label></div>
-            <div><input type="checkbox" value="Mrs_Sawyer" onclick="highlight(this)"><label for="Mrs_Sawyer">Mrs Sawyer</label></div>
-            <div><input type="checkbox" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div>
-            <div><input type="checkbox" value="Stamford" onclick="highlight(this)"><label for="Stamford">Stamford</label></div>
-            <div><input type="checkbox" value="Tobias_Gregson" onclick="highlight(this)"><label for="Tobias_Gregson">Tobias Gregson</label></div>
-            <div><input type="checkbox" value="Unknown" onclick="highlight(this)"><label for="Unknown">Unknown</label></div>
-            <div><input type="checkbox" value="Wiggins" onclick="highlight(this)"><label for="Wiggins">Wiggins</label></div>
+            <div class="nav-detail">
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="Brigham_Young" onclick="highlight(this)"><label for="Brigham_Young">Brigham Young</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(45, 128, 121, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="Cowper" onclick="highlight(this)"><label for="Cowper">Cowper</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(255, 0, 247, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="Enoch_J_Drebber" onclick="highlight(this)"><label for="Enoch_J_Drebber">Enoch J Drebber</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(255, 255, 255, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="Ferrier" onclick="highlight(this)"><label for="Ferrier">Ferrier</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(133, 182, 255, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="Jefferson_Hope" onclick="highlight(this)"><label for="Jefferson_Hope">Jefferson Hope</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(94, 73, 117, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="John_Ferrier" onclick="highlight(this)"><label for="John_Ferrier">John Ferrier</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(138, 131, 72, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="John_Rance" onclick="highlight(this)"><label for="John_Rance">John Rance</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(229, 255, 0, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(69, 69, 69, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="Joseph_Smith" onclick="highlight(this)"><label for="Joseph_Smith">Joseph Smith</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(170, 0, 255, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="Joseph_Stangerson" onclick="highlight(this)"><label for="Joseph_Stangerson">Joseph Stangerson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(250, 0, 0, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="Lestrade" onclick="highlight(this)"><label for="Lestrade">Lestrade</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(158, 157, 157, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="Lucy_Ferrier" onclick="highlight(this)"><label for="Lucy_Ferrier">Lucy Ferrier</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(189, 255, 242, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="Mrs_Sawyer" onclick="highlight(this)"><label for="Mrs_Sawyer">Mrs Sawyer</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(139, 255, 43, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(0, 255, 255, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="Stamford" onclick="highlight(this)"><label for="Stamford">Stamford</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(176, 11, 49, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="Tobias_Gregson" onclick="highlight(this)"><label for="Tobias_Gregson">Tobias Gregson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(191, 255, 196, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="Unknown" onclick="highlight(this)"><label for="Unknown">Unknown</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(13, 0, 255, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" value="Wiggins" onclick="highlight(this)"><label for="Wiggins">Wiggins</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(255, 212, 212, .3)"></rect></svg></div>
+               <div class="buttons"><input type="button" onclick="checkAll(this)" value="Select All"><input type="button" onclick="unCheckAll()" value="Clear All"></div>
+            </div>
          </details><details>
             <summary>Chapter 1</summary>
-            <div class="nav-detail"><a href="#1">MR. SHERLOCK HOLMES</a><div><input type="checkbox" id="ch.1" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div>
-               <div><input type="checkbox" id="ch.1" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div>
-               <div><input type="checkbox" id="ch.1" value="Stamford" onclick="highlight(this)"><label for="Stamford">Stamford</label></div>
+            <div class="nav-detail"><a href="#1">Mr. Sherlock Holmes</a><div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.1" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(69, 69, 69, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.1" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(0, 255, 255, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.1" value="Stamford" onclick="highlight(this)"><label for="Stamford">Stamford</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(176, 11, 49, .3)"></rect></svg></div>
+               <div class="buttons"><input type="button" onclick="checkAll(this)" value="Select All"><input type="button" onclick="unCheckAll()" value="Clear All"></div>
             </div>
          </details><details>
             <summary>Chapter 2</summary>
-            <div class="nav-detail"><a href="#2">THE SCIENCE OF DEDUCTION</a><div><input type="checkbox" id="ch.2" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div>
-               <div><input type="checkbox" id="ch.2" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div>
-               <div><input type="checkbox" id="ch.2" value="Unknown" onclick="highlight(this)"><label for="Unknown">Unknown</label></div>
+            <div class="nav-detail"><a href="#2">The Science Of Deduction</a><div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.2" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(69, 69, 69, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.2" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(0, 255, 255, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.2" value="Unknown" onclick="highlight(this)"><label for="Unknown">Unknown</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(13, 0, 255, .3)"></rect></svg></div>
+               <div class="buttons"><input type="button" onclick="checkAll(this)" value="Select All"><input type="button" onclick="unCheckAll()" value="Clear All"></div>
             </div>
          </details><details>
             <summary>Chapter 3</summary>
-            <div class="nav-detail"><a href="#3">THE LAURISTON GARDENS MYSTERY</a><div><input type="checkbox" id="ch.3" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div>
-               <div><input type="checkbox" id="ch.3" value="Lestrade" onclick="highlight(this)"><label for="Lestrade">Lestrade</label></div>
-               <div><input type="checkbox" id="ch.3" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div>
-               <div><input type="checkbox" id="ch.3" value="Tobias_Gregson" onclick="highlight(this)"><label for="Tobias_Gregson">Tobias Gregson</label></div>
+            <div class="nav-detail"><a href="#3">The Lauriston Gardens Mystery</a><div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.3" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(69, 69, 69, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.3" value="Lestrade" onclick="highlight(this)"><label for="Lestrade">Lestrade</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(158, 157, 157, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.3" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(0, 255, 255, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.3" value="Tobias_Gregson" onclick="highlight(this)"><label for="Tobias_Gregson">Tobias Gregson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(191, 255, 196, .3)"></rect></svg></div>
+               <div class="buttons"><input type="button" onclick="checkAll(this)" value="Select All"><input type="button" onclick="unCheckAll()" value="Clear All"></div>
             </div>
          </details><details>
             <summary>Chapter 4</summary>
-            <div class="nav-detail"><a href="#4">WHAT JOHN RANCE HAD TO TELL</a><div><input type="checkbox" id="ch.4" value="John_Rance" onclick="highlight(this)"><label for="John_Rance">John Rance</label></div>
-               <div><input type="checkbox" id="ch.4" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div>
-               <div><input type="checkbox" id="ch.4" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div>
+            <div class="nav-detail"><a href="#4">What John Rance Had To Tell</a><div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.4" value="John_Rance" onclick="highlight(this)"><label for="John_Rance">John Rance</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(229, 255, 0, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.4" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(69, 69, 69, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.4" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(0, 255, 255, .3)"></rect></svg></div>
+               <div class="buttons"><input type="button" onclick="checkAll(this)" value="Select All"><input type="button" onclick="unCheckAll()" value="Clear All"></div>
             </div>
          </details><details>
             <summary>Chapter 5</summary>
-            <div class="nav-detail"><a href="#5">OUR ADVERTISEMENT BRINGS A VISITOR</a><div><input type="checkbox" id="ch.5" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div>
-               <div><input type="checkbox" id="ch.5" value="Mrs_Sawyer" onclick="highlight(this)"><label for="Mrs_Sawyer">Mrs Sawyer</label></div>
-               <div><input type="checkbox" id="ch.5" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div>
+            <div class="nav-detail"><a href="#5">Our Advertisement Brings A Visitor</a><div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.5" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(69, 69, 69, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.5" value="Mrs_Sawyer" onclick="highlight(this)"><label for="Mrs_Sawyer">Mrs Sawyer</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(139, 255, 43, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.5" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(0, 255, 255, .3)"></rect></svg></div>
+               <div class="buttons"><input type="button" onclick="checkAll(this)" value="Select All"><input type="button" onclick="unCheckAll()" value="Clear All"></div>
             </div>
          </details><details>
             <summary>Chapter 6</summary>
-            <div class="nav-detail"><a href="#6">TOBIAS GREGSON SHOWS WHAT HE CAN DO</a><div><input type="checkbox" id="ch.6" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div>
-               <div><input type="checkbox" id="ch.6" value="Lestrade" onclick="highlight(this)"><label for="Lestrade">Lestrade</label></div>
-               <div><input type="checkbox" id="ch.6" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div>
-               <div><input type="checkbox" id="ch.6" value="Tobias_Gregson" onclick="highlight(this)"><label for="Tobias_Gregson">Tobias Gregson</label></div>
-               <div><input type="checkbox" id="ch.6" value="Unknown" onclick="highlight(this)"><label for="Unknown">Unknown</label></div>
+            <div class="nav-detail"><a href="#6">Tobias Gregson Shows What He Can Do</a><div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.6" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(69, 69, 69, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.6" value="Lestrade" onclick="highlight(this)"><label for="Lestrade">Lestrade</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(158, 157, 157, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.6" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(0, 255, 255, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.6" value="Tobias_Gregson" onclick="highlight(this)"><label for="Tobias_Gregson">Tobias Gregson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(191, 255, 196, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.6" value="Unknown" onclick="highlight(this)"><label for="Unknown">Unknown</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(13, 0, 255, .3)"></rect></svg></div>
+               <div class="buttons"><input type="button" onclick="checkAll(this)" value="Select All"><input type="button" onclick="unCheckAll()" value="Clear All"></div>
             </div>
          </details><details>
             <summary>Chapter 7</summary>
-            <div class="nav-detail"><a href="#7">LIGHT IN THE DARKNESS</a><div><input type="checkbox" id="ch.7" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div>
-               <div><input type="checkbox" id="ch.7" value="Lestrade" onclick="highlight(this)"><label for="Lestrade">Lestrade</label></div>
-               <div><input type="checkbox" id="ch.7" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div>
-               <div><input type="checkbox" id="ch.7" value="Tobias_Gregson" onclick="highlight(this)"><label for="Tobias_Gregson">Tobias Gregson</label></div>
-               <div><input type="checkbox" id="ch.7" value="Wiggins" onclick="highlight(this)"><label for="Wiggins">Wiggins</label></div>
+            <div class="nav-detail"><a href="#7">Light In The Darkness</a><div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.7" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(69, 69, 69, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.7" value="Lestrade" onclick="highlight(this)"><label for="Lestrade">Lestrade</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(158, 157, 157, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.7" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(0, 255, 255, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.7" value="Tobias_Gregson" onclick="highlight(this)"><label for="Tobias_Gregson">Tobias Gregson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(191, 255, 196, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.7" value="Wiggins" onclick="highlight(this)"><label for="Wiggins">Wiggins</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(255, 212, 212, .3)"></rect></svg></div>
+               <div class="buttons"><input type="button" onclick="checkAll(this)" value="Select All"><input type="button" onclick="unCheckAll()" value="Clear All"></div>
             </div>
          </details><details>
             <summary>Chapter 8</summary>
-            <div class="nav-detail"><a href="#8">ON THE GREAT ALKALI PLAIN</a><div><input type="checkbox" id="ch.8" value="John_Ferrier" onclick="highlight(this)"><label for="John_Ferrier">John Ferrier</label></div>
-               <div><input type="checkbox" id="ch.8" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div>
-               <div><input type="checkbox" id="ch.8" value="Unknown" onclick="highlight(this)"><label for="Unknown">Unknown</label></div>
+            <div class="nav-detail"><a href="#8">On The Great Alkali Plain</a><div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.8" value="John_Ferrier" onclick="highlight(this)"><label for="John_Ferrier">John Ferrier</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(138, 131, 72, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.8" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(69, 69, 69, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.8" value="Unknown" onclick="highlight(this)"><label for="Unknown">Unknown</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(13, 0, 255, .3)"></rect></svg></div>
+               <div class="buttons"><input type="button" onclick="checkAll(this)" value="Select All"><input type="button" onclick="unCheckAll()" value="Clear All"></div>
             </div>
          </details><details>
             <summary>Chapter 9</summary>
-            <div class="nav-detail"><a href="#9">THE FLOWER OF UTAH</a><div><input type="checkbox" id="ch.9" value="Jefferson_Hope" onclick="highlight(this)"><label for="Jefferson_Hope">Jefferson Hope</label></div>
-               <div><input type="checkbox" id="ch.9" value="Lucy_Ferrier" onclick="highlight(this)"><label for="Lucy_Ferrier">Lucy Ferrier</label></div>
+            <div class="nav-detail"><a href="#9">The Flower Of Utah</a><div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.9" value="Jefferson_Hope" onclick="highlight(this)"><label for="Jefferson_Hope">Jefferson Hope</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(94, 73, 117, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.9" value="Lucy_Ferrier" onclick="highlight(this)"><label for="Lucy_Ferrier">Lucy Ferrier</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(189, 255, 242, .3)"></rect></svg></div>
+               <div class="buttons"><input type="button" onclick="checkAll(this)" value="Select All"><input type="button" onclick="unCheckAll()" value="Clear All"></div>
             </div>
          </details><details>
             <summary>Chapter 10</summary>
-            <div class="nav-detail"><a href="#10">JOHN FERRIER TALKS WITH THE PROPHET</a><div><input type="checkbox" id="ch.10" value="Brigham_Young" onclick="highlight(this)"><label for="Brigham_Young">Brigham Young</label></div>
-               <div><input type="checkbox" id="ch.10" value="John_Ferrier" onclick="highlight(this)"><label for="John_Ferrier">John Ferrier</label></div>
-               <div><input type="checkbox" id="ch.10" value="Lucy_Ferrier" onclick="highlight(this)"><label for="Lucy_Ferrier">Lucy Ferrier</label></div>
+            <div class="nav-detail"><a href="#10">John Ferrier Talks With The Prophet</a><div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.10" value="Brigham_Young" onclick="highlight(this)"><label for="Brigham_Young">Brigham Young</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(45, 128, 121, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.10" value="John_Ferrier" onclick="highlight(this)"><label for="John_Ferrier">John Ferrier</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(138, 131, 72, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.10" value="Lucy_Ferrier" onclick="highlight(this)"><label for="Lucy_Ferrier">Lucy Ferrier</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(189, 255, 242, .3)"></rect></svg></div>
+               <div class="buttons"><input type="button" onclick="checkAll(this)" value="Select All"><input type="button" onclick="unCheckAll()" value="Clear All"></div>
             </div>
          </details><details>
             <summary>Chapter 11</summary>
-            <div class="nav-detail"><a href="#11">A FLIGHT FOR LIFE</a><div><input type="checkbox" id="ch.11" value="Enoch_J_Drebber" onclick="highlight(this)"><label for="Enoch_J_Drebber">Enoch J Drebber</label></div>
-               <div><input type="checkbox" id="ch.11" value="Jefferson_Hope" onclick="highlight(this)"><label for="Jefferson_Hope">Jefferson Hope</label></div>
-               <div><input type="checkbox" id="ch.11" value="John_Ferrier" onclick="highlight(this)"><label for="John_Ferrier">John Ferrier</label></div>
-               <div><input type="checkbox" id="ch.11" value="Joseph_Stangerson" onclick="highlight(this)"><label for="Joseph_Stangerson">Joseph Stangerson</label></div>
-               <div><input type="checkbox" id="ch.11" value="Lucy_Ferrier" onclick="highlight(this)"><label for="Lucy_Ferrier">Lucy Ferrier</label></div>
-               <div><input type="checkbox" id="ch.11" value="Unknown" onclick="highlight(this)"><label for="Unknown">Unknown</label></div>
+            <div class="nav-detail"><a href="#11">A Flight For Life</a><div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.11" value="Enoch_J_Drebber" onclick="highlight(this)"><label for="Enoch_J_Drebber">Enoch J Drebber</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(255, 255, 255, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.11" value="Jefferson_Hope" onclick="highlight(this)"><label for="Jefferson_Hope">Jefferson Hope</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(94, 73, 117, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.11" value="John_Ferrier" onclick="highlight(this)"><label for="John_Ferrier">John Ferrier</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(138, 131, 72, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.11" value="Joseph_Stangerson" onclick="highlight(this)"><label for="Joseph_Stangerson">Joseph Stangerson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(250, 0, 0, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.11" value="Lucy_Ferrier" onclick="highlight(this)"><label for="Lucy_Ferrier">Lucy Ferrier</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(189, 255, 242, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.11" value="Unknown" onclick="highlight(this)"><label for="Unknown">Unknown</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(13, 0, 255, .3)"></rect></svg></div>
+               <div class="buttons"><input type="button" onclick="checkAll(this)" value="Select All"><input type="button" onclick="unCheckAll()" value="Clear All"></div>
             </div>
          </details><details>
             <summary>Chapter 12</summary>
-            <div class="nav-detail"><a href="#12">THE AVENGING ANGELS</a><div><input type="checkbox" id="ch.12" value="Cowper" onclick="highlight(this)"><label for="Cowper">Cowper</label></div>
-               <div><input type="checkbox" id="ch.12" value="Jefferson_Hope" onclick="highlight(this)"><label for="Jefferson_Hope">Jefferson Hope</label></div>
+            <div class="nav-detail"><a href="#12">The Avenging Angels</a><div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.12" value="Cowper" onclick="highlight(this)"><label for="Cowper">Cowper</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(255, 0, 247, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.12" value="Jefferson_Hope" onclick="highlight(this)"><label for="Jefferson_Hope">Jefferson Hope</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(94, 73, 117, .3)"></rect></svg></div>
+               <div class="buttons"><input type="button" onclick="checkAll(this)" value="Select All"><input type="button" onclick="unCheckAll()" value="Clear All"></div>
             </div>
          </details><details>
             <summary>Chapter 13</summary>
-            <div class="nav-detail"><a href="#13">A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.</a><div><input type="checkbox" id="ch.13" value="Enoch_J_Drebber" onclick="highlight(this)"><label for="Enoch_J_Drebber">Enoch J Drebber</label></div>
-               <div><input type="checkbox" id="ch.13" value="Jefferson_Hope" onclick="highlight(this)"><label for="Jefferson_Hope">Jefferson Hope</label></div>
-               <div><input type="checkbox" id="ch.13" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div>
-               <div><input type="checkbox" id="ch.13" value="Lestrade" onclick="highlight(this)"><label for="Lestrade">Lestrade</label></div>
-               <div><input type="checkbox" id="ch.13" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div>
-               <div><input type="checkbox" id="ch.13" value="Unknown" onclick="highlight(this)"><label for="Unknown">Unknown</label></div>
+            <div class="nav-detail"><a href="#13">A Continuation Of The Reminiscences Of John Watson, M.d.</a><div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.13" value="Enoch_J_Drebber" onclick="highlight(this)"><label for="Enoch_J_Drebber">Enoch J Drebber</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(255, 255, 255, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.13" value="Jefferson_Hope" onclick="highlight(this)"><label for="Jefferson_Hope">Jefferson Hope</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(94, 73, 117, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.13" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(69, 69, 69, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.13" value="Lestrade" onclick="highlight(this)"><label for="Lestrade">Lestrade</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(158, 157, 157, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.13" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(0, 255, 255, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.13" value="Unknown" onclick="highlight(this)"><label for="Unknown">Unknown</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(13, 0, 255, .3)"></rect></svg></div>
+               <div class="buttons"><input type="button" onclick="checkAll(this)" value="Select All"><input type="button" onclick="unCheckAll()" value="Clear All"></div>
             </div>
          </details><details>
             <summary>Chapter 14</summary>
-            <div class="nav-detail"><a href="#14">THE CONCLUSION</a><div><input type="checkbox" id="ch.14" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div>
-               <div><input type="checkbox" id="ch.14" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div>
-               <div><input type="checkbox" id="ch.14" value="Unknown" onclick="highlight(this)"><label for="Unknown">Unknown</label></div>
+            <div class="nav-detail"><a href="#14">The Conclusion</a><div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.14" value="John_Watson" onclick="highlight(this)"><label for="John_Watson">John Watson</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(69, 69, 69, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.14" value="Sherlock_Holmes" onclick="highlight(this)"><label for="Sherlock_Holmes">Sherlock Holmes</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(0, 255, 255, .3)"></rect></svg></div>
+               <div class="char-name">
+                  <div class="char-select"><input class="check" type="checkbox" id="ch.14" value="Unknown" onclick="highlight(this)"><label for="Unknown">Unknown</label></div><svg width="25" height="25">
+                     <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(13, 0, 255, .3)"></rect></svg></div>
+               <div class="buttons"><input type="button" onclick="checkAll(this)" value="Select All"><input type="button" onclick="unCheckAll()" value="Clear All"></div>
             </div>
          </details>
         </div>
     
         <div class="book">
-    <details class="detail-citation">
-        <summary class="summary-citation">PreText</summary>
+    <details class="detail-general">
+        <summary class="summary-general">Pre Text</summary>
         <p>
             The Project Gutenberg eBook of A Study In Scarlet, by Arthur Conan Doyle
             
@@ -223,7 +385,7 @@ of our Indian possessions. For months my life was despaired of, and
 when at last I came to myself and became convalescent, I was so weak
 and emaciated that a medical board determined that not a day should be
 lost in sending me back to England. I was dispatched, accordingly, in
-the troopship <span class="Orentes">"Orontes,"</span> and landed a month later on Portsmouth jetty,
+the troopship "Orontes," and landed a month later on Portsmouth jetty,
 with my health irretrievably ruined, but with permission from a
 paternal government to spend the next nine months in attempting to
 improve it.
@@ -5744,9 +5906,9 @@ contented by the consciousness of success, like the Roman miser—
 Ipse domi simul ac nummos contemplor in arca.’"</p>
 </div>
 
-<details class="detail-citation">
-    <summary class="summary-citation">Post Text</summary>
-    <p>*** END OF THE PROJECT GUTENBERG EBOOK A STUDY IN SCARLET ***
+<details class="detail-general">
+    <summary class="summary-general" onclick="center()">Post Text</summary>
+    <p id="postText">*** END OF THE PROJECT GUTENBERG EBOOK A STUDY IN SCARLET ***
 
 Updated editions will replace the previous one--the old editions will
 be renamed.
