@@ -77,16 +77,33 @@ declare variable $stories := //Q{}story;
                             let $JamesWindibankBar := $JamesWindibankPercent *$barSize
                             let $JamesWindibankBarStart := $AliceTurnerBarStart + $AliceTurnerBar
                             
-              
+                            let $HosmerAngelCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Hosmer_Angel')] => count()
+                            let $HosmerAngelPercent := $HosmerAngelCount div $count
+                            let $HosmerAngelBar := $HosmerAngelPercent *$barSize
+                            let $HosmerAngelBarStart := $JamesWindibankBarStart + $JamesWindibankBar
                             
+                            let $JohnClayCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'John_Clay')] => count()
+                            let $JohnClayPercent := $JohnClayCount div $count
+                            let $JohnClayBar := $JohnClayPercent *$barSize
+                            let $JohnClayBarStart := $HosmerAngelBarStart + $HosmerAngelBar
+                            
+                            let $AlexanderHolderCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Alexander_Holder')] => count()
+                            let $AlexanderHolderPercent := $AlexanderHolderCount div $count
+                            let $AlexanderHolderBar := $AlexanderHolderPercent *$barSize
+                            let $AlexanderHolderBarStart := $JohnClayBarStart + $JohnClayBar
+                            
+                            let $VioletHunterCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Violet_Hunter')] => count()
+                            let $VioletHunterPercent := $VioletHunterCount div $count
+                            let $VioletHunterBar := $VioletHunterPercent *$barSize
+                            let $VioletHunterBarStart := $AlexanderHolderBarStart + $AlexanderHolderBar
                             
                             
                             let $UnknownCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Unknown')] => count()
                             let $UnknownPercent := $UnknownCount div $count
                             let $UnknownBar := $UnknownPercent *$barSize
-                            let $UnknownBarStart := $JamesWindibankBarStart + $JamesWindibankBar
+                            let $UnknownBarStart := $VioletHunterBarStart + $VioletHunterBar
                             
-                            let $otherCount := $story//Q{}p/Q{}quote[not(contains(@spokeBy, 'Sherlock_Holmes')) and not(contains(@spokeBy, 'John_Watson')) and not(contains(@spokeBy, 'Mary_Sutherland')) and not(contains(@spokeBy, 'Irene_Adler')) and not(contains(@spokeBy, 'Mary_Watson')) and not(contains(@spokeBy, 'Lestrade')) and not(contains(@spokeBy, 'Bradstreet')) and not(contains(@spokeBy, 'Alice_Turner')) and not(contains(@spokeBy, 'Unknown')) ] => count()
+                            let $otherCount := $story//Q{}p/Q{}quote[not(contains(@spokeBy, 'Sherlock_Holmes')) and not(contains(@spokeBy, 'John_Watson')) and not(contains(@spokeBy, 'Mary_Sutherland')) and not(contains(@spokeBy, 'Irene_Adler')) and not(contains(@spokeBy, 'Mary_Watson')) and not(contains(@spokeBy, 'Lestrade')) and not(contains(@spokeBy, 'Bradstreet')) and not(contains(@spokeBy, 'Alice_Turner')) and not(contains(@spokeBy, 'Hosmer_Angel')) and not(contains(@spokeBy, 'John_Clay')) and not(contains(@spokeBy, 'Unknown')) ] => count()
                             let $otherPercent := $otherCount div $count
                             let $otherBar := $otherPercent *$barSize
                             let $otherBarStart := $UnknownBarStart + $UnknownBar
@@ -168,7 +185,35 @@ declare variable $stories := //Q{}story;
                                             y1="{$pos * $yspacer}"
                                             x2="{$JamesWindibankBar * $xspacer + $JamesWindibankBarStart * $xspacer}"
                                             y2="{$pos * $yspacer}"
-                                            stroke="lime"
+                                            stroke="orange"
+                                            stroke-width="15"/>
+                                            <line 
+                                            x1="{$HosmerAngelBarStart * $xspacer}"
+                                            y1="{$pos * $yspacer}"
+                                            x2="{$HosmerAngelBar * $xspacer + $HosmerAngelBarStart * $xspacer}"
+                                            y2="{$pos * $yspacer}"
+                                            stroke="apricot"
+                                            stroke-width="15"/>
+                                                                        <line 
+                                            x1="{$JohnClayBarStart * $xspacer}"
+                                            y1="{$pos * $yspacer}"
+                                            x2="{$JohnClayBar * $xspacer + $JohnClayBarStart * $xspacer}"
+                                            y2="{$pos * $yspacer}"
+                                            stroke="amber"
+                                            stroke-width="15"/>
+                                                                        <line 
+                                            x1="{$AlexanderHolderBarStart * $xspacer}"
+                                            y1="{$pos * $yspacer}"
+                                            x2="{$AlexanderHolderBar * $xspacer + $AlexanderHolderBarStart * $xspacer}"
+                                            y2="{$pos * $yspacer}"
+                                            stroke="liver"
+                                            stroke-width="15"/>
+                                                                        <line 
+                                            x1="{$VioletHunterBarStart * $xspacer}"
+                                            y1="{$pos * $yspacer}"
+                                            x2="{$VioletHunterBar * $xspacer + $VioletHunterBarStart * $xspacer}"
+                                            y2="{$pos * $yspacer}"
+                                            stroke="lavender"
                                             stroke-width="15"/>
                                                                         <line 
                                             x1="{$UnknownBarStart * $xspacer}"
@@ -219,6 +264,7 @@ declare variable $stories := //Q{}story;
         </svg>  
         <center>Sherlock Holmes is Cyan, John Watson is Black, Lestrade is Gray, Mary Sutherland is Green, </center>
         <center>Irene Adler is Orange, Mary Watson is Red, Bradstreet is Yellow, Alice Turner is Pink, </center>
-        <center>Victor Hatherley is Brown, Unknown/Not-named Characters are Lime, Other Characters are Blue</center>
+        <center>Victor Hatherley is Brown, James Windibank is Orange, Hosmer Angel is Apricot, John Clay is Amber, </center>
+        <center>Alexander Holder is Liver, Violet Hunter is Lavender, Unknown/Not-named Characters are Lime, Other Characters are Blue</center>
     </body>
 </html>
