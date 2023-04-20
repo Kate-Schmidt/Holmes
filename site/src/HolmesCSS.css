@@ -73,16 +73,21 @@ nav{
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  background: #f9f9f9;
+  background: rgba(232, 232, 232, .9);
   position: sticky;
   top: 0;
   z-index: 10;
+  box-shadow: 0 3px 3px #a3a2a2
 }
 
 .dropDown {
   padding: 12px 0px;
   position: relative;
   cursor: pointer;
+  width: 100%;
+  height: 25px;
+  text-align: center;
+  transition: all .25s ease;
 }
 
 .dropDown > a{
@@ -95,8 +100,7 @@ nav{
 }
 
 .dropDown:hover{
-  color: #ffffff;
-  background: #989898;
+  background: rgba(240, 240, 240, 1);
 }
 
 .section-divider{
@@ -371,7 +375,6 @@ details > summary::-webkit-details-marker {
 .section-graph {
   position: relative;
   width: 100%;
-  
 }
 
 .section-analysis > h2{
@@ -379,7 +382,7 @@ details > summary::-webkit-details-marker {
 }
 
 .section-network{
-  margin: auto;
+  margin: 1rem auto 2.5rem auto;
   width: 75%;
   height: 600px;
   display: flex;
@@ -428,17 +431,25 @@ details > summary::-webkit-details-marker {
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
-  color: rgba(237, 232, 211, 1);
-  background: rgba(0, 0, 0, 0.3);
+  color: rgba(37,37,37, .7);
   width: 75%;
   margin: auto;
   border-radius: .5rem;
-  box-shadow: 0 3px 5px #a3a2a2;
 }
 
 .legend-element{
   display: flex;
+  justify-content: space-between;
   align-items: center;
+  width: 200px;
+  height: 75px;
+  margin: 0 .25rem .25rem .25rem;
+  padding: 0 1rem 0 1rem;
+  background: rgba(237, 232, 211, .6);;
+}
+
+.legend-element > h4{
+  font-family: MWLight;
 }
 
 .legend-element > svg{
@@ -460,15 +471,38 @@ details > summary::-webkit-details-marker {
   align-items: center;
   margin-top: 1.5rem;
 }
-.svg > a > svg{
+.analysis-svg{
   background: rgba(237, 232, 211, .3);
   box-shadow: 0px 3px 25px #a3a2a2, 0px 0px 25px #a3a2a2;
+  transition: all .25s ease;
+}
+
+.analysis-svg:hover{
+  transform: scale(1.05);
 }
 .svg > h2 {
   writing-mode: vertical-rl;
   text-orientation: upright;
   font-family: MWblack;
   text-shadow: 0px 3px 2px #a3a2a2;
+}
+
+.histogram{
+  overflow-x: auto;
+}
+
+.histogram::-webkit-scrollbar{
+  width: .5rem;
+}
+.histogram::-webkit-scrollbar-track{
+background: #e0ddda;
+box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+opacity: .7;
+}
+.histogram::-webkit-scrollbar-thumb{
+background: rgba(37, 37, 37, .3);
+border-radius: 1rem;
+opacity: .7;
 }
 
 /* ----------------------------- Documentation Page ------------------------------------ */
@@ -483,8 +517,7 @@ details > summary::-webkit-details-marker {
 
 .date{
   margin: 1rem; 
-  max-width: 25%;
-  min-width: 250px;
+  width: 250px;
   padding: 1rem 1.5rem 1rem 1.5rem;
   box-shadow: 0px 3px 25px #a3a2a2, 0px 0px 25px #a3a2a2;
 }
