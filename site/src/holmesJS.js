@@ -208,3 +208,55 @@ const center = () => {
         element.scrollIntoView(true)
     }, 500);
 }
+
+const fitScreen = (button, graph) => {
+    let element = document.getElementById('network-'+graph);
+    let container = document.getElementById('section-'+graph);
+
+    if(element.classList.contains('network-fullscreen')){
+        console.log(container);
+        container.classList.remove("scale");
+        element.classList.remove('network-fullscreen');
+
+        button.parentElement.classList.remove('tab-fullscreen');
+        button.parentElement.parentElement.setAttribute('style', 'position:relative;');
+        button.setAttribute('title', 'Fit Screen');
+        button.innerHTML = '<svg width="24" height="24" viewBox="0 0 24 24" id="unfold-more"><path fill="none" d="M0 0h24v24H0V0z"></path><path d="M12 5.83L15.17 9l1.41-1.41L12 3 7.41 7.59 8.83 9 12 5.83zm0 12.34L8.83 15l-1.41 1.41L12 21l4.59-4.59L15.17 15 12 18.17z"></path></svg>';
+        
+    }else{
+        element.classList.add('network-fullscreen');
+        container.classList.add("scale");
+        element.scrollIntoView(true);
+
+        button.parentElement.classList.add('tab-fullscreen');
+        button.parentElement.parentElement.removeAttribute('style');
+        button.setAttribute('title', 'Default View');
+        button.innerHTML = '<svg width="24" height="24" viewBox="0 0 24 24" id="unfold-less"><path fill="none" d="M24 0v24H0V0h24z" opacity=".87"></path><path d="M7.41 18.59L8.83 20 12 16.83 15.17 20l1.41-1.41L12 14l-4.59 4.59zm9.18-13.18L15.17 4 12 7.17 8.83 4 7.41 5.41 12 10l4.59-4.59z"></path></svg>';
+        
+    }
+    
+}
+
+const fullScreen = (button, graph) => {
+    let element = button.parentElement.parentElement;
+
+    if(!document.fullscreenElement){
+        element.requestFullscreen();
+        button.setAttribute('title', 'Exit Full Screen');
+        button.innerHTML = '<svg width="24" height="24" viewBox="0 0 24 24" id="fullscreen-exit"><path fill="none" d="M0 0h24v24H0V0z"></path><path d="M5 16h3v3h2v-5H5v2zm3-8H5v2h5V5H8v3zm6 11h2v-3h3v-2h-5v5zm2-11V5h-2v5h5V8h-3z"></path></svg>';
+    }else{
+        document.exitFullscreen();
+        button.setAttribute('title', 'Full Screen');
+        button.innerHTML = '<svg width="24" height="24" viewBox="0 0 24 24" id="fullscreen"><path fill="none" d="M0 0h24v24H0V0z"></path><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"></path></svg>';
+    }
+
+    let div = document.getElementById('network-'+graph);
+    let container = document.getElementById('section-'+graph);
+
+    if(div.classList.contains('network-fullscreen')){
+        div.classList.remove('network-fullscreen');
+        container.classList.remove("scale");
+        button.parentElement.parentElement.setAttribute('style', 'position:relative;');
+        document.getElementById('fit-'+graph).innerHTML = '<svg width="24" height="24" viewBox="0 0 24 24" id="unfold-more"><path fill="none" d="M0 0h24v24H0V0z"></path><path d="M12 5.83L15.17 9l1.41-1.41L12 3 7.41 7.59 8.83 9 12 5.83zm0 12.34L8.83 15l-1.41 1.41L12 21l4.59-4.59L15.17 15 12 18.17z"></path></svg>';
+    }
+}

@@ -7,17 +7,18 @@ declare variable $stories := //Q{}story;
       <svg
             xmlns="http://www.w3.org/2000/svg"
             width="1200"
-            height="500">
+            height="450">
             <g
                 transform="translate(350,100)">
                 <g>
                     <text
-                        x="0"
-                        y="-5"
+                        x="375"
+                        y="-200"
                         font-family="sans-serif"
                         font-size="20px"
                         fill="white">Character's quotes compared to overall quote amount</text>
                 </g>
+                
                 <g>
                     {
                         for $story at $pos in $stories
@@ -61,15 +62,51 @@ declare variable $stories := //Q{}story;
                             let $BradstreetBar := $BradstreetPercent *$barSize
                             let $BradstreetBarStart := $MaryWatsonBarStart + $MaryWatsonBar
                             
+                            let $VictorHatherleyCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Victor_Hatherley')] => count()
+                            let $VictorHatherleyPercent := $VictorHatherleyCount div $count
+                            let $VictorHatherleyBar := $VictorHatherleyPercent *$barSize
+                            let $VictorHatherleyBarStart := $BradstreetBarStart + $BradstreetBar
+                            
                             let $AliceTurnerCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Alice_Turner')] => count()
                             let $AliceTurnerPercent := $AliceTurnerCount div $count
                             let $AliceTurnerBar := $AliceTurnerPercent *$barSize
-                            let $AliceTurnerBarStart := $BradstreetBarStart + $BradstreetBar
+                            let $AliceTurnerBarStart := $VictorHatherleyBarStart + $VictorHatherleyBar
                             
-                            let $otherCount := $story//Q{}p/Q{}quote[not(contains(@spokeBy, 'Sherlock_Holmes')) and not(contains(@spokeBy, 'John_Watson')) and not(contains(@spokeBy, 'Mary_Sutherland')) and not(contains(@spokeBy, 'Irene_Adler')) and not(contains(@spokeBy, 'Mary_Watson')) and not(contains(@spokeBy, 'Lestrade')) and not(contains(@spokeBy, 'Bradstreet')) and not(contains(@spokeBy, 'Alice_Turner')) ] => count()
+                            let $JamesWindibankCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'James_Windibank')] => count()
+                            let $JamesWindibankPercent := $JamesWindibankCount div $count
+                            let $JamesWindibankBar := $JamesWindibankPercent *$barSize
+                            let $JamesWindibankBarStart := $AliceTurnerBarStart + $AliceTurnerBar
+                            
+                            let $HosmerAngelCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Hosmer_Angel')] => count()
+                            let $HosmerAngelPercent := $HosmerAngelCount div $count
+                            let $HosmerAngelBar := $HosmerAngelPercent *$barSize
+                            let $HosmerAngelBarStart := $JamesWindibankBarStart + $JamesWindibankBar
+                            
+                            let $JohnClayCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'John_Clay')] => count()
+                            let $JohnClayPercent := $JohnClayCount div $count
+                            let $JohnClayBar := $JohnClayPercent *$barSize
+                            let $JohnClayBarStart := $HosmerAngelBarStart + $HosmerAngelBar
+                            
+                            let $AlexanderHolderCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Alexander_Holder')] => count()
+                            let $AlexanderHolderPercent := $AlexanderHolderCount div $count
+                            let $AlexanderHolderBar := $AlexanderHolderPercent *$barSize
+                            let $AlexanderHolderBarStart := $JohnClayBarStart + $JohnClayBar
+                            
+                            let $VioletHunterCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Violet_Hunter')] => count()
+                            let $VioletHunterPercent := $VioletHunterCount div $count
+                            let $VioletHunterBar := $VioletHunterPercent *$barSize
+                            let $VioletHunterBarStart := $AlexanderHolderBarStart + $AlexanderHolderBar
+                            
+                            
+                            let $UnknownCount := $story//Q{}p/Q{}quote[data(@spokeBy = 'Unknown')] => count()
+                            let $UnknownPercent := $UnknownCount div $count
+                            let $UnknownBar := $UnknownPercent *$barSize
+                            let $UnknownBarStart := $VioletHunterBarStart + $VioletHunterBar
+                            
+                            let $otherCount := $story//Q{}p/Q{}quote[not(contains(@spokeBy, 'Sherlock_Holmes')) and not(contains(@spokeBy, 'John_Watson')) and not(contains(@spokeBy, 'Mary_Sutherland')) and not(contains(@spokeBy, 'Irene_Adler')) and not(contains(@spokeBy, 'Mary_Watson')) and not(contains(@spokeBy, 'Lestrade')) and not(contains(@spokeBy, 'Bradstreet')) and not(contains(@spokeBy, 'Alice_Turner')) and not(contains(@spokeBy, 'Hosmer_Angel')) and not(contains(@spokeBy, 'John_Clay')) and not(contains(@spokeBy, 'Unknown')) ] => count()
                             let $otherPercent := $otherCount div $count
                             let $otherBar := $otherPercent *$barSize
-                            let $otherBarStart := $AliceTurnerBarStart + $AliceTurnerBar
+                            let $otherBarStart := $UnknownBarStart + $UnknownBar
                             return
                             <g>
                                 <text
@@ -136,6 +173,55 @@ declare variable $stories := //Q{}story;
                                             y2="{$pos * $yspacer}"
                                             stroke="pink"
                                             stroke-width="15"/>
+                                                                        <line 
+                                            x1="{$VictorHatherleyBarStart * $xspacer}"
+                                            y1="{$pos * $yspacer}"
+                                            x2="{$VictorHatherleyBar * $xspacer + $VictorHatherleyBarStart * $xspacer}"
+                                            y2="{$pos * $yspacer}"
+                                            stroke="brown"
+                                            stroke-width="15"/>
+                                                                        <line 
+                                            x1="{$JamesWindibankBarStart * $xspacer}"
+                                            y1="{$pos * $yspacer}"
+                                            x2="{$JamesWindibankBar * $xspacer + $JamesWindibankBarStart * $xspacer}"
+                                            y2="{$pos * $yspacer}"
+                                            stroke="orange"
+                                            stroke-width="15"/>
+                                            <line 
+                                            x1="{$HosmerAngelBarStart * $xspacer}"
+                                            y1="{$pos * $yspacer}"
+                                            x2="{$HosmerAngelBar * $xspacer + $HosmerAngelBarStart * $xspacer}"
+                                            y2="{$pos * $yspacer}"
+                                            stroke="apricot"
+                                            stroke-width="15"/>
+                                                                        <line 
+                                            x1="{$JohnClayBarStart * $xspacer}"
+                                            y1="{$pos * $yspacer}"
+                                            x2="{$JohnClayBar * $xspacer + $JohnClayBarStart * $xspacer}"
+                                            y2="{$pos * $yspacer}"
+                                            stroke="amber"
+                                            stroke-width="15"/>
+                                                                        <line 
+                                            x1="{$AlexanderHolderBarStart * $xspacer}"
+                                            y1="{$pos * $yspacer}"
+                                            x2="{$AlexanderHolderBar * $xspacer + $AlexanderHolderBarStart * $xspacer}"
+                                            y2="{$pos * $yspacer}"
+                                            stroke="liver"
+                                            stroke-width="15"/>
+                                                                        <line 
+                                            x1="{$VioletHunterBarStart * $xspacer}"
+                                            y1="{$pos * $yspacer}"
+                                            x2="{$VioletHunterBar * $xspacer + $VioletHunterBarStart * $xspacer}"
+                                            y2="{$pos * $yspacer}"
+                                            stroke="lavender"
+                                            stroke-width="15"/>
+                                                                        <line 
+                                            x1="{$UnknownBarStart * $xspacer}"
+                                            y1="{$pos * $yspacer}"
+                                            x2="{$UnknownBar * $xspacer + $UnknownBarStart * $xspacer}"
+                                            y2="{$pos * $yspacer}"
+                                            stroke="lime"
+                                            stroke-width="15"/>
                                                                                                             <line 
                                             x1="{$otherBarStart * $xspacer}"
                                             y1="{$pos * $yspacer}"
@@ -143,13 +229,42 @@ declare variable $stories := //Q{}story;
                                             y2="{$pos * $yspacer}"
                                             stroke="blue"
                                             stroke-width="15"/>
-                                        
+                                            
+                           <!--****************25, 50, 75% lines**************-->
+                                            <!--25%-->  <line
+                                            x1="187.5"
+                                            y1="0"
+                                            x2="187.5"
+                                            y2="325"
+                                            stroke="black"
+                                            stroke-width="2"
+                                            />
+                                            <!--50%-->  <line
+                                            x1="375"
+                                            y1="0"
+                                            x2="375"
+                                            y2="325"
+                                            stroke="black"
+                                            stroke-width="2"
+                                            />
+                                            <text x="367.5" y="345">50%</text>
+                                            <!--75%-->  <line
+                                            x1="562.5"
+                                            y1="0"
+                                            x2="562.5"
+                                            y2="325"
+                                            stroke="black"
+                                            stroke-width="2"
+                                            />
                                     </g>
                             </g>
                     }
                 </g>
             </g>
         </svg>  
-        <p>Sherlock Holmes is Cyan, John Watson is Black, Lestrade is Gray, Mary Sutherland is Green, Irene Adler is Orange, Mary Watson is Red, Bradstreet is Yellow, Alice Turner is Pink, Other Characters are Blue</p>
+        <center>Sherlock Holmes is Cyan, John Watson is Black, Lestrade is Gray, Mary Sutherland is Green, </center>
+        <center>Irene Adler is Orange, Mary Watson is Red, Bradstreet is Yellow, Alice Turner is Pink, </center>
+        <center>Victor Hatherley is Brown, James Windibank is Orange, Hosmer Angel is Apricot, John Clay is Amber, </center>
+        <center>Alexander Holder is Liver, Violet Hunter is Lavender, Unknown/Not-named Characters are Lime, Other Characters are Blue</center>
     </body>
 </html>

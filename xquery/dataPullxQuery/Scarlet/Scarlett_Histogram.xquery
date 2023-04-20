@@ -71,10 +71,15 @@ declare variable $chapters := //Q{}chapter;
                             let $JosephStrangersonBar := $JosephStrangersonPercent *$barSize
                             let $JosephStrangersonBarStart := $EnochJDrebberBarStart + $EnochJDrebberBar
                             
-                            let $otherCount := $chapter//Q{}p/Q{}quote[not(contains(@spokeBy, 'Sherlock_Holmes')) and not(contains(@spokeBy, 'John_Watson')) and not(contains(@spokeBy, 'Mary_Sutherland')) and not(contains(@spokeBy, 'Irene_Adler')) and not(contains(@spokeBy, 'Mary_Watson')) and not(contains(@spokeBy, 'Lestrade')) and not(contains(@spokeBy, 'Bradstreet')) and not(contains(@spokeBy, 'Alice_Turner')) ] => count()
+                            let $UnknownCount := $chapter//Q{}p/Q{}quote[data(@spokeBy = 'Unknown')] => count()
+                            let $UnknownPercent := $UnknownCount div $count
+                            let $UnknownBar := $UnknownPercent *$barSize
+                            let $UnknownBarStart := $JosephStrangersonBarStart + $JosephStrangersonBar
+                            
+                            let $otherCount := $chapter//Q{}p/Q{}quote[not(contains(@spokeBy, 'Sherlock_Holmes')) and not(contains(@spokeBy, 'John_Watson')) and not(contains(@spokeBy, 'Mary_Sutherland')) and not(contains(@spokeBy, 'Irene_Adler')) and not(contains(@spokeBy, 'Mary_Watson')) and not(contains(@spokeBy, 'Lestrade')) and not(contains(@spokeBy, 'Bradstreet')) and not(contains(@spokeBy, 'Alice_Turner')) and not(contains(@spokeBy, 'Joseph_Strangerson')) and not(contains(@spokeBy, 'Unknown')) ] => count()
                             let $otherPercent := $otherCount div $count
                             let $otherBar := $otherPercent *$barSize
-                            let $otherBarStart := $JosephStrangersonBarStart + $JosephStrangersonBar
+                            let $otherBarStart := $UnknownBarStart + $UnknownBar
                             return
                             <g>
                                 <text
@@ -148,6 +153,13 @@ declare variable $chapters := //Q{}chapter;
                                             y2="{$pos * $yspacer}"
                                             stroke="purple"
                                             stroke-width="15"/>
+                                                                   <line 
+                                            x1="{$UnknownBarStart * $xspacer}"
+                                            y1="{$pos * $yspacer}"
+                                            x2="{$UnknownBar * $xspacer + $UnknownBarStart * $xspacer}"
+                                            y2="{$pos * $yspacer}"
+                                            stroke="lime"
+                                            stroke-width="15"/>
                                                                  <line 
                                             x1="{$otherBarStart * $xspacer}"
                                             y1="{$pos * $yspacer}"
@@ -156,6 +168,32 @@ declare variable $chapters := //Q{}chapter;
                                             stroke="blue"
                                             stroke-width="15"/>
                                         
+                             <!--*************25, 50, 75% lines*************-->
+                                            <!--25%-->  <line
+                                            x1="187.5"
+                                            y1="0"
+                                            x2="187.5"
+                                            y2="370"
+                                            stroke="black"
+                                            stroke-width="2"
+                                            />
+                                            <!--50%-->  <line
+                                            x1="375"
+                                            y1="0"
+                                            x2="375"
+                                            y2="370"
+                                            stroke="black"
+                                            stroke-width="2"
+                                            />
+                                            <text x="367.5" y="390">50%</text>
+                                            <!--75%-->  <line
+                                            x1="562.5"
+                                            y1="0"
+                                            x2="562.5"
+                                            y2="370"
+                                            stroke="black"
+                                            stroke-width="2"
+                                            />
                                     </g>
                             </g>
                     }
@@ -164,6 +202,6 @@ declare variable $chapters := //Q{}chapter;
         </svg>  
         <center>Sherlock Holmes is Cyan, John Watson is Black, Lestrade is Gray, Tobias Gregson is Green, </center>
         <center>Lucy Ferrier is Orange, John Ferrier is Red, Jefferson Hope is Yellow, Enoch J Drebber is Pink, </center>
-        <center>Joseph Strangerson is Purple, Other Characters are Blue</center>
+        <center>Joseph Strangerson is Purple, Unknown/Not-named Characters are Lime, Other Characters are Blue</center>
     </body>
 </html>

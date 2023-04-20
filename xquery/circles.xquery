@@ -5,11 +5,15 @@ declare option saxon:output "doctype-public=-//W3C//DTD XHTML 1.0 Strict//EN";
 declare variable $ad:= doc('../xml/The_Adventures_of_Sherlock_Holmes.xml');
 declare variable $sc:= doc('../xml/The_Study_in_Scarlet.xml');
 
+<<<<<<< HEAD
 
 <html>
 <head></head>
 <body>
 <h1>Relative sizes: Stories, quotes</h1>
+=======
+(:whc: you'll want to declare a similar global variable here for Scarlet:)
+>>>>>>> 07232ae03ac6bfc1d987b36e7eb80a2e31297355
 
 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 5000 5000">
     <g transform="translate(0,0)">
@@ -24,7 +28,7 @@ declare variable $sc:= doc('../xml/The_Study_in_Scarlet.xml');
         <circle stroke="green" stroke-width="5" fill="yellow"
         cx="150" cy="100" r="{
           let $quote_length:= $ad//Q{}quote=>string-join()=>string-length()
-          return math:sqrt($quote_length div 5.5)}"/>
+          return math:sqrt($quote_length ) div 5.5}"/>
           
          
           
@@ -54,7 +58,7 @@ declare variable $sc:= doc('../xml/The_Study_in_Scarlet.xml');
         <circle stroke="green" stroke-width="5" fill="yellow"
         cx="" cy="800" r="{
           let $quote_length:= $sc//Q{}quote=>string-join()=>string-length()
-          return math:sqrt($quote_length div 5.5)}"/>
+          return math:sqrt($quote_length )div 5.5}"/>
           
          
           
@@ -74,5 +78,3 @@ declare variable $sc:= doc('../xml/The_Study_in_Scarlet.xml');
         </g>
     </g>
 </svg>
-</body>
-</html>
