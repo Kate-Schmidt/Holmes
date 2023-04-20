@@ -20,6 +20,16 @@ html{
   src: url(Merriweather/Merriweather-BoldItalic.ttf);
 }
 
+@font-face {
+  font-family: MWLight;
+  src: url(Merriweather/Merriweather-Light.ttf);
+}
+
+@font-face {
+  font-family: MWItalic;
+  src: url(Merriweather/Merriweather-LightItalic.ttf);
+}
+
 body {
   padding-left: 15px;
   padding-right: 15px;
@@ -38,8 +48,21 @@ h1{
   padding-top: 15px;
 }
 
+b{
+  font-family: MWBitalic;
+}
+
+i{
+  font-family: MWItalic;
+}
+
 .title{
   font-size: 2.5rem;
+}
+
+hr{
+  width: 70%;
+  margin: auto;
 }
 
 h2,h3,h4,h5,h6{
@@ -76,22 +99,46 @@ nav{
   background: #989898;
 }
 
-/*------------------------------------- Home Page ------------------------------------------------ */
+.section-divider{
+  display: block;
+  height: 1px;
+  margin: 0;
+  border: none;
+  background-color: rgba(37, 37, 37, .65);
+  width: 85%;
+  margin: auto;
+}
+
+/* ------------------------------------- Home Page ------------------------------------------------ */
 
 .intro{
   width: 65%;
-  margin: auto;
-  text-align: center;
-  margin-top: 2.5rem;
+  text-align: justify;
   text-justify: inter-word;
-  font-family: MWBlack;
+  margin: 2.5rem auto 2.5rem auto;
+  font-family: MWLight;
 }
 
-.intro > img{
-  margin-bottom: 1rem;
+.intro > ul{
+  list-style: none;
+}
+
+.intro > ul > li{
+  display: flex;
+  flex-direction: column;
+}
+
+.intro > ul > li > p{
+  padding-top: 0;
+  margin-top: .25rem;
+}
+
+.intro > ul > li:not(:last-child){
+  margin-bottom: .10rem;
 }
 
 img{
+  margin: 1rem;
   box-shadow: 0px 3px 25px #a3a2a2, 0px 0px 25px #a3a2a2;
 }
 
@@ -310,7 +357,7 @@ details > summary::-webkit-details-marker {
   scroll-margin-top: 7.10rem;
 }
 
-/* ------------------------- Analysis Page ---------------------------- */
+/* ---------------------------------------- Analysis Page -------------------------------------------------- */
 
 .section-analysis{
   padding: 2.5rem 5rem 2.5rem 5rem;
@@ -411,8 +458,9 @@ details > summary::-webkit-details-marker {
   display: flex;
   flex-wrap: nowrap;
   align-items: center;
+  margin-top: 1.5rem;
 }
-.svg>a>svg{
+.svg > a > svg{
   background: rgba(237, 232, 211, .3);
   box-shadow: 0px 3px 25px #a3a2a2, 0px 0px 25px #a3a2a2;
 }
@@ -421,4 +469,38 @@ details > summary::-webkit-details-marker {
   text-orientation: upright;
   font-family: MWblack;
   text-shadow: 0px 3px 2px #a3a2a2;
+}
+
+/* ----------------------------- Documentation Page ------------------------------------ */
+
+.timeline{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  width: 75%;
+  margin: 2.5rem auto 2.5rem auto;
+}
+
+.date{
+  margin: 1rem; 
+  max-width: 25%;
+  min-width: 250px;
+  padding: 1rem 1.5rem 1rem 1.5rem;
+  box-shadow: 0px 3px 25px #a3a2a2, 0px 0px 25px #a3a2a2;
+}
+
+.date > ul{
+  list-style: none;
+  padding-left: 0;
+  font-family: MWLight;
+}
+
+.date > ul > li:not(:last-child){
+  padding-bottom: 1rem;
+}
+
+
+.date > ul > li > ul {
+  font-family: MWItalic;
+  list-style: none;
 }
