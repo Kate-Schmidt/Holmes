@@ -21,7 +21,7 @@ const createEditor = (fileName) => {
     }else if(root.getAttribute('class')=='editor2'){
         editor2 = ace.edit(root);
         editor2.setTheme("ace/theme/idle_fingers");
-        editor2.session.setMode("ace/mode/js");
+        editor2.session.setMode("ace/mode/javascript");
     }
     
 }

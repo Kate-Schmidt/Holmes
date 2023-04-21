@@ -17,7 +17,7 @@ I was duly attached to the Fifth Northumberland Fusiliers as Assistant
 Surgeon. The regiment was stationed in India at the time, and before I
 could join it, the second Afghan war had broken out. On landing at
 Bombay, I learned that my corps had advanced through the passes, and
-was already deep in the enemy’s country. I followed, however, with many
+was already deep in the enemy's country. I followed, however, with many
 other officers who were in the same situation as myself, and succeeded
 in reaching Candahar in safety, where I found my regiment, and at once
 entered upon my new duties.
@@ -91,7 +91,7 @@ misfortunes. <span class="Stamford">"What are you up to now?"</span>
 whether it is possible to get comfortable rooms at a reasonable price."</span>
 </p>
 
-<p><span class="Stamford">"That’s a strange thing,"</span> remarked my companion; <span class="Stamford">"you are the second
+<p><span class="Stamford">"That's a strange thing,"</span> remarked my companion; <span class="Stamford">"you are the second
 man to-day that has used that expression to me."</span>
 </p>
 
@@ -110,14 +110,14 @@ partner to being alone."</span>
 </p>
 
 <p>Young Stamford looked rather strangely at me over his wine-glass. <span class="Stamford">"You
-don’t know Sherlock Holmes yet,"</span> he said; <span class="Stamford">"perhaps you would not care
+don't know Sherlock Holmes yet,"</span> he said; <span class="Stamford">"perhaps you would not care
 for him as a constant companion."</span>
 </p>
 
 <p><span class="John_Watson">"Why, what is there against him?"</span>
 </p>
 
-<p><span class="Stamford">"Oh, I didn’t say there was anything against him. He is a little queer
+<p><span class="Stamford">"Oh, I didn't say there was anything against him. He is a little queer
 in his ideas—an enthusiast in some branches of science. As far as I
 know he is a decent fellow enough."</span>
 </p>
@@ -160,16 +160,16 @@ gave me a few more particulars about the gentleman whom I proposed to
 take as a fellow-lodger.
 </p>
 
-<p><span class="Stamford">"You mustn’t blame me if you don’t get on with him,"</span> he said; <span class="Stamford">"I know
+<p><span class="Stamford">"You mustn't blame me if you don't get on with him,"</span> he said; <span class="Stamford">"I know
 nothing more of him than I have learned from meeting him occasionally
 in the laboratory. You proposed this arrangement, so you must not hold
 me responsible."</span>
 </p>
 
-<p><span class="John_Watson">"If we don’t get on it will be easy to part company,"</span> I answered. <span class="John_Watson">"It
+<p><span class="John_Watson">"If we don't get on it will be easy to part company,"</span> I answered. <span class="John_Watson">"It
 seems to me, Stamford,"</span> I added, looking hard at my companion, <span class="John_Watson">"that
 you have some reason for washing your hands of the matter. Is this
-fellow’s temper so formidable, or what is it? Don’t be mealy-mouthed
+fellow's temper so formidable, or what is it? Don't be mealy-mouthed
 about it."</span>
 </p>
 
@@ -216,7 +216,7 @@ Broad, low tables were scattered about, which bristled with retorts,
 test-tubes, and little Bunsen lamps, with their blue flickering flames.
 There was only one student in the room, who was bending over a distant
 table absorbed in his work. At the sound of our steps he glanced round
-and sprang to his feet with a cry of pleasure. <span class="Stamford">"I’ve found it! I’ve
+and sprang to his feet with a cry of pleasure. <span class="Stamford">"I've found it! I've
 found it,"</span> he shouted to my companion, running towards us with a
 test-tube in his hand. <span class="Stamford">"I have found a re-agent which is precipitated
 by hæmoglobin, and by nothing else."</span> Had he discovered a gold mine,
@@ -244,7 +244,7 @@ practically——"</span>
 </p>
 
 <p><span class="Sherlock_Holmes">"Why, man, it is the most practical medico-legal discovery for years.
-Don’t you see that it gives us an infallible test for blood stains.
+Don't you see that it gives us an infallible test for blood stains.
 Come over here now!"</span> He seized me by the coat-sleeve in his eagerness,
 and drew me over to the table at which he had been working. <span class="Sherlock_Holmes">"Let us
 have some fresh blood,"</span> he said, digging a long bodkin into his finger,
@@ -283,7 +283,7 @@ linen or clothes are examined, and brownish stains discovered upon
 them. Are they blood stains, or mud stains, or rust stains, or fruit
 stains, or what are they? That is a question which has puzzled many an
 expert, and why? Because there was no reliable test. Now we have the
-Sherlock Holmes’ test, and there will no longer be any difficulty."</span>
+Sherlock Holmes' test, and there will no longer be any difficulty."</span>
 </p>
 
 <p>His eyes fairly glittered as he spoke, and he put his hand over his
@@ -303,8 +303,8 @@ in which it would have been decisive."</span>
 </p>
 
 <p><span class="Stamford">"You seem to be a walking calendar of crime,"</span> said Stamford with a
-laugh. <span class="Stamford">"You might start a paper on those lines. Call it the ‘Police
-News of the Past.’"</span>
+laugh. <span class="Stamford">"You might start a paper on those lines. Call it the 'Police
+News of the Past.'"</span>
 </p>
 
 <p><span class="Sherlock_Holmes">"Very interesting reading it might be made, too,"</span> remarked Sherlock
@@ -324,14 +324,14 @@ that I had better bring you together."</span>
 
 <p>Sherlock Holmes seemed delighted at the idea of sharing his rooms with
 me. <span class="Sherlock_Holmes">"I have my eye on a suite in Baker Street,"</span> he said, <span class="Sherlock_Holmes">"which would
-suit us down to the ground. You don’t mind the smell of strong tobacco,
+suit us down to the ground. You don't mind the smell of strong tobacco,
 I hope?"</span>
 </p>
 
-<p><span class="John_Watson">"I always smoke ‘ship’s’ myself,"</span> I answered.
+<p><span class="John_Watson">"I always smoke 'ship's' myself,"</span> I answered.
 </p>
 
-<p><span class="Sherlock_Holmes">"That’s good enough. I generally have chemicals about, and occasionally
+<p><span class="Sherlock_Holmes">"That's good enough. I generally have chemicals about, and occasionally
 do experiments. Would that annoy you?"</span>
 </p>
 
@@ -339,16 +339,16 @@ do experiments. Would that annoy you?"</span>
 </p>
 
 <p><span class="Sherlock_Holmes">"Let me see—what are my other shortcomings. I get in the dumps at
-times, and don’t open my mouth for days on end. You must not think I am
-sulky when I do that. Just let me alone, and I’ll soon be right. What
-have you to confess now? It’s just as well for two fellows to know the
+times, and don't open my mouth for days on end. You must not think I am
+sulky when I do that. Just let me alone, and I'll soon be right. What
+have you to confess now? It's just as well for two fellows to know the
 worst of one another before they begin to live together."</span>
 </p>
 
 <p>I laughed at this cross-examination. <span class="John_Watson">"I keep a bull pup,"</span> I said, <span class="John_Watson">"and
 I object to rows because my nerves are shaken, and I get up at all
 sorts of ungodly hours, and I am extremely lazy. I have another set of
-vices when I’m well, but those are the principal ones at present."</span>
+vices when I'm well, but those are the principal ones at present."</span>
 </p>
 
 <p><span class="Sherlock_Holmes">"Do you include violin-playing in your category of rows?"</span> he asked,
@@ -359,7 +359,7 @@ anxiously.
 treat for the gods—a badly-played one——"</span>
 </p>
 
-<p><span class="Sherlock_Holmes">"Oh, that’s all right,"</span> he cried, with a merry laugh. <span class="Sherlock_Holmes">"I think we may
+<p><span class="Sherlock_Holmes">"Oh, that's all right,"</span> he cried, with a merry laugh. <span class="Sherlock_Holmes">"I think we may
 consider the thing as settled—that is, if the rooms are agreeable to
 you."</span>
 </p>
@@ -367,7 +367,7 @@ you."</span>
 <p><span class="John_Watson">"When shall we see them?"</span>
 </p>
 
-<p><span class="Sherlock_Holmes">"Call for me here at noon to-morrow, and we’ll go together and settle
+<p><span class="Sherlock_Holmes">"Call for me here at noon to-morrow, and we'll go together and settle
 everything,"</span> he answered.
 </p>
 
@@ -382,18 +382,18 @@ my hotel.
 <span class="John_Watson">"how the deuce did he know that I had come from Afghanistan?"</span>
 </p>
 
-<p>My companion smiled an enigmatical smile. <span class="Stamford">"That’s just his little
+<p>My companion smiled an enigmatical smile. <span class="Stamford">"That's just his little
 peculiarity,"</span> he said. <span class="Stamford">"A good many people have wanted to know how he
 finds things out."</span>
 </p>
 
 <p><span class="John_Watson">"Oh! a mystery is it?"</span> I cried, rubbing my hands. <span class="John_Watson">"This is very
-piquant. I am much obliged to you for bringing us together. ‘The proper
-study of mankind is man,’ you know."</span>
+piquant. I am much obliged to you for bringing us together. 'The proper
+study of mankind is man,' you know."</span>
 </p>
 
 <p><span class="Stamford">"You must study him, then,"</span> Stamford said, as he bade me good-bye.
-<span class="Stamford">"You’ll find him a knotty problem, though. I’ll wager he learns more
+<span class="Stamford">"You'll find him a knotty problem, though. I'll wager he learns more
 about you than you about him. Good-bye."</span>
 </p>
 
@@ -470,7 +470,7 @@ companion, and spent much of my time in endeavouring to unravel it.
 </p>
 
 <p>He was not studying medicine. He had himself, in reply to a question,
-confirmed Stamford’s opinion upon that point. Neither did he appear to
+confirmed Stamford's opinion upon that point. Neither did he appear to
 have pursued any course of reading which might fit him for a degree in
 science or any other recognized portal which would give him an entrance
 into the learned world. Yet his zeal for certain studies was
@@ -501,7 +501,7 @@ surprise. <span class="Sherlock_Holmes">"Now that I do know it I shall do my bes
 <p><span class="John_Watson">"To forget it!"</span>
 </p>
 
-<p><span class="Sherlock_Holmes">"You see,"</span> he explained, <span class="Sherlock_Holmes">"I consider that a man’s brain originally is
+<p><span class="Sherlock_Holmes">"You see,"</span> he explained, <span class="Sherlock_Holmes">"I consider that a man's brain originally is
 like a little empty attic, and you have to stock it with such furniture
 as you choose. A fool takes in all the lumber of every sort that he
 comes across, so that the knowledge which might be useful to him gets
@@ -574,7 +574,7 @@ I said to myself, <span class="John_Watson">"I may as well give up the attempt a
 <p>I see that I have alluded above to his powers upon the violin. These
 were very remarkable, but as eccentric as all his other
 accomplishments. That he could play pieces, and difficult pieces, I
-knew well, because at my request he has played me some of Mendelssohn’s
+knew well, because at my request he has played me some of Mendelssohn's
 Lieder, and other favourites. When left to himself, however, he would
 seldom produce any music or attempt any recognized air. Leaning back in
 his arm-chair of an evening, he would close his eyes and scrape
@@ -631,7 +631,7 @@ being a remarkable mixture of shrewdness and of absurdity. The
 reasoning was close and intense, but the deductions appeared to me to
 be far-fetched and exaggerated. The writer claimed by a momentary
 expression, a twitch of a muscle or a glance of an eye, to fathom a
-man’s inmost thoughts. Deceit, according to him, was an impossibility
+man's inmost thoughts. Deceit, according to him, was an impossibility
 in the case of one trained to observation and analysis. His conclusions
 were as infallible as so many propositions of Euclid. So startling
 would his results appear to the uninitiated that until they learned the
@@ -652,9 +652,9 @@ problems. Let him, on meeting a fellow-mortal, learn at a glance to
 distinguish the history of the man, and the trade or profession to
 which he belongs. Puerile as such an exercise may seem, it sharpens the
 faculties of observation, and teaches one where to look and what to
-look for. By a man’s finger nails, by his coat-sleeve, by his boot, by
+look for. By a man's finger nails, by his coat-sleeve, by his boot, by
 his trouser knees, by the callosities of his forefinger and thumb, by
-his expression, by his shirt cuffs—by each of these things a man’s
+his expression, by his shirt cuffs—by each of these things a man's
 calling is plainly revealed. That all united should fail to enlighten
 the competent enquirer in any case is almost inconceivable."</span>
 </p>
@@ -668,7 +668,7 @@ table, <span class="John_Watson">"I never read such rubbish in my life."</span>
 
 <p><span class="John_Watson">"Why, this article,"</span> I said, pointing at it with my egg spoon as I sat
 down to my breakfast. <span class="John_Watson">"I see that you have read it since you have
-marked it. I don’t deny that it is smartly written. It irritates me
+marked it. I don't deny that it is smartly written. It irritates me
 though. It is evidently the theory of some arm-chair lounger who
 evolves all these neat little paradoxes in the seclusion of his own
 study. It is not practical. I should like to see him clapped down in a
@@ -694,14 +694,14 @@ upon them for my bread and cheese."</span>
 </p>
 
 <p><span class="Sherlock_Holmes">"Well, I have a trade of my own. I suppose I am the only one in the
-world. I’m a consulting detective, if you can understand what that is.
+world. I'm a consulting detective, if you can understand what that is.
 Here in London we have lots of Government detectives and lots of
 private ones. When these fellows are at fault they come to me, and I
 manage to put them on the right scent. They lay all the evidence before
 me, and I am generally able, by the help of my knowledge of the history
 of crime, to set them straight. There is a strong family resemblance
 about misdeeds, and if you have all the details of a thousand at your
-finger ends, it is odd if you can’t unravel the thousand and first.
+finger ends, it is odd if you can't unravel the thousand and first.
 Lestrade is a well-known detective. He got himself into a fog recently
 over a forgery case, and that was what brought him here."</span>
 </p>
@@ -737,32 +737,32 @@ on our first meeting, that you had come from Afghanistan."</span>
 habit the train of thoughts ran so swiftly through my mind, that I
 arrived at the conclusion without being conscious of intermediate
 steps. There were such steps, however. The train of reasoning ran,
-‘Here is a gentleman of a medical type, but with the air of a military
+'Here is a gentleman of a medical type, but with the air of a military
 man. Clearly an army doctor, then. He has just come from the tropics,
 for his face is dark, and that is not the natural tint of his skin, for
 his wrists are fair. He has undergone hardship and sickness, as his
 haggard face says clearly. His left arm has been injured. He holds it
 in a stiff and unnatural manner. Where in the tropics could an English
 army doctor have seen much hardship and got his arm wounded? Clearly in
-Afghanistan.’ The whole train of thought did not occupy a second. I
+Afghanistan.' The whole train of thought did not occupy a second. I
 then remarked that you came from Afghanistan, and you were astonished."</span>
 </p>
 
 <p><span class="John_Watson">"It is simple enough as you explain it,"</span> I said, smiling. <span class="John_Watson">"You remind
-me of Edgar Allen Poe’s Dupin. I had no idea that such individuals did
+me of Edgar Allen Poe's Dupin. I had no idea that such individuals did
 exist outside of stories."</span>
 </p>
 
 <p>Sherlock Holmes rose and lit his pipe. <span class="Sherlock_Holmes">"No doubt you think that you are
 complimenting me in comparing me to Dupin,"</span> he observed. <span class="Sherlock_Holmes">"Now, in my
 opinion, Dupin was a very inferior fellow. That trick of his of
-breaking in on his friends’ thoughts with an apropos remark after a
-quarter of an hour’s silence is really very showy and superficial. He
+breaking in on his friends' thoughts with an apropos remark after a
+quarter of an hour's silence is really very showy and superficial. He
 had some analytical genius, no doubt; but he was by no means such a
 phenomenon as Poe appeared to imagine."</span>
 </p>
 
-<p><span class="John_Watson">"Have you read Gaboriau’s works?"</span> I asked. <span class="John_Watson">"Does Lecoq come up to your
+<p><span class="John_Watson">"Have you read Gaboriau's works?"</span> I asked. <span class="John_Watson">"Does Lecoq come up to your
 idea of a detective?"</span>
 </p>
 
@@ -852,7 +852,7 @@ gone.
 
 
 <p>I confess that I was considerably startled by this fresh proof of the
-practical nature of my companion’s theories. My respect for his powers
+practical nature of my companion's theories. My respect for his powers
 of analysis increased wondrously. There still remained some lurking
 suspicion in my mind, however, that the whole thing was a pre-arranged
 episode, intended to dazzle me, though what earthly object he could
@@ -883,7 +883,7 @@ man was a sergeant of Marines?"</span>
 asked to prove that two and two made four, you might find some
 difficulty, and yet you are quite sure of the fact. Even across the
 street I could see a great blue anchor tattooed on the back of the
-fellow’s hand. That smacked of the sea. He had a military carriage,
+fellow's hand. That smacked of the sea. He had a military carriage,
 however, and regulation side whiskers. There we have the marine. He was
 a man with some amount of self-importance and a certain air of command.
 You must have observed the way in which he held his head and swung his
@@ -918,8 +918,8 @@ Gardens, off the Brixton Road. Our man on the beat saw a light there
 about two in the morning, and as the house was an empty one, suspected
 that something was amiss. He found the door open, and in the front
 room, which is bare of furniture, discovered the body of a gentleman,
-well dressed, and having cards in his pocket bearing the name of ‘Enoch
-J. Drebber, Cleveland, Ohio, U.S.A.’ There had been no robbery, nor is
+well dressed, and having cards in his pocket bearing the name of 'Enoch
+J. Drebber, Cleveland, Ohio, U.S.A.' There had been no robbery, nor is
 there any evidence as to how the man met his death. There are marks of
 blood in the room, but there is no wound upon his person. We are at a
 loss as to how he came into the empty house; indeed, the whole affair
@@ -946,7 +946,7 @@ upon the scent."</span>
 not a moment to be lost,"</span> I cried, <span class="John_Watson">"shall I go and order you a cab?"</span>
 </p>
 
-<p><span class="Sherlock_Holmes">"I’m not sure about whether I shall go. I am the most incurably lazy
+<p><span class="Sherlock_Holmes">"I'm not sure about whether I shall go. I am the most incurably lazy
 devil that ever stood in shoe leather—that is, when the fit is on me,
 for I can be spry enough at times."</span>
 </p>
@@ -990,8 +990,8 @@ Amati. As for myself, I was silent, for the dull weather and the
 melancholy business upon which we were engaged, depressed my spirits.
 </p>
 
-<p><span class="John_Watson">"You don’t seem to give much thought to the matter in hand,"</span> I said at
-last, interrupting Holmes’ musical disquisition.
+<p><span class="John_Watson">"You don't seem to give much thought to the matter in hand,"</span> I said at
+last, interrupting Holmes' musical disquisition.
 </p>
 
 <p><span class="Sherlock_Holmes">"No data yet,"</span> he answered. <span class="Sherlock_Holmes">"It is a capital mistake to theorize before
@@ -1044,7 +1044,7 @@ could see a great deal which was hidden from me.
 
 <p>At the door of the house we were met by a tall, white-faced,
 flaxen-haired man, with a notebook in his hand, who rushed forward and
-wrung my companion’s hand with effusion. <span class="Tobias_Gregson">"It is indeed kind of you to
+wrung my companion's hand with effusion. <span class="Tobias_Gregson">"It is indeed kind of you to
 come,"</span> he said, <span class="Tobias_Gregson">"I have had everything left untouched."</span>
 </p>
 
@@ -1065,7 +1065,7 @@ much for a third party to find out,"</span> he said.
 </p>
 
 <p>Gregson rubbed his hands in a self-satisfied way. <span class="Tobias_Gregson">"I think we have done
-all that can be done,"</span> he answered; <span class="Tobias_Gregson">"it’s a queer case though, and I
+all that can be done,"</span> he answered; <span class="Tobias_Gregson">"it's a queer case though, and I
 knew your taste for such things."</span>
 </p>
 
@@ -1152,7 +1152,7 @@ numerous gouts and splashes of blood which lay all round.
 <p><span class="Sherlock_Holmes">"Then, of course, this blood belongs to a second individual—presumably
 the murderer, if murder has been committed. It reminds me of the
 circumstances attendant on the death of Van Jansen, in Utrecht, in the
-year ‘34. Do you remember the case, Gregson?"</span>
+year '34. Do you remember the case, Gregson?"</span>
 </p>
 
 <p><span class="Tobias_Gregson">"No, sir."</span>
@@ -1167,7 +1167,7 @@ everywhere, feeling, pressing, unbuttoning, examining, while his eyes
 wore the same far-away expression which I have already remarked upon.
 So swiftly was the examination made, that one would hardly have guessed
 the minuteness with which it was conducted. Finally, he sniffed the
-dead man’s lips, and then glanced at the soles of his patent leather
+dead man's lips, and then glanced at the soles of his patent leather
 boots.
 </p>
 
@@ -1187,7 +1187,7 @@ him, a ring tinkled down and rolled across the floor. Lestrade grabbed
 it up and stared at it with mystified eyes.
 </p>
 
-<p><span class="Lestrade">"There’s been a woman here,"</span> he cried. <span class="Lestrade">"It’s a woman’s wedding-ring."</span>
+<p><span class="Lestrade">"There's been a woman here,"</span> he cried. <span class="Lestrade">"It's a woman's wedding-ring."</span>
 </p>
 
 <p>He held it out, as he spoke, upon the palm of his hand. We all gathered
@@ -1199,7 +1199,7 @@ plain gold had once adorned the finger of a bride.
 complicated enough before."</span>
 </p>
 
-<p><span class="Sherlock_Holmes">"You’re sure it doesn’t simplify them?"</span> observed Holmes. <span class="Sherlock_Holmes">"There’s
+<p><span class="Sherlock_Holmes">"You're sure it doesn't simplify them?"</span> observed Holmes. <span class="Sherlock_Holmes">"There's
 nothing to be learned by staring at it. What did you find in his
 pockets?"</span>
 </p>
@@ -1207,11 +1207,11 @@ pockets?"</span>
 <p><span class="Tobias_Gregson">"We have it all here,"</span> said Gregson, pointing to a litter of objects
 upon one of the bottom steps of the stairs. <span class="Tobias_Gregson">"A gold watch, No. 97163,
 by Barraud, of London. Gold Albert chain, very heavy and solid. Gold
-ring, with masonic device. Gold pin—bull-dog’s head, with rubies as
+ring, with masonic device. Gold pin—bull-dog's head, with rubies as
 eyes. Russian leather card-case, with cards of Enoch J. Drebber of
 Cleveland, corresponding with the E. J. D. upon the linen. No purse,
 but loose money to the extent of seven pounds thirteen. Pocket edition
-of Boccaccio’s 'Decameron', with name of Joseph Stangerson upon the
+of Boccaccio's 'Decameron', with name of Joseph Stangerson upon the
 fly-leaf. Two letters—one addressed to E. J. Drebber and one to Joseph
 Stangerson."</span>
 </p>
@@ -1271,7 +1271,7 @@ importance, and one which would have been overlooked had I not made a
 careful examination of the walls."</span>
 </p>
 
-<p>The little man’s eyes sparkled as he spoke, and he was evidently in a
+<p>The little man's eyes sparkled as he spoke, and he was evidently in a
 state of suppressed exultation at having scored a point against his
 colleague.
 </p>
@@ -1318,16 +1318,16 @@ a depreciatory voice.
 <p><span class="Sherlock_Holmes">"Mean? Why, it means that the writer was going to put the female name
 Rachel, but was disturbed before he or she had time to finish. You mark
 my words, when this case comes to be cleared up you will find that a
-woman named Rachel has something to do with it. It’s all very well for
+woman named Rachel has something to do with it. It's all very well for
 you to laugh, Mr. Sherlock Holmes. You may be very smart and clever,
 but the old hound is the best, when all is said and done."</span>
 </p>
 
 <p><span class="Sherlock_Holmes">"I really beg your pardon!"</span> said my companion, who had ruffled the
-little man’s temper by bursting into an explosion of laughter. <span class="Sherlock_Holmes">"You
+little man's temper by bursting into an explosion of laughter. <span class="Sherlock_Holmes">"You
 certainly have the credit of being the first of us to find this out,
 and, as you say, it bears every mark of having been written by the
-other participant in last night’s mystery. I have not had time to
+other participant in last night's mystery. I have not had time to
 examine this room yet, but with your permission I shall do so now."</span>
 </p>
 
@@ -1353,14 +1353,14 @@ replaced his tape and his glass in his pocket.
 </p>
 
 <p><span class="Sherlock_Holmes">"They say that genius is an infinite capacity for taking pains,"</span> he
-remarked with a smile. <span class="Sherlock_Holmes">"It’s a very bad definition, but it does apply
+remarked with a smile. <span class="Sherlock_Holmes">"It's a very bad definition, but it does apply
 to detective work."</span>
 </p>
 
 <p>Gregson and Lestrade had watched the manœuvres of their amateur
 companion with considerable curiosity and some contempt. They evidently
 failed to appreciate the fact, which I had begun to realize, that
-Sherlock Holmes’ smallest actions were all directed towards some
+Sherlock Holmes' smallest actions were all directed towards some
 definite and practical end.
 </p>
 
@@ -1383,7 +1383,7 @@ duty now. You will find him at 46, Audley Court, Kennington Park Gate."</span>
 <p>Holmes took a note of the address.
 </p>
 
-<p><span class="Sherlock_Holmes">"Come along, Doctor,"</span> he said; <span class="Sherlock_Holmes">"we shall go and look him up. I’ll tell
+<p><span class="Sherlock_Holmes">"Come along, Doctor,"</span> he said; <span class="Sherlock_Holmes">"we shall go and look him up. I'll tell
 you one thing which may help you in the case,"</span> he continued, turning to
 the two detectives. <span class="Sherlock_Holmes">"There has been murder done, and the murderer was a
 man. He was more than six feet high, was in the prime of life, had
@@ -1402,8 +1402,8 @@ a few indications, but they may assist you."</span>
 </p>
 
 <p><span class="Sherlock_Holmes">"Poison,"</span> said Sherlock Holmes curtly, and strode off. <span class="Sherlock_Holmes">"One other
-thing, Lestrade,"</span> he added, turning round at the door: <span class="Sherlock_Holmes">"‘Rache,’ is the
-German for ‘revenge;’ so don’t lose your time looking for Miss Rachel."</span>
+thing, Lestrade,"</span> he added, turning round at the door: <span class="Sherlock_Holmes">"'Rache,' is the
+German for 'revenge;' so don't lose your time looking for Miss Rachel."</span>
 </p>
 
 <p>With which Parthian shot he walked away, leaving the two rivals
@@ -1418,7 +1418,7 @@ open-mouthed behind him.
 
 
 
-<p>It was one o’clock when we left No. 3, Lauriston Gardens. Sherlock
+<p>It was one o'clock when we left No. 3, Lauriston Gardens. Sherlock
 Holmes led me to the nearest telegraph office, whence he dispatched a
 long telegram. He then hailed a cab, and ordered the driver to take us
 to the address given us by Lestrade.
@@ -1433,37 +1433,37 @@ well learn all that is to be learned."</span>
 pretend to be of all those particulars which you gave."</span>
 </p>
 
-<p><span class="Sherlock_Holmes">"There’s no room for a mistake,"</span> he answered. <span class="Sherlock_Holmes">"The very first thing
+<p><span class="Sherlock_Holmes">"There's no room for a mistake,"</span> he answered. <span class="Sherlock_Holmes">"The very first thing
 which I observed on arriving there was that a cab had made two ruts
 with its wheels close to the curb. Now, up to last night, we have had
 no rain for a week, so that those wheels which left such a deep
 impression must have been there during the night. There were the marks
-of the horse’s hoofs, too, the outline of one of which was far more
+of the horse's hoofs, too, the outline of one of which was far more
 clearly cut than that of the other three, showing that that was a new
 shoe. Since the cab was there after the rain began, and was not there
-at any time during the morning—I have Gregson’s word for that—it
+at any time during the morning—I have Gregson's word for that—it
 follows that it must have been there during the night, and, therefore,
 that it brought those two individuals to the house."</span>
 </p>
 
-<p><span class="John_Watson">"That seems simple enough,"</span> said I; <span class="John_Watson">"but how about the other man’s
+<p><span class="John_Watson">"That seems simple enough,"</span> said I; <span class="John_Watson">"but how about the other man's
 height?"</span>
 </p>
 
 <p><span class="Sherlock_Holmes">"Why, the height of a man, in nine cases out of ten, can be told from
 the length of his stride. It is a simple calculation enough, though
-there is no use my boring you with figures. I had this fellow’s stride
+there is no use my boring you with figures. I had this fellow's stride
 both on the clay outside and on the dust within. Then I had a way of
 checking my calculation. When a man writes on a wall, his instinct
 leads him to write about the level of his own eyes. Now that writing
-was just over six feet from the ground. It was child’s play."</span>
+was just over six feet from the ground. It was child's play."</span>
 </p>
 
 <p><span class="John_Watson">"And his age?"</span> I asked.
 </p>
 
 <p><span class="Sherlock_Holmes">"Well, if a man can stride four and a-half feet without the smallest
-effort, he can’t be quite in the sere and yellow. That was the breadth
+effort, he can't be quite in the sere and yellow. That was the breadth
 of a puddle on the garden walk which he had evidently walked across.
 Patent-leather boots had gone round, and Square-toes had hopped over.
 There is no mystery about it at all. I am simply applying to ordinary
@@ -1474,9 +1474,9 @@ advocated in that article. Is there anything else that puzzles you?"</span>
 <p><span class="John_Watson">"The finger nails and the Trichinopoly,"</span> I suggested.
 </p>
 
-<p><span class="Sherlock_Holmes">"The writing on the wall was done with a man’s forefinger dipped in
+<p><span class="Sherlock_Holmes">"The writing on the wall was done with a man's forefinger dipped in
 blood. My glass allowed me to observe that the plaster was slightly
-scratched in doing it, which would not have been the case if the man’s
+scratched in doing it, which would not have been the case if the man's
 nail had been trimmed. I gathered up some scattered ash from the floor.
 It was dark in colour and flakey—such an ash as is only made by a
 Trichinopoly. I have made a special study of cigar ashes—in fact, I
@@ -1498,7 +1498,7 @@ right. You must not ask me that at the present state of the affair."</span>
 two men—if there were two men—into an empty house? What has become of
 the cabman who drove them? How could one man compel another to take
 poison? Where did the blood come from? What was the object of the
-murderer, since robbery had no part in it? How came the woman’s ring
+murderer, since robbery had no part in it? How came the woman's ring
 there? Above all, why should the second man write up the German word
 RACHE before decamping? I confess that I cannot see any possible way of
 reconciling all these facts."</span>
@@ -1509,14 +1509,14 @@ reconciling all these facts."</span>
 
 <p><span class="Sherlock_Holmes">"You sum up the difficulties of the situation succinctly and well,"</span> he
 said. <span class="Sherlock_Holmes">"There is much that is still obscure, though I have quite made up
-my mind on the main facts. As to poor Lestrade’s discovery it was
+my mind on the main facts. As to poor Lestrade's discovery it was
 simply a blind intended to put the police upon a wrong track, by
 suggesting Socialism and secret societies. It was not done by a German.
 The A, if you noticed, was printed somewhat after the German fashion.
 Now, a real German invariably prints in the Latin character, so that we
 may safely say that this was not written by one, but by a clumsy
 imitator who overdid his part. It was simply a ruse to divert inquiry
-into a wrong channel. I’m not going to tell you much more of the case,
+into a wrong channel. I'm not going to tell you much more of the case,
 Doctor. You know a conjuror gets no credit when once he has explained
 his trick, and if I show you too much of my method of working, you will
 come to the conclusion that I am a very ordinary individual after all."</span>
@@ -1532,7 +1532,7 @@ sensitive to flattery on the score of his art as any girl could be of
 her beauty.
 </p>
 
-<p><span class="Sherlock_Holmes">"I’ll tell you one other thing,"</span> he said. <span class="Sherlock_Holmes">"Patent-leathers and
+<p><span class="Sherlock_Holmes">"I'll tell you one other thing,"</span> he said. <span class="Sherlock_Holmes">"Patent-leathers and
 Square-toes came in the same cab, and they walked down the pathway
 together as friendly as possible—arm-in-arm, in all probability. When
 they got inside they walked up and down the room—or rather,
@@ -1540,17 +1540,17 @@ Patent-leathers stood still while Square-toes walked up and down. I
 could read all that in the dust; and I could read that as he walked he
 grew more and more excited. That is shown by the increased length of
 his strides. He was talking all the while, and working himself up, no
-doubt, into a fury. Then the tragedy occurred. I’ve told you all I know
+doubt, into a fury. Then the tragedy occurred. I've told you all I know
 myself now, for the rest is mere surmise and conjecture. We have a good
 working basis, however, on which to start. We must hurry up, for I want
-to go to Halle’s concert to hear Norman Neruda this afternoon."</span>
+to go to Halle's concert to hear Norman Neruda this afternoon."</span>
 </p>
 
 <p>This conversation had occurred while our cab had been threading its way
 through a long succession of dingy streets and dreary by-ways. In the
 dingiest and dreariest of them our driver suddenly came to a stand.
-<span class="Sherlock_Holmes">"That’s Audley Court in there,"</span> he said, pointing to a narrow slit in
-the line of dead-coloured brick. <span class="Sherlock_Holmes">"You’ll find me here when you come
+<span class="Sherlock_Holmes">"That's Audley Court in there,"</span> he said, pointing to a narrow slit in
+the line of dead-coloured brick. <span class="Sherlock_Holmes">"You'll find me here when you come
 back."</span>
 </p>
 
@@ -1583,20 +1583,20 @@ answered with his eyes upon the little golden disk.
 determined not to omit anything in his narrative.
 </p>
 
-<p><span class="John_Rance">"I’ll tell it ye from the beginning,"</span> he said. <span class="John_Rance">"My time is from ten at
-night to six in the morning. At eleven there was a fight at the ‘White
-Hart’; but bar that all was quiet enough on the beat. At one o’clock it
+<p><span class="John_Rance">"I'll tell it ye from the beginning,"</span> he said. <span class="John_Rance">"My time is from ten at
+night to six in the morning. At eleven there was a fight at the 'White
+Hart'; but bar that all was quiet enough on the beat. At one o'clock it
 began to rain, and I met Harry Murcher—him who has the Holland Grove
-beat—and we stood together at the corner of Henrietta Street a-talkin’.
+beat—and we stood together at the corner of Henrietta Street a-talkin'.
 Presently—maybe about two or a little after—I thought I would take a
 look round and see that all was right down the Brixton Road. It was
 precious dirty and lonely. Not a soul did I meet all the way down,
-though a cab or two went past me. I was a strollin’ down, thinkin’
+though a cab or two went past me. I was a strollin' down, thinkin'
 between ourselves how uncommon handy a four of gin hot would be, when
 suddenly the glint of a light caught my eye in the window of that same
 house. Now, I knew that them two houses in Lauriston Gardens was empty
-on account of him that owns them who won’t have the drains seen to,
-though the very last tenant what lived in one of them died o’ typhoid
+on account of him that owns them who won't have the drains seen to,
+though the very last tenant what lived in one of them died o' typhoid
 fever. I was knocked all in a heap therefore at seeing a light in the
 window, and I suspected as something was wrong. When I got to the
 door——"</span>
@@ -1610,23 +1610,23 @@ interrupted. <span class="Sherlock_Holmes">"What did you do that for?"</span>
 utmost amazement upon his features.
 </p>
 
-<p><span class="John_Rance">"Why, that’s true, sir,"</span> he said; <span class="John_Rance">"though how you come to know it,
+<p><span class="John_Rance">"Why, that's true, sir,"</span> he said; <span class="John_Rance">"though how you come to know it,
 Heaven only knows. Ye see, when I got up to the door it was so still
-and so lonesome, that I thought I’d be none the worse for some one with
-me. I ain’t afeared of anything on this side o’ the grave; but I
-thought that maybe it was him that died o’ the typhoid inspecting the
-drains what killed him. The thought gave me a kind o’ turn, and I
-walked back to the gate to see if I could see Murcher’s lantern, but
-there wasn’t no sign of him nor of anyone else."</span>
+and so lonesome, that I thought I'd be none the worse for some one with
+me. I ain't afeared of anything on this side o' the grave; but I
+thought that maybe it was him that died o' the typhoid inspecting the
+drains what killed him. The thought gave me a kind o' turn, and I
+walked back to the gate to see if I could see Murcher's lantern, but
+there wasn't no sign of him nor of anyone else."</span>
 </p>
 
 <p><span class="Sherlock_Holmes">"There was no one in the street?"</span>
 </p>
 
-<p><span class="John_Rance">"Not a livin’ soul, sir, nor as much as a dog. Then I pulled myself
+<p><span class="John_Rance">"Not a livin' soul, sir, nor as much as a dog. Then I pulled myself
 together and went back and pushed the door open. All was quiet inside,
-so I went into the room where the light was a-burnin’. There was a
-candle flickerin’ on the mantelpiece—a red wax one—and by its light I
+so I went into the room where the light was a-burnin'. There was a
+candle flickerin' on the mantelpiece—a red wax one—and by its light I
 saw——"</span>
 </p>
 
@@ -1641,7 +1641,7 @@ me that you knows a deal more than you should."</span>
 </p>
 
 <p>Holmes laughed and threw his card across the table to the constable.
-<span class="Sherlock_Holmes">"Don’t get arresting me for the murder,"</span> he said. <span class="Sherlock_Holmes">"I am one of the
+<span class="Sherlock_Holmes">"Don't get arresting me for the murder,"</span> he said. <span class="Sherlock_Holmes">"I am one of the
 hounds and not the wolf; Mr. Gregson or Mr. Lestrade will answer for
 that. Go on, though. What did you do next?"</span>
 </p>
@@ -1660,11 +1660,11 @@ brought Murcher and two more to the spot."</span>
 <p><span class="Sherlock_Holmes">"What do you mean?"</span>
 </p>
 
-<p>The constable’s features broadened into a grin. <span class="John_Rance">"I’ve seen many a drunk
-chap in my time,"</span> he said, <span class="John_Rance">"but never anyone so cryin’ drunk as that
-cove. He was at the gate when I came out, a-leanin’ up agin the
-railings, and a-singin’ at the pitch o’ his lungs about Columbine’s
-New-fangled Banner, or some such stuff. He couldn’t stand, far less
+<p>The constable's features broadened into a grin. <span class="John_Rance">"I've seen many a drunk
+chap in my time,"</span> he said, <span class="John_Rance">"but never anyone so cryin' drunk as that
+cove. He was at the gate when I came out, a-leanin' up agin the
+railings, and a-singin' at the pitch o' his lungs about Columbine's
+New-fangled Banner, or some such stuff. He couldn't stand, far less
 help."</span>
 </p>
 
@@ -1672,11 +1672,11 @@ help."</span>
 </p>
 
 <p>John Rance appeared to be somewhat irritated at this digression. <span class="John_Rance">"He
-was an uncommon drunk sort o’ man,"</span> he said. <span class="John_Rance">"He’d ha’ found hisself in
-the station if we hadn’t been so took up."</span>
+was an uncommon drunk sort o' man,"</span> he said. <span class="John_Rance">"He'd ha' found hisself in
+the station if we hadn't been so took up."</span>
 </p>
 
-<p><span class="Sherlock_Holmes">"His face—his dress—didn’t you notice them?"</span> Holmes broke in
+<p><span class="Sherlock_Holmes">"His face—his dress—didn't you notice them?"</span> Holmes broke in
 impatiently.
 </p>
 
@@ -1688,8 +1688,8 @@ part muffled round——"</span>
 <p><span class="Sherlock_Holmes">"That will do,"</span> cried Holmes. <span class="Sherlock_Holmes">"What became of him?"</span>
 </p>
 
-<p><span class="John_Rance">"We’d enough to do without lookin’ after him,"</span> the policeman said, in
-an aggrieved voice. <span class="John_Rance">"I’ll wager he found his way home all right."</span>
+<p><span class="John_Rance">"We'd enough to do without lookin' after him,"</span> the policeman said, in
+an aggrieved voice. <span class="John_Rance">"I'll wager he found his way home all right."</span>
 </p>
 
 <p><span class="Sherlock_Holmes">"How was he dressed?"</span>
@@ -1704,17 +1704,17 @@ an aggrieved voice. <span class="John_Rance">"I’ll wager he found his way home
 <p><span class="John_Rance">"A whip—no."</span>
 </p>
 
-<p><span class="Sherlock_Holmes">"He must have left it behind,"</span> muttered my companion. <span class="Sherlock_Holmes">"You didn’t
+<p><span class="Sherlock_Holmes">"He must have left it behind,"</span> muttered my companion. <span class="Sherlock_Holmes">"You didn't
 happen to see or hear a cab after that?"</span>
 </p>
 
 <p><span class="John_Rance">"No."</span>
 </p>
 
-<p><span class="Sherlock_Holmes">"There’s a half-sovereign for you,"</span> my companion said, standing up and
+<p><span class="Sherlock_Holmes">"There's a half-sovereign for you,"</span> my companion said, standing up and
 taking his hat. <span class="Sherlock_Holmes">"I am afraid, Rance, that you will never rise in the
 force. That head of yours should be for use as well as ornament. You
-might have gained your sergeant’s stripes last night. The man whom you
+might have gained your sergeant's stripes last night. The man whom you
 held in your hands is the man who holds the clue of this mystery, and
 whom we are seeking. There is no use of arguing about it now; I tell
 you that it is so. Come along, Doctor."</span>
@@ -1737,14 +1737,14 @@ of criminals."</span>
 
 <p><span class="Sherlock_Holmes">"The ring, man, the ring: that was what he came back for. If we have no
 other way of catching him, we can always bait our line with the ring. I
-shall have him, Doctor—I’ll lay you two to one that I have him. I must
+shall have him, Doctor—I'll lay you two to one that I have him. I must
 thank you for it all. I might not have gone but for you, and so have
 missed the finest study I ever came across: a study in scarlet, eh? Why
-shouldn’t we use a little art jargon. There’s the scarlet thread of
+shouldn't we use a little art jargon. There's the scarlet thread of
 murder running through the colourless skein of life, and our duty is to
 unravel it, and isolate it, and expose every inch of it. And now for
 lunch, and then for Norman Neruda. Her attack and her bowing are
-splendid. What’s that little thing of Chopin’s she plays so
+splendid. What's that little thing of Chopin's she plays so
 magnificently: Tra-la-la-lira-lira-lay."</span>
 </p>
 
@@ -1765,9 +1765,9 @@ lark while I meditated upon the many-sidedness of the human mind.
 
 
 
-<p>Our morning’s exertions had been too much for my weak health, and I was
-tired out in the afternoon. After Holmes’ departure for the concert, I
-lay down upon the sofa and endeavoured to get a couple of hours’ sleep.
+<p>Our morning's exertions had been too much for my weak health, and I was
+tired out in the afternoon. After Holmes' departure for the concert, I
+lay down upon the sofa and endeavoured to get a couple of hours' sleep.
 It was a useless attempt. My mind had been too much excited by all that
 had occurred, and the strangest fancies and surmises crowded into it.
 Every time that I closed my eyes I saw before me the distorted
@@ -1780,11 +1780,11 @@ Cleveland. Still I recognized that justice must be done, and that the
 depravity of the victim was no condonement in the eyes of the law.
 </p>
 
-<p>The more I thought of it the more extraordinary did my companion’s
+<p>The more I thought of it the more extraordinary did my companion's
 hypothesis, that the man had been poisoned, appear. I remembered how he
 had sniffed his lips, and had no doubt that he had detected something
 which had given rise to the idea. Then, again, if not poison, what had
-caused the man’s death, since there was neither wound nor marks of
+caused the man's death, since there was neither wound nor marks of
 strangulation? But, on the other hand, whose blood was that which lay
 so thickly upon the floor? There were no signs of a struggle, nor had
 the victim any weapon with which he might have wounded an antagonist.
@@ -1808,11 +1808,11 @@ by it. There are vague memories in our souls of those misty centuries
 when the world was in its childhood."</span>
 </p>
 
-<p><span class="John_Watson">"That’s rather a broad idea,"</span> I remarked.
+<p><span class="John_Watson">"That's rather a broad idea,"</span> I remarked.
 </p>
 
-<p><span class="Sherlock_Holmes">"One’s ideas must be as broad as Nature if they are to interpret
-Nature,"</span> he answered. <span class="Sherlock_Holmes">"What’s the matter? You’re not looking quite
+<p><span class="Sherlock_Holmes">"One's ideas must be as broad as Nature if they are to interpret
+Nature,"</span> he answered. <span class="Sherlock_Holmes">"What's the matter? You're not looking quite
 yourself. This Brixton Road affair has upset you."</span>
 </p>
 
@@ -1830,7 +1830,7 @@ seen the evening paper?"</span>
 </p>
 
 <p><span class="Sherlock_Holmes">"It gives a fairly good account of the affair. It does not mention the
-fact that when the man was raised up, a woman’s wedding ring fell upon
+fact that when the man was raised up, a woman's wedding ring fell upon
 the floor. It is just as well it does not."</span>
 </p>
 
@@ -1844,7 +1844,7 @@ paper this morning immediately after the affair."</span>
 <p>He threw the paper across to me and I glanced at the place indicated.
 It was the first announcement in the <span class="John_Watson">"Found"</span> column. <span class="John_Watson">"In Brixton Road,
 this morning,"</span> it ran, <span class="John_Watson">"a plain gold wedding ring, found in the roadway
-between the ‘White Hart’ Tavern and Holland Grove. Apply Dr. Watson,
+between the 'White Hart' Tavern and Holland Grove. Apply Dr. Watson,
 221B, Baker Street, between eight and nine this evening."</span>
 </p>
 
@@ -1873,12 +1873,12 @@ If he does not come himself he will send an accomplice."</span>
 <p><span class="Sherlock_Holmes">"Not at all. If my view of the case is correct, and I have every reason
 to believe that it is, this man would rather risk anything than lose
 the ring. According to my notion he dropped it while stooping over
-Drebber’s body, and did not miss it at the time. After leaving the
+Drebber's body, and did not miss it at the time. After leaving the
 house he discovered his loss and hurried back, but found the police
 already in possession, owing to his own folly in leaving the candle
 burning. He had to pretend to be drunk in order to allay the suspicions
 which might have been aroused by his appearance at the gate. Now put
-yourself in that man’s place. On thinking the matter over, it must have
+yourself in that man's place. On thinking the matter over, it must have
 occurred to him that it was possible that he had lost the ring in the
 road after leaving the house. What would he do, then? He would eagerly
 look out for the evening papers in the hope of seeing it among the
@@ -1916,17 +1916,17 @@ to my American telegram. My view of the case is the correct one."</span>
 
 <p><span class="Sherlock_Holmes">"My fiddle would be the better for new strings,"</span> he remarked. <span class="Sherlock_Holmes">"Put your
 pistol in your pocket. When the fellow comes speak to him in an
-ordinary way. Leave the rest to me. Don’t frighten him by looking at
+ordinary way. Leave the rest to me. Don't frighten him by looking at
 him too hard."</span>
 </p>
 
-<p><span class="John_Watson">"It is eight o’clock now,"</span> I said, glancing at my watch.
+<p><span class="John_Watson">"It is eight o'clock now,"</span> I said, glancing at my watch.
 </p>
 
 <p><span class="Sherlock_Holmes">"Yes. He will probably be here in a few minutes. Open the door
 slightly. That will do. Now put the key on the inside. Thank you! This
-is a queer old book I picked up at a stall yesterday—‘De Jure inter
-Gentes’—published in Latin at Liege in the Lowlands, in 1642. Charles’
+is a queer old book I picked up at a stall yesterday—'De Jure inter
+Gentes'—published in Latin at Liege in the Lowlands, in 1642. Charles'
 head was still firm on his shoulders when this little brown-backed
 volume was struck off."</span>
 </p>
@@ -1935,7 +1935,7 @@ volume was struck off."</span>
 </p>
 
 <p><span class="Sherlock_Holmes">"Philippe de Croy, whoever he may have been. On the fly-leaf, in very
-faded ink, is written ‘Ex libris Guliolmi Whyte.’ I wonder who William
+faded ink, is written 'Ex libris Guliolmi Whyte.' I wonder who William
 Whyte was. Some pragmatical seventeenth century lawyer, I suppose. His
 writing has a legal twist about it. Here comes our man, I think."</span>
 </p>
@@ -1947,7 +1947,7 @@ opened it.
 </p>
 
 <p><span class="Mrs_Sawyer">"Does Dr. Watson live here?"</span> asked a clear but rather harsh voice. We
-could not hear the servant’s reply, but the door closed, and some one
+could not hear the servant's reply, but the door closed, and some one
 began to ascend the stairs. The footfall was an uncertain and shuffling
 one. A look of surprise passed over the face of my companion as he
 listened to it. It came slowly along the passage, and there was a
@@ -1967,12 +1967,12 @@ to keep my countenance.
 </p>
 
 <p>The old crone drew out an evening paper, and pointed at our
-advertisement. <span class="Mrs_Sawyer">"It’s this as has brought me, good gentlemen,"</span> she said,
+advertisement. <span class="Mrs_Sawyer">"It's this as has brought me, good gentlemen,"</span> she said,
 dropping another curtsey; <span class="Mrs_Sawyer">"a gold wedding ring in the Brixton Road. It
 belongs to my girl Sally, as was married only this time twelvemonth,
-which her husband is steward aboard a Union boat, and what he’d say if
-he come ‘ome and found her without her ring is more than I can think,
-he being short enough at the best o’ times, but more especially when he
+which her husband is steward aboard a Union boat, and what he'd say if
+he come 'ome and found her without her ring is more than I can think,
+he being short enough at the best o' times, but more especially when he
 has the drink. If it please you, she went to the circus last night
 along with——"</span>
 </p>
@@ -1981,7 +1981,7 @@ along with——"</span>
 </p>
 
 <p><span class="Mrs_Sawyer">"The Lord be thanked!"</span> cried the old woman; <span class="Mrs_Sawyer">"Sally will be a glad woman
-this night. That’s the ring."</span>
+this night. That's the ring."</span>
 </p>
 
 <p><span class="John_Watson">"And what may your address be?"</span> I inquired, taking up a pencil.
@@ -2002,8 +2002,8 @@ red-rimmed eyes. <span class="Mrs_Sawyer">"The gentleman asked me for 'my' addre
 <p><span class="Mrs_Sawyer">"And your name is——?"</span>
 </p>
 
-<p><span class="Mrs_Sawyer">"My name is Sawyer—her’s is Dennis, which Tom Dennis married her—and a
-smart, clean lad, too, as long as he’s at sea, and no steward in the
+<p><span class="Mrs_Sawyer">"My name is Sawyer—her's is Dennis, which Tom Dennis married her—and a
+smart, clean lad, too, as long as he's at sea, and no steward in the
 company more thought of; but when on shore, what with the women and
 what with liquor shops——"</span>
 </p>
@@ -2017,7 +2017,7 @@ to be able to restore it to the rightful owner."</span>
 crone packed it away in her pocket, and shuffled off down the stairs.
 Sherlock Holmes sprang to his feet the moment that she was gone and
 rushed into his room. He returned in a few seconds enveloped in an
-ulster and a cravat. <span class="Sherlock_Holmes">"I’ll follow her,"</span> he said, hurriedly; <span class="Sherlock_Holmes">"she must
+ulster and a cravat. <span class="Sherlock_Holmes">"I'll follow her,"</span> he said, hurriedly; <span class="Sherlock_Holmes">"she must
 be an accomplice, and will lead me to him. Wait up for me."</span> The hall
 door had hardly slammed behind our visitor before Holmes had descended
 the stair. Looking through the window I could see her walking feebly
@@ -2030,7 +2030,7 @@ impossible until I heard the result of his adventure.
 
 <p>It was close upon nine when he set out. I had no idea how long he might
 be, but I sat stolidly puffing at my pipe and skipping over the pages
-of Henri Murger’s "Vie de Bohème." Ten o’clock passed, and I heard the
+of Henri Murger's "Vie de Bohème." Ten o'clock passed, and I heard the
 footsteps of the maid as they pattered off to bed. Eleven, and the more
 stately tread of the landlady passed my door, bound for the same
 destination. It was close upon twelve before I heard the sharp sound of
@@ -2040,7 +2040,7 @@ mastery, until the former suddenly carried the day, and he burst into a
 hearty laugh.
 </p>
 
-<p><span class="Sherlock_Holmes">"I wouldn’t have the Scotland Yarders know it for the world,"</span> he cried,
+<p><span class="Sherlock_Holmes">"I wouldn't have the Scotland Yarders know it for the world,"</span> he cried,
 dropping into his chair; <span class="Sherlock_Holmes">"I have chaffed them so much that they would
 never have let me hear the end of it. I can afford to laugh, because I
 know that I will be even with them in the long run."</span>
@@ -2049,15 +2049,15 @@ know that I will be even with them in the long run."</span>
 <p><span class="John_Watson">"What is it then?"</span> I asked.
 </p>
 
-<p><span class="Sherlock_Holmes">"Oh, I don’t mind telling a story against myself. That creature had
+<p><span class="Sherlock_Holmes">"Oh, I don't mind telling a story against myself. That creature had
 gone a little way when she began to limp and show every sign of being
 foot-sore. Presently she came to a halt, and hailed a four-wheeler
 which was passing. I managed to be close to her so as to hear the
 address, but I need not have been so anxious, for she sang it out loud
-enough to be heard at the other side of the street, ‘Drive to 13,
-Duncan Street, Houndsditch,’ she cried. This begins to look genuine, I
+enough to be heard at the other side of the street, 'Drive to 13,
+Duncan Street, Houndsditch,' she cried. This begins to look genuine, I
 thought, and having seen her safely inside, I perched myself behind.
-That’s an art which every detective should be an expert at. Well, away
+That's an art which every detective should be an expert at. Well, away
 we rattled, and never drew rein until we reached the street in
 question. I hopped off before we came to the door, and strolled down
 the street in an easy, lounging way. I saw the cab pull up. The driver
@@ -2071,7 +2071,7 @@ respectable paperhanger, named Keswick, and that no one of the name
 either of Sawyer or Dennis had ever been heard of there."</span>
 </p>
 
-<p><span class="John_Watson">"You don’t mean to say,"</span> I cried, in amazement, <span class="John_Watson">"that that tottering,
+<p><span class="John_Watson">"You don't mean to say,"</span> I cried, in amazement, <span class="John_Watson">"that that tottering,
 feeble old woman was able to get out of the cab while it was in motion,
 without either you or the driver seeing her?"</span>
 </p>
@@ -2136,7 +2136,7 @@ He was accompanied in his travels by his private secretary, Mr. Joseph
 Stangerson. The two bade adieu to their landlady upon Tuesday, the 4th
 inst., and departed to Euston Station with the avowed intention of
 catching the Liverpool express. They were afterwards seen together upon
-the platform. Nothing more is known of them until Mr. Drebber’s body
+the platform. Nothing more is known of them until Mr. Drebber's body
 was, as recorded, discovered in an empty house in the Brixton Road,
 many miles from Euston. How he came there, or how he met his fate, are
 questions which are still involved in mystery. Nothing is known of the
@@ -2170,11 +2170,11 @@ to score."</span>
 <p><span class="John_Watson">"That depends on how it turns out."</span>
 </p>
 
-<p><span class="Sherlock_Holmes">"Oh, bless you, it doesn’t matter in the least. If the man is caught,
+<p><span class="Sherlock_Holmes">"Oh, bless you, it doesn't matter in the least. If the man is caught,
 it will be 'on account' of their exertions; if he escapes, it will be
-_in spite_ of their exertions. It’s heads I win and tails you lose.
-Whatever they do, they will have followers. ‘Un sot trouve toujours un
-plus sot qui l’admire.’"</span>
+_in spite_ of their exertions. It's heads I win and tails you lose.
+Whatever they do, they will have followers. 'Un sot trouve toujours un
+plus sot qui l'admire.'"</span>
 </p>
 
 <p><span class="John_Watson">"What on earth is this?"</span> I cried, for at this moment there came the
@@ -2182,19 +2182,19 @@ pattering of many steps in the hall and on the stairs, accompanied by
 audible expressions of disgust upon the part of our landlady.
 </p>
 
-<p><span class="Sherlock_Holmes">"It’s the Baker Street division of the detective police force,"</span> said my
+<p><span class="Sherlock_Holmes">"It's the Baker Street division of the detective police force,"</span> said my
 companion, gravely; and as he spoke there rushed into the room half a
 dozen of the dirtiest and most ragged street Arabs that ever I clapped
 eyes on.
 </p>
 
-<p><span class="Sherlock_Holmes">"‘Tention!"</span> cried Holmes, in a sharp tone, and the six dirty little
+<p><span class="Sherlock_Holmes">"'Tention!"</span> cried Holmes, in a sharp tone, and the six dirty little
 scoundrels stood in a line like so many disreputable statuettes. <span class="Sherlock_Holmes">"In
 future you shall send up Wiggins alone to report, and the rest of you
 must wait in the street. Have you found it, Wiggins?"</span>
 </p>
 
-<p><span class="Unknown">"No, sir, we hain’t,"</span> said one of the youths.
+<p><span class="Unknown">"No, sir, we hain't,"</span> said one of the youths.
 </p>
 
 <p><span class="Sherlock_Holmes">"I hardly expected you would. You must keep on until you do. Here are
@@ -2208,9 +2208,9 @@ your wages."</span> He handed each of them a shilling.
 rats, and we heard their shrill voices next moment in the street.
 </p>
 
-<p><span class="Sherlock_Holmes">"There’s more work to be got out of one of those little beggars than
+<p><span class="Sherlock_Holmes">"There's more work to be got out of one of those little beggars than
 out of a dozen of the force,"</span> Holmes remarked. <span class="Sherlock_Holmes">"The mere sight of an
-official-looking person seals men’s lips. These youngsters, however, go
+official-looking person seals men's lips. These youngsters, however, go
 everywhere and hear everything. They are as sharp as needles, too; all
 they want is organisation."</span>
 </p>
@@ -2230,11 +2230,11 @@ fair-haired detective came up the stairs, three steps at a time, and
 burst into our sitting-room.
 </p>
 
-<p><span class="Tobias_Gregson">"My dear fellow,"</span> he cried, wringing Holmes’ unresponsive hand,
+<p><span class="Tobias_Gregson">"My dear fellow,"</span> he cried, wringing Holmes' unresponsive hand,
 <span class="Tobias_Gregson">"congratulate me! I have made the whole thing as clear as day."</span>
 </p>
 
-<p>A shade of anxiety seemed to me to cross my companion’s expressive
+<p>A shade of anxiety seemed to me to cross my companion's expressive
 face.
 </p>
 
@@ -2247,7 +2247,7 @@ face.
 <p><span class="Sherlock_Holmes">"And his name is?"</span>
 </p>
 
-<p><span class="Tobias_Gregson">"Arthur Charpentier, sub-lieutenant in Her Majesty’s navy,"</span> cried
+<p><span class="Tobias_Gregson">"Arthur Charpentier, sub-lieutenant in Her Majesty's navy,"</span> cried
 Gregson, pompously, rubbing his fat hands and inflating his chest.
 </p>
 
@@ -2258,7 +2258,7 @@ Gregson, pompously, rubbing his fat hands and inflating his chest.
 know how you managed it. Will you have some whiskey and water?"</span>
 </p>
 
-<p><span class="Tobias_Gregson">"I don’t mind if I do,"</span> the detective answered. <span class="Tobias_Gregson">"The tremendous
+<p><span class="Tobias_Gregson">"I don't mind if I do,"</span> the detective answered. <span class="Tobias_Gregson">"The tremendous
 exertions which I have gone through during the last day or two have
 worn me out. Not so much bodily exertion, you understand, as the strain
 upon the mind. You will appreciate that, Mr. Sherlock Holmes, for we
@@ -2287,12 +2287,12 @@ time."</span>
 <p><span class="John_Watson">"And how did you get your clue?"</span>
 </p>
 
-<p><span class="Tobias_Gregson">"Ah, I’ll tell you all about it. Of course, Doctor Watson, this is
+<p><span class="Tobias_Gregson">"Ah, I'll tell you all about it. Of course, Doctor Watson, this is
 strictly between ourselves. The first difficulty which we had to
-contend with was the finding of this American’s antecedents. Some
+contend with was the finding of this American's antecedents. Some
 people would have waited until their advertisements were answered, or
 until parties came forward and volunteered information. That is not
-Tobias Gregson’s way of going to work. You remember the hat beside the
+Tobias Gregson's way of going to work. You remember the hat beside the
 dead man?"</span>
 </p>
 
@@ -2317,7 +2317,7 @@ chance, however small it may seem."</span>
 
 <p><span class="Tobias_Gregson">"Well, I went to Underwood, and asked him if he had sold a hat of that
 size and description. He looked over his books, and came on it at once.
-He had sent the hat to a Mr. Drebber, residing at Charpentier’s
+He had sent the hat to a Mr. Drebber, residing at Charpentier's
 Boarding Establishment, Torquay Terrace. Thus I got at his address."</span>
 </p>
 
@@ -2327,33 +2327,33 @@ Boarding Establishment, Torquay Terrace. Thus I got at his address."</span>
 <p><span class="Tobias_Gregson">"I next called upon Madame Charpentier,"</span> continued the detective. <span class="Tobias_Gregson">"I
 found her very pale and distressed. Her daughter was in the room,
 too—an uncommonly fine girl she is, too; she was looking red about the
-eyes and her lips trembled as I spoke to her. That didn’t escape my
+eyes and her lips trembled as I spoke to her. That didn't escape my
 notice. I began to smell a rat. You know the feeling, Mr. Sherlock
 Holmes, when you come upon the right scent—a kind of thrill in your
-nerves. ‘Have you heard of the mysterious death of your late boarder
-Mr. Enoch J. Drebber, of Cleveland?’ I asked.
+nerves. 'Have you heard of the mysterious death of your late boarder
+Mr. Enoch J. Drebber, of Cleveland?' I asked.
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"The mother nodded. She didn’t seem able to get out a word. The
+  <p><span class="Tobias_Gregson">"The mother nodded. She didn't seem able to get out a word. The
 daughter burst into tears. I felt more than ever that these people knew
 something of the matter.
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘At what o’clock did Mr. Drebber leave your house for the train?"</span> I
+  <p><span class="Tobias_Gregson">"'At what o'clock did Mr. Drebber leave your house for the train?"</span> I
 asked.
 </p>
 
-  <p><span class="Tobias_Gregson">"‘At eight o’clock,’ she said, gulping in her throat to keep down her
-agitation. ‘His secretary, Mr. Stangerson, said that there were two
-trains—one at 9.15 and one at 11. He was to catch the first.’
+  <p><span class="Tobias_Gregson">"'At eight o'clock,' she said, gulping in her throat to keep down her
+agitation. 'His secretary, Mr. Stangerson, said that there were two
+trains—one at 9.15 and one at 11. He was to catch the first.'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘And was that the last which you saw of him?’
+  <p><span class="Tobias_Gregson">"'And was that the last which you saw of him?'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"A terrible change came over the woman’s face as I asked the question.
+  <p><span class="Tobias_Gregson">"A terrible change came over the woman's face as I asked the question.
 Her features turned perfectly livid. It was some seconds before she
-could get out the single word ‘Yes’—and when it did come it was in a
+could get out the single word 'Yes'—and when it did come it was in a
 husky unnatural tone.
 "</span></p>
 
@@ -2361,8 +2361,8 @@ husky unnatural tone.
 clear voice.
 </p>
 
-  <p><span class="Tobias_Gregson">"‘No good can ever come of falsehood, mother,’ she said. ‘Let us be
-frank with this gentleman. We 'did' see Mr. Drebber again.’
+  <p><span class="Tobias_Gregson">"'No good can ever come of falsehood, mother,' she said. 'Let us be
+frank with this gentleman. We 'did' see Mr. Drebber again.'
 "</span></p>
 
   <p><span class="Tobias_Gregson">"'God forgive you!' cried Madame Charpentier, throwing up her hands and
@@ -2372,66 +2372,66 @@ frank with this gentleman. We 'did' see Mr. Drebber again.’
 firmly.
 </p>
 
-  <p><span class="Tobias_Gregson">"‘You had best tell me all about it now,’ I said. ‘Half-confidences are
-worse than none. Besides, you do not know how much we know of it.’
+  <p><span class="Tobias_Gregson">"'You had best tell me all about it now,' I said. 'Half-confidences are
+worse than none. Besides, you do not know how much we know of it.'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘On your head be it, Alice!’ cried her mother; and then, turning to <!-- CJK: this is labled as unknow but it is spoken by the mom of alice, with another quote coming after it. Do you want to me to mark it up or not, we can talk about this at our meeting. -->
-me, ‘I will tell you all, sir. Do not imagine that my agitation on
+  <p><span class="Tobias_Gregson">"'On your head be it, Alice!' cried her mother; and then, turning to <!-- CJK: this is labled as unknow but it is spoken by the mom of alice, with another quote coming after it. Do you want to me to mark it up or not, we can talk about this at our meeting. -->
+me, 'I will tell you all, sir. Do not imagine that my agitation on
 behalf of my son arises from any fear lest he should have had a hand in
 this terrible affair. He is utterly innocent of it. My dread is,
 however, that in your eyes and in the eyes of others he may appear to
 be compromised. That however is surely impossible. His high character,
-his profession, his antecedents would all forbid it.’
+his profession, his antecedents would all forbid it.'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘Your best way is to make a clean breast of the facts,’ I answered.
-‘Depend upon it, if your son is innocent he will be none the worse.’
+  <p><span class="Tobias_Gregson">"'Your best way is to make a clean breast of the facts,' I answered.
+'Depend upon it, if your son is innocent he will be none the worse.'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘Perhaps, Alice, you had better leave us together,’ she said, and her
-daughter withdrew. ‘Now, sir,’ she continued, ‘I had no intention of
+  <p><span class="Tobias_Gregson">"'Perhaps, Alice, you had better leave us together,' she said, and her
+daughter withdrew. 'Now, sir,' she continued, 'I had no intention of
 telling you all this, but since my poor daughter has disclosed it I
 have no alternative. Having once decided to speak, I will tell you all
-without omitting any particular.’
+without omitting any particular.'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘It is your wisest course,’ said I.
+  <p><span class="Tobias_Gregson">"'It is your wisest course,' said I.
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘Mr. Drebber has been with us nearly three weeks. He and his
+  <p><span class="Tobias_Gregson">"'Mr. Drebber has been with us nearly three weeks. He and his
 secretary, Mr. Stangerson, had been travelling on the Continent. I
 noticed a "Copenhagen" label upon each of their trunks, showing that
 that had been their last stopping place. Stangerson was a quiet
 reserved man, but his employer, I am sorry to say, was far otherwise.
 He was coarse in his habits and brutish in his ways. The very night of
 his arrival he became very much the worse for drink, and, indeed, after
-twelve o’clock in the day he could hardly ever be said to be sober. His
+twelve o'clock in the day he could hardly ever be said to be sober. His
 manners towards the maid-servants were disgustingly free and familiar.
 Worst of all, he speedily assumed the same attitude towards my
 daughter, Alice, and spoke to her more than once in a way which,
 fortunately, she is too innocent to understand. On one occasion he
 actually seized her in his arms and embraced her—an outrage which
-caused his own secretary to reproach him for his unmanly conduct.’
+caused his own secretary to reproach him for his unmanly conduct.'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘But why did you stand all this,’ I asked. ‘I suppose that you can get
-rid of your boarders when you wish.’
+  <p><span class="Tobias_Gregson">"'But why did you stand all this,' I asked. 'I suppose that you can get
+rid of your boarders when you wish.'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"Mrs. Charpentier blushed at my pertinent question. ‘Would to God that
-I had given him notice on the very day that he came,’ she said. ‘But it
+  <p><span class="Tobias_Gregson">"Mrs. Charpentier blushed at my pertinent question. 'Would to God that
+I had given him notice on the very day that he came,' she said. 'But it
 was a sore temptation. They were paying a pound a day each—fourteen
 pounds a week, and this is the slack season. I am a widow, and my boy
 in the Navy has cost me much. I grudged to lose the money. I acted for
 the best. This last was too much, however, and I gave him notice to
-leave on account of it. That was the reason of his going.’
+leave on account of it. That was the reason of his going.'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘Well?’
+  <p><span class="Tobias_Gregson">"'Well?'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘My heart grew light when I saw him drive away. My son is on leave
+  <p><span class="Tobias_Gregson">"'My heart grew light when I saw him drive away. My son is on leave
 just now, but I did not tell him anything of all this, for his temper
 is violent, and he is passionately fond of his sister. When I closed
 the door behind them a load seemed to be lifted from my mind. Alas, in
@@ -2449,18 +2449,18 @@ towards the door. I screamed, and at that moment my son Arthur came
 into the room. What happened then I do not know. I heard oaths and the
 confused sounds of a scuffle. I was too terrified to raise my head.
 When I did look up I saw Arthur standing in the doorway laughing, with
-a stick in his hand. 'I don’t think that fine fellow will trouble us
+a stick in his hand. 'I don't think that fine fellow will trouble us
 again,' he said. 'I will just go after him and see what he does with
 himself.' With those words he took his hat and started off down the
-street. The next morning we heard of Mr. Drebber’s mysterious death.’"</span></p>
+street. The next morning we heard of Mr. Drebber's mysterious death.'"</span></p>
 
-  <p><span class="Tobias_Gregson">"This statement came from Mrs. Charpentier’s lips with many gasps and
+  <p><span class="Tobias_Gregson">"This statement came from Mrs. Charpentier's lips with many gasps and
 pauses. At times she spoke so low that I could hardly catch the words.
 I made shorthand notes of all that she said, however, so that there
 should be no possibility of a mistake."</span>
 </p>
 
-<p><span class="Sherlock_Holmes">"It’s quite exciting,"</span> said Sherlock Holmes, with a yawn. <span class="Sherlock_Holmes">"What
+<p><span class="Sherlock_Holmes">"It's quite exciting,"</span> said Sherlock Holmes, with a yawn. <span class="Sherlock_Holmes">"What
 happened next?"</span>
 </p>
 
@@ -2470,51 +2470,51 @@ which I always found effective with women, I asked her at what hour her
 son returned.
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘I do not know,’ she answered.
+  <p><span class="Tobias_Gregson">"'I do not know,' she answered.
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘Not know?’
+  <p><span class="Tobias_Gregson">"'Not know?'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘No; he has a latch-key, and he let himself in.’
+  <p><span class="Tobias_Gregson">"'No; he has a latch-key, and he let himself in.'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘After you went to bed?’
+  <p><span class="Tobias_Gregson">"'After you went to bed?'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘Yes.’
+  <p><span class="Tobias_Gregson">"'Yes.'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘When did you go to bed?’
+  <p><span class="Tobias_Gregson">"'When did you go to bed?'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘About eleven.’
+  <p><span class="Tobias_Gregson">"'About eleven.'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘So your son was gone at least two hours?’
+  <p><span class="Tobias_Gregson">"'So your son was gone at least two hours?'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘Yes.’
+  <p><span class="Tobias_Gregson">"'Yes.'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘Possibly four or five?’
+  <p><span class="Tobias_Gregson">"'Possibly four or five?'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘Yes.’
+  <p><span class="Tobias_Gregson">"'Yes.'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘What was he doing during that time?’
+  <p><span class="Tobias_Gregson">"'What was he doing during that time?'
 "</span></p>
 
-  <p><span class="Tobias_Gregson">"‘I do not know,’ she answered, turning white to her very lips.
+  <p><span class="Tobias_Gregson">"'I do not know,' she answered, turning white to her very lips.
 "</span></p>
 
   <p><span class="Tobias_Gregson">"Of course after that there was nothing more to be done. I found out
 where Lieutenant Charpentier was, took two officers with me, and
 arrested him. When I touched him on the shoulder and warned him to come
-quietly with us, he answered us as bold as brass, ‘I suppose you are
+quietly with us, he answered us as bold as brass, 'I suppose you are
 arresting me for being concerned in the death of that scoundrel
-Drebber,’ he said. We had said nothing to him about it, so that his
+Drebber,' he said. We had said nothing to him about it, so that his
 alluding to it had a most suspicious aspect."</span>
 </p>
 
@@ -2550,7 +2550,7 @@ old shipmate, and took a long walk with him. On being asked where this
 old shipmate lived, he was unable to give any satisfactory reply. I
 think the whole case fits together uncommonly well. What amuses me is
 to think of Lestrade, who had started off upon the wrong scent. I am
-afraid he won’t make much of it. Why, by Jove, here’s the very man
+afraid he won't make much of it. Why, by Jove, here's the very man
 himself!"</span>
 </p>
 
@@ -2571,7 +2571,7 @@ Secretary, Mr. Joseph Stangerson?"</span>
 </p>
 
 <p><span class="Lestrade">"The Secretary, Mr. Joseph Stangerson,"</span> said Lestrade gravely, <span class="Lestrade">"was
-murdered at Halliday’s Private Hotel about six o’clock this morning."</span>
+murdered at Halliday's Private Hotel about six o'clock this morning."</span>
 </p>
 
 
@@ -2609,7 +2609,7 @@ Gregson.
 discover what had occurred."</span>
 </p>
 
-<p><span class="Sherlock_Holmes">"We have been hearing Gregson’s view of the matter,"</span> Holmes observed.
+<p><span class="Sherlock_Holmes">"We have been hearing Gregson's view of the matter,"</span> Holmes observed.
 <span class="Sherlock_Holmes">"Would you mind letting us know what you have seen and done?"</span>
 </p>
 
@@ -2637,22 +2637,22 @@ remarked Holmes.
 
 <p><span class="Lestrade">"So it proved. I spent the whole of yesterday evening in making
 enquiries entirely without avail. This morning I began very early, and
-at eight o’clock I reached Halliday’s Private Hotel, in Little George
+at eight o'clock I reached Halliday's Private Hotel, in Little George
 Street. On my enquiry as to whether a Mr. Stangerson was living there,
 they at once answered me in the affirmative.
 "</span></p>
 
-<p><span class="Lestrade">"‘No doubt you are the gentleman whom he was expecting,’ they said. ‘He
-has been waiting for a gentleman for two days.’
+<p><span class="Lestrade">"'No doubt you are the gentleman whom he was expecting,' they said. 'He
+has been waiting for a gentleman for two days.'
 "</span></p>
 
-<p><span class="Lestrade">"‘Where is he now?’ I asked.
+<p><span class="Lestrade">"'Where is he now?' I asked.
 "</span></p>
 
-<p><span class="Lestrade">"‘He is upstairs in bed. He wished to be called at nine.’
+<p><span class="Lestrade">"'He is upstairs in bed. He wished to be called at nine.'
 "</span></p>
 
-<p><span class="Lestrade">"‘I will go up and see him at once,’ I said.
+<p><span class="Lestrade">"'I will go up and see him at once,' I said.
 "</span></p>
 
 <p><span class="Lestrade">"It seemed to me that my sudden appearance might shake his nerves and
@@ -2660,7 +2660,7 @@ lead him to say something unguarded. The Boots volunteered to show me
 the room: it was on the second floor, and there was a small corridor
 leading up to it. The Boots pointed out the door to me, and was about
 to go downstairs again when I saw something that made me feel sickish,
-in spite of my twenty years’ experience. From under the door there
+in spite of my twenty years' experience. From under the door there
 curled a little red ribbon of blood, which had meandered across the
 passage and formed a little pool along the skirting at the other side.
 I gave a cry, which brought the Boots back. He nearly fainted when he
@@ -2716,20 +2716,20 @@ exultation or satisfaction upon his face.
 murderer?"</span> he asked.
 </p>
 
-<p><span class="Lestrade">"Nothing. Stangerson had Drebber’s purse in his pocket, but it seems
+<p><span class="Lestrade">"Nothing. Stangerson had Drebber's purse in his pocket, but it seems
 that this was usual, as he did all the paying. There was eighty odd
 pounds in it, but nothing had been taken. Whatever the motives of these
 extraordinary crimes, robbery is certainly not one of them. There were
-no papers or memoranda in the murdered man’s pocket, except a single
+no papers or memoranda in the murdered man's pocket, except a single
 telegram, dated from Cleveland about a month ago, and containing the
-words, ‘J. H. is in Europe.’ There was no name appended to this
+words, 'J. H. is in Europe.' There was no name appended to this
 message."</span>
 </p>
 
 <p><span class="Sherlock_Holmes">"And there was nothing else?"</span> Holmes asked.
 </p>
 
-<p><span class="Lestrade">"Nothing of any importance. The man’s novel, with which he had read
+<p><span class="Lestrade">"Nothing of any importance. The man's novel, with which he had read
 himself to sleep was lying upon the bed, and his pipe was on a chair
 beside him. There was a glass of water on the table, and on the
 window-sill a small chip ointment box containing a couple of pills."</span>
@@ -2776,7 +2776,7 @@ long, and which the landlady wanted you to put out of its pain
 yesterday."</span>
 </p>
 
-<p>I went downstairs and carried the dog upstair in my arms. It’s laboured
+<p>I went downstairs and carried the dog upstair in my arms. It's laboured
 breathing and glazing eye showed that it was not far from its end.
 Indeed, its snow-white muzzle proclaimed that it had already exceeded
 the usual term of canine existence. I placed it upon a cushion on the
@@ -2803,7 +2803,7 @@ it up readily enough."</span>
 
 <p>As he spoke he turned the contents of the wine glass into a saucer and
 placed it in front of the terrier, who speedily licked it dry. Sherlock
-Holmes’ earnest demeanour had so far convinced us that we all sat in
+Holmes' earnest demeanour had so far convinced us that we all sat in
 silence, watching the animal intently, and expecting some startling
 effect. None such appeared, however. The dog continued to lie stretched
 upon the cushion, breathing in a laboured way, but apparently neither
@@ -2819,7 +2819,7 @@ detectives smiled derisively, by no means displeased at this check
 which he had met.
 </p>
 
-<p><span class="Sherlock_Holmes">"It can’t be a coincidence,"</span> he cried, at last springing from his chair
+<p><span class="Sherlock_Holmes">"It can't be a coincidence,"</span> he cried, at last springing from his chair
 and pacing wildly up and down the room; <span class="Sherlock_Holmes">"it is impossible that it
 should be a mere coincidence. The very pills which I suspected in the
 case of Drebber are actually found after the death of Stangerson. And
@@ -2828,7 +2828,7 @@ reasoning cannot have been false. It is impossible! And yet this
 wretched dog is none the worse. Ah, I have it! I have it!"</span> With a
 perfect shriek of delight he rushed to the box, cut the other pill in
 two, dissolved it, added milk, and presented it to the terrier. The
-unfortunate creature’s tongue seemed hardly to have been moistened in
+unfortunate creature's tongue seemed hardly to have been moistened in
 it before it gave a convulsive shiver in every limb, and lay as rigid
 and lifeless as if it had been struck by lightning.
 </p>
@@ -2918,7 +2918,7 @@ shall do so."</span>
 
 <p>Gregson and Lestrade seemed to be far from satisfied by this assurance,
 or by the depreciating allusion to the detective police. The former had
-flushed up to the roots of his flaxen hair, while the other’s beady
+flushed up to the roots of his flaxen hair, while the other's beady
 eyes glistened with curiosity and resentment. Neither of them had time
 to speak, however, before there was a tap at the door, and the
 spokesman of the street Arabs, young Wiggins, introduced his
@@ -2929,7 +2929,7 @@ insignificant and unsavoury person.
 downstairs."</span>
 </p>
 
-<p><span class="Sherlock_Holmes">"Good boy,"</span> said Holmes, blandly. <span class="Sherlock_Holmes">"Why don’t you introduce this pattern
+<p><span class="Sherlock_Holmes">"Good boy,"</span> said Holmes, blandly. <span class="Sherlock_Holmes">"Why don't you introduce this pattern
 at Scotland Yard?"</span> he continued, taking a pair of steel handcuffs from
 a drawer. <span class="Sherlock_Holmes">"See how beautifully the spring works. They fasten in an
 instant."</span>
@@ -2965,12 +2965,12 @@ Stangerson."</span>
 </p>
 
 <p>The whole thing occurred in a moment—so quickly that I had no time to
-realize it. I have a vivid recollection of that instant, of Holmes’
-triumphant expression and the ring of his voice, of the cabman’s dazed,
+realize it. I have a vivid recollection of that instant, of Holmes'
+triumphant expression and the ring of his voice, of the cabman's dazed,
 savage face, as he glared at the glittering handcuffs, which had
 appeared as if by magic upon his wrists. For a second or two we might
 have been a group of statues. Then, with an inarticulate roar of fury,
-the prisoner wrenched himself free from Holmes’s grasp, and hurled
+the prisoner wrenched himself free from Holmes's grasp, and hurled
 himself through the window. Woodwork and glass gave way before him; but
 before he got quite through, Gregson, Lestrade, and Holmes sprang upon
 him like so many staghounds. He was dragged back into the room, and
@@ -3096,13 +3096,13 @@ little moaning cry, and from it there protruded a small, scared face,
 with very bright brown eyes, and two little speckled, dimpled fists.
 </p>
 
-<p><span class="Unknown">"You’ve hurt me!"</span> said a childish voice reproachfully.
+<p><span class="Unknown">"You've hurt me!"</span> said a childish voice reproachfully.
 </p>
 
-<p><span class="Unknown">"Have I though,"</span> the man answered penitently, <span class="Unknown">"I didn’t go for to do
+<p><span class="Unknown">"Have I though,"</span> the man answered penitently, <span class="Unknown">"I didn't go for to do
 it."</span> As he spoke he unwrapped the grey shawl and extricated a pretty
 little girl of about five years of age, whose dainty shoes and smart
-pink frock with its little linen apron all bespoke a mother’s care. The
+pink frock with its little linen apron all bespoke a mother's care. The
 child was pale and wan, but her healthy arms and legs showed that she
 had suffered less than her companion.
 </p>
@@ -3112,32 +3112,32 @@ towsy golden curls which covered the back of her head.
 </p>
 
 <p><span class="Unknown">"Kiss it and make it well,"</span> she said, with perfect gravity, showing the
-injured part up to him. <span class="Unknown">"That’s what mother used to do. Where’s
+injured part up to him. <span class="Unknown">"That's what mother used to do. Where's
 mother?"</span>
 </p>
 
-<p><span class="Unknown">"Mother’s gone. I guess you’ll see her before long."</span>
+<p><span class="Unknown">"Mother's gone. I guess you'll see her before long."</span>
 </p>
 
-<p><span class="Unknown">"Gone, eh!"</span> said the little girl. <span class="Unknown">"Funny, she didn’t say good-bye; she
-‘most always did if she was just goin’ over to Auntie’s for tea, and
-now she’s been away three days. Say, it’s awful dry, ain’t it? Ain’t
+<p><span class="Unknown">"Gone, eh!"</span> said the little girl. <span class="Unknown">"Funny, she didn't say good-bye; she
+'most always did if she was just goin' over to Auntie's for tea, and
+now she's been away three days. Say, it's awful dry, ain't it? Ain't
 there no water, nor nothing to eat?"</span>
 </p>
 
-<p><span class="Unknown">"No, there ain’t nothing, dearie. You’ll just need to be patient
-awhile, and then you’ll be all right. Put your head up agin me like
-that, and then you’ll feel bullier. It ain’t easy to talk when your
-lips is like leather, but I guess I’d best let you know how the cards
-lie. What’s that you’ve got?"</span>
+<p><span class="Unknown">"No, there ain't nothing, dearie. You'll just need to be patient
+awhile, and then you'll be all right. Put your head up agin me like
+that, and then you'll feel bullier. It ain't easy to talk when your
+lips is like leather, but I guess I'd best let you know how the cards
+lie. What's that you've got?"</span>
 </p>
 
 <p><span class="Unknown">"Pretty things! fine things!"</span> cried the little girl enthusiastically,
 holding up two glittering fragments of mica. <span class="Unknown">"When we goes back to home
-I’ll give them to brother Bob."</span>
+I'll give them to brother Bob."</span>
 </p>
 
-<p><span class="Unknown">"You’ll see prettier things than them soon,"</span> said the man confidently.
+<p><span class="Unknown">"You'll see prettier things than them soon,"</span> said the man confidently.
 <span class="Unknown">"You just wait a bit. I was going to tell you though—you remember when
 we left the river?"</span>
 </p>
@@ -3145,13 +3145,13 @@ we left the river?"</span>
 <p><span class="Unknown">"Oh, yes."</span>
 </p>
 
-<p><span class="Unknown">"Well, we reckoned we’d strike another river soon, d’ye see. But there
-was somethin’ wrong; compasses, or map, or somethin’, and it didn’t
+<p><span class="Unknown">"Well, we reckoned we'd strike another river soon, d'ye see. But there
+was somethin' wrong; compasses, or map, or somethin', and it didn't
 turn up. Water ran out. Just except a little drop for the likes of you
 and—and——"</span>
 </p>
 
-<p><span class="Unknown">"And you couldn’t wash yourself,"</span> interrupted his companion gravely,
+<p><span class="Unknown">"And you couldn't wash yourself,"</span> interrupted his companion gravely,
 staring up at his grimy visage.
 </p>
 
@@ -3160,38 +3160,38 @@ Pete, and then Mrs. McGregor, and then Johnny Hones, and then, dearie,
 your mother."</span>
 </p>
 
-<p><span class="Unknown">"Then mother’s a deader too,"</span> cried the little girl dropping her face
+<p><span class="Unknown">"Then mother's a deader too,"</span> cried the little girl dropping her face
 in her pinafore and sobbing bitterly.
 </p>
 
 <p><span class="Unknown">"Yes, they all went except you and me. Then I thought there was some
 chance of water in this direction, so I heaved you over my shoulder and
-we tramped it together. It don’t seem as though we’ve improved matters.
-There’s an almighty small chance for us now!"</span>
+we tramped it together. It don't seem as though we've improved matters.
+There's an almighty small chance for us now!"</span>
 </p>
 
 <p><span class="Unknown">"Do you mean that we are going to die too?"</span> asked the child, checking
 her sobs, and raising her tear-stained face.
 </p>
 
-<p><span class="Unknown">"I guess that’s about the size of it."</span>
+<p><span class="Unknown">"I guess that's about the size of it."</span>
 </p>
 
-<p><span class="Unknown">"Why didn’t you say so before?"</span> she said, laughing gleefully. <span class="Unknown">"You gave
-me such a fright. Why, of course, now as long as we die we’ll be with
+<p><span class="Unknown">"Why didn't you say so before?"</span> she said, laughing gleefully. <span class="Unknown">"You gave
+me such a fright. Why, of course, now as long as we die we'll be with
 mother again."</span>
 </p>
 
 <p><span class="Unknown">"Yes, you will, dearie."</span>
 </p>
 
-  <p><span class="Unknown">"And you too. I’ll tell her how awful good you’ve been. I’ll bet she
+  <p><span class="Unknown">"And you too. I'll tell her how awful good you've been. I'll bet she
 meets us at the door of Heaven with a big pitcher of water, and a lot
 of buckwheat cakes, hot, and toasted on both sides, like Bob and me was
 fond of. How long will it be first?"</span>
 </p>
 
-  <p><span class="Unknown">"I don’t know—not very long."</span> The man’s eyes were fixed upon the
+  <p><span class="Unknown">"I don't know—not very long."</span> The man's eyes were fixed upon the
 northern horizon. In the blue vault of the heaven there had appeared
 three little specks which increased in size every moment, so rapidly
 did they approach. They speedily resolved themselves into three large
@@ -3211,33 +3211,33 @@ unexpected question.
 
   <p><span class="Unknown">"He made the country down in Illinois, and He made the Missouri,"</span> the
     little girl continued. <span class="Unknown">"I guess somebody else made the country in these
-parts. It’s not nearly so well done. They forgot the water and the
+parts. It's not nearly so well done. They forgot the water and the
 trees."</span>
 </p>
 
   <p><span class="Unknown">"What would ye think of offering up prayer?"</span> the man asked diffidently.
 </p>
 
-  <p><span class="Unknown">"It ain’t night yet,"</span> she answered.
+  <p><span class="Unknown">"It ain't night yet,"</span> she answered.
 </p>
 
-  <p><span class="Unknown">"It don’t matter. It ain’t quite regular, but He won’t mind that, you
+  <p><span class="Unknown">"It don't matter. It ain't quite regular, but He won't mind that, you
 bet. You say over them ones that you used to say every night in the
 waggon when we was on the Plains."</span>
 </p>
 
-  <p><span class="Unknown">"Why don’t you say some yourself?"</span> the child asked, with wondering
+  <p><span class="Unknown">"Why don't you say some yourself?"</span> the child asked, with wondering
 eyes.
 </p>
 
-  <p><span class="Unknown">"I disremember them,"</span> he answered. <span class="Unknown">"I hain’t said none since I was half
-the height o’ that gun. I guess it’s never too late. You say them out,
-and I’ll stand by and come in on the choruses."</span>
+  <p><span class="Unknown">"I disremember them,"</span> he answered. <span class="Unknown">"I hain't said none since I was half
+the height o' that gun. I guess it's never too late. You say them out,
+and I'll stand by and come in on the choruses."</span>
 </p>
 
-  <p><span class="Unknown">"Then you’ll need to kneel down, and me too,"</span> she said, laying the
-    shawl out for that purpose. <span class="Unknown">"You’ve got to put your hands up like this.
-It makes you feel kind o’ good."</span>
+  <p><span class="Unknown">"Then you'll need to kneel down, and me too,"</span> she said, laying the
+    shawl out for that purpose. <span class="Unknown">"You've got to put your hands up like this.
+It makes you feel kind o' good."</span>
 </p>
 
 <p>It was a strange sight had there been anything but the buzzards to see
@@ -3253,7 +3253,7 @@ breast of her protector. He watched over her slumber for some time, but
 Nature proved to be too strong for him. For three days and three nights
 he had allowed himself neither rest nor repose. Slowly the eyelids
 drooped over the tired eyes, and the head sunk lower and lower upon the
-breast, until the man’s grizzled beard was mixed with the gold tresses
+breast, until the man's grizzled beard was mixed with the gold tresses
 of his companion, and both slept the same deep and dreamless slumber.
 </p>
 
@@ -3313,10 +3313,10 @@ above them. From its summit there fluttered a little wisp of pink,
 showing up hard and bright against the grey rocks behind. At the sight
 there was a general reining up of horses and unslinging of guns, while
 fresh horsemen came galloping up to reinforce the vanguard. The word
-‘Redskins’ was on every lip.
+'Redskins' was on every lip.
 </p>
 
-  <p><span class="Unknown">"There can’t be any number of Injuns here,"</span> said the elderly man who
+  <p><span class="Unknown">"There can't be any number of Injuns here,"</span> said the elderly man who
     appeared to be in command. <span class="Unknown">"We have passed the Pawnees, and there are
 no other tribes until we cross the great mountains."</span>
 </p>
@@ -3375,15 +3375,15 @@ gaunt companion, and assisted him towards the waggons.
 </p>
 
 <p><span class="John_Ferrier">"My name is John Ferrier,"</span> the wanderer explained; <span class="John_Ferrier">"me and that little
-un are all that’s left o’ twenty-one people. The rest is all dead o’
+un are all that's left o' twenty-one people. The rest is all dead o'
 thirst and hunger away down in the south."</span>
 </p>
 
 <p><span class="Unknown">"Is she your child?"</span> asked someone.
 </p>
 
-<p><span class="Unknown">"I guess she is now,"</span> the other cried, defiantly; <span class="Unknown">"she’s mine ‘cause I
-saved her. No man will take her from me. She’s Lucy Ferrier from this
+<p><span class="Unknown">"I guess she is now,"</span> the other cried, defiantly; <span class="Unknown">"she's mine 'cause I
+saved her. No man will take her from me. She's Lucy Ferrier from this
 day on. Who are you, though?"</span> he continued, glancing with curiosity at
 his stalwart, sunburned rescuers; <span class="Unknown">"there seems to be a powerful lot of
 ye."</span>
@@ -3445,7 +3445,7 @@ should prove to be that little speck of decay which in time corrupts
 the whole fruit. Will you come with us on these terms?"</span>
 </p>
 
-<p><span class="John_Ferrier">"Guess I’ll come with you on any terms,"</span> said Ferrier, with such
+<p><span class="John_Ferrier">"Guess I'll come with you on any terms,"</span> said Ferrier, with such
 emphasis that the grave Elders could not restrain a smile. The leader
 alone retained his stern, impressive expression.
 </p>
@@ -3517,10 +3517,10 @@ through many dangers.
 <p>The two castaways, John Ferrier and the little girl who had shared his
 fortunes and had been adopted as his daughter, accompanied the Mormons
 to the end of their great pilgrimage. Little Lucy Ferrier was borne
-along pleasantly enough in Elder Stangerson’s waggon, a retreat which
-she shared with the Mormon’s three wives and with his son, a headstrong
+along pleasantly enough in Elder Stangerson's waggon, a retreat which
+she shared with the Mormon's three wives and with his son, a headstrong
 forward boy of twelve. Having rallied, with the elasticity of
-childhood, from the shock caused by her mother’s death, she soon became
+childhood, from the shock caused by her mother's death, she soon became
 a pet with the women, and reconciled herself to this new life in her
 moving canvas-covered home. In the meantime Ferrier having recovered
 from his privations, distinguished himself as a useful guide and an
@@ -3566,9 +3566,9 @@ father in all his undertakings. The keen air of the mountains and the
 balsamic odour of the pine trees took the place of nurse and mother to
 the young girl. As year succeeded to year she grew taller and stronger,
 her cheek more rudy, and her step more elastic. Many a wayfarer upon
-the high road which ran by Ferrier’s farm felt long-forgotten thoughts
+the high road which ran by Ferrier's farm felt long-forgotten thoughts
 revive in their mind as they watched her lithe girlish figure tripping
-through the wheatfields, or met her mounted upon her father’s mustang,
+through the wheatfields, or met her mounted upon her father's mustang,
 and managing it with all the ease and grace of a true child of the
 West. So the bud blossomed into a flower, and the year which saw her
 father the richest of the farmers left her as fair a specimen of
@@ -3635,10 +3635,10 @@ brown hand caught the frightened horse by the curb, and forcing a way
 through the drove, soon brought her to the outskirts.
 </p>
 
-<p><span class="Jefferson_Hope">"You’re not hurt, I hope, miss,"</span> said her preserver, respectfully.
+<p><span class="Jefferson_Hope">"You're not hurt, I hope, miss,"</span> said her preserver, respectfully.
 </p>
 
-  <p>She looked up at his dark, fierce face, and laughed saucily. <span class="Lucy_Ferrier">"I’m awful
+  <p>She looked up at his dark, fierce face, and laughed saucily. <span class="Lucy_Ferrier">"I'm awful
     frightened,"</span> she said, naively; <span class="Lucy_Ferrier">"whoever would have thought that Poncho
 would have been so scared by a lot of cows?"</span>
 </p>
@@ -3648,37 +3648,37 @@ tall, savage-looking young fellow, mounted on a powerful roan horse,
 and clad in the rough dress of a hunter, with a long rifle slung over
 his shoulders. <span class="Jefferson_Hope">"I guess you are the daughter of John Ferrier,"</span> he
     remarked, <span class="Jefferson_Hope">"I saw you ride down from his house. When you see him, ask
-him if he remembers the Jefferson Hopes of St. Louis. If he’s the same
+him if he remembers the Jefferson Hopes of St. Louis. If he's the same
 Ferrier, my father and he were pretty thick."</span>
 </p>
 
-  <p><span class="Lucy_Ferrier">"Hadn’t you better come and ask yourself?"</span> she asked, demurely.
+  <p><span class="Lucy_Ferrier">"Hadn't you better come and ask yourself?"</span> she asked, demurely.
 </p>
 
 <p>The young fellow seemed pleased at the suggestion, and his dark eyes
-  sparkled with pleasure. <span class="Jefferson_Hope">"I’ll do so,"</span> he said, <span class="Jefferson_Hope">"we’ve been in the
+  sparkled with pleasure. <span class="Jefferson_Hope">"I'll do so,"</span> he said, <span class="Jefferson_Hope">"we've been in the
 mountains for two months, and are not over and above in visiting
 condition. He must take us as he finds us."</span>
 </p>
 
   <p><span class="Lucy_Ferrier">"He has a good deal to thank you for, and so have I,"</span> she answered,
-    <span class="Lucy_Ferrier">"he’s awful fond of me. If those cows had jumped on me he’d have never
+    <span class="Lucy_Ferrier">"he's awful fond of me. If those cows had jumped on me he'd have never
 got over it."</span>
 </p>
 
   <p><span class="Jefferson_Hope">"Neither would I,"</span> said her companion.
 </p>
 
-  <p><span class="Jefferson_Hope">"You! Well, I don’t see that it would make much matter to you, anyhow.
-You ain’t even a friend of ours."</span>
+  <p><span class="Jefferson_Hope">"You! Well, I don't see that it would make much matter to you, anyhow.
+You ain't even a friend of ours."</span>
 </p>
 
-<p>The young hunter’s dark face grew so gloomy over this remark that Lucy
+<p>The young hunter's dark face grew so gloomy over this remark that Lucy
 Ferrier laughed aloud.
 </p>
 
-  <p><span class="Lucy_Ferrier">"There, I didn’t mean that,"</span> she said; <span class="Lucy_Ferrier">"of course, you are a friend
-now. You must come and see us. Now I must push along, or father won’t
+  <p><span class="Lucy_Ferrier">"There, I didn't mean that,"</span> she said; <span class="Lucy_Ferrier">"of course, you are a friend
+now. You must come and see us. Now I must push along, or father won't
 trust me with his business any more. Good-bye!"</span>
 </p>
 
@@ -3730,7 +3730,7 @@ threw the bridle over the fence and strode up the pathway.
 </p>
 
   <p><span class="Jefferson_Hope">"I am off, Lucy,"</span> he said, taking her two hands in his, and gazing
-    tenderly down into her face; <span class="Jefferson_Hope">"I won’t ask you to come with me now, but
+    tenderly down into her face; <span class="Jefferson_Hope">"I won't ask you to come with me now, but
 will you be ready to come when I am here again?"</span>
 </p>
 
@@ -3738,7 +3738,7 @@ will you be ready to come when I am here again?"</span>
 </p>
 
   <p><span class="Jefferson_Hope">"A couple of months at the outside. I will come and claim you then, my
-darling. There’s no one who can stand between us."</span>
+darling. There's no one who can stand between us."</span>
 </p>
 
 <p><span class="Lucy_Ferrier">"And how about father?"</span> she asked.
@@ -3748,7 +3748,7 @@ darling. There’s no one who can stand between us."</span>
 right. I have no fear on that head."</span>
 </p>
 
-<p><span class="Lucy_Ferrier">"Oh, well; of course, if you and father have arranged it all, there’s
+<p><span class="Lucy_Ferrier">"Oh, well; of course, if you and father have arranged it all, there's
 no more to be said,"</span> she whispered, with her cheek against his broad
 breast.
 </p>
@@ -3781,8 +3781,8 @@ happiest girl in all Utah.
 
 
 <p>Three weeks had passed since Jefferson Hope and his comrades had
-departed from Salt Lake City. John Ferrier’s heart was sore within him
-when he thought of the young man’s return, and of the impending loss of
+departed from Salt Lake City. John Ferrier's heart was sore within him
+when he thought of the young man's return, and of the impending loss of
 his adopted child. Yet her bright and happy face reconciled him to the
 arrangement more than any argument could have done. He had always
 determined, deep down in his resolute heart, that nothing would ever
@@ -3899,8 +3899,8 @@ favour in the eyes of many who are high in the land."</span>
 <p><span class="John_Ferrier">"There are stories of her which I would fain disbelieve—stories that
 she is sealed to some Gentile. This must be the gossip of idle tongues.
 What is the thirteenth rule in the code of the sainted Joseph Smith?
-‘Let every maiden of the true faith marry one of the elect; for if she
-wed a Gentile, she commits a grievous sin.’ This being so, it is
+'Let every maiden of the true faith marry one of the elect; for if she
+wed a Gentile, she commits a grievous sin.' This being so, it is
 impossible that you, who profess the holy creed, should suffer your
 daughter to violate it."</span>
 </p>
@@ -3955,24 +3955,24 @@ pale, frightened face showed him that she had heard what had passed.
 through the house. Oh, father, father, what shall we do?"</span>
 </p>
 
-<p><span class="John_Ferrier">"Don’t you scare yourself,"</span> he answered, drawing her to him, and
+<p><span class="John_Ferrier">"Don't you scare yourself,"</span> he answered, drawing her to him, and
 passing his broad, rough hand caressingly over her chestnut hair.
-<span class="John_Ferrier">"We’ll fix it up somehow or another. You don’t find your fancy kind o’
+<span class="John_Ferrier">"We'll fix it up somehow or another. You don't find your fancy kind o'
 lessening for this chap, do you?"</span>
 </p>
 
 <p>A sob and a squeeze of his hand was her only answer.
 </p>
 
-<p><span class="John_Ferrier">"No; of course not. I shouldn’t care to hear you say you did. He’s a
-likely lad, and he’s a Christian, which is more than these folk here,
-in spite o’ all their praying and preaching. There’s a party starting
-for Nevada to-morrow, and I’ll manage to send him a message letting him
-know the hole we are in. If I know anything o’ that young man, he’ll be
+<p><span class="John_Ferrier">"No; of course not. I shouldn't care to hear you say you did. He's a
+likely lad, and he's a Christian, which is more than these folk here,
+in spite o' all their praying and preaching. There's a party starting
+for Nevada to-morrow, and I'll manage to send him a message letting him
+know the hole we are in. If I know anything o' that young man, he'll be
 back here with a speed that would whip electro-telegraphs."</span>
 </p>
 
-<p>Lucy laughed through her tears at her father’s description.
+<p>Lucy laughed through her tears at her father's description.
 </p>
 
 <p><span class="Lucy_Ferrier">"When he comes, he will advise us for the best. But it is for you that
@@ -3981,7 +3981,7 @@ those who oppose the Prophet: something terrible always happens to
 them."</span>
 </p>
 
-<p><span class="John_Ferrier">"But we haven’t opposed him yet,"</span> her father answered. <span class="John_Ferrier">"It will be time
+<p><span class="John_Ferrier">"But we haven't opposed him yet,"</span> her father answered. <span class="John_Ferrier">"It will be time
 to look out for squalls when we do. We have a clear month before us; at
 the end of that, I guess we had best shin out of Utah."</span>
 </p>
@@ -3989,28 +3989,28 @@ the end of that, I guess we had best shin out of Utah."</span>
 <p><span class="Lucy_Ferrier">"Leave Utah!"</span>
 </p>
 
-<p><span class="John_Ferrier">"That’s about the size of it."</span>
+<p><span class="John_Ferrier">"That's about the size of it."</span>
 </p>
 
 <p><span class="Lucy_Ferrier">"But the farm?"</span>
 </p>
 
 <p><span class="John_Ferrier">"We will raise as much as we can in money, and let the rest go. To tell
-the truth, Lucy, it isn’t the first time I have thought of doing it. I
-don’t care about knuckling under to any man, as these folk do to their
-darned prophet. I’m a free-born American, and it’s all new to me. Guess
-I’m too old to learn. If he comes browsing about this farm, he might
+the truth, Lucy, it isn't the first time I have thought of doing it. I
+don't care about knuckling under to any man, as these folk do to their
+darned prophet. I'm a free-born American, and it's all new to me. Guess
+I'm too old to learn. If he comes browsing about this farm, he might
 chance to run up against a charge of buckshot travelling in the
 opposite direction."</span>
 </p>
 
-<p><span class="Lucy_Ferrier">"But they won’t let us leave,"</span> his daughter objected.
+<p><span class="Lucy_Ferrier">"But they won't let us leave,"</span> his daughter objected.
 </p>
 
-<p><span class="John_Ferrier">"Wait till Jefferson comes, and we’ll soon manage that. In the
-meantime, don’t you fret yourself, my dearie, and don’t get your eyes
-swelled up, else he’ll be walking into me when he sees you. There’s
-nothing to be afeared about, and there’s no danger at all."</span>
+<p><span class="John_Ferrier">"Wait till Jefferson comes, and we'll soon manage that. In the
+meantime, don't you fret yourself, my dearie, and don't get your eyes
+swelled up, else he'll be walking into me when he sees you. There's
+nothing to be afeared about, and there's no danger at all."</span>
 </p>
 
 <p>John Ferrier uttered these consoling remarks in a very confident tone,
@@ -4052,8 +4052,8 @@ he entered, and the one in the rocking-chair commenced the
 conversation.
 </p>
 
-<p><span class="Jefferson_Hope">"Maybe you don’t know us,"</span> he said. <span class="Jefferson_Hope">"This here is the son of Elder
-Drebber, and I’m Joseph Stangerson, who travelled with you in the
+<p><span class="Jefferson_Hope">"Maybe you don't know us,"</span> he said. <span class="Jefferson_Hope">"This here is the son of Elder
+Drebber, and I'm Joseph Stangerson, who travelled with you in the
 desert when the Lord stretched out His hand and gathered you into the
 true fold."</span>
 </p>
@@ -4091,12 +4091,12 @@ hardly able to keep his riding-whip from the backs of his two visitors.
 </p>
 
 <p><span class="John_Ferrier">"Look here,"</span> he said at last, striding up to them, <span class="John_Ferrier">"when my daughter
-summons you, you can come, but until then I don’t want to see your
+summons you, you can come, but until then I don't want to see your
 faces again."</span>
 </p>
 
 <p>The two young Mormons stared at him in amazement. In their eyes this
-competition between them for the maiden’s hand was the highest of
+competition between them for the maiden's hand was the highest of
 honours both to her and her father.
 </p>
 
@@ -4122,9 +4122,9 @@ the end of your days."</span>
     <span class="Enoch_J_Drebber">"He will arise and smite you!"</span>
 </p>
 
-<p><span class="John_Ferrier">"Then I’ll start the smiting,"</span> exclaimed Ferrier furiously, and would
+<p><span class="John_Ferrier">"Then I'll start the smiting,"</span> exclaimed Ferrier furiously, and would
 have rushed upstairs for his gun had not Lucy seized him by the arm and
-restrained him. Before he could escape from her, the clatter of horses’
+restrained him. Before he could escape from her, the clatter of horses'
 hoofs told him that they were beyond his reach.
 </p>
 
@@ -4211,7 +4211,7 @@ more-frequented roads were strictly watched and guarded, and none could
 pass along them without an order from the Council. Turn which way he
 would, there appeared to be no avoiding the blow which hung over him.
 Yet the old man never wavered in his resolution to part with life
-itself before he consented to what he regarded as his daughter’s
+itself before he consented to what he regarded as his daughter's
 dishonour.
 </p>
 
@@ -4240,7 +4240,7 @@ and threw the door open.
 
 <p>Outside all was calm and quiet. The night was fine, and the stars were
 twinkling brightly overhead. The little front garden lay before the
-farmer’s eyes bounded by the fence and gate, but neither there nor on
+farmer's eyes bounded by the fence and gate, but neither there nor on
 the road was any human being to be seen. With a sigh of relief, Ferrier
 looked to right and to left, until happening to glance straight down at
 his own feet he saw to his astonishment a man lying flat upon his face
@@ -4263,7 +4263,7 @@ come in like that."</span>
 
 <p><span class="Jefferson_Hope">"Give me food,"</span> the other said, hoarsely. <span class="Jefferson_Hope">"I have had no time for bite
 or sup for eight-and-forty hours."</span> He flung himself upon the cold meat
-and bread which were still lying upon the table from his host’s supper,
+and bread which were still lying upon the table from his host's supper,
 and devoured it voraciously. <span class="Jefferson_Hope">"Does Lucy bear up well?"</span> he asked, when
 he had satisfied his hunger.
 </p>
@@ -4272,20 +4272,20 @@ he had satisfied his hunger.
 </p>
 
 <p><span class="Jefferson_Hope">"That is well. The house is watched on every side. That is why I
-crawled my way up to it. They may be darned sharp, but they’re not
+crawled my way up to it. They may be darned sharp, but they're not
 quite sharp enough to catch a Washoe hunter."</span>
 </p>
 
 <p>John Ferrier felt a different man now that he realized that he had a
-devoted ally. He seized the young man’s leathery hand and wrung it
-cordially. <span class="John_Ferrier">"You’re a man to be proud of,"</span> he said. <span class="John_Ferrier">"There are not many
+devoted ally. He seized the young man's leathery hand and wrung it
+cordially. <span class="John_Ferrier">"You're a man to be proud of,"</span> he said. <span class="John_Ferrier">"There are not many
 who would come to share our danger and our troubles."</span>
 </p>
 
-<p><span class="Jefferson_Hope">"You’ve hit it there, pard,"</span> the young hunter answered. <span class="Jefferson_Hope">"I have a
-respect for you, but if you were alone in this business I’d think twice
-before I put my head into such a hornet’s nest. It’s Lucy that brings
-me here, and before harm comes on her I guess there will be one less o’
+<p><span class="Jefferson_Hope">"You've hit it there, pard,"</span> the young hunter answered. <span class="Jefferson_Hope">"I have a
+respect for you, but if you were alone in this business I'd think twice
+before I put my head into such a hornet's nest. It's Lucy that brings
+me here, and before harm comes on her I guess there will be one less o'
 the Hope family in Utah."</span>
 </p>
 
@@ -4467,11 +4467,11 @@ people, and that freedom lay before them.
 
 
 <p>All night their course lay through intricate defiles and over irregular
-and rock-strewn paths. More than once they lost their way, but Hope’s
+and rock-strewn paths. More than once they lost their way, but Hope's
 intimate knowledge of the mountains enabled them to regain the track
 once more. When morning broke, a scene of marvellous though savage
 beauty lay before them. In every direction the great snow-capped peaks
-hemmed them in, peeping over each other’s shoulders to the far horizon.
+hemmed them in, peeping over each other's shoulders to the far horizon.
 So steep were the rocky banks on either side of them, that the larch
 and the pine seemed to be suspended over their heads, and to need only
 a gust of wind to come hurtling down upon them. Nor was the fear
@@ -4498,7 +4498,7 @@ the remainder of our lives."</span>
 by evening they calculated that they were more than thirty miles from
 their enemies. At night-time they chose the base of a beetling crag,
 where the rocks offered some protection from the chill wind, and there
-huddled together for warmth, they enjoyed a few hours’ sleep. Before
+huddled together for warmth, they enjoyed a few hours' sleep. Before
 daybreak, however, they were up and on their way once more. They had
 seen no signs of any pursuers, and Jefferson Hope began to think that
 they were fairly out of the reach of the terrible organization whose
@@ -4524,7 +4524,7 @@ hid them from his view.
 <p>He walked for a couple of miles through one ravine after another
 without success, though from the marks upon the bark of the trees, and
 other indications, he judged that there were numerous bears in the
-vicinity. At last, after two or three hours’ fruitless search, he was
+vicinity. At last, after two or three hours' fruitless search, he was
 thinking of turning back in despair, when casting his eyes upwards he
 saw a sight which sent a thrill of pleasure through his heart. On the
 edge of a jutting pinnacle, three or four hundred feet above him, there
@@ -4619,7 +4619,7 @@ Died August 4th, 1860.
 then, and this was all his epitaph. Jefferson Hope looked wildly round
 to see if there was a second grave, but there was no sign of one. Lucy
 had been carried back by their terrible pursuers to fulfil her original
-destiny, by becoming one of the harem of the Elder’s son. As the young
+destiny, by becoming one of the harem of the Elder's son. As the young
 fellow realized the certainty of her fate, and his own powerlessness to
 prevent it, he wished that he, too, was lying with the old farmer in
 his last silent resting-place.
@@ -4651,11 +4651,11 @@ leaned upon his rifle and shook his gaunt hand fiercely at the silent
 widespread city beneath him. As he looked at it, he observed that there
 were flags in some of the principal streets, and other signs of
 festivity. He was still speculating as to what this might mean when he
-heard the clatter of horse’s hoofs, and saw a mounted man riding
+heard the clatter of horse's hoofs, and saw a mounted man riding
 towards him. As he approached, he recognized him as a Mormon named
 Cowper, to whom he had rendered services at different times. He
 therefore accosted him when he got up to him, with the object of
-finding out what Lucy Ferrier’s fate had been.
+finding out what Lucy Ferrier's fate had been.
 </p>
 
 <p><span class="Jefferson_Hope">"I am Jefferson Hope,"</span> he said. <span class="Jefferson_Hope">"You remember me."</span>
@@ -4665,7 +4665,7 @@ finding out what Lucy Ferrier’s fate had been.
 difficult to recognize in this tattered, unkempt wanderer, with ghastly
 white face and fierce, wild eyes, the spruce young hunter of former
 days. Having, however, at last, satisfied himself as to his identity,
-the man’s surprise changed to consternation.
+the man's surprise changed to consternation.
 </p>
 
 <p><span class="Cowper">"You are mad to come here,"</span> he cried. <span class="Cowper">"It is as much as my own life is
@@ -4673,10 +4673,10 @@ worth to be seen talking with you. There is a warrant against you from
 the Holy Four for assisting the Ferriers away."</span>
 </p>
 
-<p><span class="Jefferson_Hope">"I don’t fear them, or their warrant,"</span> Hope said, earnestly. <span class="Jefferson_Hope">"You must
+<p><span class="Jefferson_Hope">"I don't fear them, or their warrant,"</span> Hope said, earnestly. <span class="Jefferson_Hope">"You must
 know something of this matter, Cowper. I conjure you by everything you
 hold dear to answer a few questions. We have always been friends. For
-God’s sake, don’t refuse to answer me."</span>
+God's sake, don't refuse to answer me."</span>
 </p>
 
 <p><span class="Cowper">"What is it?"</span> the Mormon asked uneasily. <span class="Cowper">"Be quick. The very rocks have
@@ -4690,18 +4690,18 @@ ears and the trees eyes."</span>
 have no life left in you."</span>
 </p>
 
-<p><span class="Jefferson_Hope">"Don’t mind me,"</span> said Hope faintly. He was white to the very lips, and
+<p><span class="Jefferson_Hope">"Don't mind me,"</span> said Hope faintly. He was white to the very lips, and
 had sunk down on the stone against which he had been leaning. <span class="Jefferson_Hope">"Married,
 you say?"</span>
 </p>
 
-<p><span class="Cowper">"Married yesterday—that’s what those flags are for on the Endowment
+<p><span class="Cowper">"Married yesterday—that's what those flags are for on the Endowment
 House. There was some words between young Drebber and young Stangerson
-as to which was to have her. They’d both been in the party that
+as to which was to have her. They'd both been in the party that
 followed them, and Stangerson had shot her father, which seemed to give
-him the best claim; but when they argued it out in council, Drebber’s
+him the best claim; but when they argued it out in council, Drebber's
 party was the stronger, so the Prophet gave her over to him. No one
-won’t have her very long though, for I saw death in her face yesterday.
+won't have her very long though, for I saw death in her face yesterday.
 She is more like a ghost than a woman. Are you off, then?"</span>
 </p>
 
@@ -4723,7 +4723,7 @@ fierce and so dangerous as himself.
 was the terrible death of her father or the effects of the hateful
 marriage into which she had been forced, poor Lucy never held up her
 head again, but pined away and died within a month. Her sottish
-husband, who had married her principally for the sake of John Ferrier’s
+husband, who had married her principally for the sake of John Ferrier's
 property, did not affect any great grief at his bereavement; but his
 other wives mourned over her, and sat up with her the night before the
 burial, as is the Mormon custom. They were grouped round the bier in
@@ -4746,7 +4746,7 @@ of gold which marked her as having been a bride had disappeared.
 strange wild life, and nursing in his heart the fierce desire for
 vengeance which possessed him. Tales were told in the City of the weird
 figure which was seen prowling about the suburbs, and which haunted the
-lonely mountain gorges. Once a bullet whistled through Stangerson’s
+lonely mountain gorges. Once a bullet whistled through Stangerson's
 window and flattened itself upon the wall within a foot of him. On
 another occasion, as Drebber passed under a cliff a great boulder
 crashed down on him, and he only escaped a terrible death by throwing
@@ -4760,7 +4760,7 @@ measures, for nothing was either heard or seen of their opponent, and
 they hoped that time had cooled his vindictiveness.
 </p>
 
-<p>Far from doing so, it had, if anything, augmented it. The hunter’s mind
+<p>Far from doing so, it had, if anything, augmented it. The hunter's mind
 was of a hard, unyielding nature, and the predominant idea of revenge
 had taken such complete possession of it that there was no room for any
 other emotion. He was, however, above all things practical. He soon
@@ -4769,7 +4769,7 @@ strain which he was putting upon it. Exposure and want of wholesome
 food were wearing him out. If he died like a dog among the mountains,
 what was to become of his revenge then? And yet such a death was sure
 to overtake him if he persisted. He felt that that was to play his
-enemy’s game, so he reluctantly returned to the old Nevada mines, there
+enemy's game, so he reluctantly returned to the old Nevada mines, there
 to recruit his health and to amass money enough to allow him to pursue
 his object without privation.
 </p>
@@ -4778,7 +4778,7 @@ his object without privation.
 combination of unforeseen circumstances prevented his leaving the mines
 for nearly five. At the end of that time, however, his memory of his
 wrongs and his craving for revenge were quite as keen as on that
-memorable night when he had stood by John Ferrier’s grave. Disguised,
+memorable night when he had stood by John Ferrier's grave. Disguised,
 and under an assumed name, he returned to Salt Lake City, careless what
 became of his own life, as long as he obtained what he knew to be
 justice. There he found evil tidings awaiting him. There had been a
@@ -4812,7 +4812,7 @@ him that they were in danger of their lives from the jealousy and
 hatred of an old rival. That evening Jefferson Hope was taken into
 custody, and not being able to find sureties, was detained for some
 weeks. When at last he was liberated, it was only to find that
-Drebber’s house was deserted, and that he and his secretary had
+Drebber's house was deserted, and that he and his secretary had
 departed for Europe.
 </p>
 
@@ -4827,7 +4827,7 @@ and when he followed them there he learned that they had just set off
 for Copenhagen. At the Danish capital he was again a few days late, for
 they had journeyed on to London, where he at last succeeded in running
 them to earth. As to what occurred there, we cannot do better than
-quote the old hunter’s own account, as duly recorded in Dr. Watson’s
+quote the old hunter's own account, as duly recorded in Dr. Watson's
 Journal, to which we are already under such obligations.
 </p>
 
@@ -4844,12 +4844,12 @@ Journal, to which we are already under such obligations.
 
 
 
-<p>Our prisoner’s furious resistance did not apparently indicate any
+<p>Our prisoner's furious resistance did not apparently indicate any
 ferocity in his disposition towards ourselves, for on finding himself
 powerless, he smiled in an affable manner, and expressed his hopes that
-he had not hurt any of us in the scuffle. <span class="Jefferson_Hope">"I guess you’re going to take
-me to the police-station,"</span> he remarked to Sherlock Holmes. <span class="Jefferson_Hope">"My cab’s at
-the door. If you’ll loose my legs I’ll walk down to it. I’m not so
+he had not hurt any of us in the scuffle. <span class="Jefferson_Hope">"I guess you're going to take
+me to the police-station,"</span> he remarked to Sherlock Holmes. <span class="Jefferson_Hope">"My cab's at
+the door. If you'll loose my legs I'll walk down to it. I'm not so
 light to lift as I used to be."</span>
 </p>
 
@@ -4863,7 +4863,7 @@ sunburned face bore an expression of determination and energy which was
 as formidable as his personal strength.
 </p>
 
-<p><span class="Jefferson_Hope">"If there’s a vacant place for a chief of the police, I reckon you are
+<p><span class="Jefferson_Hope">"If there's a vacant place for a chief of the police, I reckon you are
 the man for it,"</span> he said, gazing with undisguised admiration at my
 fellow-lodger. <span class="Jefferson_Hope">"The way you kept on my trail was a caution."</span>
 </p>
@@ -4882,7 +4882,7 @@ taken an interest in the case and may as well stick to us."</span>
 attempt at escape, but stepped calmly into the cab which had been his,
 and we followed him. Lestrade mounted the box, whipped up the horse,
 and brought us in a very short time to our destination. We were ushered
-into a small chamber where a police Inspector noted down our prisoner’s
+into a small chamber where a police Inspector noted down our prisoner's
 name and the names of the men with whose murder he had been charged.
 The official was a white-faced unemotional man, who went through his
 duties in a dull mechanical way. <span class="Unknown">"The prisoner will be put before the
@@ -4891,15 +4891,15 @@ Jefferson Hope, have you anything that you wish to say? I must warn you
 that your words will be taken down, and may be used against you."</span>
 </p>
 
-<p><span class="Jefferson_Hope">"I’ve got a good deal to say,"</span> our prisoner said slowly. <span class="Jefferson_Hope">"I want to
+<p><span class="Jefferson_Hope">"I've got a good deal to say,"</span> our prisoner said slowly. <span class="Jefferson_Hope">"I want to
 tell you gentlemen all about it."</span>
 </p>
 
-<p><span class="Sherlock_Holmes">"Hadn’t you better reserve that for your trial?"</span> asked the Inspector.
+<p><span class="Sherlock_Holmes">"Hadn't you better reserve that for your trial?"</span> asked the Inspector.
 </p>
 
-<p><span class="Jefferson_Hope">"I may never be tried,"</span> he answered. <span class="Jefferson_Hope">"You needn’t look startled. It
-isn’t suicide I am thinking of. Are you a Doctor?"</span> He turned his fierce
+<p><span class="Jefferson_Hope">"I may never be tried,"</span> he answered. <span class="Jefferson_Hope">"You needn't look startled. It
+isn't suicide I am thinking of. Are you a Doctor?"</span> He turned his fierce
 dark eyes upon me as he asked this last question.
 </p>
 
@@ -4920,12 +4920,12 @@ dull humming and buzzing noise which proceeded from the same source.
 <p><span class="John_Watson">"Why,"</span> I cried, <span class="John_Watson">"you have an aortic aneurism!"</span>
 </p>
 
-<p><span class="Jefferson_Hope">"That’s what they call it,"</span> he said, placidly. <span class="Jefferson_Hope">"I went to a Doctor last
+<p><span class="Jefferson_Hope">"That's what they call it,"</span> he said, placidly. <span class="Jefferson_Hope">"I went to a Doctor last
 week about it, and he told me that it is bound to burst before many
 days passed. It has been getting worse for years. I got it from
-over-exposure and under-feeding among the Salt Lake Mountains. I’ve
-done my work now, and I don’t care how soon I go, but I should like to
-leave some account of the business behind me. I don’t want to be
+over-exposure and under-feeding among the Salt Lake Mountains. I've
+done my work now, and I don't care how soon I go, but I should like to
+leave some account of the business behind me. I don't want to be
 remembered as a common cut-throat."</span>
 </p>
 
@@ -4945,9 +4945,9 @@ take his statement,"</span> said the Inspector. <span class="Sherlock_Holmes">"Y
 give your account, which I again warn you will be taken down."</span>
 </p>
 
-<p><span class="Jefferson_Hope">"I’ll sit down, with your leave,"</span> the prisoner said, suiting the action
+<p><span class="Jefferson_Hope">"I'll sit down, with your leave,"</span> the prisoner said, suiting the action
 to the word. <span class="Jefferson_Hope">"This aneurism of mine makes me easily tired, and the
-tussle we had half an hour ago has not mended matters. I’m on the brink
+tussle we had half an hour ago has not mended matters. I'm on the brink
 of the grave, and I am not likely to lie to you. Every word I say is
 the absolute truth, and how you use it is a matter of no consequence to
 me."</span>
@@ -4957,17 +4957,17 @@ me."</span>
 following remarkable statement. He spoke in a calm and methodical
 manner, as though the events which he narrated were commonplace enough.
 I can vouch for the accuracy of the subjoined account, for I have had
-access to Lestrade’s note-book, in which the prisoner’s words were
+access to Lestrade's note-book, in which the prisoner's words were
 taken down exactly as they were uttered.
 </p>
 
-<p><span class="Jefferson_Hope">"It don’t much matter to you why I hated these men,"</span> he said; <span class="Jefferson_Hope">"it’s
+<p><span class="Jefferson_Hope">"It don't much matter to you why I hated these men,"</span> he said; <span class="Jefferson_Hope">"it's
 enough that they were guilty of the death of two human beings—a father
 and a daughter—and that they had, therefore, forfeited their own lives.
 After the lapse of time that has passed since their crime, it was
 impossible for me to secure a conviction against them in any court. I
 knew of their guilt though, and I determined that I should be judge,
-jury, and executioner all rolled into one. You’d have done the same, if
+jury, and executioner all rolled into one. You'd have done the same, if
 you have any manhood in you, if you had been in my place.
 "</span></p>
 
@@ -4986,7 +4986,7 @@ and by my hand. There is nothing left for me to hope for, or to desire.
 <p><span class="Jefferson_Hope">"They were rich and I was poor, so that it was no easy matter for me to
 follow them. When I got to London my pocket was about empty, and I
 found that I must turn my hand to something for my living. Driving and
-riding are as natural to me as walking, so I applied at a cabowner’s
+riding are as natural to me as walking, so I applied at a cabowner's
 office, and soon got employment. I was to bring a certain sum a week to
 the owner, and whatever was over that I might keep for myself. There
 was seldom much over, but I managed to scrape along somehow. The
@@ -5045,7 +5045,7 @@ go alone. I could not catch what Stangerson said to that, but the other
 burst out swearing, and reminded him that he was nothing more than his
 paid servant, and that he must not presume to dictate to him. On that
 the Secretary gave it up as a bad job, and simply bargained with him
-that if he missed the last train he should rejoin him at Halliday’s
+that if he missed the last train he should rejoin him at Halliday's
 Private Hotel; to which Drebber answered that he would be back on the
 platform before eleven, and made his way out of the station.
 "</span></p>
@@ -5084,18 +5084,18 @@ glass of water, if you please. My mouth gets dry with the talking."</span>
 <p>I handed him the glass, and he drank it down.
 </p>
 
-<p><span class="Jefferson_Hope">"That’s better,"</span> he said. <span class="Jefferson_Hope">"Well, I waited for a quarter of an hour, or
+<p><span class="Jefferson_Hope">"That's better,"</span> he said. <span class="Jefferson_Hope">"Well, I waited for a quarter of an hour, or
 more, when suddenly there came a noise like people struggling inside
 the house. Next moment the door was flung open and two men appeared,
 one of whom was Drebber, and the other was a young chap whom I had
 never seen before. This fellow had Drebber by the collar, and when they
 came to the head of the steps he gave him a shove and a kick which sent
-him half across the road. ‘You hound,’ he cried, shaking his stick at
-him; ‘I’ll teach you to insult an honest girl!’ He was so hot that I
+him half across the road. 'You hound,' he cried, shaking his stick at
+him; 'I'll teach you to insult an honest girl!' He was so hot that I
 think he would have thrashed Drebber with his cudgel, only that the cur
 staggered away down the road as fast as his legs would carry him. He
 ran as far as the corner, and then, seeing my cab, he hailed me and
-jumped in. ‘Drive me to Halliday’s Private Hotel,’ said he.
+jumped in. 'Drive me to Halliday's Private Hotel,' said he.
 "</span></p>
 
 <p><span class="Jefferson_Hope">"When I had him fairly inside my cab, my heart jumped so with joy that
@@ -5110,7 +5110,7 @@ and when he came out he was so far gone that I knew the game was in my
 own hands.
 "</span></p>
 
-<p><span class="Jefferson_Hope">"Don’t imagine that I intended to kill him in cold blood. It would only
+<p><span class="Jefferson_Hope">"Don't imagine that I intended to kill him in cold blood. It would only
 have been rigid justice if I had done so, but I could not bring myself
 to do it. I had long determined that he should have a show for his life
 if he chose to take advantage of it. Among the many billets which I
@@ -5147,11 +5147,11 @@ Road.
 
 <p><span class="Jefferson_Hope">"There was not a soul to be seen, nor a sound to be heard, except the
 dripping of the rain. When I looked in at the window, I found Drebber
-all huddled together in a drunken sleep. I shook him by the arm, ‘It’s
-time to get out,’ I said.
+all huddled together in a drunken sleep. I shook him by the arm, 'It's
+time to get out,' I said.
 "</span></p>
 
-  <p><span class="Enoch_J_Drebber">"‘All right, cabby,’ said he.
+  <p><span class="Enoch_J_Drebber">"'All right, cabby,' said he.
 "</span></p>
 
 <p><span class="Jefferson_Hope">"I suppose he thought we had come to the hotel that he had mentioned,
@@ -5162,13 +5162,13 @@ front room. I give you my word that all the way, the father and the
 daughter were walking in front of us.
 "</span></p>
 
-  <p><span class="Enoch_J_Drebber">"‘It’s infernally dark,’ said he, stamping about.
+  <p><span class="Enoch_J_Drebber">"'It's infernally dark,' said he, stamping about.
 "</span></p>
 
-  <p><span class="Jefferson_Hope">"‘We’ll soon have a light,’ I said, striking a match and putting it to
-a wax candle which I had brought with me. ‘Now, Enoch Drebber,’ I
-continued, turning to him, and holding the light to my own face, ‘who
-am I?’
+  <p><span class="Jefferson_Hope">"'We'll soon have a light,' I said, striking a match and putting it to
+a wax candle which I had brought with me. 'Now, Enoch Drebber,' I
+continued, turning to him, and holding the light to my own face, 'who
+am I?'
 "</span></p>
 
   <p><span class="Jefferson_Hope">"He gazed at me with bleared, drunken eyes for a moment, and then I saw
@@ -5181,40 +5181,40 @@ sweet, but I had never hoped for the contentment of soul which now
 possessed me.
 "</span></p>
 
-  <p><span class="Jefferson_Hope">"‘You dog!’ I said; ‘I have hunted you from Salt Lake City to St.
+  <p><span class="Jefferson_Hope">"'You dog!' I said; 'I have hunted you from Salt Lake City to St.
 Petersburg, and you have always escaped me. Now, at last your
 wanderings have come to an end, for either you or I shall never see
-to-morrow’s sun rise.’ He shrunk still further away as I spoke, and I
+to-morrow's sun rise.' He shrunk still further away as I spoke, and I
 could see on his face that he thought I was mad. So I was for the time.
 The pulses in my temples beat like sledge-hammers, and I believe I
 would have had a fit of some sort if the blood had not gushed from my
 nose and relieved me.
 "</span></p>
 
-  <p><span class="Jefferson_Hope">"‘What do you think of Lucy Ferrier now?’ I cried, locking the door,
-and shaking the key in his face. ‘Punishment has been slow in coming,
-but it has overtaken you at last.’ I saw his coward lips tremble as I
+  <p><span class="Jefferson_Hope">"'What do you think of Lucy Ferrier now?' I cried, locking the door,
+and shaking the key in his face. 'Punishment has been slow in coming,
+but it has overtaken you at last.' I saw his coward lips tremble as I
 spoke. He would have begged for his life, but he knew well that it was
 useless.
 "</span></p>
 
-  <p><span class="Enoch_J_Drebber">"‘Would you murder me?’ he stammered.
+  <p><span class="Enoch_J_Drebber">"'Would you murder me?' he stammered.
 "</span></p>
 
-  <p><span class="Jefferson_Hope">"‘There is no murder,’ I answered. ‘Who talks of murdering a mad dog?
+  <p><span class="Jefferson_Hope">"'There is no murder,' I answered. 'Who talks of murdering a mad dog?
 What mercy had you upon my poor darling, when you dragged her from her
 slaughtered father, and bore her away to your accursed and shameless
-harem.’
+harem.'
 "</span></p>
 
-  <p><span class="Enoch_J_Drebber">"‘It was not I who killed her father,’ he cried.
+  <p><span class="Enoch_J_Drebber">"'It was not I who killed her father,' he cried.
 "</span></p>
 
-  <p><span class="Jefferson_Hope">"‘But it was you who broke her innocent heart,’ I shrieked, thrusting
-the box before him. ‘Let the high God judge between us. Choose and eat.
+  <p><span class="Jefferson_Hope">"'But it was you who broke her innocent heart,' I shrieked, thrusting
+the box before him. 'Let the high God judge between us. Choose and eat.
 There is death in one and life in the other. I shall take what you
 leave. Let us see if there is justice upon the earth, or if we are
-ruled by chance.’
+ruled by chance.'
 "</span></p>
 
   <p><span class="Jefferson_Hope">"He cowered away with wild cries and prayers for mercy, but I drew my
@@ -5223,7 +5223,7 @@ swallowed the other, and we stood facing one another in silence for a
 minute or more, waiting to see which was to live and which was to die.
 Shall I ever forget the look which came over his face when the first
 warning pangs told him that the poison was in his system? I laughed as
-I saw it, and held Lucy’s marriage ring in front of his eyes. It was
+I saw it, and held Lucy's marriage ring in front of his eyes. It was
 but for a moment, for the action of the alkaloid is rapid. A spasm of
 pain contorted his features; he threw his hands out in front of him,
 staggered, and then, with a hoarse cry, fell heavily upon the floor. I
@@ -5232,7 +5232,7 @@ was no movement. He was dead!
 "</span></p>
 
   <p><span class="Jefferson_Hope">"The blood had been streaming from my nose, but I had taken no notice
-of it. I don’t know what it was that put it into my head to write upon
+of it. I don't know what it was that put it into my head to write upon
 the wall with it. Perhaps it was some mischievous idea of setting the
 police upon a wrong track, for I felt light-hearted and cheerful. I
 remembered a German being found in New York with RACHE written up above
@@ -5242,10 +5242,10 @@ Yorkers would puzzle the Londoners, so I dipped my finger in my own
 blood and printed it on a convenient place on the wall. Then I walked
 down to my cab and found that there was nobody about, and that the
 night was still very wild. I had driven some distance when I put my
-hand into the pocket in which I usually kept Lucy’s ring, and found
+hand into the pocket in which I usually kept Lucy's ring, and found
 that it was not there. I was thunderstruck at this, for it was the only
 memento that I had of her. Thinking that I might have dropped it when I
-stooped over Drebber’s body, I drove back, and leaving my cab in a side
+stooped over Drebber's body, I drove back, and leaving my cab in a side
 street, I went boldly up to the house—for I was ready to dare anything
 rather than lose the ring. When I arrived there, I walked right into
 the arms of a police-officer who was coming out, and only managed to
@@ -5253,8 +5253,8 @@ disarm his suspicions by pretending to be hopelessly drunk.
 "</span></p>
 
   <p><span class="Jefferson_Hope">"That was how Enoch Drebber came to his end. All I had to do then was
-to do as much for Stangerson, and so pay off John Ferrier’s debt. I
-knew that he was staying at Halliday’s Private Hotel, and I hung about
+to do as much for Stangerson, and so pay off John Ferrier's debt. I
+knew that he was staying at Halliday's Private Hotel, and I hung about
 all day, but he never came out. I fancy that he suspected something
 when Drebber failed to put in an appearance. He was cunning, was
 Stangerson, and always on his guard. If he thought he could keep me off
@@ -5263,7 +5263,7 @@ was the window of his bedroom, and early next morning I took advantage
 of some ladders which were lying in the lane behind the hotel, and so
 made my way into his room in the grey of the dawn. I woke him up and
 told him that the hour had come when he was to answer for the life he
-had taken so long before. I described Drebber’s death to him, and I
+had taken so long before. I described Drebber's death to him, and I
 gave him the same choice of the poisoned pills. Instead of grasping at
 the chance of safety which that offered him, he sprang from his bed and
 flew at my throat. In self-defence I stabbed him to the heart. It would
@@ -5271,24 +5271,24 @@ have been the same in any case, for Providence would never have allowed
 his guilty hand to pick out anything but the poison.
 "</span></p>
 
-  <p><span class="Jefferson_Hope">"I have little more to say, and it’s as well, for I am about done up. I
+  <p><span class="Jefferson_Hope">"I have little more to say, and it's as well, for I am about done up. I
 went on cabbing it for a day or so, intending to keep at it until I
 could save enough to take me back to America. I was standing in the
 yard when a ragged youngster asked if there was a cabby there called
 Jefferson Hope, and said that his cab was wanted by a gentleman at
 221B, Baker Street. I went round, suspecting no harm, and the next
 thing I knew, this young man here had the bracelets on my wrists, and
-as neatly shackled as ever I saw in my life. That’s the whole of my
+as neatly shackled as ever I saw in my life. That's the whole of my
 story, gentlemen. You may consider me to be a murderer; but I hold that
 I am just as much an officer of justice as you are."</span>
 </p>
 
-<p>So thrilling had the man’s narrative been, and his manner was so
+<p>So thrilling had the man's narrative been, and his manner was so
 impressive that we had sat silent and absorbed. Even the professional
 detectives, 'blasé' as they were in every detail of crime, appeared to
-be keenly interested in the man’s story. When he finished we sat for
+be keenly interested in the man's story. When he finished we sat for
 some minutes in a stillness which was only broken by the scratching of
-Lestrade’s pencil as he gave the finishing touches to his shorthand
+Lestrade's pencil as he gave the finishing touches to his shorthand
 account.
 </p>
 
@@ -5298,10 +5298,10 @@ who came for the ring which I advertised?"</span>
 </p>
 
   <p>The prisoner winked at my friend jocosely. <span class="Jefferson_Hope">"I can tell my own secrets,"</span>
-    he said, <span class="Jefferson_Hope">"but I don’t get other people into trouble. I saw your
+    he said, <span class="Jefferson_Hope">"but I don't get other people into trouble. I saw your
 advertisement, and I thought it might be a plant, or it might be the
 ring which I wanted. My friend volunteered to go and see. I think
-you’ll own he did it smartly."</span>
+you'll own he did it smartly."</span>
 </p>
 
 <p><span class="Sherlock_Holmes">"Not a doubt of that,"</span> said Holmes heartily.
@@ -5344,7 +5344,7 @@ as we chatted it over next evening. <span class="Sherlock_Holmes">"Where will th
 advertisement be now?"</span>
 </p>
 
-<p><span class="John_Watson">"I don’t see that they had very much to do with his capture,"</span> I
+<p><span class="John_Watson">"I don't see that they had very much to do with his capture,"</span> I
 answered.
 </p>
 
@@ -5402,7 +5402,7 @@ and there, as I have already explained to you, I saw clearly the marks
 of a cab, which, I ascertained by inquiry, must have been there during
 the night. I satisfied myself that it was a cab and not a private
 carriage by the narrow gauge of the wheels. The ordinary London growler
-is considerably less wide than a gentleman’s brougham.
+is considerably less wide than a gentleman's brougham.
 "</span></p>
 
 <p><span class="Sherlock_Holmes">"This was the first point gained. I then walked slowly down the garden
@@ -5425,11 +5425,11 @@ the small and elegant impression left by his boots.
 
 <p><span class="Sherlock_Holmes">"On entering the house this last inference was confirmed. My
 well-booted man lay before me. The tall one, then, had done the murder,
-if murder there was. There was no wound upon the dead man’s person, but
+if murder there was. There was no wound upon the dead man's person, but
 the agitated expression upon his face assured me that he had foreseen
 his fate before it came upon him. Men who die from heart disease, or
 any sudden natural cause, never by any chance exhibit agitation upon
-their features. Having sniffed the dead man’s lips I detected a
+their features. Having sniffed the dead man's lips I detected a
 slightly sour smell, and I came to the conclusion that he had had
 poison forced upon him. Again, I argued that it had been forced upon
 him from the hatred and fear expressed upon his face. By the method of
@@ -5454,16 +5454,16 @@ opinion. The thing was too evidently a blind. When the ring was found,
 however, it settled the question. Clearly the murderer had used it to
 remind his victim of some dead or absent woman. It was at this point
 that I asked Gregson whether he had enquired in his telegram to
-Cleveland as to any particular point in Mr. Drebber’s former career. He
+Cleveland as to any particular point in Mr. Drebber's former career. He
 answered, you remember, in the negative.
 "</span></p>
 
 <p><span class="Sherlock_Holmes">"I then proceeded to make a careful examination of the room, which
-confirmed me in my opinion as to the murderer’s height, and furnished
+confirmed me in my opinion as to the murderer's height, and furnished
 me with the additional details as to the Trichinopoly cigar and the
 length of his nails. I had already come to the conclusion, since there
 were no signs of a struggle, that the blood which covered the floor had
-burst from the murderer’s nose in his excitement. I could perceive that
+burst from the murderer's nose in his excitement. I could perceive that
 the track of blood coincided with the track of his feet. It is seldom
 that any man, unless he is very full-blooded, breaks out in this way
 through emotion, so I hazarded the opinion that the criminal was
@@ -5513,7 +5513,7 @@ or flaw."</span>
 </p>
 
 <p><span class="John_Watson">"It is wonderful!"</span> I cried. <span class="John_Watson">"Your merits should be publicly recognized.
-You should publish an account of the case. If you won’t, I will for
+You should publish an account of the case. If you won't, I will for
 you."</span>
 </p>
 
@@ -5547,8 +5547,8 @@ of some sort will be presented to the two officers as a fitting
 recognition of their services."</span>
 </p>
 
-<p><span class="Sherlock_Holmes">"Didn’t I tell you so when we started?"</span> cried Sherlock Holmes with a
-laugh. <span class="Sherlock_Holmes">"That’s the result of all our Study in Scarlet: to get them a
+<p><span class="Sherlock_Holmes">"Didn't I tell you so when we started?"</span> cried Sherlock Holmes with a
+laugh. <span class="Sherlock_Holmes">"That's the result of all our Study in Scarlet: to get them a
 testimonial!"</span>
 </p>
 
@@ -5559,8 +5559,8 @@ contented by the consciousness of success, like the Roman miser—
 
 
 
-<p>"‘Populus me sibilat, at mihi plaudo
-Ipse domi simul ac nummos contemplor in arca.’"</p>
+<p>"'Populus me sibilat, at mihi plaudo
+Ipse domi simul ac nummos contemplor in arca.'"</p>
 </div>
 
     

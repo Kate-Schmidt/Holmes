@@ -7,7 +7,7 @@
         <link rel="icon" type="image/png" sizes="32x32" href="src/favicon_io/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="src/favicon_io/favicon-16x16.png">
         <link rel="manifest" href="src/favicon_io/site.webmanifest">
-        <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
+        <!-- <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1"> -->
         <link rel="stylesheet" href="src/HolmesCSS.css">
     </head>
 <body>
@@ -53,10 +53,11 @@
       <p><i>* Click on either circular graph to quickly navigate to the respective analysis section.</i></p>
       </div>
         <div class="svg-container">
-        <div class="svg">
-            <h2>ADVENTURES</h2>
-        <a href="#adventure">
-            <svg class="analysis-svg" width="568px" height="568px">
+
+      <div class="svg">
+
+        <a class="analysis-svg" href="#adventure">
+            <svg width="568px" height="568px">
             <g transform="translate(0,0)">
                <circle stroke="rgba(37,37,37,.8)" stroke-width=".5" fill="rgba(95, 146, 222, .8)" cx="283.422780213613" cy="283.422780213613" r="258.422780213613"/>
                <circle stroke="rgba(37,37,37,.8)" stroke-width=".5" fill="rgba(67, 240, 73, .8)" cx="283.422780213613" cy="283.422780213613" r="213.75167315784404"/>
@@ -65,11 +66,13 @@
             </g>
             </svg>
         </a>
-        </div>
-        <div class="svg">
-        <h2>SCARLET</h2>
-        <a href="#scarlet">
-            <svg class="analysis-svg" width="388.67191596981684" height="388.67191596981684">
+
+        <h2 class="svg-title">ADVENTURES</h2>
+      </div>
+
+      <div class="svg">
+        <a  class="analysis-svg" href="#scarlet">
+            <svg width="388.67191596981684" height="388.67191596981684">
                 <g transform="translate(0,0)">
                     <circle stroke="rgba(37,37,37,.8)" stroke-width=".5" fill="rgba(95, 146, 222, .8)" cx="194.33595798490842" cy="194.33595798490842" r="169.33595798490842"></circle>
                     <circle stroke="rgba(37,37,37,.8)" stroke-width=".5" fill="rgba(67, 240, 73, .8)" cx="194.33595798490842" cy="194.33595798490842" r="112.08231102383839"></circle>
@@ -78,6 +81,7 @@
                 </g>
             </svg>
         </a>
+        <h2 class="svg-title">SCARLET</h2>
         </div>
         </div>
         <div class="legend">

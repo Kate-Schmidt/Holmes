@@ -149,7 +149,8 @@ nav{
 
 img{
   margin: 1rem;
-  box-shadow: 0px 3px 25px #a3a2a2, 0px 0px 25px #a3a2a2;
+  box-shadow: 0px 3px 10px #a3a2a2, 0px 0px 10px #a3a2a2;
+  border-radius: 1rem;
 }
 
 
@@ -162,12 +163,16 @@ img{
   box-shadow: 0px 3px 25px #a3a2a2, 0px 0px 25px #a3a2a2;
   padding: 1.5rem;
   margin: 4rem 5rem 2rem 5rem;
+  border: solid 2px none;
+  border-radius: 1rem;
 }
 
 .bio-desc{
   width: 60%;
   display: flex;
   flex-direction: column;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 /* -------------------------------------- Book Pages ----------------------------------------------- */
@@ -205,7 +210,8 @@ img{
 }
 
 .story-nav{
-  height: 37rem;
+  height: fit-content;
+  max-height: 85vh;
   overflow-y: auto;
   width: 25%;
   display: flex;
@@ -213,6 +219,7 @@ img{
   justify-content: left;
   position: sticky;
   top: 75px;
+  box-shadow: 0px 3px 10px #a3a2a2, 0px 0px 10px #a3a2a2;
 }
 
 .story-nav::-webkit-scrollbar{
@@ -402,16 +409,19 @@ details > summary::-webkit-details-marker {
 .network-tab{
   background: rgba(222, 222, 222, .7);
   width: 100%;
-  bottom: 0px;
+  height: 0;
+  bottom: 0;
   left: 0px;
   z-index: 10;
   position: absolute;
   opacity: 0;
-  transition: all .5s ease;
+  transition: all .5s ease-in-out;
+  overflow: hidden;
 }
 
 .section-network:hover > .network-tab{
   opacity: 1;
+  height: 2rem;
 }
 
 .fullscreen{
@@ -419,9 +429,11 @@ details > summary::-webkit-details-marker {
   padding-top: 3px;
   border: none;
   float: right;
+  transition: all .25s ease;
 }
 .fullscreen:hover{
   cursor: pointer;
+  transform: scale(1.25);
 }
 
 .legend{
@@ -442,7 +454,15 @@ details > summary::-webkit-details-marker {
   height: 75px;
   margin: 0 .25rem .25rem .25rem;
   padding: 0 1rem 0 1rem;
-  background: rgba(237, 232, 211, .6);;
+  background: rgba(237, 232, 211, .6);
+  border-radius: 1rem;
+  box-shadow: inset 0px 0px 10px #a3a2a2;
+  transition: all .25s ease;
+}
+
+.legend-element:hover{
+  box-shadow: inset 0 0 5px #a3a2a2;
+  transform: scale(1.05);
 }
 
 .legend-element > h4{
@@ -453,6 +473,12 @@ details > summary::-webkit-details-marker {
   border-radius: 1rem;
   margin-left: 2rem;
   border: rgba(237, 232, 211, 1) solid .5px;
+  transition: all .25s ease;
+}
+
+.legend-element:hover > svg{
+  box-shadow: inset 0 0 0 #a3a2a2, 0 0 10px #959595;
+  transform: scale(1.05);
 }
 
 .svg-container{
@@ -462,26 +488,37 @@ details > summary::-webkit-details-marker {
   justify-content: space-around;
   margin-bottom: 1.5rem;
 }
+
 .svg{
   display: flex;
+  flex-direction: row-reverse;
   flex-wrap: nowrap;
   align-items: center;
   margin-top: 1.5rem;
 }
+
 .analysis-svg{
   background: rgba(237, 232, 211, .3);
-  box-shadow: 0px 3px 25px #a3a2a2, 0px 0px 25px #a3a2a2;
+  box-shadow: inset 0px 3px 25px #a3a2a2;
   transition: all .25s ease;
+  border-radius: 1rem;
 }
 
 .analysis-svg:hover{
   transform: scale(1.05);
+  box-shadow: inset 0px 3px 10px #a3a2a2;
 }
-.svg > h2 {
+
+.svg-title {
   writing-mode: vertical-rl;
   text-orientation: upright;
   font-family: MWblack;
   text-shadow: 0px 3px 2px #a3a2a2;
+  transition: all .25s ease;
+}
+
+.analysis-svg:hover ~ .svg-title{
+  transform: translate(-25px,0);
 }
 
 .histogram{
