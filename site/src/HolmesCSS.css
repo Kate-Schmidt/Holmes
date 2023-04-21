@@ -88,6 +88,7 @@ nav{
   height: 25px;
   text-align: center;
   transition: all .25s ease;
+  overflow: auto;
 }
 
 .dropDown > a{
@@ -100,7 +101,7 @@ nav{
 }
 
 .dropDown:hover{
-  background: rgba(240, 240, 240, 1);
+  background: rgba(191, 187, 174, .7);
 }
 
 .section-divider{
@@ -141,6 +142,11 @@ nav{
   margin-bottom: .10rem;
 }
 
+.intro-img{
+  margin-top: 2rem;
+  text-align: center;
+}
+
 img{
   margin: 1rem;
   box-shadow: 0px 3px 25px #a3a2a2, 0px 0px 25px #a3a2a2;
@@ -164,20 +170,7 @@ img{
   flex-direction: column;
 }
 
-.tab{
-  padding-top: .5rem;
-  display: flex;
-  width: 90%;
-  margin: auto;
-}
-
-.code > div {
-  width: 90%;
-  height: 550px;
-  border-radius: 5px;
-  margin: auto;
-}
-
+/* -------------------------------------- Book Pages ----------------------------------------------- */
 .novel{
   display: flex;
   justify-content: space-between;
@@ -240,6 +233,10 @@ img{
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+}
+
+label{
+  font-family: MWLight;
 }
 
 .check{
@@ -364,7 +361,7 @@ details > summary::-webkit-details-marker {
 /* ---------------------------------------- Analysis Page -------------------------------------------------- */
 
 .section-analysis{
-  padding: 2.5rem 5rem 2.5rem 5rem;
+  padding: 1.5rem 5rem 2.5rem 5rem;
   scroll-margin-top: 1.5rem;
 }
 
@@ -488,7 +485,13 @@ details > summary::-webkit-details-marker {
 }
 
 .histogram{
-  overflow-x: auto;
+  overflow: auto;
+  display: grid;
+  justify-content: center;
+}
+
+.histogram > svg{
+  margin-bottom: 1rem;
 }
 
 .histogram::-webkit-scrollbar{
@@ -519,6 +522,7 @@ opacity: .7;
   margin: 1rem; 
   width: 250px;
   padding: 1rem 1.5rem 1rem 1.5rem;
+  border-radius: 1rem;
   box-shadow: 0px 3px 25px #a3a2a2, 0px 0px 25px #a3a2a2;
 }
 
@@ -536,4 +540,76 @@ opacity: .7;
 .date > ul > li > ul {
   font-family: MWItalic;
   list-style: none;
+}
+
+.code-section{
+  margin: 2.5rem 5rem 5rem 5rem;
+}
+
+.tab{
+  background: rgba(240, 240, 240,.7);
+  display: flex;
+  width: 90%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.codeTab, .codeTab1{
+  background: none;
+  font-family: MWLight;
+  letter-spacing: .5px;
+  font-size: 15px;
+  color: rgba(37,37,37, .7);
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  width: 100%;
+  transition: 0.3s;
+}
+
+.active, .codeTab:hover, .codeTab1:hover{
+  background: rgba(166, 162, 149, .9);
+  
+  color: #252525;
+}
+
+.code-shadow{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-radius: 1rem;
+  box-shadow: inset 0px 3px 25px #a3a2a2;
+}
+
+.code > div {
+  width: 90%;
+  height: 550px;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.code-desc{
+  width: 80%;
+  margin: auto;
+  padding: 1rem 0 2.5rem 0;
+}
+
+.code-desc > p{
+  font-family: MWLight;
+}
+
+.link{
+  text-decoration: none;
+  background: rgba(37, 37, 37, .65);
+  border-radius: 1rem;
+  padding: .1rem .75rem .1rem .75rem;
+  color: rgba(237, 232, 211, 1);
+  transition: all .25s ease;
+  letter-spacing: 1px;
+}
+
+.link:hover{
+  background: rgba(37, 37, 37, .3);
+  box-shadow: 0px 3px 5px rgba(37,37,37,.3);
 }

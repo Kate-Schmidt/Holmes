@@ -1,5 +1,6 @@
 var editor0;
 var editor1;
+var editor2;
 
 const createEditor = (fileName) => {
     let type = fileName.split(".");
@@ -17,6 +18,10 @@ const createEditor = (fileName) => {
         editor1 = ace.edit(root);
         editor1.setTheme("ace/theme/idle_fingers");
         editor1.session.setMode("ace/mode/" + type[1]);
+    }else if(root.getAttribute('class')=='editor2'){
+        editor2 = ace.edit(root);
+        editor2.setTheme("ace/theme/idle_fingers");
+        editor2.session.setMode("ace/mode/js");
     }
     
 }
@@ -35,16 +40,29 @@ const deleteEditor = (file) => {
         var el = editor1.container;
         el.parentNode.removeChild(el);
         editor1 = null;
+    }else if(div.getAttribute('class')=='editor2'){
+        editor2.destroy();
+        var el = editor2.container;
+        el.parentNode.removeChild(el);
+        editor2 = null;
     }
 }
 
 const changeTab = (button, file) => {
     // Declare all variables
-    let codeTab = document.getElementsByClassName("codeTab");
-   
-    // Get all elements with class="codeTab" & remove the class "active"
-    for (let i = 0; i < codeTab.length; i++) {
-        codeTab[i].className = "codeTab";
+    let name = button.getAttribute('class').split(' ');
+    if(name[0]=='codeTab'){
+        let codeTab = document.getElementsByClassName("codeTab");
+
+        for (let i = 0; i < codeTab.length; i++) {
+            codeTab[i].className = "codeTab";
+        }
+    }else{
+        let codeTab = document.getElementsByClassName("codeTab1");
+
+        for (let i = 0; i < codeTab.length; i++) {
+            codeTab[i].className = "codeTab1";
+        }
     }
 
     // Set clicked tab's class to "active"
@@ -57,27 +75,6 @@ const changeTab = (button, file) => {
 
     // Create editor for tab with proper code file
     createEditor(file);
-}
-
-const changeProject = (section, file) => {
-
-    let div = document.getElementById(file);
-
-    if(div.getAttribute('class')=='editor0'){
-        if(editor0 != null){
-            deleteEditor(file);
-        }
-    }else if(div.getAttribute('class')=='editor1'){
-        if(editor1 != null){
-            deleteEditor(file);
-        }
-    }
-    
-    if(section.parentElement.open){
-        section.parentElement.close;
-    }else{
-        createEditor(file);
-    }
 }
 
 // Get button element
