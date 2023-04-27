@@ -10,29 +10,34 @@
   <meta charset="utf-8" name="viewport" content="width=device-width,initial-scale=1.0">
   <link rel="stylesheet" href="src/HolmesCSS.css">
 </head>
-<body onload="createEditor('scarlet.text'),createEditor('circle.xquery'),createEditor('java.javascript')">
+<body id=site onload="createEditor('scarlet.text'),createEditor('circle.xquery'),createEditor('java.javascript')">
   <nav>
-<div class="dropDown">
-<a href="../index.html">Home</a>
-</div>
-<div class="dropDown">
-<a href="analysis.html">Analysis</a>
-</div>
-
-<div class="dropDown">
-<a href="scarlet.html">A Study in Scarlet</a>
-</div>
-
-<div class="dropDown">
-<a href="adventures.html">Adventures of Sherlock</a>
-</div>
-
-<div class="dropDown">
-<a href="doc.html">Project Documentation</a>
-</div>
+    <div class="logo">
+        <img class="logo-img" src="src/sherlock.svg"/>
+        <h2>Sherlock Holmes</h2>
+    </div>
+    <div id="burger" onclick="change()">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+    </div>
+    <div id="menu" class="item-menu">
+        <button class="item back-button" onclick="change()"><?xml version="1.0" encoding="UTF-8"?>
+            <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+            <svg fill="#c7ae96" width="25px" height="25px" xmlns="http://www.w3.org/2000/svg">
+              <path d="M15.2928932,12 L12.1464466,8.85355339 C11.9511845,8.65829124 11.9511845,8.34170876 12.1464466,8.14644661 C12.3417088,7.95118446 12.6582912,7.95118446 12.8535534,8.14644661 L16.8535534,12.1464466 C17.0488155,12.3417088 17.0488155,12.6582912 16.8535534,12.8535534 L12.8535534,16.8535534 C12.6582912,17.0488155 12.3417088,17.0488155 12.1464466,16.8535534 C11.9511845,16.6582912 11.9511845,16.3417088 12.1464466,16.1464466 L15.2928932,13 L4.5,13 C4.22385763,13 4,12.7761424 4,12.5 C4,12.2238576 4.22385763,12 4.5,12 L15.2928932,12 Z M19,5.5 C19,5.22385763 19.2238576,5 19.5,5 C19.7761424,5 20,5.22385763 20,5.5 L20,19.5 C20,19.7761424 19.7761424,20 19.5,20 C19.2238576,20 19,19.7761424 19,19.5 L19,5.5 Z"/>
+            </svg>
+        </button>
+        <a href="../index.html"><button class="item" onclick="change()">HOME</button></a>
+        <a href="analysis.html"><button class="item" onclick="change()">Analysis</button></a>
+        <a href="scarlet.html"><button class="item" onclick="change()">A Study in Scarlet</button></a>
+        <a href="adventures.html"><button class="item" onclick="change()">Adventures of Sherlock</button></a>
+        <a href="doc.html"><button class="item" onclick="change()">Project Documentation</button></a>
+    </div>
 </nav>
 <!------------------------------------- Intro -------------------------------------------------->
 <h1 class="title">Documentation</h1>
+<hr>
 <div class="intro">
   <h2>Group Members</h2>
   <p>This project group consisted of the following four memebers:
@@ -43,9 +48,9 @@
 <li><b>Kate Schmidt</b><p>Sophomore majoring in History &amp; minoring in Computer Science, as Subject Expert</p></li>
 </ul></p>
 </div>
-<div class="section-divider"></div>
+<hr>
 <button class="top" onclick="scrollToTop()">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V6M5 12l7-7 7 7"/></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#c7ae96" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V6M5 12l7-7 7 7"/></svg>
 </button>
 
 <!------------------------------------- Timeline ------------------------------------------------->
@@ -56,8 +61,8 @@
   </div>
 <div class="timeline">
   <div class="date">
-  <h2>Feb 13 <i>to</i> Feb 17</h2>
-  <div class="section-divider"></div>
+  <h2>Feb 13 - Feb 17</h2>
+  <hr>
   <ul>
   <li>Assign team roles.</li>
   <li>Decide to focus on the books not the newspaper.
@@ -70,8 +75,8 @@
   </ul>
   </div>
   <div class="date">
-  <h2>Feb 27 <i>to</i> Mar 3</h2>
-  <div class="section-divider"></div>
+  <h2>Feb 27 - Mar 3</h2>
+  <hr>
   <ul>
   <li>Created a total character list.</li>
   <li>Started to plan layout of the website.</li>
@@ -79,24 +84,24 @@
   </ul>
   </div>
   <div class="date">
-  <h2>Mar 6 <i>to</i> Mar 10</h2>
-  <div class="section-divider"></div>
+  <h2>Mar 6 - Mar 10</h2>
+  <hr>
   <ul>
   <li>Finish markup for Adventures of Sherlock Holmes.</li>
   <li>Started to construct the webpage dealing with the nav bar.</li>
   </ul>
   </div>
   <div class="date">
-  <h2>Mar 13 <i>to</i> Mar 17</h2>
-  <div class="section-divider"></div>
+  <h2>Mar 13 - Mar 17</h2>
+  <hr>
   <ul>
   <li>Design of website improved.</li>
   <li>Schemes were tweaked to work with additional information.</li>
   </ul>
   </div>
   <div class="date">
-  <h2>Mar 20 <i>to</i> Mar 23</h2>
-  <div class="section-divider"></div>
+  <h2>Mar 20 - Mar 23</h2>
+  <hr>
   <ul>
   <li>Review of XML markup final check.</li>
   <li>More design of website.</li>
@@ -104,16 +109,16 @@
   </ul>
   </div>
   <div class="date">
-  <h2>Mar 27 <i>to</i> Mar 31</h2>
-  <div class="section-divider"></div>
+  <h2>Mar 27 - Mar 31</h2>
+  <hr>
   <ul>
   <li>Started a quality control check on all files.</li>
   <li>Addition to website design.</li>
   </ul>
   </div>
   <div class="date">
-  <h2>April 3 <i>to</i> April 7</h2>
-  <div class="section-divider"></div>
+  <h2>April 3 - April 7</h2>
+  <hr>
   <ul>
   <li>Designed were finalized for network graphs and other analysis graphs.</li>
   <li>Started to work on network graphs using Kumu.</li>
@@ -121,16 +126,16 @@
   </ul>
   </div>
   <div class="date">
-  <h2>April 10 <i>to</i> April 14</h2>
-  <div class="section-divider"></div>
+  <h2>April 10 - April 14</h2>
+  <hr>
   <ul>
   <li>Finish network graphs using Kumu.</li>
   <li>Incorporating Graphs into webpage.</li>
   </ul>
   </div>
   <div class="date">
-  <h2>April 17 <i>to</i> April 21</h2>
-  <div class="section-divider"></div>
+  <h2>April 17 - April 21</h2>
+  <hr>
   <ul>
   <li>Finished all analysis grapsh.</li>
   <li>Finalized design of webpage.</li>
@@ -140,9 +145,8 @@
 </div>
 </section>
 
-  <div class="section-divider"></div>
   <div class="code-desc">
-    <h2 class="title" style="margin-top: 5rem;">Project Files &amp; Code</h2>
+    <h2 class="title">Project Files &amp; Code</h2>
     <p>The following code editors display various project files such as XML, xQuery, and JavaScript. 
       These files were utilized in the creation of the project analyses &amp; website for <i>A Study in Scarlet</i>
      and <i>Adventures of Sherlock Holmes</i>. To change between the files, click on the corresponding tabs.</p>
@@ -157,14 +161,18 @@
        and <i>Adventures of Sherlock Holmes</i>. To change between the files, click on the corresponding tabs.</p>
        <p><a class="link" href="https://github.com/Kate-Schmidt/Holmes">GitHub</a></p>
     </div>
+    
     <div class="code-shadow">
+      <details class="expand-code">
+        <summary>Expand Editor</summary>
+      <!-- <button class="show-code" onclick="showCode('xml')">Expand Editor</button> -->
   <div class="tab">
 <input type="button" class="codeTab active" onclick="changeTab(this, 'scarlet.text')" value="Scarlet Schema"/>
 <input type="button" class="codeTab"  onclick="changeTab(this, 'scarlet.xml')" value="Scarlet XML"/>
 <input type="button" class="codeTab" onclick="changeTab(this, 'adv.text')" value="Adventures Schema"/>
 <input type="button" class="codeTab"  onclick="changeTab(this, 'adv.xml')" value="Adventures XML"/>
   </div>
-  <div class="code">
+  <div id="xml" class="code">
   <div id="scarlet.text" class="editor0" style="display:none;">datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = collection
@@ -20314,7 +20322,7 @@ Walsall, where I believe that she has met with considerable success.
 
 &lt;/story&gt;
 &lt;/collection&gt;</div>
-</div>
+</div></details>
 </div>
 </section>
 <hr>

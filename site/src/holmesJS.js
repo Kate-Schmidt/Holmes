@@ -267,10 +267,14 @@ const change = () => {
 
         if(isOpen){
             el.classList.remove("in-screen");
+            setTimeout(() => {
+                el.classList.remove("visible")}, 150);
             body.classList.remove("lock-screen");
             isOpen = false;
         }else{
-            el.classList.add("in-screen");
+            el.classList.add("visible");
+            setTimeout(() => {
+                el.classList.add("in-screen")}, 5);
             body.classList.add('lock-screen');
             isOpen = true;
         }
@@ -313,8 +317,10 @@ document.addEventListener('click', function(event) {
 
     let outSideMenu = !menu.contains(event.target);
     let outSideBurger = !burger.contains(event.target);
-    let outSideNav = !nav.contains(event.target);
-    let outSideArrow = !arrow.contains(event.target);
+    if(nav != null){
+        outSideNav = !nav.contains(event.target);
+        outSideArrow = !arrow.contains(event.target);
+    }
 
     if(isOpen){
         if(outSideMenu && outSideBurger){
@@ -326,3 +332,34 @@ document.addEventListener('click', function(event) {
         }
     }
   });
+
+  const showCode = (editor) => {
+
+    let el = document.getElementById(editor);
+    let div = el.getElementsByTagName('div');
+    console.log(div);
+    console.log(div.length);
+
+    let code =document.getElementById('editor');
+
+    console.log(code);
+
+    if(code.classList.contains('show-editor')){
+        code.classList.remove('show-editor');
+    }else{
+        code.classList.add('show-editor');
+    }
+
+    // for(let i = 0; i < div.length; i++){
+    //     console.log("in for loop");
+    //     if(div[i].classList.contains('show-editor')){
+    //         div[i].classList.remove('show-editor');
+    //         break;
+    //     }else if(i == div.length-1 && !div[i].classList.contains('show-editor')){
+    //         div[0].classList.add('show-editor');
+    //         console.log('adding');
+    //         console.log(div[0], div[0].classList);
+    //     }
+    // }
+
+  }
