@@ -654,6 +654,7 @@ details > summary::-webkit-details-marker {
   font-family: MWreg;
   letter-spacing: .25px;
   border-style: none;
+  border-radius: 0;
   padding: 5px 10px 5px 10px;
   margin-top: .25rem;
   margin-bottom: .5rem;
@@ -670,6 +671,10 @@ details > summary::-webkit-details-marker {
   scroll-margin-top: 4rem;
 }
 
+.logo > h2 {
+  display: none;
+}
+
   
 }
 
@@ -678,7 +683,7 @@ details > summary::-webkit-details-marker {
 
 
 
-@media screen and (max-device-width < 1200px), (width < 1200px){
+@media screen and (max-device-width: 1200px), (width < 1200px){
 
 /* ----------------- NAV BAR ---------------------- */
 .logo > h2 {
