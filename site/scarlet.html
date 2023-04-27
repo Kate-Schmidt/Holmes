@@ -10,40 +10,44 @@
         <!-- <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1"> -->
         <link rel="stylesheet" href="src/HolmesCSS.css">
     </head>
-    <body id="body">
-        <nav>
-            <div class="dropDown">
-                <a href="../index.html">Home</a>
-            </div>
-            <div class="dropDown">
-                <a href="analysis.html">Analysis</a>
-            </div>
-
-            <div class="dropDown">
-                <a href="scarlet.html">A Study in Scarlet</a>
-            </div>
-
-            <div class="dropDown">
-                <a href="adventures.html">Adventures of Sherlock</a>
-            </div>
-
-            <div class="dropDown">
-                <a href="doc.html">Project Documentation</a>
-            </div>
+    <body id="site">
+      <nav>
+        <div class="logo">
+            <img class="logo-img" src="src/sherlock.svg"/>
+            <h2>Sherlock Holmes</h2>
+        </div>
+        <div id="burger" onclick="change()">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+        <div id="menu" class="item-menu">
+            <button class="item back-button" onclick="change()"><?xml version="1.0" encoding="UTF-8"?>
+                <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+                <svg fill="#c7ae96" width="25px" height="25px" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M15.2928932,12 L12.1464466,8.85355339 C11.9511845,8.65829124 11.9511845,8.34170876 12.1464466,8.14644661 C12.3417088,7.95118446 12.6582912,7.95118446 12.8535534,8.14644661 L16.8535534,12.1464466 C17.0488155,12.3417088 17.0488155,12.6582912 16.8535534,12.8535534 L12.8535534,16.8535534 C12.6582912,17.0488155 12.3417088,17.0488155 12.1464466,16.8535534 C11.9511845,16.6582912 11.9511845,16.3417088 12.1464466,16.1464466 L15.2928932,13 L4.5,13 C4.22385763,13 4,12.7761424 4,12.5 C4,12.2238576 4.22385763,12 4.5,12 L15.2928932,12 Z M19,5.5 C19,5.22385763 19.2238576,5 19.5,5 C19.7761424,5 20,5.22385763 20,5.5 L20,19.5 C20,19.7761424 19.7761424,20 19.5,20 C19.2238576,20 19,19.7761424 19,19.5 L19,5.5 Z"/>
+                </svg>
+            </button>
+            <button class="item" onclick="change()"><a href="../index.html">HOME</a></button>
+            <button class="item" onclick="change()"><a href="analysis.html">Analysis</a></button>
+            <button class="item" onclick="change()"><a href="scarlet.html">A Study in Scarlet</a></button>
+            <button class="item" onclick="change()"><a href="adventures.html">Adventures of Sherlock</a></button>
+            <button class="item" onclick="change()"><a href="doc.html">Project Documentation</a></button>
+        </div>
     </nav>
-        
+        <button id="arrow" class="arrow-button" onclick="openNav()"><img class="nav-arrow" src="src/arrow.svg"/></button>
         <h1 class="title">A Study in Scarlet</h1>
       <div class="intro">
       <p>A Study in Scarlet was the first novel that Doyle wrote of the Sherlock Holmes series. This was the story where we are introduced to Sherlock and Dr. Watson. First published in 1887, we follow Sherlock Holmes and his investigation of a murder at Lauriston Gardens as Dr. Watson tags along with Holmes while narratively detailing his astonishing deductive abilities.</p>
       </div>
         <button class="top" onclick="scrollToTop()">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V6M5 12l7-7 7 7"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#c7ae96" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V6M5 12l7-7 7 7"/></svg>
         </button>
 <section class="novel">
         <div class="story-nav">
           <details>
             <summary>All Characters</summary>
-            <div class="nav-detail">
+            <div id="nav" class="nav-detail">
                <div class="char-name">
                   <div class="char-select"><input class="check" type="checkbox" value="Brigham_Young" onclick="highlight(this)"><label for="Brigham_Young">Brigham Young</label></div><svg width="25" height="25">
                      <rect width="20" height="20" style="stroke-width:.5px;stroke:rgba(37,37,37,.8);fill:rgba(45, 128, 121, .3)"></rect></svg></div>
@@ -341,7 +345,7 @@
             *** START OF THE PROJECT GUTENBERG EBOOK A STUDY IN SCARLET ***
         </p>
     </details>
-    <h1>A STUDY IN SCARLET</h1>
+    <h2>A STUDY IN SCARLET</h2>
 <p>By A. Conan Doyle</p>
 
 <h3>Being a reprint from the Reminiscences of JOHN H. WATSON, M.D., Late of the Army Medical Department.</h3>

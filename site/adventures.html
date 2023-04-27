@@ -10,36 +10,41 @@
         <!-- <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1"> -->
         <link rel="stylesheet" href="src/HolmesCSS.css">
     </head>
-    <body>
+    <body id="site">
         <nav>
-            <div class="dropDown">
-                <a href="../index.html">Home</a>
+            <div class="logo">
+                <img class="logo-img" src="src/sherlock.svg"/>
+                <h2>Sherlock Holmes</h2>
             </div>
-            <div class="dropDown">
-                <a href="analysis.html">Analysis</a>
+            <div id="burger" onclick="change()">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
             </div>
-
-            <div class="dropDown">
-                <a href="scarlet.html">A Study in Scarlet</a>
+            <div id="menu" class="item-menu">
+                <button class="item back-button" onclick="change()"><?xml version="1.0" encoding="UTF-8"?>
+                    <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+                    <svg fill="#c7ae96" width="25px" height="25px" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M15.2928932,12 L12.1464466,8.85355339 C11.9511845,8.65829124 11.9511845,8.34170876 12.1464466,8.14644661 C12.3417088,7.95118446 12.6582912,7.95118446 12.8535534,8.14644661 L16.8535534,12.1464466 C17.0488155,12.3417088 17.0488155,12.6582912 16.8535534,12.8535534 L12.8535534,16.8535534 C12.6582912,17.0488155 12.3417088,17.0488155 12.1464466,16.8535534 C11.9511845,16.6582912 11.9511845,16.3417088 12.1464466,16.1464466 L15.2928932,13 L4.5,13 C4.22385763,13 4,12.7761424 4,12.5 C4,12.2238576 4.22385763,12 4.5,12 L15.2928932,12 Z M19,5.5 C19,5.22385763 19.2238576,5 19.5,5 C19.7761424,5 20,5.22385763 20,5.5 L20,19.5 C20,19.7761424 19.7761424,20 19.5,20 C19.2238576,20 19,19.7761424 19,19.5 L19,5.5 Z"/>
+                    </svg>
+                </button>
+                <button class="item" onclick="change()"><a href="../index.html">HOME</a></button>
+                <button class="item" onclick="change()"><a href="analysis.html">Analysis</a></button>
+                <button class="item" onclick="change()"><a href="scarlet.html">A Study in Scarlet</a></button>
+                <button class="item" onclick="change()"><a href="adventures.html">Adventures of Sherlock</a></button>
+                <button class="item" onclick="change()"><a href="doc.html">Project Documentation</a></button>
             </div>
-
-            <div class="dropDown">
-                <a href="adventures.html">Adventures of Sherlock</a>
-            </div>
-
-            <div class="dropDown">
-                <a href="doc.html">Project Documentation</a>
-            </div>
-    </nav>
+        </nav>
+        <button id="arrow" class="arrow-button" onclick="openNav()"><img class="nav-arrow" src="src/arrow.svg"/></button>
 <h1 class="title">Adventures of Sherlock Holmes</h1>
 <div class="intro">
 <p>The Adventures of Sherlock Holmes was a collection of short stories made up of the first collection of stories that Doyle had published in The Standard Magazine. Containing 12 short stories and first published on 14 October 1892, it features Sherlock Holmes and his associate Dr. Watson rushing around London solving different mysteries from murder to blackmail and more.</p>
 </div>
 <button class="top" onclick="scrollToTop()">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V6M5 12l7-7 7 7"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#c7ae96" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V6M5 12l7-7 7 7"/></svg>
 </button>
 <section class="novel">
-    <div class="story-nav">
+    <div id="nav" class="story-nav">
         <details>
             <summary>All Characters</summary>
             <div class="nav-detail">
@@ -436,7 +441,7 @@
         *** START OF THE PROJECT GUTENBERG EBOOK THE ADVENTURES OF SHERLOCK HOLMES ***</p>
         </details>
 
-        <h1>The Adventures of Sherlock Holmes</h1>
+        <h2>The Adventures of Sherlock Holmes</h2>
 
 <p>By Arthur Conan Doyle</p>
 

@@ -257,3 +257,72 @@ const fullScreen = (button, graph) => {
         document.getElementById('fit-'+graph).innerHTML = '<svg width="24" height="24" viewBox="0 0 24 24" id="unfold-more"><path fill="none" d="M0 0h24v24H0V0z"></path><path d="M12 5.83L15.17 9l1.41-1.41L12 3 7.41 7.59 8.83 9 12 5.83zm0 12.34L8.83 15l-1.41 1.41L12 21l4.59-4.59L15.17 15 12 18.17z"></path></svg>';
     }
 }
+
+var isOpen = false;
+var navOpen = false;
+
+const change = () => {
+    let el = document.getElementById("menu");
+    let body = document.getElementById('site');
+
+        if(isOpen){
+            el.classList.remove("in-screen");
+            body.classList.remove("lock-screen");
+            isOpen = false;
+        }else{
+            el.classList.add("in-screen");
+            body.classList.add('lock-screen');
+            isOpen = true;
+        }
+}
+
+const openNav = () => {
+    let el = document.getElementById("nav");
+    let body = document.getElementById('site');
+    let arrow = document.getElementById('arrow');
+
+
+    if(navOpen){
+        el.classList.remove("nav-in-screen");
+        body.classList.remove("lock-screen");
+        arrow.classList.remove("reverse-arrow");
+        navOpen = false;
+    }else{
+        el.classList.add("nav-in-screen");
+        body.classList.add('lock-screen');
+        arrow.classList.add("reverse-arrow");
+        navOpen = true;
+    }
+}
+
+visualViewport.addEventListener('resize', function(event) {
+    let width = visualViewport.width;
+
+    if(width > 1010 && isOpen){
+        change();
+    }else if(width > 1010 && navOpen){
+        openNav();
+    }
+})
+
+document.addEventListener('click', function(event) {
+    let menu = this.getElementById("menu");
+    let burger = this.getElementById("burger");
+    let nav = this.getElementById('nav');
+    let arrow = this.getElementById('arrow');
+
+    let outSideMenu = !menu.contains(event.target);
+    let outSideBurger = !burger.contains(event.target);
+    let outSideNav = !nav.contains(event.target);
+    let outSideArrow = !arrow.contains(event.target);
+
+    if(isOpen){
+        if(outSideMenu && outSideBurger){
+            change();
+        }
+    }else if(navOpen){
+        if(outSideArrow && outSideNav){
+            openNav();
+        }
+    }
+  });
