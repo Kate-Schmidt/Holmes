@@ -4,7 +4,7 @@
 
 /* ----------------------------------- TABLET or PHONE ------------------------------------------------------------------- */
 
-@media screen and (width < 1010px),(device-width < 1010px) {
+@media screen and (max-device-width: 1010px) {
   
   /* ------------- GENERAL ------------------------- */
   html{
