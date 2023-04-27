@@ -4,7 +4,7 @@
 
 /* ----------------------------------- TABLET or PHONE ------------------------------------------------------------------- */
 
-@media screen and (max-device-width: 1010px) {
+@media screen and (max-device-width: 1010px), (width < 1010px) {
   
   /* ------------- GENERAL ------------------------- */
   html{
@@ -98,7 +98,7 @@ nav{
   right: -100vw;
   top: 0;
   position: absolute;
-  display: flex;
+  display: none;
   flex-direction: column;
   background: rgb(37, 37, 37);
   height: 100vh;
@@ -141,6 +141,7 @@ nav{
 
 .in-screen {
   right: 0vw;
+  display: flex;
 }
 
 .lock-screen{
@@ -471,7 +472,7 @@ opacity: .7;
   overflow-x: hidden;
   width: fit-content;
   position: fixed;
-  display: flex;
+  display: none;
   flex-direction: column;
   justify-content: left;
   top: 75px;
@@ -483,6 +484,7 @@ opacity: .7;
 
 .nav-in-screen{
   left: 0vw;
+  display: flex;
   background: #f2f8f1;
 }
 
@@ -671,15 +673,18 @@ details > summary::-webkit-details-marker {
   
 }
 
-@media screen and (device-width < 1200px), (width < 1200px){
+
+
+
+
+
+@media screen and (max-device-width < 1200px), (width < 1200px){
 
 /* ----------------- NAV BAR ---------------------- */
 .logo > h2 {
   display: none;
 }
 }
-
-
 
 
 
