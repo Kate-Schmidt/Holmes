@@ -299,15 +299,36 @@ const openNav = () => {
     }
 }
 
-visualViewport.addEventListener('resize', function(event) {
+visualViewport.addEventListener('resize', function () {resizeScreen();});
+
+
+const resizeScreen = () => {
     let width = visualViewport.width;
+    let details = document.getElementsByClassName("expand-code");
+
+    if(width > 1010){
+        if(details != null){
+            if(!details[0].hasAttribute('open')){
+                for(let i = 0; i < details.length; i++){
+                    details[i].setAttribute('open', true);
+                }
+            }
+        }
+    }else{
+        if(details != null){
+            for(let i = 0; i < details.length; i++){
+                details[i].removeAttribute('open');
+            }
+        }
+    }
 
     if(width > 1010 && isOpen){
         change();
     }else if(width > 1010 && navOpen){
         openNav();
     }
-})
+
+}
 
 document.addEventListener('click', function(event) {
     let menu = this.getElementById("menu");
@@ -333,33 +354,4 @@ document.addEventListener('click', function(event) {
     }
   });
 
-  const showCode = (editor) => {
-
-    let el = document.getElementById(editor);
-    let div = el.getElementsByTagName('div');
-    console.log(div);
-    console.log(div.length);
-
-    let code =document.getElementById('editor');
-
-    console.log(code);
-
-    if(code.classList.contains('show-editor')){
-        code.classList.remove('show-editor');
-    }else{
-        code.classList.add('show-editor');
-    }
-
-    // for(let i = 0; i < div.length; i++){
-    //     console.log("in for loop");
-    //     if(div[i].classList.contains('show-editor')){
-    //         div[i].classList.remove('show-editor');
-    //         break;
-    //     }else if(i == div.length-1 && !div[i].classList.contains('show-editor')){
-    //         div[0].classList.add('show-editor');
-    //         console.log('adding');
-    //         console.log(div[0], div[0].classList);
-    //     }
-    // }
-
-  }
+ 

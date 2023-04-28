@@ -10,7 +10,8 @@
   <meta charset="utf-8" name="viewport" content="width=device-width,initial-scale=1.0">
   <link rel="stylesheet" href="src/HolmesCSS.css">
 </head>
-<body id=site onload="createEditor('scarlet.text'),createEditor('circle.xquery'),createEditor('java.javascript')">
+<body id=site onload="createEditor('scarlet.text'),createEditor('circle.xquery'),createEditor('java.javascript'),
+resizeScreen()">
   <nav>
     <div class="logo">
         <img class="logo-img" src="src/sherlock.svg"/>
@@ -38,6 +39,10 @@
 <!------------------------------------- Intro -------------------------------------------------->
 <h1 class="title">Documentation</h1>
 <hr>
+<div class="intro-img">
+  <img class="group-pic" src="images/group-pic.JPG"/>
+  <p>This is a photo of the group and the members are listed below in order of the image from left to right.</p>
+</div>
 <div class="intro">
   <h2>Group Members</h2>
   <p>This project group consisted of the following four memebers:
@@ -65,11 +70,7 @@
   <hr>
   <ul>
   <li>Assign team roles.</li>
-  <li>Decide to focus on the books not the newspaper.
-<ul>
-<li>Finalize source selection.</li>
-</ul>
-  </li>
+  <li>Decide to focus on the books not the newspaper.</li>
   <li>Create list of items of interest for schemas.</li>
   <li>Start on creation of schemas.</li>
   </ul>
@@ -78,8 +79,8 @@
   <h2>Feb 27 - Mar 3</h2>
   <hr>
   <ul>
-  <li>Created a total character list.</li>
-  <li>Started to plan layout of the website.</li>
+  <li>Create a total character list.</li>
+  <li>Start to plan layout of the website.</li>
   <li>Finish basic markup for Study in Scarlet.</li>
   </ul>
   </div>
@@ -88,84 +89,83 @@
   <hr>
   <ul>
   <li>Finish markup for Adventures of Sherlock Holmes.</li>
-  <li>Started to construct the webpage dealing with the nav bar.</li>
+  <li>Start to construct the webpage aka. the nav bar.</li>
   </ul>
   </div>
   <div class="date">
   <h2>Mar 13 - Mar 17</h2>
   <hr>
   <ul>
-  <li>Design of website improved.</li>
-  <li>Schemes were tweaked to work with additional information.</li>
+  <li>Improve design of website.</li>
+  <li>Adjust schemas to work with additional information.</li>
   </ul>
   </div>
   <div class="date">
   <h2>Mar 20 - Mar 23</h2>
   <hr>
   <ul>
-  <li>Review of XML markup final check.</li>
-  <li>More design of website.</li>
-  <li>Started to sketch style of analysis page and graph.</li>
+  <li>Review XML markup in final check.</li>
+  <li>Improve design of website.</li>
+  <li>Starte to brainstorm style of analysis page &amp; graphs.</li>
   </ul>
   </div>
   <div class="date">
   <h2>Mar 27 - Mar 31</h2>
   <hr>
   <ul>
-  <li>Started a quality control check on all files.</li>
-  <li>Addition to website design.</li>
+  <li>Start to quality control check all files.</li>
+  <li>Improve website design.</li>
   </ul>
   </div>
   <div class="date">
   <h2>April 3 - April 7</h2>
   <hr>
   <ul>
-  <li>Designed were finalized for network graphs and other analysis graphs.</li>
-  <li>Started to work on network graphs using Kumu.</li>
-  <li>Webpage started to look complete.</li>
+  <li>Finalize designs for network graphs &amp; other analysis graphs.</li>
+  <li>Start work on network graphs using Kumu.io.</li>
+  <li>Finalize website layout.</li>
   </ul>
   </div>
   <div class="date">
   <h2>April 10 - April 14</h2>
   <hr>
   <ul>
-  <li>Finish network graphs using Kumu.</li>
-  <li>Incorporating Graphs into webpage.</li>
+  <li>Finish network graphs on Kumu.io.</li>
+  <li>Incorporate network graphs into webpage.</li>
   </ul>
   </div>
   <div class="date">
   <h2>April 17 - April 21</h2>
   <hr>
   <ul>
-  <li>Finished all analysis grapsh.</li>
-  <li>Finalized design of webpage.</li>
+  <li>Finish all analysis graphs.</li>
+  <li>Polish design of webpage.</li>
   <li>Present webpage.</li>
   </ul>
   </div>
 </div>
 </section>
+<hr>
 
-  <div class="code-desc">
-    <h2 class="title">Project Files &amp; Code</h2>
+  <div class="intro">
+    <h2>Project Files &amp; Code</h2>
     <p>The following code editors display various project files such as XML, xQuery, and JavaScript. 
       These files were utilized in the creation of the project analyses &amp; website for <i>A Study in Scarlet</i>
      and <i>Adventures of Sherlock Holmes</i>. To change between the files, click on the corresponding tabs.</p>
-     <p><i>To view all source code, please feel free to visit the project GitHub page by clicking on any of the GitHub buttons
-       in each section:</i>          <a class="link" href="https://github.com/Kate-Schmidt/Holmes">GitHub</a></p>
+     <p><i>To view all source code, please feel free to visit the project GitHub page by clicking on the link below:</i></p>
   </div>
-  <hr>
+  <div style="text-align: center;"><a href="https://github.com/Kate-Schmidt/Holmes"><img src="src/github-mark/github-mark-white.svg"/></a></div>
   <section class="code-section">
     <div class="code-desc">
-      <h2 class="title">Document XML &amp; Schemas</h2>
+      <h2>Document XML &amp; Schemas</h2>
       <p>The following code editor displays the schema files &amp; XML files for both <i>A Study in Scarlet</i>
        and <i>Adventures of Sherlock Holmes</i>. To change between the files, click on the corresponding tabs.</p>
-       <p><a class="link" href="https://github.com/Kate-Schmidt/Holmes">GitHub</a></p>
     </div>
     
     <div class="code-shadow">
-      <details class="expand-code">
-        <summary>Expand Editor</summary>
-      <!-- <button class="show-code" onclick="showCode('xml')">Expand Editor</button> -->
+      <details id="expand" class="expand-code">
+        <summary data-open="Colapse Editor" data-close="Expand Editor"></summary>
+      
   <div class="tab">
 <input type="button" class="codeTab active" onclick="changeTab(this, 'scarlet.text')" value="Scarlet Schema"/>
 <input type="button" class="codeTab"  onclick="changeTab(this, 'scarlet.xml')" value="Scarlet XML"/>
@@ -20328,14 +20328,15 @@ Walsall, where I believe that she has met with considerable success.
 <hr>
 <section class="code-section">
   <div class="code-desc">
-    <h2 class="title">Project xQuery Files</h2>
+    <h2>Project xQuery Files</h2>
     <p>The following code editor displays xQuery files utilized to analyze both <i>A Study in Scarlet</i>
-      and <i>Adventures of Sherlock Holmes</i> for useful data. These xQuery files performed a multitude of 
+      and <b>Adventures of Sherlock Holmes</b> for useful data. These xQuery files performed a multitude of 
       tasks such as creating JSON files, SVG elements, or HTML elements.
        To change between the files, click on the corresponding tabs.</p>
-       <p><a class="link" href="https://github.com/Kate-Schmidt/Holmes">GitHub</a></p>
   </div>
   <div class="code-shadow">
+    <details id="expand" class="expand-code">
+      <summary data-open="Colapse Editor" data-close="Expand Editor"></summary>
 <div class="tab">
 <input type="button" class="codeTab1 active" onclick="changeTab(this, 'circle.xquery')" value="Circle xQuery"/>
 <input type="button" class="codeTab1"  onclick="changeTab(this, 'histogram.xquery')" value="Histogram xQuery"/>
@@ -20839,18 +20840,18 @@ return (
     return(&lt;div class="legend-element"&gt;&lt;h4&gt;{$story[$i]}&lt;/h4&gt;&lt;svg width="40" height="40"&gt;&lt;rect width="40" height="40" style="fill:rgba({$color}, .8)"&gt;&lt;/rect&gt;&lt;/svg&gt;&lt;/div&gt;)}
     &lt;/div&gt;
 </div>
-</div>
+</div></details>
 </div>
 </section>
 <hr>
 <section class="code-section">
   <div class="code-desc">
-    <h2 class="title">Website JavaScript</h2>
+    <h2>Website JavaScript</h2>
     <p>The following code editor displays the current JavaScript file being utilized for the website.</p>
-      <p><a class="link" href="https://github.com/Kate-Schmidt/Holmes">GitHub</a>
-    </p>
   </div>
   <div class="code-shadow">
+    <details id="expand" class="expand-code">
+      <summary data-open="Colapse Editor" data-close="Expand Editor"></summary>
   <div class="code">
 <div id="java.javascript" class="editor2" style="display:none;">var editor0;
   var editor1;
@@ -21103,9 +21104,12 @@ return (
           document.getElementById('fit-'+graph).innerHTML = '&lt;svg width="24" height="24" viewBox="0 0 24 24" id="unfold-more"&gt;&lt;path fill="none" d="M0 0h24v24H0V0z"&gt;&lt;/path&gt;&lt;path d="M12 5.83L15.17 9l1.41-1.41L12 3 7.41 7.59 8.83 9 12 5.83zm0 12.34L8.83 15l-1.41 1.41L12 21l4.59-4.59L15.17 15 12 18.17z"&gt;&lt;/path&gt;&lt;/svg&gt;';
       }
   }</div>
-  </div>
+  </div></details>
   </div>
 </section>
+<div class="footer">
+  <div class="footer-imgs"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/></a><a href="https://github.com/Kate-Schmidt/Holmes"><img class="github" src="src/github-mark/GitHub_Logo_White.png"/><img class="cat" src="src/github-mark/github-mark-white.svg"/></a></div><div class="footer-link"><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Sherlock Holmes Literary Analysis</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Alex Doran, Danny Rodgers, Kate Schmidt, &amp; Christian Kubacka</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</div>
+  </div>
 </body>
 <script src="src/src-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
 <script src="src/holmesJS.js"></script>
