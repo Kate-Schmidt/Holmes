@@ -1,0 +1,17 @@
+Final assessment of Sherlock Holmes Project
+Dr. William Campbell
+April 29, 2023
+
+This is a project of which all its contributors can be justly proud (it may be the first time students have added a group photo to their About page, which says something). The input text, freshly out of copyright this year, consisted of the first Holmes novel, A Study in Scarlet, and the first Holmes short-story collection, The Adventures of Sherlock Holmes.
+
+The website is well designed, with a pleasingly subtle sepia-type color scheme.
+
+XML markup on these two sources focused on the speakers of quotations in the text and mentions of characters within the text. Unlike with a play or film script, where the speakers' names are always given and in predictable styles, this required manual tagging of speakers and character references throughout the two entire books. This is always time-consuming but was done in a timely fashion. I had initially suggested adding another book, such as one of the later novels or collections, to see how Conan Doyle's style changed over time, but given the amount of extra time that would have taken for manual tagging, it would have been a mistake to follow my suggestion. The time invested instead in other aspects of the coding paid off handsomely.
+
+From a data visualization perspective, the graphs under the Analysis tab are well executed and easy to understand. The use of XQuery to generate JSON files for upload to Kumu (possibly inspired by https://en.wikibooks.org/wiki/XQuery/Convert_XML_to_JSON ?) was ambitious and very successful: the network graphs, which were a real collaborative effort, are the star of the show here. The feature that allows the user to click on any node (story/chapter or character) and get a short narrative synopsis or character description is particularly useful. I hope that Kumu is maintained for a good long time so people can enjoy this site.
+
+The histograms of speakers are also useful as a counterpart to the network graphs. For example, the one for Scarlet shows that there is a sequence of five chapters in which Holmes does not appear -- the network graph shows those data too, but because the histogram bars are in a row rather than a circle, it is more apparent where those chapters occur in the book. Likewise, while the edges are weighted to the number of quotes and mentions, the length of the bar segments in the histogram is much easier to compare the number of quotes by each speaker in a given chapter or short story. (It might have been interesting to have a matching histogram set for each book with the mentions instead of the quotes, to see how the character mentions and the speakers compare to one another.)
+
+Speaking of comparing speeches and mentions, the bullseye graphs at the top of the page are mathematically correct but could have been more usefully labeled. The uninitiated user may not really understand what they represent; some interpretive text would have been helpful, possibly combined with numbers labeling the circles themselves.
+
+One of the features of the site that may be less "sexy" to the casual visitor, but will be particularly useful to future student teams, is the timeline of the project. 
